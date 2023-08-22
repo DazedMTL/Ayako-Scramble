@@ -1181,14 +1181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふう・・・だいぶ片付いたわ。"
+                                "Phew... I've tidied up quite a bit... Oh? Already,\nit's this late."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・あら？もう、こんな時間」"
+                                ""
                             ]
                         },
                         {
@@ -1212,14 +1212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そろそろ、お休み前にマッサージしたいって人が　"
+                                "There might be someone who wants a massage before\ngoing to bed soon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いらっしゃるかも・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1452,21 +1452,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: Good job, we have a request for a\nmassage. Please go to room 502."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お疲れ様です、マッサージのご依頼がありましたので、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　502号室にお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -1522,7 +1522,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ふふっ♪予想通りね）"
+                                "(Hehe... Just as I expected.)"
                             ]
                         },
                         {
@@ -1562,7 +1562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、分かりました」"
+                                "Yes, I understand."
                             ]
                         },
                         {
@@ -1579,52 +1579,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: Before that, let me explain a few\nthings about the job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っとその前に、業務に関して"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いくつか説明させていただきます」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホテルマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うちのホテルのマッサージなんですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　特に決まった手順や内容はありません」"
+                                ""
                             ]
                         },
                         {
@@ -1641,28 +1610,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: Our hotel's massages don't have any\nspecific procedures or content."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「例えばお客様が肩を気にしていたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　肩中心にマッサージしたり、足がむくんでいるようなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　足だけで時間いっぱいやっても構いません」"
+                                ""
                             ]
                         },
                         {
@@ -1679,21 +1641,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: For example, if the customer is\nconcerned about their shoulders, you can focus on\nmassaging their shoulders. And if their feet are\nswollen, it's fine to spend the entire time just\nmassaging their feet."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「中には話し相手になってほしいだけの方もいます。　"
+                                "Hotel Staff: There are also those who just want\nsomeone to talk to. In that case, it's enough to\njust listen to their story."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その場合はお話を聞いてあげるだけでも充分です」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1733,52 +1733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「つまり・・・お客様に合わせて臨機応変に、"
+                                "So... it means being flexible and adapting to the\ncustomer's needs, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ということですね」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホテルマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ええ、その通りです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あくまでお客様を癒すのが目的なので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　実際に行う内容はお任せします」"
+                                ""
                             ]
                         },
                         {
@@ -1795,28 +1757,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: Yes, that's correct. Our main goal is\nto heal the customers, so we leave the actual\ncontent of the service up to you."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それとうちは指名制度があります。"
+                                "Hotel Staff: In addition, we have a system for\nrequesting specific staff members. If you receive\na high number of requests per month, we will give\nyou an additional hourly wage increase, so please\ndo your best."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　月間で指名数が多いと、時給を別途上乗せしますので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぜひ頑張って下さいね」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1856,14 +1856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(お給料増えるかもなんて、ヤル気が出るわね。"
+                                "If I might get a raise, it's motivating. And if I\nreceive lots of gratitude, my popularity might\nincrease too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " それにいっぱい感謝されたら信仰も増えるかも・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -1903,7 +1903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私、頑張ります！」"
+                                "I'll do my best!"
                             ]
                         },
                         {

@@ -923,14 +923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えーっと・・・ここね。"
+                                "Um... this place... has a charming atmosphere for\nbeing so young."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・若いのに趣のある家ね」"
+                                ""
                             ]
                         },
                         {
@@ -970,21 +970,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「前・・・・ホテルに連れ込まれた時は"
+                                "Before... when I was taken to a hotel, I was\nimmediately fucked, so there was no room for\npromises or anything. This time, I have to\nproperly state my demands as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すぐハメられたから約束とかできたもんじゃなかった。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今回はちゃんとこっちの要望も提示しなくちゃね」"
+                                ""
                             ]
                         },
                         {
@@ -1024,14 +1024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「朝までしてたら用事に間に合わなくなるから、"
+                                "If we do it until morning, I won't make it in time\nfor my appointments, so if possible, let's finish\nin about 2 or 3 hours..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　できれば２、３時間くらいで切りあ・・"
+                                ""
                             ]
                         },
                         {
@@ -1214,7 +1214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へっ・・・・？」"
+                                "Huh...?"
                             ]
                         },
                         {
@@ -1481,14 +1481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\{\\{"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「～～～～っ♡～～！♡ッ♡」"
+                                "~~~~~! ♡~~~~!"
                             ]
                         },
                         {
@@ -1556,14 +1556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　"
+                                "Several months later..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　数か月後・・・・・・ "
+                                ""
                             ]
                         },
                         {

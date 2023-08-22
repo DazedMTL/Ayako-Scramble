@@ -4238,7 +4238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に入るのは、まずいわね・・・」"
+                                "It's not good to just barge in like that..."
                             ]
                         },
                         {
@@ -4519,7 +4519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に入るのは、まずいわね・・・」"
+                                "It's not good to just barge in like that..."
                             ]
                         },
                         {
@@ -4800,7 +4800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に入るのは、まずいわね・・・」"
+                                "It's not good to just barge in like that..."
                             ]
                         },
                         {
@@ -5074,21 +5074,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: Your son's condition remains unchanged. We\nare doing everything we can, so please rest\nassured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「息子さんの容態は変わらずです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全力を尽くしていますのでご安心ください」"
+                                ""
                             ]
                         },
                         {
@@ -5179,21 +5179,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: This is the second one this month... We\nneed to improve the treatment of the nurses\nsoon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今月で二人目か・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　早く看護師たちの待遇を改善してもらわないと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5210,21 +5210,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにか悩んでいるようだ・・・・・"
+                                "It seems like you're troubled about something...\nShould I talk to you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声をかけますか？"
+                                ""
                             ]
                         },
                         {
@@ -5376,14 +5376,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「こんにちは。"
+                                "Hello, Doctor. What's the matter?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　先生、どうされたんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -5431,21 +5431,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: Oh, Nagatsuki-san. I apologize, it was\njust a soliloquy so please don't mind."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あ、永辻さん。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　失礼、独り言ですので気にされないでください」"
+                                ""
                             ]
                         },
                         {
@@ -5462,21 +5462,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: More importantly, it seems like your son's\ncondition is improving, which is truly a relief."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「それより、息子さんの容態が快方に向かっているようで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ホントになによりです」"
+                                ""
                             ]
                         },
                         {
@@ -5502,21 +5502,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: Embarrassingly enough, we haven't been\nable to clearly determine why there has been a\nsudden improvement..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「お恥ずかしい話、なぜ急に良くなっているのかが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　はっきりと解明できてないんですが・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5556,7 +5556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「先生たちのご尽力のおかげですよ」"
+                                "It's thanks to the hard work of all the doctors\nand nurses."
                             ]
                         },
                         {
@@ -5596,38 +5596,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「看護師の山崎さんにも、"
+                                "I should thank Nurse Yamazaki later, since I've\nbeen well taken care of by her..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　よくお世話になったから後でお礼を・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "医者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5644,14 +5620,38 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: ....."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「山崎は・・・先日退職しました」"
+                                "Doctor: Yamazaki... resigned the other day."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5691,7 +5691,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えっ・・・もしかしてさっき悩んでいたことって・・・」"
+                                "Huh... Could it be that the thing I was troubled\nabout earlier..."
                             ]
                         },
                         {
@@ -5708,21 +5708,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: Yes... Recently, it seems that nurses have\nbeen quitting one after another, making the shift\nschedule difficult..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ええ・・・最近看護師が立て続けに辞めてしまい、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　シフトが苦しくなってるそうで・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5739,28 +5739,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: Of course, everyone is working hard with\nall their heart and soul for the sake of the\npatients, but if we had a little more flexibility\nin our shift schedule..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「もちろん皆、患者さんのために誠心誠意、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　頑張っていますが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　もう少しシフトに余裕があれば・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5800,7 +5800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・・」"
+                                "「....」"
                             ]
                         },
                         {
@@ -5840,7 +5840,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「先生、私に手伝わせてもらえないですか？」"
+                                "Doctor, could you let me help?"
                             ]
                         },
                         {
@@ -5857,21 +5857,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: Eh!? I appreciate your feelings, but it's\nquite difficult without any experience..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「え！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お気持ちは嬉しいですが未経験ではなかなか・・・"
+                                ""
                             ]
                         },
                         {
@@ -5911,7 +5911,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「実は昔、看護助手のバイトをしていたんです」"
+                                "Actually, I used to work part-time as a nursing\nassistant in the past."
                             ]
                         },
                         {
@@ -5951,45 +5951,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「他にも事務処理関係なら他業種でも"
+                                "I have experience in handling administrative tasks\nin other industries as well, so I believe I can be\nof help."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　よくやっていたので力になれるかと」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "医者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「うむむ・・・もしやっていただけるのなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　すごく助かります・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6006,21 +5975,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: Hmm... If you could do it, it would be a\ngreat help..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・分かりました！婦長に話を通しておきますので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　来ていただける日は受付の者に言ってください！」"
+                                ""
                             ]
                         },
                         {
@@ -6037,14 +6006,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "医者"
+                                "Doctor: ...Understood! I will inform the head\nnurse and please let the receptionist know the day\nyou can come!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「すみませんが、よろしくお願いします」"
+                                "Doctor: I'm sorry, but please take care of me."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6084,7 +6084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ええ、お任せください」"
+                                "Yes, please leave it to me."
                             ]
                         },
                         {
@@ -6272,21 +6272,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: We're short-staffed, so having someone who\ncan contribute immediately would be a great help.\nPlease do your best, as much as you can."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「人手不足なので即戦力は助かります。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　できる限りでいいのでよろしくお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -6363,21 +6363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付ナース"
+                                "Reception Nurse: Ah... I'm feeling horny... I wish\na handsome guy would come in for\nhospitalization..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あー・・・ムラムラする・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　イケメンでも入院してこないかなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6454,14 +6454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ナース"
+                                "Nurse: The doctor's room is in the back left."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「先生は左奥の部屋です」"
+                                ""
                             ]
                         },
                         {
@@ -6728,21 +6728,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "熱心に通う老人"
+                                "The elderly person who attends diligently says,\nThere were no abnormalities in the examinations of\nyesterday and the day before yesterday, but I\nwonder if today is alright..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「昨日と一昨日の診察では異常が無かったが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日は大丈夫かのぅ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6819,21 +6819,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "違いが分かる老婆"
+                                "Elderly woman who can tell the difference: When\nyou get to be my age, you can tell just by\ndrinking whether it's generic or not."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あたしくらいになるとね、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じぇねりっくかどうかが飲むだけでわかるんじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -6910,14 +6910,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Receptionist: The teacher is in the room on the\nleft."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「先生は左手の部屋にいらっしゃいます」"
+                                ""
                             ]
                         },
                         {
@@ -6985,21 +6985,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付"
+                                "Receptionist: You must be Ayako Nagatsuki, the new\nemployee. Please go upstairs and listen to\ninstructions from each department."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あなたが最近入った永辻さんね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　二階に上がって、各部署の指示を聞いてちょうだい」"
+                                ""
                             ]
                         },
                         {
@@ -7136,14 +7136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "老人"
+                                "Old person: Mumble mumble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふがふが・・・」"
+                                ""
                             ]
                         },
                         {

@@ -1129,7 +1129,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むわぁ・・・・っ・・・・"
+                                "Mmm..."
                             ]
                         },
                         {
@@ -1185,7 +1185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ・・・・また、あのシャツが置いてある・・・・・」"
+                                "Ah... that shirt is here again..."
                             ]
                         },
                         {
@@ -1225,7 +1225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」\\}きょろきょろ・・・"
+                                "...\\ *looking around..."
                             ]
                         },
                         {
@@ -1265,7 +1265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「近くに気配はない・・・・・・どうしよっかな・・・？」"
+                                "I don't sense anyone nearby... What should I\ndo...?"
                             ]
                         },
                         {
@@ -1404,7 +1404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「やめておきましょ。触らぬが吉よ」"
+                                "Let's stop. It's best not to touch."
                             ]
                         },
                         {
@@ -1599,14 +1599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・♡"
+                                "Huh...♡ Your scent is even stronger today...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日も一段と濃いニオイしてるじゃない・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -1655,14 +1655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「練習が終わる時間は把握してるし、　"
+                                "I know when practice ends, so... this is... an\nopportunity, isn't it...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・・・これは・・・・チャンスね・・・♡」"
+                                ""
                             ]
                         },
                         {

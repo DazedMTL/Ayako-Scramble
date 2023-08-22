@@ -1346,21 +1346,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気付く男"
+                                "Male who notices: Wait... If I take off these\nclothes and wash them, wouldn't it be more\nefficient?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「待てよ・・・この服も脱いで洗ったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　効率がいいんじゃ・・・？」"
+                                ""
                             ]
                         },
                         {

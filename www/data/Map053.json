@@ -21856,14 +21856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・階段もスゴイ長かった・・・"
+                                "Haa... haa... The stairs were so long... It's\nalready this dark..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もうこんなに真っ暗に・・・」"
+                                ""
                             ]
                         },
                         {
@@ -21903,7 +21903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・お参りしたら急いでお買い物ね」"
+                                "...After we finish praying, let's hurry and go\nshopping."
                             ]
                         },
                         {
@@ -22008,14 +22008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「神様・・・私はどうなってもいいので"
+                                "God... I don't care what happens to me, please\ncure Haru's illness..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  はる君の病気を治してください・・・」"
+                                ""
                             ]
                         },
                         {
@@ -22032,21 +22032,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Hmm, as long as 'Haru-kun' is saved, it\ndoesn't matter what happens to you, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふむ、\"はる君\"さえ助かれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主はどうなってもいいのじゃな？」"
+                                ""
                             ]
                         },
                         {
@@ -22070,7 +22070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・はる君の為なら私はどんな目にでも・・・"
+                                "Yes... For Haru-kun's sake, I am willing to endure\nany hardship..."
                             ]
                         },
                         {
@@ -22295,14 +22295,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "???: Come this way."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こっちじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -22639,21 +22639,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Well done for coming... descendant of\nNagatsuki bloodline... My name is"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よくぞ参った・・・・永の血筋の者よ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　我の名は"
+                                ""
                             ]
                         },
                         {
@@ -22825,7 +22825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひっ！ひぃぃいい！お、おばけ！！？」"
+                                "Eek! Ahhh! A, a ghost!?"
                             ]
                         },
                         {
@@ -22887,21 +22887,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Don't be afraid... Listen carefully... My name\nis"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「怖がるでない・・・・よいか・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　我の名は"
+                                ""
                             ]
                         },
                         {
@@ -22986,14 +22986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・？！おへそっ？！"
+                                "Um...? The belly button?! I have to hide my belly\nbutton!!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おへそ隠さなきゃ！！？」"
+                                ""
                             ]
                         },
                         {
@@ -23055,14 +23055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? No, that's Rei's..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやそれは雷の・・・・"
+                                ""
                             ]
                         },
                         {
@@ -23147,14 +23147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おばけにツッコまれ・・・！？"
+                                "Being teased by a ghost...!? Eeekkk!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ひぃいいい！！」"
+                                ""
                             ]
                         },
                         {
@@ -23216,14 +23216,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? ... *punch*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」\\}ぶちっ"
+                                ""
                             ]
                         },
                         {
@@ -23383,14 +23383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? \\{Listen to my storyyyyyy!!!}"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\{「ワシの話を聞けえぇええい！！！」"
+                                ""
                             ]
                         },
                         {
@@ -23475,7 +23475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいっ？！」"
+                                "Y-Yes?!"
                             ]
                         },
                         {
@@ -23549,21 +23549,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? What the hell are you doing since earlier!!\nMaking fun of people and calling them ghosts and\nstuff!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんじゃお主はさっきから！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人を見ておばけだのツッコまれただの何だの！！」"
+                                ""
                             ]
                         },
                         {
@@ -23580,21 +23580,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Don't you think it's rude to someone you just\nmet?!! Seriously... Young people these days, can't\neven reach 80 like this... *mumbling*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「初対面の相手に対して失礼とは思わんか？！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全く・・これじゃから８０にもならん若者は・・・」\\}ぶつぶつ"
+                                ""
                             ]
                         },
                         {
@@ -23679,7 +23679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えと・・・その・・・すいません・・・・」"
+                                "Um...uh...I'm sorry..."
                             ]
                         },
                         {
@@ -23719,14 +23719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ですけど・・・・その・・・・そんな格好してるので"
+                                "But... um... with that kind of appearance, I\nthought you were a ghost..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おばけかと・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -23804,28 +23804,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Hm? I've died once before, you know. That's\nwhy I'm like a ghost now, hahaha♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん？一度死んではおるぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　だから今は幽霊みたいなもんじゃがな"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ハーッハッハッハッ♪」"
+                                ""
                             ]
                         },
                         {
@@ -23910,7 +23910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・・」"
+                                "Um..."
                             ]
                         },
                         {
@@ -23995,7 +23995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(じゃあ何で怒られたんだろ・・・）"
+                                "(I wonder why I got scolded...)"
                             ]
                         },
                         {
@@ -24073,28 +24073,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? By the way, going all the way to this desolate\nshrine with a solemn face... do you have something\ntroubling you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それはそうと、わざわざこんな寂れた神社で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　神妙な顔で参ってたということは　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何か悩み事でもあるんじゃろ？」"
+                                ""
                             ]
                         },
                         {
@@ -24127,21 +24127,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Just by confiding in someone, you can feel\nrelieved, you know? Come on, give it a try."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「誰かに打ち明けるだけでも楽になるものじゃぞ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほれ、言うてみぃ」"
+                                ""
                             ]
                         },
                         {
@@ -24226,14 +24226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・なんだか無茶苦茶な幽霊？だけど"
+                                "(.....Somehow, a really bizarre ghost? But you\ndon't seem bad, and if it's just talking a\nlittle...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 悪そうじゃないし、ちょっと喋るだけなら・・・)"
+                                ""
                             ]
                         },
                         {
@@ -24365,21 +24365,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? I see, your son... that's unfortunate..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうか、息子が・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それは災難じゃな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -24480,7 +24480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・だから私どうしたらいいのか・・・」"
+                                "Well... so what should I do..."
                             ]
                         },
                         {
@@ -24542,21 +24542,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Hmm... Well, I do have some idea about that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふむ・・・そうじゃのう・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それについては心当たりがある」"
+                                ""
                             ]
                         },
                         {
@@ -24771,14 +24771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ！！！ほ、ほんとですか？！"
+                                "Wha?! I-Is that true?! Please tell me!!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それ教えて下さい！！？」"
+                                ""
                             ]
                         },
                         {
@@ -24856,14 +24856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? W-Wait! Calm down! Stay back!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、まて！？落ち着け！近い近い！」"
+                                ""
                             ]
                         },
                         {
@@ -24980,28 +24980,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Ahem... The condition of your son... It is\nlikely due to my weakened power and your\nbloodline."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こほん・・・・おぬしの息子の状態・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それはおそらく、ワシの力が弱まった事と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主らの血筋が原因じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -25086,7 +25086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは・・・どういうことですか・・・？」"
+                                "What... do you mean by that?"
                             ]
                         },
                         {
@@ -25164,21 +25164,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? I have been protecting this land as a guardian\ndeity for a long time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わしは守護神として"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　長らくこの地を守ってきた」"
+                                ""
                             ]
                         },
                         {
@@ -25263,7 +25263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「幽霊さん・・・神様だったんですね・・・」"
+                                "So you were a ghost... a god, huh..."
                             ]
                         },
                         {
@@ -25325,21 +25325,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Indeed, you should show respect. And beings\nlike myself gain power from the faith of the\npeople."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、敬うがよい。そしてわしのような存在は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人々の信仰を糧に力を得ておる」"
+                                ""
                             ]
                         },
                         {
@@ -25372,21 +25372,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Well... as you can see from the state of this\nshrine, the people's faith has been diminishing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃが・・・この神社の有様を見ての通り、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人々の信仰が薄まっていてのう・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25419,21 +25419,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Because of that, my spiritual power has\nweakened, and negative energy... gloominess has\nbeen increasing in this land."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そのせいでワシの霊力が弱まり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　悪い空気・・・\"陰気\"がこの地で増加しておるのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -25518,7 +25518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いんき・・・」"
+                                "Inki..."
                             ]
                         },
                         {
@@ -25580,21 +25580,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? ...And another thing, your bloodline easily\nattracts that gloominess onto me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そしてもう一つ、お主らの血筋は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その陰気を我が身に集めやすいということじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -25679,7 +25679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・！？」"
+                                "「...！？」"
                             ]
                         },
                         {
@@ -25741,21 +25741,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'You have matured, and it seems you naturally\nhave a strong resistance to gloominess.'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お主は成熟しておる上、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　元々、陰気に強い耐性があるようじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -25772,21 +25772,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? However, your son is still young, so his\nresistance is weak and he cannot resist the\ngloominess. That's why he has fallen asleep."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しかしお主の息子は、幼いため耐性が弱く、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　陰気に対抗できず、眠ったままになったのじゃろう」"
+                                ""
                             ]
                         },
                         {
@@ -25871,14 +25871,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな・・・そしたらお医者さんでは"
+                                "If that's the case... then a doctor won't be able\nto cure him, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　治せないんじゃ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25968,21 +25968,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "Hehehe... It's my turn now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふっふっふ・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そこでワシの出番じゃ！！」"
+                                ""
                             ]
                         },
                         {
@@ -26015,21 +26015,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'If you team up with me and regain your\nspiritual power, you will be able to save your\nson.'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お主がワシと組み、霊力を取り戻してくれれば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　息子を救うことができるぞ」"
+                                ""
                             ]
                         },
                         {
@@ -26114,14 +26114,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・やります。"
+                                "...I will do it. Let me assist you in regaining\nyour spiritual power!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　霊力？を取り戻すお手伝い・・・やらせてください！」"
+                                ""
                             ]
                         },
                         {
@@ -26199,21 +26199,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? '...An immediate answer, huh. Is it okay even\nif you don't know what I'm going to do?'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・即答か。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何をするか分からないのによいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -26298,14 +26298,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい、少しでもあの子が治る可能性があるのなら・・・！"
+                                "Yes, if there is even a slight possibility of that\nchild getting better...! I will do my best!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わたし・・・頑張ります！！」"
+                                ""
                             ]
                         },
                         {
@@ -26383,28 +26383,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Hehehe... That's a good response! Well then,\nlet's proceed with the necessary ritual, shall we?\nAre you ready?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふっふっふ・・・良い返事じゃ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ではさっそくじゃが必要な儀式をさせてもらうぞ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　準備はよいか？」"
+                                ""
                             ]
                         },
                         {
@@ -26489,7 +26489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はいっ！お願いします！」"
+                                "Yes! Please, go ahead!"
                             ]
                         },
                         {
@@ -26536,28 +26536,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'Nyam nyam nyam nyam nyam... Somehow or\nanother.... Ah... I remember.... Laputa\nKetaaba.... Oceanic... The next thing is...\numm.......... Disappeeeearrr!!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\}「にゃむにゃむにゃむにゃむにゃむな・・・なんとかかんとか・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あー・・・たしか・・・・らぷたけたばあ・・・・おしーるく・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そのつぎが・・・えっと・・・・・・・・・・・\\{\\{きええぇえい！！！」"
+                                ""
                             ]
                         },
                         {
@@ -26683,7 +26683,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(途中なげやりだったような・・・)"
+                                "(It feels like I gave up halfway...)"
                             ]
                         },
                         {
@@ -26761,21 +26761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Haa... haa... haa... With this, our souls are\nnow connected..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・はぁ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これで、お主とワシの魂が繋がり合った・・・」"
+                                ""
                             ]
                         },
                         {
@@ -26820,21 +26820,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? By this, you will be appreciated by others...\nSomehow or another, my power will be restored."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これによりお主が人に感謝されると・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・何だかんだで、わしの力が回復する」"
+                                ""
                             ]
                         },
                         {
@@ -26919,21 +26919,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・わたし達の魂が同じものとして"
+                                "I see... So, because our souls are recognized as\nthe same, indirectly the ghosts will also be\nappreciated and as a result, faith will\nincrease... Is that the idea?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　認識されるから、間接的に幽霊さんも感謝され、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　結果として信仰が増える・・・というわけですか？」"
+                                ""
                             ]
                         },
                         {
@@ -27011,21 +27011,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Yes! Yes! That's it! That's what I wanted to\nsay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そう！そう！そうじゃ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それが言いたかったのじゃ！」"
+                                ""
                             ]
                         },
                         {
@@ -27058,21 +27058,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? ....At that time, I still hadn't said my name.\nI don't want to be called a ghost forever."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・時にまだ名前を言ってなかったの。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつまでも幽霊さんなどと呼ばれたくないわい」"
+                                ""
                             ]
                         },
                         {
@@ -27157,14 +27157,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・そういえば・・・・"
+                                "Ah... come to think of it.... My name is Ayako\nNagatsuki. Nice to meet you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私の名前は\"永辻綾子\"です。よろしくお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -27181,14 +27181,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Hmm, Ayako, that's a good name."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うむ綾子か、良い名じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -27257,14 +27257,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシの名は\"レイ\""
+                                "Some people in town also call you Eternal Spirit-\nsama."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　街の者は\"永霊様\"と呼ぶものもおる」"
+                                ""
                             ]
                         },
                         {
@@ -27288,7 +27288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「気軽に\"レイ様\"とでも呼んでくれ」"
+                                "Feel free to call me 'Rei-sama' or something like\nthat."
                             ]
                         },
                         {
@@ -27373,7 +27373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(\"幽霊さん\"とあんまり変わらないような・・・)"
+                                "(It's not much different from being called a\nghost...)"
                             ]
                         },
                         {
@@ -27458,14 +27458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では綾子よ。"
+                                "Well then, Ayako. Shall we go gather gratitude for\nthe Potato Faith right away?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっそくじゃが信仰・・・感謝を集めに行こうかの」"
+                                ""
                             ]
                         },
                         {
@@ -27550,7 +27550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はい！」"
+                                "Y-Yes!"
                             ]
                         },
                         {
@@ -27635,14 +27635,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(けど・・・そう都合よく"
+                                "(But... I wonder if we'll really find someone in\nneed so conveniently...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 困ってる人が見つかるのかな・・・？)"
+                                ""
                             ]
                         },
                         {

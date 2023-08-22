@@ -5459,7 +5459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう会長さんったら・・・」"
+                                "Oh, President, you're such a troublemaker..."
                             ]
                         },
                         {
@@ -5529,14 +5529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「皆が預けてたお金・・・"
+                                "All the money that everyone entrusted... I used it\nall for horse racing, and now the neighborhood\nassociation's trip is canceled..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全部競馬に使っちゃって、町内会の旅行中止なんて・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5606,7 +5606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにも旅行当日に言わなくても・・・」"
+                                "You didn't have to say anything on the day of the\ntrip..."
                             ]
                         },
                         {
@@ -5676,14 +5676,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「町内会のみんな、すごく怖い顔してたわ・・・"
+                                "Everyone in the neighborhood association had such\nscary expressions... I wonder if the president\nwill be able to return safely..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　会長さん・・・無事に帰れるかしら・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5753,14 +5753,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「けど・・・・・はぁ・・・・・"
+                                "But... sigh... I really wanted to go to the hot\nsprings..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　温泉・・・行きたかったなぁ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5830,7 +5830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                "「.........」"
                             ]
                         },
                         {
@@ -5900,7 +5900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(嘆いてたってしょうがないわ)"
+                                "(There's no point in lamenting.)"
                             ]
                         },
                         {
@@ -5970,14 +5970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そうだ！今日は光一郎さんもお休みだし"
+                                "(I've got it! Since Koichiro-san is also off\ntoday, let's have dinner at the newly opened\nrestaurant in the evening.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 夜は新しくできたお店でご飯にしましょう)"
+                                ""
                             ]
                         },
                         {
@@ -6047,7 +6047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(気になっていたみたいだし、きっと喜ぶわ♪)"
+                                "(It seems like it was on their mind, so they'll\ndefinitely be happy♪)"
                             ]
                         },
                         {
@@ -6117,14 +6117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・そうと決まったら"
+                                "(Now that it's decided, I need to hurry home and\ntake a shower.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 早く帰ってシャワー浴びなきゃ)"
+                                ""
                             ]
                         },
                         {

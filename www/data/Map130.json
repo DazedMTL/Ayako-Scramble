@@ -1810,21 +1810,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: It's over!! I'm going to jump off\nlike this~!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もう終わりだぁっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このまま飛び降りてやるぅ～～っ！！」"
+                                ""
                             ]
                         },
                         {
@@ -1911,14 +1911,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なにやってるんですか！！"
+                                "W-What are you doing!! Please calm down!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　落ち着いてください！」"
+                                ""
                             ]
                         },
                         {
@@ -1944,14 +1944,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Don't stop me!! I-I'm already done\nfor!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「止めないでくれぇっ！！僕は、僕はもう終わりなんだ！」"
+                                ""
                             ]
                         },
                         {
@@ -2000,7 +2000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -2040,14 +2040,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かりました。　"
+                                "I understand. If you're going to say that, then I\nwon't stop you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そこまで言うなら私は止めません」"
+                                ""
                             ]
                         },
                         {
@@ -2158,21 +2158,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Huh...!? Y-You're not going to stop\nme...? I-I see..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ・・・・！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　と、止めないの・・・？そ、そう・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2229,14 +2229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Alright!! In that case....!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よ、よし！！それじゃあ・・・・！！」"
+                                ""
                             ]
                         },
                         {
@@ -2293,14 +2293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: I-I'm going to jump off...! *glances\naround*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「と、飛び降りちゃうぞっ・・・・・・・！」\\}ちらっ・・・"
+                                ""
                             ]
                         },
                         {
@@ -2365,7 +2365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -2391,14 +2391,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2438,7 +2438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなことしても何にもなりませんよ」"
+                                "Doing something like that won't accomplish\nanything."
                             ]
                         },
                         {
@@ -2478,14 +2478,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私で良かったら"
+                                "If it's alright with you, would you like to talk\nto me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お話ししてくれませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -2634,7 +2634,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら・・・ニ年付き合った方にフラれちゃったんですね」"
+                                "Oh... So you got dumped by someone you've been\ndating for two years, huh?"
                             ]
                         },
                         {
@@ -2660,14 +2660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Y-Yes... Just because I've fallen in\nlove with someone... ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はい・・・好きな人ができたからって・・・・ぅう・・」"
+                                ""
                             ]
                         },
                         {
@@ -2684,28 +2684,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: And to think... sniff... I was the\ntype of guy Chika would hate, but now... I even\nchanged my hair color... sob..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それも・・・・ぐすっ・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　千夏が嫌いそうなタイプの男だったのに、今じゃもう・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　髪の色だって変えて・・・・ひっく・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2731,28 +2731,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: And to make matters worse, there are\npeople who heard the moans of both of them inside\nthe school... ugh... Even though we promised to\nrefrain from sex until marriage..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しかも二人の喘ぎ声を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　校内で聞いたって人もいるし・・・ううう・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチは結婚するまでガマンって約束したくせに・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2792,14 +2792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(彼女さん、たぶん浮気してたわね・・・・・・"
+                                "(She probably cheated on you... It's selfish of\nher to break up with you just like that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " それで一方的に別れちゃうなんて、身勝手ね・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -2839,7 +2839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(私も似たような境遇だし、同情しちゃうわ・・・・・)"
+                                "(I've been in a similar situation, so I can't help\nbut sympathize...)"
                             ]
                         },
                         {
@@ -2865,21 +2865,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: *sniff*... Why... why did she choose\na player like him..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ぐすっ・・・なんで・・・なんで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんなチャラ男なんかに・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2905,21 +2905,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Even though I had beautiful long\nblack hair... I changed it to short and dyed it\nblonde... huff... huff..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ロングでキレイな黒髪だったのに・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　金髪でショートにして・・・っ・・・はぁ・・はぁ・・」"
+                                ""
                             ]
                         },
                         {
@@ -2990,7 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ん・・・？)"
+                                "(Hm...?)"
                             ]
                         },
                         {
@@ -3016,28 +3016,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: By now... sniff... she's probably\nsucking on that player's dick... getting\npenetrated in her pussy and moaning... huff...\nhuff... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今頃・・・っ・・・あんなチャラいやつのチンコを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　咥えたり・・・！マンコに挿入れられて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アンアン喘いで・・・！はーっ・・・はーっ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3054,7 +3054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むくむくむくっ・・・・・！"
+                                "Throb, throb, throb...!"
                             ]
                         },
                         {
@@ -3103,7 +3103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(お、おチンポが・・・・・)"
+                                "(Oh, oh... a penis...)"
                             ]
                         },
                         {
@@ -3129,28 +3129,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Damn it... damn it...! It was\nsupposed to be mine...! The pussy I had\nreserved...! And yet, that person easily...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くそっ・・・くそっ・・・・！僕のだったのに・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　僕が予約してたマンコだったのに・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それを・・・アイツはあんなに簡単に・・・っ・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3190,7 +3190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あの・・・・・？」"
+                                "U-Um...?"
                             ]
                         },
                         {
@@ -3269,45 +3269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: ...! S-Sorry...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・！す、すいません・・・！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あの二人のことを考えると動悸がして・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はぁっ・・・はぁ・・呼吸が荒くなって・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3324,7 +3293,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビンッビンッ・・・・！！"
+                                "Male Student: When I think about those two, my\nheart starts racing... haa... haa... my breathing\nbecomes rough..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Throb, throb...!!"
                             ]
                         },
                         {
@@ -3364,7 +3364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -3404,14 +3404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私で良かったら・・・・"
+                                "If it's okay with me... would you like some help\nto relieve yourself...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　スッキリするの手伝ってあげよっか・・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -3501,7 +3501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じゅぷっ、じゅぽっ、じゅぷ、じゅるるっ♡"
+                                "*Suck, slurp, suck, squelch*♡"
                             ]
                         },
                         {
@@ -3518,169 +3518,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Kuu...! Your drool-coated, slippery\ntongue is entwining...!! It's completely different\nfrom just jerking off..!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くぅっ・・・！ヨダレでぬるぬるのベロが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　絡みついてっ・・・・！！シコるのとぜんぜん違う・・！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(エッチできなくて悔しくて勃起してるのかな・・・・？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「くそ・・・！くそっ・・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　千夏もあの男のチンコをこうやって・・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　なんで僕のは咥えなかったんだよ・・・・！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女を寝取られた哀れな学生・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "半分は同情でもあるが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "憧れていた彼女との行為を代わりにしてあげ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "溜まった鬱憤を抜いてあげるのであった・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「大人しくて・・・！優しくて・・・っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　フルートが得意な君の口に・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　僕のチンコ突っ込んで・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3704,21 +3556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(けほっ・・・・！喉の奥に入りそう・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " この子、夢中になるタイプ・・・？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " これ以上苦しくされるんなら一旦やめ・・・・"
+                                "(I wonder if they're getting frustrated and\ngetting an erection because they can't have\nsex...?)"
                             ]
                         },
                         {
@@ -3735,21 +3573,183 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Damn...! Damn it...! Chika also\nsucked that guy's dick like this...! Why didn't\nshe suck mine....!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「喉の奥深くまで挿入してっ！！"
+                                "Pitiful student who was cuckolded by a woman..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　君に似合わない汚い声を聞きたかったのに・・！」"
+                                "Half of it was sympathy, but I also wanted to\nfulfill the act with her that I had longed for,\nand release the built-up frustration on her\nbehalf..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Student: You're so quiet...! So gentle...! I\nwant to thrust my cock into your mouth, the mouth\nof someone skilled at playing the flute!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(Cough...! It feels like it's going deep into my\nthroat...! Is this child the type to get\nobsessed...?! If they're going to make me suffer\nany further, let's stop for now...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Student: Thrust it deep into the back of my\nthroat!! I wanted to hear you make a dirty voice\nthat doesn't suit you..!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3818,7 +3818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぽんっっ！！"
+                                "*Squelch!*"
                             ]
                         },
                         {
@@ -3842,7 +3842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んぐむんっ・・・！！！？」"
+                                "Mmm...!!?"
                             ]
                         },
                         {
@@ -3859,21 +3859,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: What's so good about that\nplayboy...! Damn it... damn it...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あのチャラ男のどこがいいんだよ・・・っ・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　くそっ・・・くそっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3942,7 +3942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぶっ！ぐぢゅッ！！がぽっ、がっぽッ、ぐっぽ！！"
+                                "*Squelch!* *Squish!* *Glop, Glop!*"
                             ]
                         },
                         {
@@ -4008,7 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おぐっ！？おごっぉ！ん\"ん\"っ！！」"
+                                "Ohh!? Ahh! Mmm...!"
                             ]
                         },
                         {
@@ -4048,7 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(い、息が・・・！この子ぜんぜん遠慮が無い・・・っ！)"
+                                "(I-I can't breathe...! This child has no restraint\nat all...!)"
                             ]
                         },
                         {
@@ -4088,123 +4088,30 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(彼女の話が出るたびにおチンポが反りあがって・・・！"
+                                "(Every time she talks about it, my\n<TRANSLATED_TEXT> gets hard...! Ohh... it's...\npainful.....!)"
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " おぇっ・・・・・苦・・・しっ・・・・・！)"
-                            ]
-                        },
-                        {
-                            "code": 231,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                "ferasa17",
-                                0,
-                                0,
-                                0,
-                                0,
-                                100,
-                                100,
-                                255,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんなに激しくされるなんて思ってなかった・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ぅぇっ・・・！む、むり・・・！にげなきゃっ・・・！)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女を寝取った相手への恨みつらみが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綾子の喉奥にぶつけられる・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるでオナホを使うかの如く、乱雑な抽送・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 231,
                             "indent": 0,
                             "parameters": [
-                                "こみあげる吐き気とペニスから逃げようとするが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の力には敵わない・・・・・"
+                                1,
+                                "ferasa17",
+                                0,
+                                0,
+                                0,
+                                0,
+                                100,
+                                100,
+                                255,
+                                0
                             ]
                         },
                         {
@@ -4221,7 +4128,100 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶぼっっ！じゅぶっ！！♡じゅぷっじゅぽっ！！ぐぽっ！♡"
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(I didn't expect it to be this intense...!?\nUgh...! It's, it's too much...! I have to\nescape...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The resentment and anger towards the person who\nstole her girlfriend is thrust into Ayako's\nthroat..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Ayako Nagatsuki: Just like using a\n<TRANSLATED_TEXT>, the rough thrusts... The nausea\nwells up and I try to escape from the penis, but I\ncan't resist the strength of a person assigned\nmale at birth..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "*Squelch!* *Suck!* ♡ *Slurp* *Gulp*!! *Thrust*! ♡"
                             ]
                         },
                         {
@@ -4261,21 +4261,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(んぐっ！・・・けほっ・・・おえっ・・・！"
+                                "(Nng!... Cough... Ugh...! Forcibly... being\npenetrated by a <TRANSLATED_TEXT>... Can't\nescape...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " むりやりっ・・・おチンポずぼずぼされて・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 逃げれ・・・っ・・ない・・・・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -4315,31 +4315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(くっ・・・・・くるし・・・・・・あれ・・・・・・？"
+                                "(Ugh... it's... painful.....? Gradually... I'm\nstarting to feel light and... pleasurable..♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " だんだん・・ふわふわしてきて・・・気持ちよく・・♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぶぷっ！ぶぽっ！！ぶぢゅっ！ぶぽっ！！♡♡"
+                                ""
                             ]
                         },
                         {
@@ -4356,14 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「毎週日曜はデート行ってたのに・・・っ・・・！」"
+                                "*Squelch!* *Suck!* *Slurp*! *Gulp*!! ♡♡"
                             ]
                         },
                         {
@@ -4380,21 +4356,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: We used to go on dates every\nSunday...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「けどあいつらは・・・・っ・・・！"
+                                "Male Student: But those guys...! They're\ndefinitely spending the whole day at home fucking\neach other!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　きっと一日中家でヤリまくってるに違いない・・・！！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4447,7 +4447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐぽッ！！がぽっっ！♡ぐっぽぐっぽっっ！！んじゅごっ！"
+                                "*Squelch!* *Suck!* ♡ *Slurp*! *Gulp*!! *Thrust*!"
                             ]
                         },
                         {
@@ -4513,38 +4513,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・っ・・・・いきが　　　　　っ・・・"
+                                "(...I'm... about to... lose consciousness...♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　あたまが　　まっしろ       に・・　　　　　♡♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「僕がヤれなかった千夏のマンコに・・・っっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4561,14 +4537,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: To Chika's pussy that I couldn't\nfuck...!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くそ男の精液が中出しされてっ、くうっッ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -4585,14 +4561,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Damn, my pussy is being filled with\nthat asshole's cum...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなのっ・・・！で、射精るっ・・・・！！！」"
+                                "Male Student: N-No way...! I-I'm going to\ncum...!!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4701,7 +4701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どびゅっっ！！どびゅっ！どびゅっ！！"
+                                "*Squirt!! Squirt! Squirt!!"
                             ]
                         },
                         {
@@ -4741,14 +4741,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・！"
+                                "Ah...! Pu...ssy... ohh...♡♡ *Trembling*...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぉ・・・・こ・・・・・ぉぉ・・・♡♡」\\}びくっびくっ・・・♡"
+                                ""
                             ]
                         },
                         {
@@ -4788,7 +4788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あ・・・・・せいえき・・・・・)"
+                                "(Ah... orgasm...)"
                             ]
                         },
                         {
@@ -4812,14 +4812,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(おなかのなかに・・・・ちょくせつ・・・・"
+                                "(Inside my stomach... directly... being filled\nup... I have to properly... swallow it all...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そそがれてる・・・ちゃんと・・のま・・・なきゃ・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -4871,7 +4871,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どくっ・・・ごくっ・・・・・♡"
+                                "*gulp*... *swallow*.....♡"
                             ]
                         },
                         {
@@ -4923,7 +4923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずりゅりゅりゅ・・・・・"
+                                "*Rubbing...*"
                             ]
                         },
                         {
@@ -4968,7 +4968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こぽっ・・・・！"
+                                "*Throb...!*"
                             ]
                         },
                         {
@@ -4992,14 +4992,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぷぁっ！！はっ、はっ・・・！けほっ、かはっ・・・！"
+                                "*Ah...! Hah, hah...! Cough, cough...! Haah...\nhaah...♡*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はーっ・・・はーっ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -5023,7 +5023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(し、死ぬかとおもった・・・・・)"
+                                "(I thought I was going to die...)"
                             ]
                         },
                         {
@@ -5084,14 +5084,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: S-Sorry! Are you okay...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ご、ごめん！大丈夫・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -5156,7 +5156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なんとか・・・・・けほっ・・・・・」"
+                                "S-Somehow... *cough*..."
                             ]
                         },
                         {
@@ -5205,14 +5205,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁふぅ・・・・・・・・・"
+                                "Haa...phew... But now I feel refreshed. How do you\nfeel?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でもこれでスッキリできましたね。気分はどうですか？」"
+                                ""
                             ]
                         },
                         {
@@ -5238,21 +5238,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Ah... It feels so good...! I wonder\nwhy I was troubled by such things..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ・・・・めちゃくちゃいいよ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうしてあんなことで悩んでたんだろ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5278,21 +5278,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: That's right... I can give and\nreceive blowjobs and have sex with someone other\nthan Chinatsu...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうだ・・・別に千夏じゃなくても"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　フェラもセックスもできるんだ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -5318,21 +5318,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Alright, good things come to those\nwho act quickly! Hurry up and get a girlfriend and\nlose your virginity!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よーし、善は急げだ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっさと彼女作って童貞捨～てよっ♪」"
+                                ""
                             ]
                         },
                         {
@@ -5358,14 +5358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: I wonder if there's any girl around\nhere who would easily let me have sex with her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どこかに簡単にヤらせてくれそうな女子いないかなー」"
+                                ""
                             ]
                         },
                         {
@@ -5414,7 +5414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っ・・・・・・♡こ、この流れは・・・・！)"
+                                "(......♡Th-This situation...!)"
                             ]
                         },
                         {
@@ -5454,14 +5454,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(いけない・・・っ・・・♡"
+                                "(This is bad... *blush*... My body is starting to\ncrave for semen after drinking it...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 精液を飲まされて身体がその気になってきてる・・・)"
+                                ""
                             ]
                         },
                         {
@@ -5510,14 +5510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あぁ・・・・もし、いまお願いされたら・・・・♡"
+                                "(Ah... If someone were to ask me right now... ♡ I\nwonder if I could properly refuse...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 私・・・ちゃんと断れるかし・・"
+                                ""
                             ]
                         },
                         {
@@ -5543,21 +5543,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Thanks a lot! I'll treat you to\nbread at the school cafeteria next time! See you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ホント助かったよ！今度学食のパンおごるよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃあね！」"
+                                ""
                             ]
                         },
                         {
@@ -5680,7 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え・・・・\\.あ・・・・・・・・・・・\\.うん・・・・・」"
+                                "Eh... \\.Ah...........\\.Yeah....."
                             ]
                         },
                         {
@@ -5729,7 +5729,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                "「.........」"
                             ]
                         },
                         {
@@ -5769,7 +5769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(トイレ空いてるかしら・・・・・・)"
+                                "(I wonder if the restroom is available...)"
                             ]
                         },
                         {
@@ -5798,38 +5798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "飛び降りそうになっていた学生を"
+                                "Ayako was able to successfully persuade a student\nwho was about to jump off using her female body..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "女体を使って無事説得できた綾子・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悩みが消えた男子は足早に次の目標へと向かい、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "屋上には火照った身体の綾子だけが取り残された・・・"
+                                ""
                             ]
                         },
                         {
@@ -5846,14 +5822,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、トイレに駆け込んだ綾子は"
+                                "The boy whose worries disappeared quickly moved on\nto his next goal, leaving only Ayako with a\nflushed body on the rooftop..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一人寂しくその身体を慰めるのであった・・・・"
+                                "After that, Ayako rushed into the restroom and\ncomforted their body alone in solitude..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -6311,14 +6311,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 5!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 5 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -6347,14 +6347,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 5..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 5 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -6630,21 +6630,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: This time it's finally over! I'm\ngoing to jump off!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今度こそ終わりだぁっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　飛び降りてやるぅ～～っ！！」"
+                                ""
                             ]
                         },
                         {
@@ -6731,7 +6731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょ、ちょっと！またあなたですか？！」"
+                                "W-Wait a minute! It's you again?!"
                             ]
                         },
                         {
@@ -6757,21 +6757,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Please, please don't stop me for\nreal!! I'm really, really at the end!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ホントのホントに止めないでくれぇっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　僕はもうホントのホントに終わりなんだぁっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6820,7 +6820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「と、とりあえずまた話しましょ！ねっ？ねっ？」"
+                                "L-Let's, let's talk again for now! Okay? Okay?"
                             ]
                         },
                         {
@@ -7042,61 +7042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・・・新しい彼女とシようとしたら、"
+                                "Well... when I tried to have sex with a new\ngirlfriend, my <UNTRANSLATED_TEXT> didn't get hard\nat all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全く勃たなかったと・・・・・・」"
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                7,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男子生徒"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ・・・・ぐすっ・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　しかも彼女が\"私って魅力無いの！？\"って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　怒り出すし最悪だよぉ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7122,21 +7075,68 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Ugh...sob...and on top of that, she\nstarts getting angry saying 'Am I not\nattractive?!' It's the worst..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                7,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「せっかく童貞捨てれると思ったのに・・・っ・・・・"
+                                "Male Student: Just when I thought I could finally\nlose my virginity... ugh... sob... God... you're\nso cruel..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うぅ・・・神様・・・あなたは残酷だ・・・・」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7199,7 +7199,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(むっ・・・この辺りで神を称える声がしたような・・・・)"
+                                "(Hmm... I think I heard a voice praising the gods\naround here...)"
                             ]
                         },
                         {
@@ -7257,7 +7257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・\\!\\CE[30]あっちの方で聞こえましたよ)"
+                                "(.....\\!\\CE[30]I heard it coming from over there.)"
                             ]
                         },
                         {
@@ -7304,14 +7304,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そうかそうか！！むっふっふっ！"
+                                "(I see, I see!! Hehehe! Wait for me, future\nbelievers!! You have the right to make offerings\nto me every day!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 待っておれ未来の信徒よ！！毎日ワシにお布施をする権利を販"
+                                ""
                             ]
                         },
                         {
@@ -7390,7 +7390,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(邪魔は消えたわね)"
+                                "(The interference is gone, huh.)"
                             ]
                         },
                         {
@@ -7430,14 +7430,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そんなことより、勃たないのは割りと死活問題ね・・・"
+                                "(More importantly, not getting hard is quite a\nlife-or-death issue... But you were fine the other\nday, what happened.."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " でもこの前は元気だったのにどうし・・"
+                                ""
                             ]
                         },
                         {
@@ -7470,7 +7470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あんっ♡あんっ、あんっ♡♡」"
+                                "Ahn♡ Ahn, ahn♡♡"
                             ]
                         },
                         {
@@ -7606,14 +7606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(下の階かな・・・・喘ぎ声が聞こえる。"
+                                "(I wonder if it's downstairs... I can hear\nmoaning. \\} Having sex at school with a lover...\nThat sounds nice...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " \\}恋人と学校エッチかぁ・・・・いいなぁ・・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -7639,14 +7639,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Th-this voice is Chinatsu...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こ、この声は千夏・・・・！！？」"
+                                ""
                             ]
                         },
                         {
@@ -7717,7 +7717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(千夏・・・・たしか元カノさんね)"
+                                "(Chinatsu... She's my ex-girlfriend, if I remember\ncorrectly.)"
                             ]
                         },
                         {
@@ -7743,21 +7743,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Damn it...! Despite me being so\ntroubled, you're having fun without a care in the\nworld...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くそ・・・・！僕がこんなに悩んでるっていうのに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お構いなしに楽しいことしやがって・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7774,7 +7774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むくっ・・・"
+                                "*Muku...*"
                             ]
                         },
                         {
@@ -7823,7 +7823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・・・・♡」"
+                                "Ah...♡"
                             ]
                         },
                         {
@@ -7849,28 +7849,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Even I want to do it...!! It feels\nso much better than just using hands or mouth,\nsticking my dick into that pussy...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「僕だって、ヤリたいんだ・・・！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　手や口なんかと比べ物にならないくらい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　気持ちいいとかってアソコにチンポをぶち込んで・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7896,28 +7896,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: But if it doesn't get hard, there's\nnothing I can do...! Damn it....! Maybe I really\ncan't do without Chinatsu...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「けど勃たなかったらしょうがないじゃないか・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　くそっ・・・・！やっぱり僕は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　千夏じゃないとダメなのか・・・・？！」"
+                                ""
                             ]
                         },
                         {
@@ -7934,7 +7934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンッギンッ・・・！！"
+                                "Hard...!!"
                             ]
                         },
                         {
@@ -7983,7 +7983,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・・おチンチンおっきくなってますよ」"
+                                "Um... Your penis has gotten bigger."
                             ]
                         },
                         {
@@ -8054,21 +8054,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: Huh?! Ah! I-Is that... true?! It\ndidn't get this hard before..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ？！あっ！ほ、ホントだ・・・！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんなに勃たなかったのに・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8145,7 +8145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ああんっ♡♡はぁっ♡そこっ、もっとぉんっ♡♡」"
+                                "Aahh♡♡ Haa♡ Right there, moree♡♡"
                             ]
                         },
                         {
@@ -8162,7 +8162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ビクンッビクンッ・・・！"
+                                "*Twitch...twitch...!*"
                             ]
                         },
                         {
@@ -8218,7 +8218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(この人・・・やっぱりそういう・・・・・)"
+                                "(This person... as I thought, they're like\nthat...)"
                             ]
                         },
                         {
@@ -8267,14 +8267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・ねえ、元カノさんがエッチしてるとこ、"
+                                "Hey, do you want to go and see your ex-girlfriend\nhaving sex?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見に行ってみない？」"
+                                ""
                             ]
                         },
                         {

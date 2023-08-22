@@ -1632,14 +1632,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お医者様でも分からないなんて・・・・"
+                                "Even the doctor doesn't know... Haru-kun... what\non earth happened to you...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はる君・・・いったいどうしちゃったの・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -1686,7 +1686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私はどうすれば・・・」"
+                                "What should I do...?"
                             ]
                         },
                         {
@@ -1710,7 +1710,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -1750,14 +1750,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえ・・・・一番つらいのは、はる君よ・・・"
+                                "No... The one who's suffering the most is Haru-\nkun... I don't have time to break down...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私が挫けている暇はないわ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -1797,7 +1797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私には私の出来ることがあるはず・・・・！」"
+                                "There must be something I can do...!"
                             ]
                         },
                         {
@@ -1821,7 +1821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「絶対・・・はる君を助けるわ・・・！」"
+                                "I will definitely... save Haru-kun...!"
                             ]
                         },
                         {
@@ -1864,7 +1864,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐうぅー・・・・・・"
+                                "Ughhh..."
                             ]
                         },
                         {
@@ -1929,7 +1929,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -1969,7 +1969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(最近あんまりご飯食べてなかったような・・・)"
+                                "(Lately, it seems like I haven't been eating\nmuch...)"
                             ]
                         },
                         {
@@ -2016,7 +2016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・私まで倒れるわけにはいかないわ」"
+                                "...I can't afford to collapse myself."
                             ]
                         },
                         {
@@ -2056,7 +2056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、そうと決まったら商店街で夕飯の準備よ」"
+                                "Alright, now that it's decided, let's prepare\ndinner at the shopping district."
                             ]
                         },
                         {

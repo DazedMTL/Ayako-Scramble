@@ -1122,14 +1122,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Alright, first let me give you a rough\nexplanation of the job."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さてと、まずはざっくりだけど仕事内容を説明するね」"
+                                ""
                             ]
                         },
                         {
@@ -1146,21 +1146,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: As for the tasks, it would include\nreception at the cash register, cleaning of\nprivate rooms, organizing DVDs, and delivering\nproducts to the private rooms."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「内容としては、レジでの受付、個室の清掃、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　DVDの整理、個室に商品を届ける、とかかな」"
+                                ""
                             ]
                         },
                         {
@@ -1216,14 +1216,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(仕事内容は大体予想してたとおりね。"
+                                "(The job content is pretty much as I expected.\nIt's basic stuff, so I should get used to it\nquickly.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 基本的な事だし、すぐ慣れるはず)"
+                                ""
                             ]
                         },
                         {
@@ -1263,14 +1263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あとはお客様の傾向とか知っておいたら"
+                                "(If I also know the preferences of the customers,\nit seems like things will go smoothly.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 円滑に進めれそうね)"
+                                ""
                             ]
                         },
                         {
@@ -1310,14 +1310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの、お店にいらっしゃる方って"
+                                "Um, what kind of movies do the customers who come\nto the store watch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どういう系統の映画を観られるんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -1350,21 +1350,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, we have a lot of amateur pick-up,\nschoolgirl, and aphrodisiac sex videos."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうだねー、うちは素人ナンパ物とか女子校生とか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　媚薬生ハメとかが多いねー」"
+                                ""
                             ]
                         },
                         {
@@ -1404,7 +1404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -1456,7 +1456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(も、もしかして・・・ビデオって、そっちの・・・！？)"
+                                "(C-Could it be... videos, as in... that kind of\nvideos!?)"
                             ]
                         },
                         {
@@ -1496,7 +1496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(レイさんのあの反応・・・そういうことだったのね・・・！)"
+                                "(Rei-san's reaction... so that's what it\nmeant...!)"
                             ]
                         },
                         {
@@ -1522,45 +1522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager (Hehe♡ His face is turning bright red...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ふひひ♡顔が真っ赤になってる・・・♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店長"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんな美人が来るのは、おかしいと思ってたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " うちがどんな店かって知らなかったんだろうな・・・♪)"
+                                ""
                             ]
                         },
                         {
@@ -1577,21 +1546,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager (I thought it was strange for such a\nbeautiful person to come, but I guess they didn't\nknow what kind of store we are...♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(これは楽しめそうだね・・・♡"
+                                "Manager (This seems like it'll be fun...♡ Let's\nthrow a little jab...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ちょっとジャブ打ってみるか・・・・)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1617,21 +1617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: By the way, um, Ayako-san, are you\nfamiliar with AV?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ところで、えー、綾子さんは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　AVには詳しいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -1719,14 +1719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へっ！？・・・えっ！？"
+                                "Huh!?... Eh!? W-Well... I'm not really... familiar\nwith that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そ、それは・・・・\\!\\CE[9]あんまり・・・詳しくないです・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1752,21 +1752,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, you see, in our line of work, it's\nimportant to have knowledge about those kinds of\nthings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁ、うちの仕事上"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やっぱりそういう事に知識がないとねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -1783,28 +1783,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Customers sometimes ask for\nrecommendations on AVs, so it should have been\nmentioned in the recruitment guidelines... (It's\nwritten in a small corner though)."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お客様にオススメのAVとかも聞かれるからねぇ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　募集要項にも書いてあったはずだけどなぁ・・・・」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　(隅っこに小さくだけど)"
+                                ""
                             ]
                         },
                         {
@@ -1853,7 +1853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・うぅ・・・す、すみません・・・」"
+                                "Um...uhh...s-sorry..."
                             ]
                         },
                         {
@@ -1870,14 +1870,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, since it's your first time, I'll\ncut you some slack."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、今回は初めてだし、大目に見るよ」"
+                                ""
                             ]
                         },
                         {
@@ -1894,21 +1894,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: There's a manual under the register, so\nmake sure to study it before the customers arrive."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「レジ下にマニュアルがあるから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　客が来るまで予習しといてね」"
+                                ""
                             ]
                         },
                         {
@@ -1948,7 +1948,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございます・・・」"
+                                "Thank you very much..."
                             ]
                         },
                         {
@@ -1965,14 +1965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well then, I'll leave the reception to\nyou from now on."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃ今から受付お願いねー」"
+                                ""
                             ]
                         },
                         {
@@ -2012,7 +2012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はい・・・分かりました・・・」"
+                                "Y-Yes... I understand..."
                             ]
                         },
                         {
@@ -2061,7 +2061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・かなり不安になってきた)"
+                                "(......I'm starting to get quite anxious)"
                             ]
                         },
                         {
@@ -2290,21 +2290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Store Manager: The returned DVDs are all packed in\nboxes, but we'll sort them by genre and display\nthem later."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「返却されたDVDは箱にまとめて入れてるんだけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あとで陳列するからジャンル毎に分けてんだ」"
+                                ""
                             ]
                         },
                         {
@@ -2360,7 +2360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ジャンル・・・ですか？」"
+                                "Genre... you say?"
                             ]
                         },
                         {
@@ -2386,21 +2386,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Store Manager: Yes, yes. For example, amateur\ncouples here, schoolgirl-themed ones over here.\nSolo actress ones go here, and anal ones go there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうそう。例えば、ハメ撮り系はこっちで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　女子校生物はここ。女優単体はこっちで、アナルはあっち」"
+                                ""
                             ]
                         },
                         {
@@ -2471,14 +2471,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\}アナ・・・!・・・こほん、\\{"
+                                "A...!...Ahem, are there really that many\ngenres...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ジャンルってそんなにあるんですか・・・？！」"
+                                ""
                             ]
                         },
                         {
@@ -2548,28 +2548,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Store Manager: This is just a small part! There\nare many more types, and new genres are being\ncreated every day! And sometimes, multiple genres\ncombine to create a new genre!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こんなのほんの一部だよ！この何十倍も種類があるし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　日々、新しいジャンルも生まれている！そしてそれが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　複数かけ合わさって新ジャンルになることもある！」"
+                                ""
                             ]
                         },
                         {
@@ -2586,28 +2586,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Store Manager: No matter how much you watch AV,\nnew releases come out at a pace that surpasses it,\nso you can't watch them all...! It's like the\nuniverse itself!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「AVはいくら観てもそれを上回るペースで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　新作が出るから全てを観尽くせない・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さながら宇宙のようなものなんだ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -2667,21 +2667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(宇宙・・・は言いすぎだけど、そんなに色んなビデオが"
+                                "(The universe... might be an exaggeration, but\nthere are so many different videos being\nreleased... It's a bit overwhelming... No, let's\njust focus on the genres of our work for now...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 出てるものなのね・・・ちょっとおもし・・・\\!\\CE[31]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " いえ・・・今は仕事のジャンルだけ頭にいれましょ・・・)"
+                                ""
                             ]
                         },
                         {
@@ -2914,21 +2914,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(さてと・・一枚目は・・・\"初撮りJK 広瀬クレア\""
+                                "(Alright... for the first one... First Shoot JK -\nClaire Hirose... wow, she's really beautiful...\nbut wait! It's just one person and a solo\nperformance, so maybe that's fine...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " わっ・・・すごいキレイな人・・・じゃなくて！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 一人しか映ってないし単体でいいかしら・・・)"
+                                ""
                             ]
                         },
                         {
@@ -3067,14 +3067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(次は・・・・\"極太バイブ！\\.\\.inケツまｎ・・・・"
+                                "(Next is... Thick Vibrator! \\.\\.in In the a**...\n\\>\\CE[31]..... Butt-themed, huh?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " \\>\\CE[31]・・・・・お尻系ね)"
+                                ""
                             ]
                         },
                         {
@@ -3223,21 +3223,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(三枚目は・・・・\\!"
+                                "(As for the third one...! ...Wait, \\CE[31]what is\nthis title...! ...I don't understand...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ・・・・・・・・・・・って、\\CE[31]何よこのタイトル・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ・・・私じゃ・・・わからないわ)"
+                                ""
                             ]
                         },
                         {
@@ -3277,7 +3277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(聞くしか・・・ないか・・・)"
+                                "(I guess... I have no choice but to ask...)"
                             ]
                         },
                         {
@@ -3357,14 +3357,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・すいません・・・・"
+                                "Um... excuse me... what genre is this DVD?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このDVDってどのジャンルですか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -3421,21 +3421,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ah... my eyesight is a bit bad, but could\nyou read the title out loud for me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あー・・・ちょっと老眼が・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　悪いけど、タイトル読み上げてくれるかな」"
+                                ""
                             ]
                         },
                         {
@@ -3475,7 +3475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ、これを・・・・」"
+                                "Th-This..."
                             ]
                         },
                         {
@@ -3501,14 +3501,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Come on, hurry up♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ささっ、はやくはやく♡」"
+                                ""
                             ]
                         },
                         {
@@ -3548,7 +3548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・！」"
+                                "Huh...!"
                             ]
                         },
                         {
@@ -3588,7 +3588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・」"
+                                "「.....」"
                             ]
                         },
                         {
@@ -3628,21 +3628,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\}ん、\\{\"んほぉっ！おまんこイグぅっ！！"
+                                "Umm... umm... 'Nhooh! My pussy is tingling!! Semen\nbegging slutty high school girl - A diary of\nobserving all holes penetrated'............."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　 ザーメンおねだり淫乱JK 全穴貫通観察日誌\""
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・・・・・・・・・です」"
+                                ""
                             ]
                         },
                         {
@@ -3668,14 +3668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ah, that's a sex video♡ Nice to meet you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、それハメ撮りね♡よろしく」"
+                                ""
                             ]
                         },
                         {
@@ -3746,7 +3746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\}ぎりっ・・・\\{・・・・・・・・・はい・・・」"
+                                "Th-This... umm... yes..."
                             ]
                         },
                         {
@@ -3909,14 +3909,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(文章読むだけで汗かいたのは初めてね・・・・・"
+                                "(It's the first time I've broken a sweat just from\nreading a text... Let me gather myself and move on\nto the next D...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 気を取り直して次のD・・・"
+                                ""
                             ]
                         },
                         {
@@ -3959,7 +3959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\.ぬちょぉっ・・・"
+                                "\\.Ohh..."
                             ]
                         },
                         {
@@ -4026,21 +4026,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぬちょっ・・・・・・？\\.\\.\\CE[31]"
+                                "N-...? \\.\\.\\CE[31]Th-This, is it...!!?! *Sob*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こ、これって、せいえ・・・・・・！！！？！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　ぽろっ・・・"
+                                ""
                             ]
                         },
                         {
@@ -4069,7 +4069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パリーン！！"
+                                "Parin!!"
                             ]
                         },
                         {
@@ -4242,28 +4242,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ah...! Th-That DVD is... 'The Complete\nCollection of Sexual Harassment Behind the\nCounter'...!! Even though it's a premium\nedition...!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あぁっ・・・・！そ、その・・・DVDは、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\"カウンター裏セクハラ大全集\"・・・！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　プレミアついてるのに・・・・！！」"
+                                ""
                             ]
                         },
                         {
@@ -4303,21 +4303,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「す、すみません・・・わざとじゃなくて・・・"
+                                "I-I'm sorry... It wasn't intentional... B-But I\nthink, maybe, there was a... you know, that thing\nthat men have, and it surprised me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　た、多分ですけど、男の人の・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あれが付いていてビックリしちゃって・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4424,28 +4424,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: That's something that happens often!!\nWhich one do you think is more important, wiping\noff the semen or the premium DVD?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そんなのよくあることだよ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　拭けば取れるザーメンとプレミアDVD・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どっちが大事かわかるでしょ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4485,7 +4485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(よくあることなの？！)"
+                                "(Is this something that happens often?!)"
                             ]
                         },
                         {
@@ -4525,7 +4525,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません！ちゃんと弁償するので・・・・」"
+                                "I'm sorry! I'll make sure to compensate for it..."
                             ]
                         },
                         {
@@ -4551,21 +4551,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: It's fine... It wasn't intentional...\nBesides, even if it's compensated for, this DVD is\nalready in my hands... ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いいよ・・・・故意じゃないし・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それに弁償されたってこのDVDはもう手に・・ぅぅ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4591,14 +4591,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ah... It's unfortunate..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ・・・ついてないなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4627,14 +4627,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Faith has decreased by 8..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 8 \\c[0]減った・・・"
+                                ""
                             ]
                         },
                         {
@@ -4683,14 +4683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(いま悪寒が・・・・！\\!も、もしかして・・・・"
+                                "(I-I feel a chill...! C-Could it be... if I feel\nunlucky, does my faith decrease...?!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 不運を感じたら信仰が下がるんじゃ・・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -4730,21 +4730,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そ、それはマズいわ・・・！せっかく集めた信仰が・・・！"
+                                "(T-This is bad...! All the faith I've gathered...!\nBut... compensating with money would be\nmeaningless... And whether I can get the same DVD\nagain...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " けど・・・お金で弁償は無意味だろうし・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 同じDVDも手に入るかどうか・・)"
+                                ""
                             ]
                         },
                         {
@@ -4784,14 +4784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・なにか、"
+                                "(If there's something that can serve as a\nreplacement and satisfy you...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 代わりになるもので満足させてあげれば)"
+                                ""
                             ]
                         },
                         {
@@ -4838,7 +4838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(代わりを・・・・・・やってあげるしかないかな)"
+                                "(I guess there's no choice but to offer a\nreplacement...)"
                             ]
                         },
                         {
@@ -4885,14 +4885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あの・・・・店長さん・・・・"
+                                "U-Um... Manager-san... I have a little proposal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっと提案が・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5029,21 +5029,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh my, I never expected Ayako-kun to be\nan AV actress. No wonder I thought you loved\nnaughty things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁまさか綾子くんがAV女優だったなんて♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　通りでエッチなことが大好きだと思ってたんだ」"
+                                ""
                             ]
                         },
                         {
@@ -5069,21 +5069,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh, could it be because of the influence\nfrom working here? If that's the case, I'm happy♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、もしかしてウチで働いてた影響とか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そしたら嬉しいなぁ♡」"
+                                ""
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まあ・・・色々事情がありまして・・・・・・」"
+                                "Well... there are various circumstances..."
                             ]
                         },
                         {
@@ -5197,14 +5197,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それで、話っていうのはそれだけですか？"
+                                "So, is that all you wanted to talk about? It's not\njust that, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それだけじゃないですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -5253,21 +5253,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きっとビデオに出たことを言いふらすつもりですよね？そし"
+                                "You're planning to spread the word about me\nappearing in videos, aren't you? In that case,\nI'll have to keep quiet in exchange and use my\nbody to silence you. Whether it's a blowjob, raw\nsex, or anal sex, I enjoy all kinds of things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たら私は黙ってもらう代わりに身体で口止めしないといけま"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　せんね♡フェラでも生ハメでもケツ穴セックスでも好きなこと"
+                                ""
                             ]
                         },
                         {
@@ -5293,14 +5293,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: No, I don't intend to threaten you,\nbut..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いや脅すつもりはないけど・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5380,7 +5380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、あ、はい・・・・・」"
+                                "Uh, um, yes..."
                             ]
                         },
                         {
@@ -5459,21 +5459,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: ...But, since you're in the position of\nan actress, I wanted to try providing services\nthat make use of that...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・でも、女優さんっていう立場なんだし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それを活かしたサービスをやってみたくてね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -5522,14 +5522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「新サービス・・・・？"
+                                "New service...? What exactly is that...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それって一体・・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -5569,14 +5569,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Yes, well..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うん、それはね・・・・・・"
+                                ""
                             ]
                         },
                         {

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "学校",
+    "displayName": "School",
     "encounterList": [],
     "encounterStep": 30,
     "height": 34,
@@ -7290,21 +7290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒髪の男子生徒"
+                                "Black-haired male student: H-Hey...! Is that story\ntrue...?! That AV company that every guy knows...\nROD, does it really exist?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お、おい・・・！その話ホントかよ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　男なら皆知ってるAV会社・・・RODがあるってのは！？」"
+                                ""
                             ]
                         },
                         {
@@ -7330,21 +7330,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハゲモヒカンの男子生徒"
+                                "Bald mohawk male student: Ah... damn, this is\ninformation that senior obtained by infiltrating\nthat district... There's no mistake...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ・・・やべぇ先輩があの地区に潜入してきて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　得た情報だ・・・間違いない・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7370,21 +7370,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハゲモヒカンの男子生徒"
+                                "Bald mohawk student: Moreover, the president there\nseems to be a really beautiful woman, and it seems\nshe's both an actress and a director herself!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しかもそこの社長、めっちゃ美人の女らしくて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　自分で女優と監督もヤってるらしいぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -7516,21 +7516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒髪の男子生徒"
+                                "Black-haired male student: H-Hey...! Is that story\ntrue...?! Everyone knows about the AV company if\nyou're a guy... ROD exists, right?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お、おい・・・！その話ホントかよ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　男なら皆知ってるAV会社・・・RODがあるってのは！？」"
+                                ""
                             ]
                         },
                         {
@@ -7556,21 +7556,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハゲモヒカンの男子生徒"
+                                "Bald mohawk male student: Ah... damn, that\ninformation was obtained by our senior who\ninfiltrated that district... There's no doubt\nabout it...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ・・・やべぇ先輩があの地区に潜入してきて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　得た情報だ・・・間違いない・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7596,21 +7596,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ハゲモヒカンの男子生徒"
+                                "Bald mohawk male student: Moreover, the president\nthere is rumored to be a really beautiful woman,\nand it seems she even acts and directs as an\nactress herself!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しかもそこの社長、めっちゃ美人の女らしくて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　自分で女優と監督もヤってるらしいぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -7915,21 +7915,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒髪の女子生徒"
+                                "Black-haired female student: It seems like the\nassistants at the cooking class in the shopping\ndistrict often change."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「商店街の料理教室、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アシスタントの人がよく入れ替わるらしいよ」"
+                                ""
                             ]
                         },
                         {
@@ -7955,14 +7955,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の女子生徒"
+                                "Blonde female student: There's a rumor that\nthere's something wrong with the teacher, you\nknow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なーんか先生に問題あるって噂よ」"
+                                ""
                             ]
                         },
                         {
@@ -7988,21 +7988,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の女子生徒"
+                                "Blonde female student: But I heard he's really\nhandsome ♡ If it were me, I would accept anything\nhe gives me~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「でもすっごいイケメンらしいの♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしだったら何でも受け止めてあげるのにな～」"
+                                ""
                             ]
                         },
                         {
@@ -8095,21 +8095,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒髪の女子生徒"
+                                "Black-haired female student: It seems like the\nassistants at the cooking class in the shopping\ndistrict often change."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「商店街の料理教室、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アシスタントの人がよく入れ替わるらしいよ」"
+                                ""
                             ]
                         },
                         {
@@ -8135,14 +8135,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の女子生徒"
+                                "Blonde female student: There's a rumor that\nthere's something wrong with the teacher, you\nknow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なーんか先生に問題あるって噂よ」"
+                                ""
                             ]
                         },
                         {
@@ -8168,21 +8168,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の女子生徒"
+                                "Blonde female student: But I heard he's really\nhandsome ♡ If it were me, I would accept anything\nhe gives me~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「でもすっごいイケメンらしいの♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あたしだったら何でも受け止めてあげるのにな～」"
+                                ""
                             ]
                         },
                         {
@@ -8298,21 +8298,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休憩中の先生"
+                                "Teacher on break (Oh, wait...? Was there a student\nwith such a splendid body...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(あ、あれ・・・？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " こんな立派な身体の生徒居たっけ・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -9088,21 +9088,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
+                                "Female Student: Let's focus on stretching more\ntoday... Since the tournament is coming up, let's\nfinish early and build up our energy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は柔軟を多めに入れて・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大会前だから早めに上がってバネを溜めさせて・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9195,21 +9195,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: The boys' clubroom is really smelly.\nThey just leave their sweaty shirts lying around\nwithout a care."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「男子の部室はめっちゃくさいよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　汗まみれのシャツを平気で放置してるからね」"
+                                ""
                             ]
                         },
                         {
@@ -9302,21 +9302,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "憧れる男子生徒"
+                                "Admiring male student: S-super... huff... hehe...\nPlease keep it a secret from the teacher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すぱー・・・・・ふー・・・・・っ・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ふふっ・・・・・先公には内緒にしててくれな」"
+                                ""
                             ]
                         },
                         {
@@ -9372,7 +9372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あっ、ココアシガレットだ。懐かしいなぁ)"
+                                "(Ah, Cocoa Cigarettes. It brings back memories.)"
                             ]
                         },
                         {

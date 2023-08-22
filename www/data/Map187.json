@@ -22374,14 +22374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わあ・・・・綺麗になってる。"
+                                "Wow... It's become so beautiful. Before, it was\nall worn out in various places."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　前は色んなところがボロボロだったのに」"
+                                ""
                             ]
                         },
                         {
@@ -22452,14 +22452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「階段のでこぼこも無くなって、歩きやすくなったし。"
+                                "The stairs are no longer uneven, making it easier\nto walk. And the dirt on the approach has been\ncleaned off too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　参道の汚れも落とされてる」"
+                                ""
                             ]
                         },
                         {
@@ -22539,14 +22539,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・無駄に狛犬が増えてる気がするけど"
+                                "...I feel like there are more unnecessary guardian\ndogs, but let's put that aside for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それは置いときましょ」"
+                                ""
                             ]
                         },
                         {
@@ -22758,14 +22758,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「待ってる、って言っときながら"
+                                "You said you were waiting, but I can't find you\nanywhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見当たらないわね・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -22805,7 +22805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -22854,7 +22854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(レイさん・・・・聞こえますか・・・・？)"
+                                "Rei-san... Can you hear me...?"
                             ]
                         },
                         {
@@ -22894,7 +22894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -23227,7 +23227,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「返事はな・・\\.\\^"
+                                "No response... \\.\\^"
                             ]
                         },
                         {
@@ -23305,14 +23305,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[2]\\{"
+                                "\\kw[2]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よく来たのぉっ！！綾子ぉっっ！！！」"
+                                "You came at a good time, Ayako!"
                             ]
                         },
                         {
@@ -23384,7 +23384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゃっ！！」"
+                                "Kyaa!!"
                             ]
                         },
                         {
@@ -23572,7 +23572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もうっ！！びっくりさせないでください！！」"
+                                "Geez!! Please don't surprise me like that!!"
                             ]
                         },
                         {
@@ -23628,14 +23628,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はーっはっは！！"
+                                "Hahaha!! It's been a while, so I had to surprise\nyou!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　久方ぶりじゃからドッキリくらいせんとのぉ！」"
+                                ""
                             ]
                         },
                         {
@@ -23666,7 +23666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そういうのはいりません！！」"
+                                "I don't need that kind of thing!!"
                             ]
                         },
                         {
@@ -23722,7 +23722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・ホントに心配してたんですよ」"
+                                "Sigh... I was really worried, you know."
                             ]
                         },
                         {
@@ -23762,21 +23762,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いきなり居なくなるわ"
+                                "You suddenly disappeared and didn't respond at all\nwhen I called you in my heart... Where were you\nand what were you doing...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　心の中で呼んでも全く返事はないし・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どこでなにをしてたんですか・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -23823,7 +23823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「社に手を加えとる間は結界が弱まってしまう」"
+                                "While I'm working on the company, the barrier\nweakens."
                             ]
                         },
                         {
@@ -23847,14 +23847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうなるとまた悪い気がまた入ってくるでの、"
+                                "If that happens, bad energy will start coming in\nagain, so I've been running around to seal the\nbarrier."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　結界を塞ぐために走り回っておったのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -23903,14 +23903,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「例えるなら大雨の中、紙でできた屋根の雨漏りを"
+                                "It's like continuously repairing a leaky roof made\nof paper in the pouring rain. Sanzuru was\nextraordinary."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  修理し続けるようなもんじゃ。三徹は普通じゃったの」"
+                                ""
                             ]
                         },
                         {
@@ -23966,7 +23966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、それは大変でしたね・・・・・」"
+                                "Th-That must have been tough..."
                             ]
                         },
                         {
@@ -24075,14 +24075,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかぁし！！その甲斐あって見よ！！"
+                                "But!! Look at the result of my efforts!! It shines\njust like it did when it was first built!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まるで建立された当初のような輝きをッ！！」"
+                                ""
                             ]
                         },
                         {
@@ -24174,14 +24174,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ついでに余った金で狛犬も買って"
+                                "And with the leftover money, I even bought some\nguardian dogs to liven things up!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　賑やかしも完璧じゃ！」"
+                                ""
                             ]
                         },
                         {
@@ -24237,7 +24237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(やっぱりレイさんの趣味だったか・・・・)"
+                                "(So it was Rei-san's preference after all...)"
                             ]
                         },
                         {
@@ -24315,14 +24315,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これも全てお主が手を貸してくれたおかげじゃ。"
+                                "All of this is thanks to your help. I'm truly\ngrateful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　本当に感謝しておる」"
+                                ""
                             ]
                         },
                         {
@@ -24369,7 +24369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「構いませんよ。これでちょっとは恩を返せましたかね」"
+                                "It's okay. Did I manage to repay the favor a\nlittle with this?"
                             ]
                         },
                         {
@@ -24416,7 +24416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さて、そんなお主には褒美をやらんといけんのう」"
+                                "Well then, I must give you a reward for that."
                             ]
                         },
                         {
@@ -24463,14 +24463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、そういえばそうでしたね。　"
+                                "Oh, that's right. Yes, yes, what kind of thing are\nyou going to give me next?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はいはい、次はどんなのをくれるんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -24510,21 +24510,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「自販機でジュースが当たりやすくなるとかですか？"
+                                "Is it something like winning drinks easily from\nvending machines? Or finding lost items quickly?\nYou don't have to go out of your way to do\nsomething amazing..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　無くしたものがすぐ見つかるとかですか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　別に無理してすごいのを・・"
+                                ""
                             ]
                         },
                         {
@@ -24571,21 +24571,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「老化の遅行、手から発火、人の心を読む、"
+                                "Slowing down aging, spontaneous combustion from\nhands, reading people's minds, becoming invisible,\nhealing wounds, hypnosis, clairvoyance,\ntelekinesis, physical enhancement, increasing\nvitality... and various other things."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　透明になる、ケガを癒す、催眠、千里眼、念動力、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　肉体の強化、生命力向上、その他色々じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -24641,14 +24641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゅ、急にスゴそうな能力を！？しかもたくさん！？"
+                                "W-What, suddenly amazing abilities!? And so many\nof them!? W-What's going on?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ど、どうしたんですか？！」"
+                                ""
                             ]
                         },
                         {
@@ -24679,14 +24679,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシの霊力を半分与えるからの。"
+                                "I will give you half of my spiritual power. I can\ndo at least that much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それくらいできるわい」"
+                                ""
                             ]
                         },
                         {
@@ -24742,14 +24742,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え・・・・・・・・・？せっかく回復した霊力を・・・？"
+                                "Eh...? Are you sure it's okay for you to give me\nyour recovered spiritual power, Rei-san?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それって、レイさん大丈夫なんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -24796,14 +24796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「霊力を分ければ、当然ワシの力はダダ下がりじゃ。"
+                                "If I share my spiritual power, naturally my own\npower will greatly decrease. It would cause a lot\nof trouble."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　困ることが多いわい」"
+                                ""
                             ]
                         },
                         {
@@ -24850,7 +24850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だったらなぜ・・・"
+                                "Then why..."
                             ]
                         },
                         {
@@ -24897,14 +24897,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・その話をする前に、"
+                                "....Before we talk about that, let me tell you the\nconditions for granting you spiritual power first."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　先に霊力を授けるための条件を言おう」"
+                                ""
                             ]
                         },
                         {
@@ -24951,7 +24951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その条件とは・・・・・！」\\}ごくっ・・・！"
+                                "And what are those conditions...? *gulp*"
                             ]
                         },
                         {
@@ -25010,14 +25010,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その条件とはズバリ、"
+                                "And the condition is, I want you to become my\nsubstitute guardian!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　代理の守護者になってほしいのじゃ！」"
+                                ""
                             ]
                         },
                         {
@@ -25073,14 +25073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しゅ、しゅごしゃ・・・・・？"
+                                "S-Substitute...? Me...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私が・・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -25127,21 +25127,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうじゃ、"
+                                "That's right, if you can protect the barrier as a\nguardian, I will be able to leave this place."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主が守護者として結界を守ってくれれば、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ワシはこの地を離れることができる」"
+                                ""
                             ]
                         },
                         {
@@ -25188,14 +25188,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え？！レイさんどっか行く気ですか？"
+                                "Eh?! Rei-san, are you planning to go somewhere?\nIt's so lonely after we've become close..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　せっかく仲良くなれたのに寂しいですよ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25244,14 +25244,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それに・・・私が守護者・・・？"
+                                "And... me as the guardian? I don't know what I\nshould do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何したらいいかわかりません・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25291,14 +25291,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「理由があるんですよね？"
+                                "There must be a reason, right? I want you to\nexplain it to me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　説明してほしいです・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25345,14 +25345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうじゃの、"
+                                "That's right, there are things I must apologize to\nyou for as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主に謝らねばならんこともあるしの」"
+                                ""
                             ]
                         },
                         {
@@ -25392,14 +25392,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんでも質問するがよい。"
+                                "Feel free to ask me anything. I'll do my best to\nanswer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　答えようではないか」"
+                                ""
                             ]
                         },
                         {
@@ -25446,7 +25446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(謝らないといけないこと・・・？)"
+                                "(Things I need to apologize for...?)"
                             ]
                         },
                         {
@@ -25486,7 +25486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それに前、私たちの血筋がどうとかも言ってたわね・・・)"
+                                "(And before that, you were talking about our\nbloodline...)"
                             ]
                         },
                         {
@@ -25526,7 +25526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(よし、気になってたことは全部聞いてみよう)"
+                                "(Alright, I'll ask you everything that's been on\nmy mind)"
                             ]
                         },
                         {
@@ -25587,21 +25587,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ま、こんなとこかの。"
+                                "Well, I've answered everything I can answer. There\nare no more secrets! It's only fair."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　答えれるもんは全て答えたぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これで隠し事なし！平等じゃな」"
+                                ""
                             ]
                         },
                         {
@@ -25650,14 +25650,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今までワシが隠してきたこと・・・・"
+                                "Everything that I have been hiding until now... my\npower, bloodline, and what lies ahead as a\nguardian..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　力や血筋、そして守護者としてのこれから・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25681,7 +25681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全てを吟味し、本心で決めてくれ」"
+                                "Please carefully consider everything and decide\nfrom your true feelings."
                             ]
                         },
                         {
@@ -25737,7 +25737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」"
+                                "「........」"
                             ]
                         },
                         {
@@ -25798,14 +25798,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(この地域を守るってすごく責任重大ね・・・・・"
+                                "(Protecting this region is a huge\nresponsibility... I wonder if I'm really capable\nof it...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 本当に私で務まるのかしら・・・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -25845,7 +25845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(けど、レイさんのくれる力はすごく魅力的・・・・)"
+                                "(But, the power that Rei-san gives is incredibly\nattractive...)"
                             ]
                         },
                         {
@@ -25885,14 +25885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(はる君のこともあったし、"
+                                "(If Haru-kun is also here, and if I can stay young\nand healthy, it would be very reassuring...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 若く健康でいれるならすごく安心できる・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -25932,14 +25932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それに超能力を使えるようになれるなんて・・・"
+                                "(And being able to use psychic powers... Being\nable to do something so amazing sounds fun...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そんなスゴイことできるのは楽しそう・・・)"
+                                ""
                             ]
                         },
                         {
@@ -25986,7 +25986,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・決めたわ)"
+                                "(......I've made up my mind)"
                             ]
                         },
                         {
@@ -26026,7 +26026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(私は・・・・・\\!私の答えは・・・・・・)"
+                                "(I... My answer is...)"
                             ]
                         },
                         {
@@ -26096,7 +26096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・決まったようじゃの」"
+                                "...It seems like a decision has been made."
                             ]
                         },
                         {
@@ -26143,7 +26143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい・・・・・・！」"
+                                "Yes...!"
                             ]
                         },
                         {
@@ -26183,7 +26183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は・・・\\!レイさんの代わりに守護者になります」"
+                                "I...! I will become the guardian in place of Rei-\nsan."
                             ]
                         },
                         {
@@ -26223,7 +26223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・本当によいか？」"
+                                "...Are you really sure about this?"
                             ]
                         },
                         {
@@ -26270,14 +26270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、色々不安ですけど、この町は気に入ってますし、"
+                                "Yes, I have some concerns, but I really like this\ntown and the excitement of being able to use\nvarious psychic powers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　色んな超能力が使えるなんてワクワクします」"
+                                ""
                             ]
                         },
                         {
@@ -26317,14 +26317,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それに、レイさんにも"
+                                "Besides, I want Rei-san to do things that she\nlikes too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　自分の好きなことしてほしいですしね」"
+                                ""
                             ]
                         },
                         {
@@ -26380,7 +26380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くっくっく・・・やはり血は争えんのぅ」"
+                                "Hehehe... Blood really can't be denied, huh?"
                             ]
                         },
                         {
@@ -26436,14 +26436,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よかろう・・・！"
+                                "Very well...! Let us form a contract here and\nperform the ritual to share our spiritual power..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここに契約を結び、霊力を分け給う儀式・・・」"
+                                ""
                             ]
                         },
                         {
@@ -26490,7 +26490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・の前に、コイツは邪魔じゃのう」"
+                                ".....Before that, this person is in the way."
                             ]
                         },
                         {
@@ -26657,7 +26657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ・・・・・・！！！」"
+                                "Huh...!!!"
                             ]
                         },
                         {
@@ -26713,14 +26713,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうじゃ？ワシのご尊顔は？"
+                                "Well? How do you like my esteemed countenance?\nLook, look~ It's beautiful and even renders one\nspeechless."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほれほれ～美しくて声も出んじゃろ」"
+                                ""
                             ]
                         },
                         {
@@ -26767,7 +26767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・いえ、そのお面みたいなの取れるんだなって」"
+                                "...No, I mean, you can take off that mask-like\nthing, right?"
                             ]
                         },
                         {
@@ -26823,7 +26823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」"
+                                "「........」"
                             ]
                         },
                         {
@@ -26879,7 +26879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんちゃって、すごく可愛いですレイさん」"
+                                "Just kidding, you're really cute, Rei-san."
                             ]
                         },
                         {
@@ -26935,14 +26935,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうじゃろそうじゃろ！！"
+                                "That's right, that's right!! I'm super popular,\nyou know!! Hahaha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ワシはモテモテじゃからのぉ！！はーっはっは！」"
+                                ""
                             ]
                         },
                         {
@@ -26998,7 +26998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うふふっ、やっぱりレイさんと居ると楽しいです」"
+                                "Hehe, being with Rei-san is really fun after all."
                             ]
                         },
                         {
@@ -27045,14 +27045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシもじゃ、少しの間じゃったが"
+                                "Well, even though it was only for a short while, I\ndidn't get bored at all being with you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主と居ると全く飽きんかった」"
+                                ""
                             ]
                         },
                         {
@@ -27092,14 +27092,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・世話になったの綾子。"
+                                "...Thank you for taking care of me, Ayako. And\nthank you for listening to my selfishness."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そしてワシのわがままを聞いてくれてありがとう」"
+                                ""
                             ]
                         },
                         {
@@ -27155,7 +27155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「友として感謝する」"
+                                "I'm grateful as a friend."
                             ]
                         },
                         {
@@ -27202,7 +27202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私もです。ありがとうございました」"
+                                "Me too. Thank you very much."
                             ]
                         },
                         {
@@ -27308,7 +27308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし！！では分霊の儀をはじめようではないか！！」"
+                                "Alright!! Then let's begin the ritual of splitting\nthe spirits, shall we?!"
                             ]
                         },
                         {
@@ -27407,7 +27407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ！やっちゃいましょ！」"
+                                "Yes! Let's do it!"
                             ]
                         },
                         {
@@ -27456,14 +27456,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ！では例の御神酒に男共の精液を混ぜワシの朝一搾りの"
+                                "Yes! Then, let's drink the super spiritual sake\nthat blends the semen of men with the morning\nessence of my first squeeze, and then..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　霊力をブレンドした超霊酒を互いに飲みほし、それから・・・"
+                                ""
                             ]
                         },
                         {
@@ -27876,14 +27876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Several decades later..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "数十年後・・・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -27995,21 +27995,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: This year, I hope I can get a girlfriend...!\nThis year, I hope I can finally graduate from\nbeing a virgin...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今年こそ彼女ができますように・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今年こそ童貞を卒業できますように・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -28044,21 +28044,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Alright....! This should definitely skyrocket\nmy luck in love...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よし・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　きっとこれで恋愛運爆上がりのはず・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -28084,21 +28084,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: I put in 2525 yen so that I can have a\ngirlfriend and smile happily. It's perfect, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「彼女ができてニコニコ笑えるように"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　2525円いれたし完璧でしょ！」"
+                                ""
                             ]
                         },
                         {
@@ -28155,21 +28155,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Alright, let's take a route with a lot of\nfoot traffic so that I can get reverse-picked\nup..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さてと、逆ナンされるように"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人通りが多いとこを通って帰・・"
+                                ""
                             ]
                         },
                         {
@@ -28226,21 +28226,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Oh, a fortune-telling... Since I've taken the\ntime to come here, might as well give it a try and\ngo home."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おみくじか・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　せっかく時間かけてきたんだし、やって帰ろ」"
+                                ""
                             ]
                         },
                         {
@@ -28307,14 +28307,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Well, I put in that much money as an\noffering, so it must be a great fortune..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、あれだけ賽銭いれたんだ、きっと大吉・・"
+                                ""
                             ]
                         },
                         {
@@ -28368,21 +28368,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Ugh! A, an extremely bad fortune...?! This is\nthe worst...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うげっ！？だ、大凶・・・・？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　最悪・・・・・っ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -28408,21 +28408,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: I thought I could go home feeling good, but\nwhat the hell... sigh... My love luck isn't\nimproving at all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「せっかく気持ちよく帰れそうだったのに、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんてこったぁ・・・・はぁ・・・恋愛運なんて上がってな"
+                                ""
                             ]
                         },
                         {
@@ -28645,14 +28645,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらあら、元気な声ですこと。"
+                                "Oh my, what a lively voice. What happened?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうされたんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -28709,14 +28709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Boo...! *cough cough*....!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっぱ・・・・！？げふんげふんっ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -28742,14 +28742,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Um, um... I drew the worst fortune on the\nfortune slip..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、えと・・・・おみくじで大凶引いちゃって・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -28789,14 +28789,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まあ・・・！それはいけませんね。"
+                                "Oh my...! That's not good. It seems like some bad\nenergy has attached itself to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうやら悪い気が憑りついてるようです」"
+                                ""
                             ]
                         },
                         {
@@ -28836,21 +28836,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなたが女の子にフラれたのも、"
+                                "The fact that you got rejected by a girl and\nignored on a dating app, it's all because of that\nbad energy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　マッチングアプリでいいね押しても無視されるのも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全てその悪い気が原因です！」"
+                                ""
                             ]
                         },
                         {
@@ -28876,21 +28876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Huh!? Wha-what?! Is that so?! W-what should I\ndo...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ！？ええ！！そ、そうだったんですか？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お、俺はどうすれば・・・・？！」"
+                                ""
                             ]
                         },
                         {
@@ -28930,21 +28930,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ご安心ください。"
+                                "Please rest assured. For those who drew the worst\nfortune, I will perform a special prayer. Of\ncourse, there is no additional fee for this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大凶の方には特別な祈祷をさせていただきます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もちろん追加でお納めいただくものはありませんよ」"
+                                ""
                             ]
                         },
                         {
@@ -28984,14 +28984,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「急がねばもっと悪くなってしまいます。"
+                                "If we don't hurry, it will get even worse. Come\nthis way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さ、こちらへ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -29008,14 +29008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Y-Yes...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいっ・・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -29533,21 +29533,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "This year, I hope I can finally get a\ngirlfriend...! This year, I hope I can finally\ngraduate from being a virgin...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今年こそ彼女ができますように・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今年こそ童貞を卒業できますように・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -29582,21 +29582,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Alright...! This should definitely skyrocket\nmy luck in love...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よし・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　きっとこれで恋愛運爆上がりのはず・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -29622,21 +29622,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: With 2525 yen, I've put in enough to finally\nget a girlfriend and be able to smile happily!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「彼女ができてニコニコ笑えるように"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　2525円いれたし完璧でしょ！」"
+                                ""
                             ]
                         },
                         {
@@ -29693,21 +29693,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Alright, let's take a route with a lot of\nfoot traffic so I can get approached by girls..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さてと、逆ナンされるように"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人通りが多いとこを通って帰・・"
+                                ""
                             ]
                         },
                         {
@@ -29764,21 +29764,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Oh, a fortune-telling... Since I've taken\nthe time to come here, I might as well give it a\ntry and do it before going home."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おみくじか・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　せっかく時間かけてきたんだし、やって帰ろ」"
+                                ""
                             ]
                         },
                         {
@@ -29845,14 +29845,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Well, I've put in that much money as an\noffering, so it must be a great fortune..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、あれだけ賽銭いれたんだ、きっと大吉・・"
+                                ""
                             ]
                         },
                         {
@@ -29906,21 +29906,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Ugh!? A-A great misfortune...?! This is the\nworst...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うげっ！？だ、大凶・・・・？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　最悪・・・・・っ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -29946,21 +29946,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Just when I thought I could go home feeling\ngood, what the hell... sigh... My luck in love\nhasn't improved at all..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「せっかく気持ちよく帰れそうだったのに、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんてこったぁ・・・・はぁ・・・恋愛運なんて上がってな"
+                                ""
                             ]
                         },
                         {
@@ -30183,14 +30183,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらあら、元気な声ですこと。"
+                                "Oh my, what a lively voice. What happened?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうされたんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -30247,14 +30247,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Boo...!? *cough cough*....!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっぱ・・・・！？げふんげふんっ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -30280,14 +30280,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Uhm... I, uh... drew the worst fortune on\nthe fortune slip..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、えと・・・・おみくじで大凶引いちゃって・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -30327,14 +30327,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まあ・・・！それはいけませんね。"
+                                "Oh my...! That's not good. It seems like some bad\nenergy has attached itself to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうやら悪い気が憑りついてるようです」"
+                                ""
                             ]
                         },
                         {
@@ -30374,21 +30374,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなたが女の子にフラれたのも、"
+                                "The fact that you got rejected by a girl and\nignored on a dating app, it's all because of that\nbad energy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　マッチングアプリでいいね押しても無視されるのも、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全てその悪い気が原因です！」"
+                                ""
                             ]
                         },
                         {
@@ -30414,21 +30414,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Huh!? Eh?! I-Is that so?! W-What should I\ndo...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ！？ええ！！そ、そうだったんですか？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お、俺はどうすれば・・・・？！」"
+                                ""
                             ]
                         },
                         {
@@ -30468,21 +30468,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ご安心ください。"
+                                "Please rest assured. For those who drew the worst\nfortune, I will perform a special prayer. Of\ncourse, there is no additional fee for this."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大凶の方には特別な祈祷をさせていただきます。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もちろん追加でお納めいただくものはありませんよ」"
+                                ""
                             ]
                         },
                         {
@@ -30522,14 +30522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「急がねばもっと悪くなってしまいます。"
+                                "If we don't hurry, it will get even worse. Come\nthis way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さ、こちらへ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -30546,14 +30546,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Y-Yes...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいっ・・・・・！」"
+                                ""
                             ]
                         },
                         {

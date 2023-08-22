@@ -2238,14 +2238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: Ah, welcome back... \\.\\^"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、お疲れ様で・・・\\.\\^"
+                                ""
                             ]
                         },
                         {
@@ -2310,14 +2310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・最近こういうことばっかり・・・・"
+                                "Sigh... Lately, it's been nothing but this kind of\nthing... Sometimes, I wish I could rely on my own\nabilities... mumble mumble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たまには自分の実力で・・・\\}ぶつぶつぶつ・・・\\{」"
+                                ""
                             ]
                         },
                         {
@@ -2364,14 +2364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: ...Did you get tired from the massage\nafter a long time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・久々にマッサージして疲れたのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -2651,14 +2651,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 1!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 1 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -2687,14 +2687,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 2..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 2 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -2732,7 +2732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "綾子はバイト代で5000円手に入れた。"
+                                "Ayako earned 5000 yen from her part-time job."
                             ]
                         },
                         {
@@ -3225,14 +3225,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの人のおチンポ結構気に入ってたのに・・・・"
+                                "I really liked that person's dick... I'm quite\nsatisfied, but there's still a slight feeling of\nindigestion..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　だいぶ満足はしてるけど少しだけ消化不良・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3272,21 +3272,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「帰ってオナニーしようかな・・・・・"
+                                "Should I go home and masturbate... or should I try\ntalking to someone around here... Hmm... I'm\npondering..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それともその辺で声かけてみようかな・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うーん・・・なや・・・"
+                                ""
                             ]
                         },
                         {
@@ -3385,14 +3385,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: ...Ayako-san, may I have a moment?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・綾子さん、ちょっとよろしいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -3479,14 +3479,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・？　"
+                                "........? Um, yes, what can I do for you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ええ、どうされました」"
+                                ""
                             ]
                         },
                         {
@@ -3526,28 +3526,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: ...Um, it's really difficult to say,\nbut we received a complaint about the noise coming\nfrom the... um... female's... you know..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・あの・・・すごく言いづらいんですが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　隣の部屋の・・・女性の・・・アレの声がうるさいと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　クレームが入りまして・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3603,7 +3603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っっ・・・・・！♡♡」"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -3629,21 +3629,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: That room happened to be where Ayako-\nsan was in the middle of a treatment..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「その部屋がちょうど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　綾子さんが施術中だったもので・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3669,21 +3669,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ホテルマン"
+                                "Hotel Staff: Um... What were you being massaged\nfor...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・・・・マッサージって、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なにをされていたんですか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -3723,7 +3723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・♡」"
+                                "「........♡」"
                             ]
                         },
                         {
@@ -3772,7 +3772,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「少し、裏でお話しませんか・・・・・？♡」"
+                                "Would you like to have a little chat in\nprivate...? ♡"
                             ]
                         },
                         {

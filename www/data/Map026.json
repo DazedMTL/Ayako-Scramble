@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "学校周辺",
+    "displayName": "Surroundings of the school",
     "encounterList": [],
     "encounterStep": 30,
     "height": 43,
@@ -12380,7 +12380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に入っちゃダメよね・・・」"
+                                "You can't just enter without permission, you\nknow..."
                             ]
                         },
                         {
@@ -12661,14 +12661,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「この学生服・・・ちょっとサイズが合ってないわね・・・"
+                                "This school uniform... it doesn't quite fit me\nright... I wonder if it's revealing too much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　色々見えちゃわないかしら・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -12806,14 +12806,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うむ・・・なかなか似合っておるではないか・・・♡"
+                                "Hmm... It suits me quite well, doesn't it? ♡ I'm\nlike the epitome of a vibrant female student in\nher prime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　青春まっ盛りの女学生そのものじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -12898,7 +12898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「絶対思ってないでしょ・・・」"
+                                "You definitely don't think that, right...?"
                             ]
                         },
                         {
@@ -12938,7 +12938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それより、ホントに大丈夫なんですよね・・・？」"
+                                "But, are you really okay with it...?"
                             ]
                         },
                         {
@@ -13023,14 +13023,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「安心せい、術はしっかりかかっておる。"
+                                "Don't worry, the spell is firmly in place.\nEveryone around will only see me as a well-endowed\nfemale student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　周囲からは肉付きの良い女学生としか思われん」"
+                                ""
                             ]
                         },
                         {
@@ -13115,7 +13115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なら、いいんですけど・・・」"
+                                "Well, if that's the case..."
                             ]
                         },
                         {
@@ -13200,14 +13200,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「さて・・・学校を楽しむのもよいが、"
+                                "Well... It's good to enjoy school, but this is a\nplace where many young people gather."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ここは若人が多く集まっておる場所じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -13247,14 +13247,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ならば・・・それだけ若く滾る欲望も"
+                                "In that case... one's desires must also be\noverflowing with youthful passion...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　満ち満ちておるじゃろうのぅ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -13339,14 +13339,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「っ・・・・」\\!"
+                                "Huh...? (I wonder if they agreed to help because\nof that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "(ノリノリで協力してくれたのはその為か・・・)"
+                                ""
                             ]
                         },
                         {
@@ -13415,7 +13415,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「では、久々の学校性活・・・・楽しんでくるのじゃ♡」"
+                                "Well then, it's been a while since I've had some\nschool sexual activities... I'll enjoy myself to\nthe fullest♡"
                             ]
                         },
                         {
@@ -13500,7 +13500,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「行ってきます・・・」"
+                                "I'm off..."
                             ]
                         },
                         {
@@ -13630,14 +13630,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学生服は持ってるとはいえ、こんなおばさんが着てたら"
+                                "Even though I have a school uniform, if a middle-\naged woman like me wears it, it will be obvious\nright away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　すぐバレちゃうわよね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13661,7 +13661,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんの超能力でどうにかできないかしら？」"
+                                "I wonder if Rei-san's psychic powers can somehow\nhelp with this?"
                             ]
                         },
                         {
@@ -13690,14 +13690,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには"
+                                "In order to enter the school, you need to progress\nthrough events with Rei."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "レイとのイベントを進める必要があります。"
+                                ""
                             ]
                         },
                         {
@@ -13783,14 +13783,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんに超能力は教えてもらったけど、"
+                                "Rei-san taught me psychic powers, but the crucial\nthing is that I don't have any clothes to wear..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　肝心の着る服がないわね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13814,7 +13814,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「商店街とかに置いてたりしないかしら・・・？」"
+                                "I wonder if they have it in the shopping district\nor something...?"
                             ]
                         },
                         {
@@ -13843,14 +13843,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには学生服を手に入れる必要があります。"
+                                "To enter the school, you need to obtain a school\nuniform. Please progress through the event at the\ngeneral store in the shopping district."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "商店街の雑貨屋イベントを進めて下さい。"
+                                ""
                             ]
                         },
                         {
@@ -13932,14 +13932,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学校かぁ・・・私も昔は制服着て通ってたのよね・・・"
+                                "School, huh... I used to wear a school uniform and\nattend too... It brings back memories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　懐かしいわ」"
+                                ""
                             ]
                         },
                         {
@@ -13979,14 +13979,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふふ・・・今は今で楽しいけど"
+                                "Hehe... It's fun as it is now, but I'd like to\nexperience the feeling of being a student again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分はもう一度味わってみたいなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -14085,14 +14085,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふむ・・・今からでも制服を着て立ち入れば"
+                                "Hmm... Even if it's now, if you wear a school\nuniform and enter, you can experience the feeling\nof being a student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分は体験できるじゃろ」"
+                                ""
                             ]
                         },
                         {
@@ -14177,14 +14177,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「な、なに言ってるんですか！？"
+                                "W-What are you saying!? That's obviously not\nallowed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　そんなのダメにきまってるじゃないですか！」"
+                                ""
                             ]
                         },
                         {
@@ -14224,14 +14224,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「こんな私みたいなおばさんが"
+                                "For someone like me, an older woman, to wear a\nschool uniform and go to school... unless it's\nsome kind of magic..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　制服を着て学校へ行くなんて、魔法でもない限り・・"
+                                ""
                             ]
                         },
                         {
@@ -14300,14 +14300,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ワシの神通力で可能じゃ。"
+                                "With my psychic powers, it's possible. I can use a\nhypnotic illusion to make it work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　誤認識の催眠術でいけるじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -14392,7 +14392,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そ、そうなんですか？」"
+                                "I-Is that so?"
                             ]
                         },
                         {
@@ -14461,14 +14461,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「じゃが、催眠術にも限界はある。"
+                                "However, there are limits to hypnosis. If you wear\ncasual clothes, it might feel strange and the\nhypnosis may not work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　普段着では違和感をもたれ、術が効かんじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -14508,21 +14508,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「少なくとも制服は入手する必要がある。\\!"
+                                "At the very least, we need to acquire a school\nuniform. And on top of that, you must learn the\nmagic. As for the magic... let's discuss it at my\nplace... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　おまけに術はお主が習得せねばならん。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　術の方は・・・我が家で相談しようではないか・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -14551,14 +14551,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校に入るには"
+                                "To enter school, you need to acquire a school\nuniform and learn specific skills."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "学生服の入手と特定スキルの習得が必要です。"
+                                ""
                             ]
                         },
                         {
@@ -14575,14 +14575,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学生服は商店街の雑貨屋で、"
+                                "You can acquire a school uniform at the general\nstore in the shopping district, and you can learn\nthe skills from Rei at your home."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "スキルは自宅のレイから習得できます。"
+                                ""
                             ]
                         },
                         {
@@ -14794,7 +14794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に入っちゃダメよね・・・」"
+                                "You can't just enter without permission, you\nknow..."
                             ]
                         },
                         {
@@ -15075,14 +15075,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「この学生服・・・ちょっとサイズが合ってないわね・・・"
+                                "This school uniform... it doesn't quite fit me\nright... I wonder if it's revealing too much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　色々見えちゃわないかしら・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -15220,14 +15220,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うむ・・・なかなか似合っておるではないか・・・♡"
+                                "Hmm... It suits me quite well, doesn't it? ♡ I\nfeel like the epitome of a vibrant female student\nin her prime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　青春まっ盛りの女学生そのものじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -15312,7 +15312,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「絶対思ってないでしょ・・・」"
+                                "You definitely don't think that, right...?"
                             ]
                         },
                         {
@@ -15352,7 +15352,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それより、ホントに大丈夫なんですよね・・・？」"
+                                "But, are you really okay with it...?"
                             ]
                         },
                         {
@@ -15437,14 +15437,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「安心せい、術はしっかりかかっておる。"
+                                "Don't worry, the spell is firmly in place.\nEveryone will just see me as a well-endowed female\nstudent."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　周囲からは肉付きの良い女学生としか思われん」"
+                                ""
                             ]
                         },
                         {
@@ -15529,7 +15529,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なら、いいんですけど・・・」"
+                                "Well, if that's the case..."
                             ]
                         },
                         {
@@ -15614,14 +15614,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「さて・・・学校を楽しむのもよいが、"
+                                "Well... It's good to enjoy school, but this is a\nplace where many young people gather."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ここは若人が多く集まっておる場所じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -15661,14 +15661,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ならば・・・それだけ若く滾る欲望も"
+                                "In that case... one's youthful desires must also\nbe overflowing...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　満ち満ちておるじゃろうのぅ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -15753,14 +15753,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「っ・・・・」\\!"
+                                "Huh...? (I wonder if they agreed to help because\nof that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "(ノリノリで協力してくれたのはその為か・・・)"
+                                ""
                             ]
                         },
                         {
@@ -15829,7 +15829,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「では、久々の学校性活・・・・楽しんでくるのじゃ♡」"
+                                "Well then, it's been a while since I've had some\nschool sexual activities... I'm going to enjoy\nmyself ♡"
                             ]
                         },
                         {
@@ -15914,7 +15914,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「行ってきます・・・」"
+                                "I'm off..."
                             ]
                         },
                         {
@@ -16044,14 +16044,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学生服は持ってるとはいえ、こんなおばさんが着てたら"
+                                "Even though I have a school uniform, if a middle-\naged woman like me wears it, it will be obvious\nright away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　すぐバレちゃうわよね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -16075,7 +16075,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんの超能力でどうにかできないかしら？」"
+                                "I wonder if Rei-san's psychic powers can somehow\nhelp with this?"
                             ]
                         },
                         {
@@ -16104,14 +16104,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには"
+                                "In order to enter the school, you need to progress\nthrough events with Rei."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "レイとのイベントを進める必要があります。"
+                                ""
                             ]
                         },
                         {
@@ -16197,14 +16197,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんに超能力は教えてもらったけど、"
+                                "Rei-san taught me psychic powers, but the crucial\nthing is that I don't have any clothes to wear..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　肝心の着る服がないわね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -16228,7 +16228,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「商店街とかに置いてたりしないかしら・・・？」"
+                                "I wonder if they have it in the shopping district\nor something...?"
                             ]
                         },
                         {
@@ -16257,14 +16257,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには学生服を手に入れる必要があります。"
+                                "To enter the school, you need to obtain a school\nuniform. Please progress through the event at the\ngeneral store in the shopping district."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "商店街の雑貨屋イベントを進めて下さい。"
+                                ""
                             ]
                         },
                         {
@@ -16346,14 +16346,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学校かぁ・・・私も昔は制服着て通ってたのよね・・・"
+                                "School, huh... I used to wear a school uniform and\nattend too... It brings back memories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　懐かしいわ」"
+                                ""
                             ]
                         },
                         {
@@ -16393,14 +16393,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふふ・・・今は今で楽しいけど"
+                                "Hehe... It's fun as it is now, but I'd like to\nexperience the feeling of being a student again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分はもう一度味わってみたいなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -16499,14 +16499,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふむ・・・今からでも制服を着て立ち入れば"
+                                "Hmm... Even if it's now, if you wear a school\nuniform and enter, you can experience the feeling\nof being a student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分は体験できるじゃろ」"
+                                ""
                             ]
                         },
                         {
@@ -16591,14 +16591,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「な、なに言ってるんですか！？"
+                                "W-What are you saying!? That's obviously not\nallowed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　そんなのダメにきまってるじゃないですか！」"
+                                ""
                             ]
                         },
                         {
@@ -16638,14 +16638,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「こんな私みたいなおばさんが"
+                                "For someone like me, an older woman, to wear a\nschool uniform and go to school... unless it's\nsome kind of magic..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　制服を着て学校へ行くなんて、魔法でもない限り・・"
+                                ""
                             ]
                         },
                         {
@@ -16714,14 +16714,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ワシの神通力で可能じゃ。"
+                                "You could probably do it with a mistaken identity\nhypnosis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　誤認識の催眠術でいけるじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -16806,7 +16806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そ、そうなんですか？」"
+                                "I-Is that so?"
                             ]
                         },
                         {
@@ -16875,14 +16875,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「じゃが、催眠術にも限界はある。"
+                                "However, there are limits to hypnosis. If you wear\ncasual clothes, it may feel unnatural and the\nhypnosis might not work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　普段着では違和感をもたれ、術が効かんじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -16922,21 +16922,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「少なくとも制服は入手する必要がある。\\!"
+                                "At the very least, we need to acquire a school\nuniform. And on top of that, you must learn the\nmagic. As for the magic... let's discuss it at my\nplace... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　おまけに術はお主が習得せねばならん。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　術の方は・・・我が家で相談しようではないか・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -16965,14 +16965,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校に入るには"
+                                "To enter school, you need to acquire a school\nuniform and learn specific skills."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "学生服の入手と特定スキルの習得が必要です。"
+                                ""
                             ]
                         },
                         {
@@ -16989,14 +16989,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学生服は商店街の雑貨屋で、"
+                                "You can acquire a school uniform at the general\nstore in the shopping district, and you can learn\nthe skills from Rei at your home."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "スキルは自宅のレイから習得できます。"
+                                ""
                             ]
                         },
                         {
@@ -17208,7 +17208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に入っちゃダメよね・・・」"
+                                "You can't just enter without permission, you\nknow..."
                             ]
                         },
                         {
@@ -17489,14 +17489,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「この学生服・・・ちょっとサイズが合ってないわね・・・"
+                                "This school uniform... it doesn't quite fit me\nright... I wonder if it's revealing too much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　色々見えちゃわないかしら・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -17634,14 +17634,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うむ・・・なかなか似合っておるではないか・・・♡"
+                                "Hmm... It suits me quite well, doesn't it? ♡ I'm\nlike the epitome of a vibrant female student in\nher prime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　青春まっ盛りの女学生そのものじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -17726,7 +17726,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「絶対思ってないでしょ・・・」"
+                                "You definitely don't think that, right...?"
                             ]
                         },
                         {
@@ -17766,7 +17766,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それより、ホントに大丈夫なんですよね・・・？」"
+                                "But, are you really okay with it...?"
                             ]
                         },
                         {
@@ -17851,14 +17851,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「安心せい、術はしっかりかかっておる。"
+                                "Don't worry, the spell is firmly in place.\nEveryone around will only see me as a well-endowed\nfemale student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　周囲からは肉付きの良い女学生としか思われん」"
+                                ""
                             ]
                         },
                         {
@@ -17943,7 +17943,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なら、いいんですけど・・・」"
+                                "If that's the case, then it's fine..."
                             ]
                         },
                         {
@@ -18028,14 +18028,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「さて・・・学校を楽しむのもよいが、"
+                                "Well... It's good to enjoy school, but this is a\nplace where many young people gather."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ここは若人が多く集まっておる場所じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -18075,14 +18075,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ならば・・・それだけ若く滾る欲望も"
+                                "If that's the case... then one's youthful desires\nmust also be overflowing...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　満ち満ちておるじゃろうのぅ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -18167,14 +18167,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「っ・・・・」\\!"
+                                "Huh...? (I wonder if they agreed to help because\nof that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "(ノリノリで協力してくれたのはその為か・・・)"
+                                ""
                             ]
                         },
                         {
@@ -18243,7 +18243,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「では、久々の学校性活・・・・楽しんでくるのじゃ♡」"
+                                "Well then, it's been a while since I've had some\nschool sexual activities... I'm going to enjoy\nmyself ♡"
                             ]
                         },
                         {
@@ -18328,7 +18328,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「行ってきます・・・」"
+                                "I'm off..."
                             ]
                         },
                         {
@@ -18458,14 +18458,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学生服は持ってるとはいえ、こんなおばさんが着てたら"
+                                "Even though I have a school uniform, if someone\nlike me wore it, they would immediately notice..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　すぐバレちゃうわよね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -18489,7 +18489,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんの超能力でどうにかできないかしら？」"
+                                "I wonder if Rei-san's psychic powers can somehow\nhelp with this?"
                             ]
                         },
                         {
@@ -18518,14 +18518,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには"
+                                "In order to enter the school, you need to progress\nthrough events with Rei."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "レイとのイベントを進める必要があります。"
+                                ""
                             ]
                         },
                         {
@@ -18611,14 +18611,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんに超能力は教えてもらったけど、"
+                                "Rei-san taught me psychic powers, but the crucial\nthing is that I don't have any clothes to wear..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　肝心の着る服がないわね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -18642,7 +18642,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「商店街とかに置いてたりしないかしら・・・？」"
+                                "I wonder if they have it in the shopping\ndistrict...?"
                             ]
                         },
                         {
@@ -18671,14 +18671,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには学生服を手に入れる必要があります。"
+                                "To enter the school, you need to obtain a school\nuniform. Please progress through the event at the\ngeneral store in the shopping district."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "商店街の雑貨屋イベントを進めて下さい。"
+                                ""
                             ]
                         },
                         {
@@ -18760,14 +18760,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学校かぁ・・・私も昔は制服着て通ってたのよね・・・"
+                                "School, huh... I used to wear a school uniform and\nattend too... It brings back memories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　懐かしいわ」"
+                                ""
                             ]
                         },
                         {
@@ -18807,14 +18807,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふふ・・・今は今で楽しいけど"
+                                "Hehe... It's fun now, but I'd like to experience\nthe feeling of being a student again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分はもう一度味わってみたいなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -18913,14 +18913,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふむ・・・今からでも制服を着て立ち入れば"
+                                "Hmm... Even if it's now, if you wear a school\nuniform and enter, you can experience the feeling\nof being a student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分は体験できるじゃろ」"
+                                ""
                             ]
                         },
                         {
@@ -19005,14 +19005,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「な、なに言ってるんですか！？"
+                                "W-What are you saying!? That's obviously not\nallowed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　そんなのダメにきまってるじゃないですか！」"
+                                ""
                             ]
                         },
                         {
@@ -19052,14 +19052,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「こんな私みたいなおばさんが"
+                                "For someone like me, an older woman, to wear a\nschool uniform and go to school... unless it's\nsome kind of magic..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　制服を着て学校へ行くなんて、魔法でもない限り・・"
+                                ""
                             ]
                         },
                         {
@@ -19128,14 +19128,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ワシの神通力で可能じゃ。"
+                                "With my psychic powers, it's possible. I can use a\nhypnotic illusion to make it work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　誤認識の催眠術でいけるじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -19220,7 +19220,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そ、そうなんですか？」"
+                                "I-Is that so?"
                             ]
                         },
                         {
@@ -19289,14 +19289,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「じゃが、催眠術にも限界はある。"
+                                "However, there are limits to hypnosis. If you wear\ncasual clothes, it may feel unnatural and the\nhypnosis might not work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　普段着では違和感をもたれ、術が効かんじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -19336,21 +19336,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「少なくとも制服は入手する必要がある。\\!"
+                                "At the very least, we need to acquire a school\nuniform. And on top of that, you must learn the\nmagic. As for the magic... let's discuss it at my\nplace... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　おまけに術はお主が習得せねばならん。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　術の方は・・・我が家で相談しようではないか・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -19379,14 +19379,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校に入るには"
+                                "To enter school, you need to acquire a school\nuniform and learn specific skills."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "学生服の入手と特定スキルの習得が必要です。"
+                                ""
                             ]
                         },
                         {
@@ -19403,14 +19403,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学生服は商店街の雑貨屋で、"
+                                "You can acquire a school uniform at the general\nstore in the shopping district, and you can learn\nthe skills from Rei at your home."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "スキルは自宅のレイから習得できます。"
+                                ""
                             ]
                         },
                         {
@@ -19851,21 +19851,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子学生"
+                                "Male Student: Damn it... Sato and Shimura have\nsomehow managed to get girlfriends..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くそっ・・・佐藤も下村もいつの間にか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　彼女作りやがって・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19882,14 +19882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子学生"
+                                "Male Student: Me too... but... sigh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「俺も・・・・けど・・・・はぁ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19906,7 +19906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悩んでいる男子校生がいる・・・"
+                                "There is a male student who is troubled..."
                             ]
                         },
                         {
@@ -19923,7 +19923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "声をかけますか？"
+                                "Should I talk to them?"
                             ]
                         },
                         {
@@ -20158,21 +20158,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Ah... Ayako-san.... H-hello...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・綾子さん・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こ、こんにちは・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -20228,7 +20228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・こ、こんにちは」"
+                                ".....H-hello"
                             ]
                         },
                         {
@@ -20254,14 +20254,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: ......It's... a nice weather, isn't\nit...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・い・・・良い天気ですねー・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -20301,7 +20301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうね・・・・」"
+                                "Y-yes, that's right..."
                             ]
                         },
                         {
@@ -20343,14 +20343,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\>ヒロヤ　　　　　　　　　　　　　　　　　　　\\kw[1]"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　「・・・・・・・・・・・・・」"
+                                "\\>Hiroya ............."
                             ]
                         },
                         {
@@ -20376,21 +20376,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Ah, ahaha... um... do you have a moment\nright now...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あはは・・・・・その・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今って・・・時間・・・ちょっとありますか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -20537,14 +20537,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・ごめんなさい。"
+                                "...I'm sorry. I have something to do today..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今日は用事が・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -20561,21 +20561,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Eh?! Ah, ah, I see... W-well, it's not\nreally important, so it's okay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「えっ？！あ、ああ、そ、そうなんですね！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　い、いやぁ大した用事じゃないんで別に大丈夫ですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -20601,14 +20601,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Hahaha...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ははは・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -20648,7 +20648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(・・・・あとで来てあげましょ)"
+                                "(...I'll come later)"
                             ]
                         },
                         {
@@ -20812,21 +20812,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Ah, Ayako-san! Um... I have something to\ntalk to you about!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、綾子さん！あのっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お話があるんですが！」"
+                                ""
                             ]
                         },
                         {
@@ -20882,14 +20882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(どうしたのかしら・・・？"
+                                "(I wonder what's going on...? They have a\ndetermined look on their face, but...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 何か決意した顔をしてるけど・・・)"
+                                ""
                             ]
                         },
                         {
@@ -21122,14 +21122,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Uh, um...! Uh, Ayako-san...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あ、あの・・・！あ、あやこっささん・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -21216,7 +21216,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は、はい・・・・・・！」"
+                                "Y-Yes...!"
                             ]
                         },
                         {
@@ -21233,21 +21233,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Um, well...! After that, I've been\nthinking about various things...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そ、その・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あれからいろいろ考えたんですけど・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -21287,7 +21287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(これって・・・・？！)"
+                                "(What is this...?!)  Note: The context provided\ndoes not give any specific information about what\nthis refers to, so the translation remains\nneutral."
                             ]
                         },
                         {
@@ -21304,21 +21304,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Um, um, well...! Actually, I...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あ、あ、あのですね・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　やっぱり、お、おれ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -21358,7 +21358,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「っ・・・・・・・」\\}ドキドキドキ・・・！"
+                                "(...) *Heart pounding*"
                             ]
                         },
                         {
@@ -21375,21 +21375,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: I-I...! A-Ayako-san...!! I-I'm...!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「お、おれっ・・・！あ、あやこさんがっ・・・！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　すっ・・・・・すっ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -21429,7 +21429,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「～～～～！」\\}ドキッドキッ・・・！"
+                                "~~~~! *Heart pounding*"
                             ]
                         },
                         {
@@ -21615,28 +21615,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: S...! \\.\\. S-s...!? \\. S-haaahh!! Cough!\nAhem! S-sorry... I'm just a bit out of breath....\nHaaah.... Haaah...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「す・・・・・・！\\.\\.すっ・・・・！？\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  すはぁ～～っ！！げほっ！えほっ！す、すみません・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっと息が・・・・はーっ・・・・はーっ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -21692,7 +21692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -21732,7 +21732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・」"
+                                "「...」"
                             ]
                         },
                         {
@@ -21772,14 +21772,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ねえ、ヒロヤ君。"
+                                "Hey, Hiroya-kun. Wanna take a walk?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっと歩かない？」"
+                                ""
                             ]
                         },
                         {
@@ -21918,7 +21918,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(な、なんだかこっちまで緊張してきた・・・！)"
+                                "(S-Somehow, I'm starting to feel nervous too...!)"
                             ]
                         },
                         {
@@ -21958,7 +21958,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(落ち着いたらまた来ましょ)"
+                                "(Let's meet again when you've calmed down.)"
                             ]
                         },
                         {
@@ -22223,14 +22223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ヒロヤ君・・・・・"
+                                "(Hiroya-kun... I wonder if you were able to\nproperly date a girl...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ちゃんと女の子と付き合えたかな・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -22270,14 +22270,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・ここに居ないってことは"
+                                "(....If he's not here, maybe he went on a date\nwith a girl....)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " もしかしたら女の子とデートに・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -22317,21 +22317,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・でもヒロヤ君って肝心なとこで"
+                                "(...But Hiroya-kun tends to cough at crucial\nmoments... I wonder if he'll be okay....? Well, I\ndo appreciate his earnestness...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 咳き込んじゃったりするから・・・大丈夫かな・・・・？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " まあ、私はそういう一生懸命なところが・・・"
+                                ""
                             ]
                         },
                         {
@@ -22557,21 +22557,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(私・・・なに考えてるの・・・・"
+                                "(What am I thinking... That was just Hiroya-kun's\nmomentary confusion...! I shouldn't take it\nseriously....)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あれはヒロヤ君の気の迷いよ・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 本気にしちゃ・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -22611,7 +22611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                "「.........」"
                             ]
                         },
                         {
@@ -22651,21 +22651,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そういえば午後から雨予報だったわね！"
+                                "Oh, speaking of which, it's supposed to rain in\nthe afternoon! Let's finish our errands early and\ngo home! First, let's go shopping..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　早めに用事済ませて、家に帰りましょ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まずはお買い物に・・・"
+                                ""
                             ]
                         },
                         {
@@ -22896,7 +22896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おいっ・・・あんまりくっつくなって・・・！」"
+                                "H-Hey... Don't get too close...!"
                             ]
                         },
                         {
@@ -23211,28 +23211,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子学生"
+                                "Female Student: Oh, come on, it's no big deal,\ndon't worry♪ Oh, could it be...! You're just shy\nbecause we're going home together after a long\ntime!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えーいいじゃん、気にしない気にしない♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あ、もしかして・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　久々に一緒に帰るから照れちゃってるとか！」"
+                                ""
                             ]
                         },
                         {
@@ -23258,14 +23258,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Y-You idiot! That's not it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ば、ばかっ！そうじゃねぇよ！」"
+                                ""
                             ]
                         },
                         {
@@ -23291,28 +23291,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "女子学生"
+                                "Female Student: W-Well, that's not important.\nListen! Our senior has recovered and been\ndesignated as a long-distance runner for training!\nIsn't that amazing?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ま、それはどうでもいんだけどさ。聞いてよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ウチの先輩、調子が復活して長距離選手の"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　強化指定されたんだよ！スゴない？！」"
+                                ""
                             ]
                         },
                         {
@@ -23339,28 +23339,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "女子学生"
+                                "Female Student: W-Well, that's not important.\nListen! Our senior was really fast in long-\ndistance running, but lately they've been feeling\ndown... I wonder how we can cheer them up."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ま、それはどうでもいんだけどさ。聞いてよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ウチの先輩めっちゃ長距離速かったんだけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　最近調子悪くて・・・どうやったら元気づけれるかな」"
+                                ""
                             ]
                         },
                         {
@@ -23387,21 +23387,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Ah... the class next door... I don't\nreally interact with them much."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あー・・・隣のクラスの・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　俺はあんまり絡みないからなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -23449,14 +23449,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: By the way, about what happened the other\nday..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「てか、この前の話なんだけど・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -23482,14 +23482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Ah... Ayako-san..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ・・・・・綾子さん・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -23554,7 +23554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こ、こんにちは・・・・・・」"
+                                "H-Hello..."
                             ]
                         },
                         {
@@ -23625,14 +23625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子学生"
+                                "Female Student: Who is this person?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だれ？この人？」"
+                                ""
                             ]
                         },
                         {
@@ -23658,21 +23658,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Um... that... person... is an\nacquaintance! Hahaha..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・その・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知り合い・・・だよ！ははは・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -23759,7 +23759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・・」"
+                                "Huh...."
                             ]
                         },
                         {
@@ -23799,7 +23799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -23839,14 +23839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごめんね・・・・今日・・・・急いでるから。"
+                                "Sorry... I'm in a hurry today... bye bye."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\!・・・・・・ばいばい」"
+                                ""
                             ]
                         },
                         {
@@ -24097,14 +24097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Huh...!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・！！！」"
+                                ""
                             ]
                         },
                         {
@@ -24121,14 +24121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: G-Go home ahead of me!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さ、先に帰ってて！！」"
+                                ""
                             ]
                         },
                         {
@@ -24518,14 +24518,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ\\{"
+                                "Hiroya: Please wait!! Ayako-san!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「待ってください！！綾子さん！！」"
+                                ""
                             ]
                         },
                         {
@@ -24551,21 +24551,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子学生"
+                                "Female Student: Mmm... leaving behind such a cute\ngirl like this...! What's gotten into you,\nseriously?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「むぅ～・・・こんな可愛い子を置いてくなんて・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうしちゃったのよ全く」"
+                                ""
                             ]
                         },
                         {
@@ -24601,7 +24601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぽつっ・・・・・"
+                                "*plop...*"
                             ]
                         },
                         {
@@ -24627,14 +24627,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子学生"
+                                "Female Student: Ah! It's raining! I have to hurry\nhome!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！雨だ！急いで帰らなきゃ！！」"
+                                ""
                             ]
                         },
                         {
@@ -24981,38 +24981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント終了後に「Q」キーを押すと、"
+                                "After the event ends, if you press the Q key,\nyou can hear Ayako's soliloquy about that event."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのイベントに関する綾子の独り言が聞けます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的には聞かなくてもゲーム進行には影響ありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略のヒントに繋がることを呟くかもしれません。"
+                                ""
                             ]
                         },
                         {
@@ -25029,21 +25005,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、イベント関連の独り言は、"
+                                "Basically, it doesn't affect the game progress if\nyou don't listen to it, but she might whisper\nsomething that could lead to hints for capturing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家で寝てしまったり、一度聞くと\\c[2]二度と呟かなくなります。\\c[0]"
+                                "Also, be aware that if you fall asleep at home or\nlisten to the event-related soliloquy\nonce,\\c[2]she won't whisper it again.\\c[0] So\nplease be careful if you want to hear all the\nconversations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全ての会話を聞きたい方は気をつけてください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -25180,21 +25180,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゲーマーの男"
+                                "Gamer (male): I want a new game console... I\nwonder if they sell it at the electronics store in\nthe shopping district...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「新しいゲーム機欲しいなぁ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　商店街の家電屋に売ってあるかな・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -25386,85 +25386,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "霊感の強そうな女性"
+                                "A woman who seems to have strong spiritual\nsensitivity said, Ghosts remain in this world\nbecause they regret something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「幽霊って何かを悔やんでいるから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この世に残ってるのよ」"
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 0,
-                            "parameters": [
-                                16,
-                                1,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女性の友人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へー！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "霊感の強そうな女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから後悔の念を晴らしてやると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　成仏できるのよ」"
+                                ""
                             ]
                         },
                         {
@@ -25490,21 +25426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性の友人"
+                                "Female friend: Wow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「その口ぶり・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして、除霊とかしたことあるの！？」"
+                                ""
                             ]
                         },
                         {
@@ -25521,14 +25450,85 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "霊感の強そうな女性"
+                                "A woman who seems to have strong spiritual\nsensitivity said, That's why if you clear their\nregrets, they can find peace."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                16,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・ってテレビで言ってたわ」"
+                                "Female friend: The way you're talking... do you\nhave experience with exorcisms!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "A woman who seems to have strong spiritual\nsensitivity said, ...I heard that on TV."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -25554,14 +25554,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性の友人"
+                                "Female friend: Oh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へー・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25738,14 +25738,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がる娘"
+                                "Reluctant girl: No, no! I don't want a kiss!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やだやだ！おちゅうしゃいやだ！！」"
+                                ""
                             ]
                         },
                         {
@@ -25771,21 +25771,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なだめる父親"
+                                "Comforting father: It's okay, it won't hurt at\nall! Once just the tip goes in, it'll be over\nquickly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫だよ、全然痛くないから！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　先っぽだけ入ったらすぐだから！」"
+                                ""
                             ]
                         },
                         {
@@ -25856,14 +25856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がる娘"
+                                "Reluctant child: Really? I really don't want to?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ほんと？ほんとにいたくないの？」"
+                                ""
                             ]
                         },
                         {
@@ -25889,14 +25889,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なだめる父親"
+                                "Comforting father: Ah... yeah... well, it won't\nhurt that much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ・・うん・・・まぁ\\}あんまり\\{痛くないよ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25967,14 +25967,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がる娘"
+                                "Reluctant daughter: I still don't want to!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\{やっぱりやだーー！！\\}」"
+                                ""
                             ]
                         },
                         {
@@ -26120,14 +26120,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がる娘"
+                                "Reluctant girl: No, no! I don't want a kiss!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やだやだ！おちゅうしゃいやだ！！」"
+                                ""
                             ]
                         },
                         {
@@ -26153,21 +26153,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なだめる父親"
+                                "Comforting father: It's okay, it won't hurt at\nall! Once just the tip goes in, it'll be over\nquickly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫だよ、全然痛くないから！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　先っぽだけ入ったらすぐだから！」"
+                                ""
                             ]
                         },
                         {
@@ -26238,14 +26238,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がる娘"
+                                "Reluctant child: Really? I really don't want to?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ほんと？ほんとにいたくないの？」"
+                                ""
                             ]
                         },
                         {
@@ -26271,14 +26271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なだめる父親"
+                                "Comforting father: Ah... yeah... well, it won't\nhurt that much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ・・うん・・・まぁ\\}あんまり\\{痛くないよ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -26349,14 +26349,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "嫌がる娘"
+                                "Reluctant daughter: I still don't want to!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\{やっぱりやだーー！！\\}」"
+                                ""
                             ]
                         },
                         {
@@ -26502,14 +26502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味津々の男子"
+                                "Curious male: Hey, is that really true...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おい、それってホントなのかよ・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -26526,21 +26526,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情報通の男子"
+                                "Informed individual: Ah... It seems that there's\na couple who engage in sexual activities in the\ncars at this parking lot at night...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ・・・夜になるとこの駐車場の車で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ヤッてるカップルがいるらしいぞ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -26566,21 +26566,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味津々の男子"
+                                "Curious individual: No way...! Hey, let's confirm\nit ourselves next time...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まじかよ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なあ・・今度オレらで確かめようぜ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -26597,21 +26597,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情報通の男子"
+                                "Informed individual: ...Sorry, but I can't go\nbecause I go to bed at 10 o'clock..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・わりぃけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おれ10時には寝るから行けねぇわ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -26637,14 +26637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味津々の男子"
+                                "Curious individual: ......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -26781,14 +26781,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味津々の男子"
+                                "Curious male: Hey, is that really true...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おい、それってホントなのかよ・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -26805,21 +26805,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情報通の男子"
+                                "Informed individual: Ah... It seems that there's\na couple who engage in sexual activities in the\ncars at this parking lot at night...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ・・・夜になるとこの駐車場の車で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ヤッてるカップルがいるらしいぞ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -26845,21 +26845,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味津々の男子"
+                                "Curious individual: No way...! Hey, let's confirm\nit ourselves next time...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まじかよ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なあ・・今度オレらで確かめようぜ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -26876,21 +26876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "情報通の男子"
+                                "Informed individual: ...Sorry, but I can't go\nbecause I go to bed at 10 o'clock..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・わりぃけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おれ10時には寝るから行けねぇわ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -26916,14 +26916,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "興味津々の男子"
+                                "Curious individual: ......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -27051,85 +27051,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "霊感の強そうな女性"
+                                "A woman who seems to have strong spiritual\nsensitivity said, Ghosts remain in this world\nbecause they regret something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「幽霊って何かを悔やんでいるから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この世に残ってるのよ」"
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 0,
-                            "parameters": [
-                                16,
-                                1,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女性の友人"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「へー！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "霊感の強そうな女性"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「だから後悔の念を晴らしてやると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　成仏できるのよ」"
+                                ""
                             ]
                         },
                         {
@@ -27155,21 +27091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性の友人"
+                                "Female friend: Wow!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「その口ぶり・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もしかして、除霊とかしたことあるの！？」"
+                                ""
                             ]
                         },
                         {
@@ -27186,14 +27115,85 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "霊感の強そうな女性"
+                                "A woman who seems to have strong spiritual\nsensitivity said, That's why if you clear their\nregrets, they can find peace."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                16,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・ってテレビで言ってたわ」"
+                                "Female friend: The way you're talking... do you\nhave experience with exorcisms!?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "A woman who seems to have strong spiritual\nsensitivity said, ...I heard that on TV."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -27219,14 +27219,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性の友人"
+                                "Female friend: Oh...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へー・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -27361,7 +27361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「勝手に入っちゃダメよね・・・」"
+                                "You can't just enter without permission, you\nknow..."
                             ]
                         },
                         {
@@ -27661,14 +27661,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「この学生服・・・ちょっとサイズが合ってないわね・・・"
+                                "This school uniform... it doesn't quite fit me\nright... I wonder if it's revealing too much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　色々見えちゃわないかしら・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -27806,14 +27806,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「うむ、なかなか似合っておるではないか。"
+                                "Hmm, it suits you quite well. You look like a\ntypical vibrant female student in the prime of\nyouth."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　青春まっ盛りの女学生そのものじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -27898,7 +27898,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「絶対思ってないでしょ・・・」"
+                                "You definitely don't think that, right...?"
                             ]
                         },
                         {
@@ -27938,7 +27938,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「それより、ホントに大丈夫なんですよね・・・？」"
+                                "But, are you really sure...?"
                             ]
                         },
                         {
@@ -28023,14 +28023,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「安心せい、術はしっかりかかっておる。"
+                                "Don't worry, the spell is firmly in place.\nEveryone around will only see you as a well-\nendowed female student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　周囲からは肉付きの良い女学生としか思われん」"
+                                ""
                             ]
                         },
                         {
@@ -28115,7 +28115,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「なら、いいんですけど・・・」"
+                                "If that's the case, then it's fine..."
                             ]
                         },
                         {
@@ -28200,14 +28200,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「さて・・・学校を楽しむのもよいが、"
+                                "Well... it's good to enjoy school, but this is a\nplace where many young people gather."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　ここは若人が多く集まっておる場所じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -28247,14 +28247,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ならば・・・それだけ若く滾る欲望も"
+                                "In that case... your youthful desires must also be\noverflowing...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　満ち満ちておるじゃろうのぅ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -28339,14 +28339,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「っ・・・・」\\!"
+                                "Huh...? (I wonder if they agreed to help because\nof that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "(ノリノリで協力してくれたのはその為か・・・)"
+                                ""
                             ]
                         },
                         {
@@ -28415,7 +28415,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「では、久々の学校性活・・・・楽しんでくるのじゃ♡」"
+                                "Well then, it's been a while since we've had some\nschool activities... Let's enjoy ourselves to the\nfullest♡"
                             ]
                         },
                         {
@@ -28500,7 +28500,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「行ってきます・・・」"
+                                "I'm off..."
                             ]
                         },
                         {
@@ -28618,14 +28618,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学生服は持ってるとはいえ、こんなおばさんが着てたら"
+                                "Even though I have a school uniform, if a middle-\naged woman like me wears it, it will be obvious\nright away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　すぐバレちゃうわよね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -28649,7 +28649,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんの超能力でどうにかできないかしら？」"
+                                "I wonder if Rei-san's psychic powers can somehow\nhelp with this?"
                             ]
                         },
                         {
@@ -28678,14 +28678,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには"
+                                "In order to enter the school, you need to progress\nthrough events with Rei."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "レイとのイベントを進める必要があります。"
+                                ""
                             ]
                         },
                         {
@@ -28771,14 +28771,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「レイさんに超能力は教えてもらったけど、"
+                                "Rei-san taught me psychic powers, but the crucial\nthing is that I don't have any clothes to wear..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　肝心の着る服がないわね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -28802,7 +28802,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「商店街とかに置いてたりしないかしら・・・？」"
+                                "I wonder if they have it in the shopping\ndistrict...?"
                             ]
                         },
                         {
@@ -28831,14 +28831,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校内に立ち入るには学生服を手に入れる必要があります。"
+                                "To enter the school, you need to obtain a school\nuniform. Please progress through the event at the\ngeneral store in the shopping district."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "商店街の雑貨屋イベントを進めて下さい。"
+                                ""
                             ]
                         },
                         {
@@ -28920,14 +28920,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「学校かぁ・・・私も昔は制服着て通ってたのよね・・・"
+                                "School, huh... I used to wear a school uniform and\nattend too... It brings back memories."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　懐かしいわ」"
+                                ""
                             ]
                         },
                         {
@@ -28967,14 +28967,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふふ・・・今は今で楽しいけど"
+                                "Hehe... It's fun as it is now, but I'd like to\nexperience the feeling of being a student again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分はもう一度味わってみたいなぁ」"
+                                ""
                             ]
                         },
                         {
@@ -29073,14 +29073,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「ふむ・・・今からでも制服を着て立ち入れば"
+                                "Hmm... Even if it's now, if you wear a school\nuniform and enter, you can experience the feeling\nof being a student."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　学生気分は体験できるじゃろ」"
+                                ""
                             ]
                         },
                         {
@@ -29165,14 +29165,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「な、なに言ってるんですか！？"
+                                "W-What are you saying!? That's obviously not\nallowed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　そんなのダメにきまってるじゃないですか！」"
+                                ""
                             ]
                         },
                         {
@@ -29212,14 +29212,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「こんなおばさんが制服を着て学校へ行くなんて、"
+                                "For a woman like me to wear a school uniform and\ngo to school, unless it's magic..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　魔法でもない限り・・"
+                                ""
                             ]
                         },
                         {
@@ -29288,14 +29288,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「あるぞ。ワシの神通力で可能じゃ。"
+                                "I have a way. With my psychic powers, it's\npossible. I can use a hypnotic illusion to make it\nwork."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　誤認識の催眠術でいけるじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -29380,7 +29380,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「そ、そうなんですか？」"
+                                "I-Is that so?"
                             ]
                         },
                         {
@@ -29449,21 +29449,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「じゃが、催眠術にも限界はある。"
+                                "However, there are limits to hypnosis. It's\nunderstandable that if you wear casual clothes, it\nwould feel out of place and the hypnosis wouldn't\nwork."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　さすがに普段着では違和感をもたれ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　術が効かんじゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -29503,21 +29503,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「少なくとも制服は着る必要がある。\\!"
+                                "At the very least, you need to wear a school\nuniform. And... you must learn the technique as\nwell. How about we discuss it at my place... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　おまけに・・・術はお主が習得せねばならん。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　そっちは・・・我が家で相談しようではないか・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -29546,14 +29546,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学校に入るには"
+                                "To enter school, you need to obtain a school\nuniform and acquire specific skills."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "学生服の入手と特定スキルの習得が必要です。"
+                                ""
                             ]
                         },
                         {
@@ -29570,14 +29570,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "学生服は商店街の雑貨屋で、"
+                                "You can obtain a school uniform at the general\nstore in the shopping district, and you can learn\nthe skills from Rei at your home."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "スキルは自宅のレイから習得できます。"
+                                ""
                             ]
                         },
                         {

@@ -2168,7 +2168,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お客様一気に入ってきましたね」"
+                                "The customers seem to have taken a liking to it\nall at once."
                             ]
                         },
                         {
@@ -2185,21 +2185,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
+                                "Black-suited person: This is how it is during this\ntime. Please take the customers' orders and relay\nthem to the kitchen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「この時間帯はこんな感じですよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　では、客の注文を聞いてそれを厨房に連絡してください」"
+                                ""
                             ]
                         },
                         {
@@ -2239,7 +2239,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい、分かりました」"
+                                "Yes, understood."
                             ]
                         },
                         {
@@ -2424,7 +2424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ご注文をお伺いいたします」"
+                                "I will take your order."
                             ]
                         },
                         {
@@ -2450,21 +2450,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客A"
+                                "Customer A: Um, one draft beer and one highball,\nand also fried chicken and french fries."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えーっと、生1つとハイボール１で"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あとフライドチキンとポテフラも」"
+                                ""
                             ]
                         },
                         {
@@ -2488,7 +2488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい、かしこまりました♪」"
+                                "Yes, understood♪"
                             ]
                         },
                         {
@@ -2655,7 +2655,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ご注文をお伺いいたします」"
+                                "I will take your order."
                             ]
                         },
                         {
@@ -2672,14 +2672,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
+                                "Customer B: Hmm... do you have any\nrecommendations?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んー・・・なんかオススメあります？」"
+                                ""
                             ]
                         },
                         {
@@ -2719,14 +2719,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうですね・・・では当店特製の"
+                                "Well... how about trying our special sausages?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ウインナーなどいかがでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -2783,21 +2783,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
+                                "Customer B: .... What's the difference between\nthat and regular sausages?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・それって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　普通のウインナーと何が違うんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -2821,21 +2821,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「当店のウインナーは、"
+                                "Our sausages at this establishment are longer,\nthicker, and have a rich flavor compared to those\nsold in stores."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　市販の物より長くて太くて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　味付けが濃厚なのが特徴ですね」"
+                                ""
                             ]
                         },
                         {
@@ -2861,21 +2861,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
+                                "Customer B: Hmm... so you like sausages, huh? How\ndo you usually eat them?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふーん・・・お姉さん、ウインナーが好きなんですね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　普段どうやって食べてますか」"
+                                ""
                             ]
                         },
                         {
@@ -2915,14 +2915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私、熱々が好きなんですよ♡"
+                                "I actually love them piping hot♡ So I'll just pop\na freshly made one into my mouth and savor it all\nat once♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なので出来立てを一気に口に入れて頬張っちゃいます♪」"
+                                ""
                             ]
                         },
                         {
@@ -2939,14 +2939,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
+                                "Customer B: Oh... so do you also take cocks all at\nonce?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へぇ・・・じゃあチンポも一気に咥えてるんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -2970,14 +2970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえ、おちんちんは"
+                                "Well, when it comes to penises..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どちらかと言えば・・・・"
+                                ""
                             ]
                         },
                         {
@@ -3017,7 +3017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・！！」"
+                                "「......！！」"
                             ]
                         },
                         {
@@ -3043,21 +3043,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客B"
+                                "Customer B: Well then, shall I get one of your\nfavorite special 'sausages', big sister? *smirks*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃ、お姉さんの大好きな"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　特製\"ウインナー\"を一つ貰おうかな」\\}にやにや・・・"
+                                ""
                             ]
                         },
                         {
@@ -3097,7 +3097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・かしこまりました」"
+                                ".....Understood."
                             ]
                         },
                         {
@@ -3295,7 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・ご注文をお伺いします」"
+                                "....I will take your order."
                             ]
                         },
                         {
@@ -3321,21 +3321,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客C"
+                                "Customer C: Oh, you have a nice body, employee-\nsan ♡ I'll take you out for some 'delivery'.\nGahaha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっ、店員さん良い身体してんな♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんたをテイクアウトで頼むわ。がっはっは！」"
+                                ""
                             ]
                         },
                         {
@@ -3384,7 +3384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・うちはテイクアウトに対応していません」"
+                                "....We do not offer takeout services."
                             ]
                         },
                         {
@@ -3441,21 +3441,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客D"
+                                "Customer D: Hey hey, cut it out with those jokes.\nSorry about that, my friend said something weird."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おいおい、そういう冗談はやめとけよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すまねぇな、連れが変な事言って」"
+                                ""
                             ]
                         },
                         {
@@ -3526,7 +3526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いえ大丈夫です・・・」"
+                                "N-No, I'm fine..."
                             ]
                         },
                         {
@@ -3597,7 +3597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では、ご注文の方を・・・」"
+                                "Well then, may I take your order..."
                             ]
                         },
                         {
@@ -3654,21 +3654,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客D"
+                                "Customer D: Hmm, in that case, I'll have a Jim\nLock cocktail, plum wine with hot water, and\nsautéed beef skirt steak..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んー、それじゃあ、ジムロックと梅酒お湯割りと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　牛サガリのソテーと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3725,14 +3725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客D"
+                                "Customer D: Can I have one of these big peaches?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「この、デカイ桃を一つ貰おうか？」"
+                                ""
                             ]
                         },
                         {
@@ -3853,7 +3853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～～～～！！！」"
+                                "Ughhhhh!!!"
                             ]
                         },
                         {
@@ -4170,14 +4170,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客C＆D\\{"
+                                "Customer C&D: Hahahaha♪!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だぁっはっはっは♪！！」"
+                                ""
                             ]
                         },
                         {
@@ -4217,14 +4217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後も酔っ払い相手に"
+                                "Ayako, who continued to be harassed by drunken\ncustomers, took their orders..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "セクハラされつつも注文をとった綾子であった・・・"
+                                ""
                             ]
                         },
                         {
@@ -4520,21 +4520,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
+                                "Black Suit: Good job. It's amazing that you were\nable to move that much on your first day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お疲れ様でした。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　初日であれだけ動けるとは素晴らしいです」"
+                                ""
                             ]
                         },
                         {
@@ -4599,38 +4599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・ここのお客様って"
+                                "....Are the customers here always like this...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつもあんな感じですか・・・？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黒服"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「場所が場所なだけにそういう方が多いですね」"
+                                ""
                             ]
                         },
                         {
@@ -4647,21 +4623,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
+                                "Black Suit: Given the location, there are indeed\nmany customers like that."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もし、希望されるなら"
+                                "Black Suit: If you'd like, would you prefer to be\nassigned to the stage?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ステージ担当に配置を変えましょうか？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4710,14 +4710,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(お尻触られるくらいならステージ担当の方がいいかも・・"
+                                "(If I have to endure being touched on the butt,\nmaybe it would be better for me to be assigned to\nthe stage... Should I ask for that?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そうしてもらおうかしら・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4757,7 +4757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみませんが、それでお願いします・・・」"
+                                "I'm sorry, but please let me do that..."
                             ]
                         },
                         {
@@ -4774,28 +4774,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
+                                "Black Suit: Understood. However, we can't change\nthe assignments too often, so please stay assigned\nto the stage for a while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「分かりました。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ですが、そう何度も配置は変えれないので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しばらくはステージ担当で固定でお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -4835,14 +4835,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、分かりました。\\!"
+                                "Yes, I understand. By the way, when will the\nmembership card be issued?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それと会員証っていつ頃発行されますか？」"
+                                ""
                             ]
                         },
                         {
@@ -4859,21 +4859,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
+                                "Black Suit: It will be ready soon, so it looks\nlike we can hand it over by the time the next job\nis finished."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もう少しでできあがるので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　次の仕事が終わった頃には渡せそうです」"
+                                ""
                             ]
                         },
                         {
@@ -4913,7 +4913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございます」"
+                                "Thank you very much."
                             ]
                         },
                         {
@@ -4953,14 +4953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(よし・・・これであの部屋に入れそうね・・・"
+                                "(Alright... It looks like I can enter that room\nnow... I wonder what kind of room it is...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 一体なんの部屋なのかしら・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -5000,14 +5000,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それより・・・次はショーの補佐か・・・"
+                                "(But... next is assisting with the show, huh...\nMaybe I should try practicing some magic or\nsomething)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " なにかマジックの練習でもしてみようかしら)"
+                                ""
                             ]
                         },
                         {
@@ -5073,14 +5073,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "客からセクハラされるため"
+                                "Ayako, who had her position changed from the hall\nto avoid being sexually harassed by a customer..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ホールから配置を変えてもらった綾子・・・"
+                                ""
                             ]
                         },
                         {
@@ -5097,28 +5097,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかし、この店で行われるショーの内容を"
+                                "However, Ayako couldn't imagine the content of the\nshow that would be held in this shop...! After\nreturning home, Ayako leisurely practiced magic\ntricks..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今の綾子には想像できてなかった・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "帰宅後、呑気に手品の練習をする綾子であった・・・"
+                                ""
                             ]
                         },
                         {
@@ -5521,14 +5521,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 1!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 1 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -5557,14 +5557,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 2..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 2 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5602,7 +5602,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "綾子はバイト代で5000円手に入れた。"
+                                "Ayako earned 5000 yen as her part-time job\npayment."
                             ]
                         },
                         {

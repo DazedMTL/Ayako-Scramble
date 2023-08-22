@@ -1109,7 +1109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん・・・・・・急に尿意が・・・\\}最近トイレが近いなぁ・・・・・・\\{」"
+                                "Hmm... suddenly feeling the urge to pee... Lately,\nI've been needing to use the toilet more often..."
                             ]
                         },
                         {
@@ -1149,14 +1149,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょうどいいタイミングだったわ。"
+                                "It's the perfect timing. Let me take care of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　済ませときましょ」"
+                                ""
                             ]
                         },
                         {
@@ -1267,14 +1267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒A"
+                                "Female Student A: I'm coming in~ *taps on\nsmartphone*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「入ってまーす」\\}スマホぽちぽち・・・"
+                                ""
                             ]
                         },
                         {
@@ -1330,7 +1330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あら・・・・・」"
+                                "Oh, my..."
                             ]
                         },
                         {
@@ -1441,14 +1441,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒B"
+                                "Female Student B: I'm coming in~ *pats on\nfoundation*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「入ってまーす」\\}ファンデーションぱふぱふ・・・"
+                                ""
                             ]
                         },
                         {
@@ -1513,7 +1513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ？！えぇっ・・・・・」\\}もじもじ・・・"
+                                "Huh?! Umm... blushing..."
                             ]
                         },
                         {
@@ -1664,14 +1664,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒C"
+                                "Female Student C: I'm coming in~ *munching on a\nbento..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「入ってまーす」\\}弁当ぱくぱく・・・"
+                                ""
                             ]
                         },
                         {
@@ -1736,14 +1736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うぅぅ・・・っ・・・！"
+                                "Ugh...! All three of them are completely\nfilled...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　三つとも全部埋まってるなんて・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -1792,14 +1792,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・はぁ・・・・はぁ・・・！"
+                                "Huh... haa... haa...! The urge to pee is getting\nstronger...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どんどん尿意が・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -1839,14 +1839,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほ、他の階に・・・・・・・い、いえ・・・"
+                                "O-Other floor... I-It's... too far... I won't make\nit in time...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そこまでは・・・間にあわない・・・っ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -1937,14 +1937,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうしよ・・・・！どうしよ・・・っ・・・・ぅぅ！"
+                                "What should I do...! What should I do...! Ugh! The\nnearest restroom is so far away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　他に・・・近いとこのトイレなんて・・・・っ・・」"
+                                ""
                             ]
                         },
                         {
@@ -2024,14 +2024,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・・一つだけ・・・あったわ・・・"
+                                "..........There was one... but... that one is....."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でも・・・それは・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2071,7 +2071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -2111,7 +2111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「四の五の言ってられないわ・・・！最終手段よ・・・！」"
+                                "I can't waste any more time...! It's the last\nresort...!"
                             ]
                         },
                         {
@@ -2289,7 +2289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「う・・・・・また尿意が・・・・・・・・」"
+                                "Ugh... I have to pee again..."
                             ]
                         },
                         {
@@ -2329,14 +2329,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・今日はどうかしら。"
+                                ".....I wonder how today will go. I hope somewhere\nis available... please..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お願いだからどこか空いてますように・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2447,14 +2447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒A"
+                                "Female Student A: I'm coming in~ *Playing with her\nsmartphone..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「入ってまーす」\\}スマホいじいじ・・・"
+                                ""
                             ]
                         },
                         {
@@ -2558,14 +2558,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒B"
+                                "Female Student B: I'm coming in~ *Applying\nlipstick..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「入ってまーす」\\}リップぬりぬり・・・"
+                                ""
                             ]
                         },
                         {
@@ -2716,14 +2716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒C"
+                                "Female Student C: I'm coming in~ *Munching on a\nbento..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「入ってまーす」\\}弁当ぱくぱく・・・"
+                                ""
                             ]
                         },
                         {
@@ -2788,14 +2788,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やっぱり三つとも埋まってる・・・・！"
+                                "As I thought, all three of them are occupied....!\nUgh...! Why aren't any of the toilets available?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もうっ・・・！なんでこんなにトイレが空かないの！？」"
+                                ""
                             ]
                         },
                         {
@@ -2844,7 +2844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くぅっ・・・・怒ったら尿意が・・・・っ・・・・！」"
+                                "Ugh... If I get angry, my urge to pee will...!"
                             ]
                         },
                         {
@@ -2884,14 +2884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「しかもこの学校・・・この階にしかトイレ無いのよね・・・"
+                                "And on top of that, this school... there's only\none toilet on this floor... ugh... it's like a\ndefective construction...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うぅ・・・・欠陥建築じゃないそんなの・・・っ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -2931,14 +2931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぅ・・・・・！"
+                                "Hau...! I-it's not the time to be getting angry\nabout that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　い、今は、そんなことに怒ってる場合じゃないわ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3018,7 +3018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「かくなる上は・・・・・・・・！」"
+                                "In this situation...!"
                             ]
                         },
                         {
@@ -3074,7 +3074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・・また、お邪魔するしかないわね」"
+                                "..........I guess I'll have to intrude again."
                             ]
                         },
                         {

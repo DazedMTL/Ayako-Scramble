@@ -6013,21 +6013,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: I was so bored that I kept playing mobile\ngames, and I ended up ranking high nationwide."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「暇すぎてずっとソシャゲしてたら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全国で上位にランクインしちゃいました」"
+                                ""
                             ]
                         },
                         {
@@ -6204,14 +6204,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Once I'm discharged, I'll go back to\nwork... Once I'm discharged, I'll go back to\nwork... *mumbling*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「退院したら仕事・・・退院したら仕事・・・」\\}ぶつぶつぶつ・・・"
+                                ""
                             ]
                         },
                         {
@@ -6297,21 +6297,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Ouch... it hurts... my heart hurts..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うぅぅ・・・・いてぇ・・・いてぇよぉ・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　心がいてぇよぉ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6658,21 +6658,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (My name is Kouta Yamada, a 23-year-old\ncollege student who is currently hospitalized with\nnothing special going on)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ボクの名前は山田コウタ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 何の変哲もない入院中の23歳の大学生)"
+                                ""
                             ]
                         },
                         {
@@ -6689,28 +6689,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (There's nothing particularly outstanding\nabout me, and while I do have some friends, it's\nnot like I have a lot of them. Oh... I've never\nhad a girlfriend either.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(これといって特に秀でたところもなく、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 友達もいないことはないが、多いということもない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " \\!・・・・・・・彼女はできたことないけど)"
+                                ""
                             ]
                         },
                         {
@@ -6736,28 +6736,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (In an attempt to impress a girl during my\ngraduation trip skiing, I tried to ski on a\ndifficult course... and ended up fracturing my\nleg...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そんな平凡なボクは、卒業旅行のスキーで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 女の子の前でイイとこ見せようと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 難しいコースを滑って・・・・足を骨折した・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -6774,21 +6774,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (I was at the bottom of despair, filled\nwith embarrassment and self-pity... Until just\nrecently...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(恥ずかしさと情けなさで絶望のどん底だった・・・・\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " つい最近までは・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -7008,14 +7008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんにちは。"
+                                "Hello. How is your health?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　体調はいかがですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7091,21 +7091,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (She is Nurse Nagatsuki. It seems like she\nrecently started working, and I have had her\nchange my bandages a few times.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(彼女はナースの永辻さん。最近働き始めたみたいで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ボクは何度か包帯を変えてもらったことがある)"
+                                ""
                             ]
                         },
                         {
@@ -7122,21 +7122,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (The nurses here are famous for being\ncute, but Nagatsuki-san is in a league of her own.\nAnd... she has an amazing body too.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ここのナースは可愛いことで有名だけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 永辻さんがダントツだ。\\.\\.\\}しかも・・・すごく良い身体してる\\{)"
+                                ""
                             ]
                         },
                         {
@@ -7176,21 +7176,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient U-um... Well, sometimes it hurts at night\nand I end up not getting enough sleep..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「う、うーん・・・その・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　夜に痛むことがあって寝不足になることが・・・」　"
+                                ""
                             ]
                         },
                         {
@@ -7230,14 +7230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それは辛いですね・・・先生に伝えておきます。"
+                                "That must be tough... I'll let the doctor know.\nSince I started working the night shift too, I'll\ncome check on you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  私も夜勤に入るようになったので様子を見に来ますね」"
+                                ""
                             ]
                         },
                         {
@@ -7263,14 +7263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient Y-yes...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいぃ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -7397,52 +7397,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (Her adorable yet nurturing adult smile\nmoistens and heals my withered heart...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(可愛らしくも母性溢れる大人の笑顔が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 枯れたボクの心を潤し癒してくれるぅ・・・・)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "患者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(歳は少し離れてるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " こんな可愛い人が彼女だったら・・・)"
+                                ""
                             ]
                         },
                         {
@@ -7459,14 +7428,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (Even though we have a bit of an age gap,\nif this cute person were my girlfriend...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・ん？夜勤・・・・・・？)"
+                                "Patient (.....Hm? Night shift...?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7492,28 +7492,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (Wait... The nights are different from the\ndaytime, it becomes moody... If we talk and get\nalong well, there might be a chance for me\ntoo...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(待てよ・・・夜は日中と違ってムーディーになる・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " お互いの話をして仲良くなれば、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ボクにもワンチャンあるかも・・・!)"
+                                ""
                             ]
                         },
                         {
@@ -7530,21 +7530,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (I've been alive in this world for 23\nyears... I'm Yamada, a man... Maybe my first\nspring is coming...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(この世に生を受けて23年・・・・・男、山田・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 初めての春が来るかもしれない・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -7601,28 +7601,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (That's right... If I work hard here, I\nmight be able to be with such a cute person...♡\nAlright....! Normally, I would go to bed early,\nbut starting tonight, I'll stay up late!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そうだ・・・ここで頑張ればあんな可愛い人と・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " よし・・・・！普段なら早く寝ちゃうけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 今夜から夜更かししちゃうぞ！)"
+                                ""
                             ]
                         },
                         {
@@ -7761,28 +7761,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Hmm... How can I differentiate between a\nregular nurse call and... maybe those who request\nit in advance behind the scenes... or perhaps a\nprecise call down to the second...? Hmm...\n*mumbling*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・普通のナースコールとどうやって区別を・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そういう人は事前に裏で申し込むとか・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それか秒単位でピッタリでコール・・？うーん・・」\\}ぶつぶつぶつ・・・"
+                                ""
                             ]
                         },
                         {
@@ -8314,14 +8314,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんにちは。"
+                                "Hello. How is the pain in your leg?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　足の痛みはいかがですか？」"
+                                ""
                             ]
                         },
                         {
@@ -8392,21 +8392,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Ah...! Nagatsuki-san....♡ To-today's\nweather is nice, isn't it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・！永辻さん・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　きょ、今日もいい天気ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -8457,14 +8457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・？外、曇ってますけど・・・・\\!\\CE[30]"
+                                ".....? It's cloudy outside.... Oh, do you mean\nit's cool? If you think about it that way, then\nit's nice weather, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あ、涼しいって意味ですか。そう考えたらいい天気ですね」"
+                                ""
                             ]
                         },
                         {
@@ -8490,21 +8490,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (Ugh... I spoke without thinking...\nN-No...! I need to turn the conversation around\nhere...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(うっ・・・・テキトーに話してしまった・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " い、いや・・・・！ここで巻き返しのトークを・・・)"
+                                ""
                             ]
                         },
                         {
@@ -8530,14 +8530,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: ......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8577,7 +8577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・？」"
+                                "「........？」"
                             ]
                         },
                         {
@@ -8603,14 +8603,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: ......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8636,14 +8636,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Um...! Are you on night shift today too?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あのっ・・・！今日も夜勤ですか？！」"
+                                ""
                             ]
                         },
                         {
@@ -8683,14 +8683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・！"
+                                "Huh...! Yes.... I'm on the night shift..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ええ・・・・夜勤・・・・・ですね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8716,14 +8716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: W-Well then! Let's chat again sometime!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃ、じゃあ！またお話でも！」"
+                                ""
                             ]
                         },
                         {
@@ -8763,7 +8763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうですね・・・・・・じゃあまた夜に・・・・・」"
+                                "Y-Yes, that's right... Then, let's talk again at\nnight..."
                             ]
                         },
                         {
@@ -8890,28 +8890,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Alright... alright...! Today, I'll get\ncloser to you and ask you all sorts of things..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(よしっ・・・よし・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 今日こそは仲良くなって、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あんなことやこんなことを聞くぞ・・・・!)"
+                                ""
                             ]
                         },
                         {
@@ -9043,21 +9043,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: That's a different person... That's not\nAyako-san... I mistook her in the darkness...\nMumbling, mumbling..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\}「あれは違う人・・・・・あれは永辻さんじゃない・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　暗くて見間違えたんだ・・・ぶつぶつぶつぶつ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9589,14 +9589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんにちは。"
+                                "Hello. It's a nice weather today."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日はいい天気ですよ」"
+                                ""
                             ]
                         },
                         {
@@ -9681,21 +9681,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (The person who was in the bed next to me\nearlier... should have been Ayako Nagatsuki...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(この前隣のベッドに居た人は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 永辻さんじゃない・・・・・・・・・はず・・・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -9712,28 +9712,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (.....That's right, that face that was\nsucking on my dick... with a vulgar expression and\na mustache under the nose.... There's no way it\ncould be Ayako Nagatsuki...! This person is more\nlike)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・そうだ、あの時チンコにしゃぶりついてた顔・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 鼻の下を伸ばした下品な表情・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 永辻さんなわけがないじゃないか・・・！この人はもっとこう)"
+                                ""
                             ]
                         },
                         {
@@ -9787,7 +9787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・・・私の顔に何かついてますか？」"
+                                "Um... Is there something on my face?"
                             ]
                         },
                         {
@@ -9813,21 +9813,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Ah...! N-No, there's, there's nothing on\nmy face!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はっ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　い、いや、な、なにもついてないですよ！！」"
+                                ""
                             ]
                         },
                         {
@@ -9867,21 +9867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかしてケガのことで悩みがありますか・・・？"
+                                "Do you have any worries about your injury...? Some\npeople get depressed because of that.... Yamada-\nsan, please consult with someone as soon as\npossible, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それで病んじゃう人もいるんです・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　山田さんも早めに相談してくださいね？」"
+                                ""
                             ]
                         },
                         {
@@ -9907,14 +9907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Ms. Nagatsuki..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「永辻さん・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9931,14 +9931,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient ......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9964,21 +9964,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient (That's right... This person wouldn't do\nsomething like that, like a prostitute... What a\nfool I am...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そうだ・・・この人があんなデリ嬢みたいなこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " するはずない・・・・・ボクはなんて馬鹿なんだ・・・)"
+                                ""
                             ]
                         },
                         {
@@ -9995,14 +9995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Yes! I would like to consult about\nanything!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はい！なんでも相談させてもらいます！！」"
+                                ""
                             ]
                         },
                         {
@@ -10042,14 +10042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ・・・それだけ元気なら"
+                                "Hehe... If you're that energetic, maybe you don't\nneed it anymore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もう必要ないかもしれませんね」"
+                                ""
                             ]
                         },
                         {
@@ -10089,7 +10089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃ・・・・・・また夜に・・・・♪」"
+                                "Well then... see you again at night...♪"
                             ]
                         },
                         {
@@ -10115,14 +10115,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "患者"
+                                "Patient: Y-Yes, gladly!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よ、喜んで！！」"
+                                ""
                             ]
                         },
                         {
@@ -10385,7 +10385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「山田さん、無事に退院できてよかったわ」"
+                                "Yamada-san, I'm glad you were able to be\ndischarged safely."
                             ]
                         },
                         {
@@ -10425,14 +10425,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「けど・・・前言ってたラーメン屋さんは"
+                                "But... I was turned down because the ramen shop I\nmentioned earlier said they were too busy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　忙しいからって断られちゃったわ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -10472,14 +10472,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・近くの屋台って言ってたかしら。"
+                                ".....I wonder if there's a nearby food stall. I\nshould try looking for one someday♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつか探してみよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -10728,14 +10728,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュン"
+                                "Jun: Hehe...♡ It was so delicious."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへっ・・・♡すっげえうまかったよ」"
+                                ""
                             ]
                         },
                         {
@@ -10791,7 +10791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・どういたしまして・・・・・」"
+                                "Umm... You're welcome..."
                             ]
                         },
                         {
@@ -10932,28 +10932,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
+                                "Child: Ah! Big sister! Hey, can you do me a favor?\nThere's something I can't eat again... umm, could\nyou please... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！お姉さん！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ねーえ♪また食べれないのがあったからさぁ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あれおねがい・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -11009,7 +11009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・・\\!しょ、しょうがないわね・・・」"
+                                "Ugh... I guess... there's no helping it..."
                             ]
                         },
                         {
@@ -11184,14 +11184,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジュン\\}"
+                                "Jun: A boy with that name on the first floor... I\nthink that old lady's last name is... Mumbling,\nmumbling, mumbling..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「一階にそんな名前の男の子が・・・たしかあのおばさんの名字は・・・・・・」ぶつぶつぶつ・・・・"
+                                ""
                             ]
                         },
                         {
@@ -11247,7 +11247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(考え事かしら・・・・？)"
+                                "(I wonder if she's lost in thought...?)"
                             ]
                         },
                         {
@@ -11437,21 +11437,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の看護婦"
+                                "Blonde nurse: Seriously! What's up with that\nbaldy?! Staring at people's butts like that! It's\ndisgusting!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もぅっ！マジであのハゲなんなのっ！！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人の尻をジロジロ見てきて！キモチわるい！」"
+                                ""
                             ]
                         },
                         {
@@ -11516,21 +11516,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒髪の看護婦"
+                                "Black-haired nurse: I understand! I felt someone's\ngaze and when I turned around, that person was\ngrinning... Ugh... It gives me chills."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わかる！なんか視線感じるなって思って振り向いたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アイツがニタニタ笑ってて・・・うぅ・・・寒気がする」"
+                                ""
                             ]
                         },
                         {
@@ -11655,21 +11655,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の看護婦"
+                                "Blonde nurse: Seriously! What's up with that\nbaldy?! Staring at people's butts like that! It's\ngross!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もぅっ！マジであのハゲなんなのっ！！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人の尻をジロジロ見てきて！キモチわるい！」"
+                                ""
                             ]
                         },
                         {
@@ -11734,21 +11734,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒髪の看護婦"
+                                "Black-haired nurse: I understand! I felt someone's\ngaze and when I turned around, that person was\ngrinning... Ugh... It gives me chills."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わかる！なんか視線感じるなって思って振り向いたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アイツがニタニタ笑ってて・・・うぅ・・・寒気がする」"
+                                ""
                             ]
                         },
                         {
@@ -11825,14 +11825,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付看護婦"
+                                "Reception Nurse: If you have any questions, feel\nfree to ask me anything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「分からないことがあったら何でも聞いてね」"
+                                ""
                             ]
                         },
                         {
@@ -11949,21 +11949,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モテモテ看護婦"
+                                "Popular Nurse: Mmm...♡ I earned a lot yesterday\ntoo...♪ The power of genuine love business is\namazing, isn't it...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うんうん・・・♡昨日もたくさん稼いじゃった・・・♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やっぱガチ恋営業はきくわね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -12482,7 +12482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こっちは男性用トイレね・・・・・)"
+                                "(This one is the men's restroom...)"
                             ]
                         },
                         {
@@ -12564,7 +12564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「くっそ・・・・・・！うまく握れない・・・・・不便だなぁ・・・・・」"
+                                "Damn it...! I can't grip it properly... It's\ninconvenient..."
                             ]
                         },
                         {
@@ -12620,7 +12620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら、患者さんの悩む声が聞こえる」"
+                                "Oh, I can hear the voice of a patient in distress."
                             ]
                         },
                         {
@@ -12660,14 +12660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「手伝ってあげたいけど"
+                                "I want to help, but it's a men's restroom after\nall..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　男性用トイレだしなぁ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -12707,7 +12707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -12747,14 +12747,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえ・・・・患者さんの為よ。"
+                                "No... It's for the sake of the patient. It's not a\ntime to be embarrassed... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　恥ずかしがってる場合じゃないわね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -12939,21 +12939,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Oh, it's you? The rookie they say joined as help,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっ、君かね？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ヘルプで入ったっていう噂のルーキーは」"
+                                ""
                             ]
                         },
                         {
@@ -12970,21 +12970,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: 'Hey, do you have a moment? I need\na little help right now.'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと手伝ってほしいんだけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今ヒマ？」"
+                                ""
                             ]
                         },
                         {
@@ -13023,21 +13023,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Oh, I see...♪ Will you come over\nhere then...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そっかそっか・・・♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それじゃこっちに来てくれるかな・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -13281,7 +13281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「先生、何を手伝えばよろしいんでしょうか？」"
+                                "Doctor, what can I help you with?"
                             ]
                         },
                         {
@@ -13298,21 +13298,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Oh, I see...♪ Well then, it's tea\ntime. I can't focus on my work without taking a\nbreak for tea, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そうだねまずは・・・・っとお茶の時間か。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　僕はティータイムを挟まないと仕事が手につかなくてねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -13329,14 +13329,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: If you'd like, would you join me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「よかったら一緒にどう？」"
+                                ""
                             ]
                         },
                         {
@@ -13376,14 +13376,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「え、いいんですか！"
+                                "Oh, is it okay? In that case, I'll take you up on\nyour offer..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それじゃ、お言葉に甘えて・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13409,21 +13409,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Oh, that's nice. Alright, then\nplease go ahead ♡ Come on, take a sip and gulp it\ndown♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「お、いいねぇ。\\!はい、じゃあどうぞ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ささっ、ぐびっといっちゃって♪」"
+                                ""
                             ]
                         },
                         {
@@ -13463,7 +13463,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いただきます」"
+                                "Bon appétit."
                             ]
                         },
                         {
@@ -13508,14 +13508,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ごくっ・・・\\.\\.ぷは・・・"
+                                "Gulp... \\.\\. Mmm... it's delicious...! This tea\nleaves are really good♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　美味しい・・・！良いお茶っ葉ですね♪」"
+                                ""
                             ]
                         },
                         {
@@ -13555,21 +13555,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: That's right, that's right! It's my\nspecial blend, you know...♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そうでしょ、そうでしょ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　僕特製ブレンドなんだよねぇ・・・♪」"
+                                ""
                             ]
                         },
                         {
@@ -13586,21 +13586,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Alright, now that we've had tea and\nare feeling refreshed, shall we get back to work?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「さ、お茶飲んで気分良くなったところで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　仕事しよっか♪」"
+                                ""
                             ]
                         },
                         {
@@ -13648,21 +13648,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: The thing I want you to do... is...\n\\.\\. to check the comfort of this examination\ntable."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「君にやってもらうこと・・・それは・・・・・・\\.\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　この内診台の座り心地をたしかめてもらおうかな」"
+                                ""
                             ]
                         },
                         {
@@ -13758,14 +13758,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(これかぁ・・・はる君の時に何度か座ったけど、"
+                                "(Oh, this... I've sat on it a few times during\nHaru's turn, but it was uncomfortable and made my\nback hurt...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " 座り心地悪くて腰が痛かったなあ・・・)"
+                                ""
                             ]
                         },
                         {
@@ -13805,14 +13805,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(でもこれで座り心地が改善されれば、"
+                                "(But if the seating comfort improves, it will make\nthings easier for all the moms out there. Let's\nmake sure to give our feedback.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " 世のママさん達が楽になるわね。しっかり意見しましょ)"
+                                ""
                             ]
                         },
                         {
@@ -13883,7 +13883,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「お安いごようです。任せてください」"
+                                "It seems affordable. Please leave it to me."
                             ]
                         },
                         {
@@ -13931,14 +13931,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Yes, please...♪ *smirks*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「うん、よろしく・・・・♪」\\}にやっ・・・"
+                                ""
                             ]
                         },
                         {
@@ -14047,14 +14047,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: ...What... This is different from\nwhat I heard... *mumbling*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\}「・・・なんだ・・・聞いてた話と違うじゃん・・・」ぶつぶつぶつ・・・"
+                                ""
                             ]
                         },
                         {
@@ -14177,28 +14177,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: From the taste of that love juice,\nit feels like the pH level is slightly higher than\naverage. Maybe using a herbal medicine derived\nfrom plants would have a better effect...? If so,\nif we mix the raw ingredients together...\nMumbling, mumbling..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\}「あの愛液の味からしてph値が平均より高めな感じがするから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　植物由来の漢方系の薬を使えばもっと効き目がよくなるか・・・？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なら、原薬を一緒に調合すれば・・・・」ぶつぶつぶつ・・・"
+                                ""
                             ]
                         },
                         {
@@ -14280,21 +14280,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Nagatsuki-kun ♡ Shall we wash the\nflaws of the examination table together today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ながつじくーん♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日も一緒に内診台の欠点を洗おっか♪」"
+                                ""
                             ]
                         },
                         {
@@ -14333,28 +14333,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Hmm hmm ♪ Oh, but before that, it's\ntea time, isn't it? I'll brew it right away ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「うんうん♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あ、その前にティータイムだね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　すぐに淹れるから♡」"
+                                ""
                             ]
                         },
                         {
@@ -14463,14 +14463,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: ...Ah, I see."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・あ、そう」"
+                                ""
                             ]
                         },
                         {
@@ -14593,21 +14593,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby Doctor: Hmm... I bought the raw materials\nfor the medicine the other day, so my credit card\nlimit is not good... Cash, huh? Maybe I should\nrelease another video..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\}「うーん・・・・この前、薬の原料を仕入れたからクレカの限度がまずいなぁ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　キャッシュかぁ・・・・・・・・撮った映像をまた流すか・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14689,21 +14689,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Ah! Ayako-kun♡ I have some good tea\nleaves. How about a cup?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！永辻くん♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いいお茶っ葉が入ったんだよ♪一杯どうかな？」"
+                                ""
                             ]
                         },
                         {
@@ -14742,21 +14742,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Alright! Then, I'll brew a special\ntea with extra care for you♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「よーし！じゃあ腕によりをかけて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　特製のお茶を淹れるからね♡」"
+                                ""
                             ]
                         },
                         {
@@ -14865,14 +14865,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: ...I-Is that so... Even though I\nhave delicious tea snacks..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・そ、そう・・・・美味しいお茶菓子もあるのになぁ」"
+                                ""
                             ]
                         },
                         {
@@ -14995,21 +14995,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Ah! Ayako-kun♡ Can we take a little\nbreak...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！永辻くん♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっと息抜きしていいかな・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -15065,14 +15065,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・はい・・・・・♡"
+                                "Y-Yes...♡ I'm ready anytime...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつでも準備できています・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -15535,45 +15535,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んおっ！♡おっ♡んあっ・・・♡"
+                                "Ohh! ♡ Ahh...♡ T-Teacher...♡ Your cock is bigger\nthan usual ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　せ、せんせっ・・・♡いつもよりチンポおっきぃぃ♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小太りの医者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いやぁ、最近、手術ばっかりで抜くヒマがなくて♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつも急にすまないねぇ♡」"
+                                ""
                             ]
                         },
                         {
@@ -15590,59 +15559,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\kw[1]"
+                                "Chubby doctor: Ohh, lately I've been so busy with\nsurgeries that I haven't had time to relieve\nmyself♪ Sorry for always coming to you suddenly♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「んっ♡んっ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いえっ・・・私は先生のっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おマンコナースなので、んんっ♡好きに使ってください♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小太りの医者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ホント助かるよ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　じゃ時間もないから射精すね♡」"
+                                ""
                             ]
                         },
                         {
@@ -15666,21 +15597,90 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は、はいっ♡！♡"
+                                "Mmm♡ Mmm♡ Well... as your pussy nurse, please feel\nfree to use me however you like♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　私のっ子宮にっ！♡先生の特濃ザーメンを"
+                                "Chubby doctor: I really appreciate it♡ Since we\ndon't have much time, let's ejaculate together♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　どぴゅどぴゅしてくださいっ！！」"
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Y-Yes♡! Please... ejaculate your thick semen\ninside my womb, Teacher♡!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15767,7 +15767,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どぴゅっ！！どっぴゅぅぅ・・・♡"
+                                "Dopyu!! Dopyuuu...♡"
                             ]
                         },
                         {
@@ -15791,7 +15791,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んぉお・・・・♡お腹あっつぅ・・・♡♡」"
+                                "Nngh...♡ My stomach feels hot...♡♡"
                             ]
                         },
                         {
@@ -15864,7 +15864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こぽぉ・・・・・♡"
+                                "Kopo...♡"
                             ]
                         },
                         {
@@ -15881,28 +15881,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Phew... that was a thick\nejaculation♡ Your tightness is still amazing...♡\nI'll let you use me again♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ふぅ・・・・濃いのが射精たよ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あいかわらずいい締まりだねぇ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また使わせてもらうよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -15926,7 +15926,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・お待ちしております・・・・・♡」"
+                                "Haa... haa... I'll be waiting for you...♡"
                             ]
                         },
                         {
@@ -16476,14 +16476,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 3!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 3 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -16532,14 +16532,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The level of lewdness has increased by 3..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 3 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -17023,14 +17023,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んおっ！♡おっ♡んあっ・・・♡"
+                                "Nngh...♡ Ohh...♡ T-Teacher...♡ Your penis is\nbigger than usual♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　せ、せんせっ・・・♡いつもよりチンポおっきぃぃ♡」"
+                                ""
                             ]
                         },
                         {
@@ -17047,21 +17047,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Ohh, lately I've been so busy with\nsurgeries that I haven't had time to jerk off♪\nSorry for always coming to you suddenly♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「いやぁ、最近、手術ばっかりで抜くヒマがなくて♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いつも急にすまないねぇ♡」"
+                                ""
                             ]
                         },
                         {
@@ -17101,14 +17101,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「おんっ♡おぉんっっっ♡いえっ・・・私は先生のっ♡"
+                                "Ohh...♡ Ahh... I-I'm your pussy nurse, so please\nuse me as you like♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　おマンコナースなので、んんっ♡好きに使ってください♡」"
+                                ""
                             ]
                         },
                         {
@@ -17125,21 +17125,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: I really appreciate it♡ Since we\ndon't have much time, let's ejaculate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ホント助かるよ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ時間もないから射精すね♡」"
+                                ""
                             ]
                         },
                         {
@@ -17191,21 +17191,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は、はいっ♡！♡"
+                                "Y-Yes♡! Please... please fill my womb with your\nthick semen, sensei!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　私のっ子宮にっ！♡先生の特濃ザーメンを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どぴゅどぴゅしてくださいっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -17292,7 +17292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どぴゅっ！！どっぴゅぅぅ・・・♡"
+                                "Dopyu!! Doppyuuu...♡"
                             ]
                         },
                         {
@@ -17316,7 +17316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んぉお・・・・♡お腹あっつぅ・・・♡♡」"
+                                "Nngh...♡ My stomach feels hot...♡♡"
                             ]
                         },
                         {
@@ -17394,7 +17394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶぽっぉ・・・・・♡"
+                                "Bupoo...♡"
                             ]
                         },
                         {
@@ -17411,28 +17411,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Phew... that was a thick\nejaculation♡ Your tightness is still amazing...♡\nI'll use you again sometime♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ふぅ・・・・濃いのが射精たよ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あいかわらずいい締まりだねぇ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また使わせてもらうよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -17472,7 +17472,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・お待ちしております・・・・・♡」"
+                                "Haa... haa... I'm waiting for you...♡"
                             ]
                         },
                         {
@@ -18120,14 +18120,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 3!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 3 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -18176,14 +18176,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The level of lewdness has increased by 3..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 3 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -18312,21 +18312,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Ah! Ayako-kun♡ Can we take a little\nbreak...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！永辻くん♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっと息抜きしていいかな・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -18382,14 +18382,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・はい・・・・・♡"
+                                "Y-Yes...♡ I'm ready anytime...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつでも準備できています・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -18852,45 +18852,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んおっ！♡おっ♡んあっ・・・♡"
+                                "Ohh! ♡ Ahh...♡ T-Teacher...♡ Your cock is bigger\nthan usual ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　せ、せんせっ・・・♡いつもよりチンポおっきぃぃ♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小太りの医者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「いやぁ、最近、手術ばっかりで抜くヒマがなくて♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　いつも急にすまないねぇ♡」"
+                                ""
                             ]
                         },
                         {
@@ -18907,59 +18876,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\kw[1]"
+                                "Chubby doctor: Ohh, lately I've been so busy with\nsurgeries that I haven't had time to relieve\nmyself♪ Sorry for always coming to you suddenly♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「んっ♡んっ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いえっ・・・私は先生のっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　おマンコナースなので、んんっ♡好きに使ってください♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "小太りの医者"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ホント助かるよ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　じゃ時間もないから射精すね♡」"
+                                ""
                             ]
                         },
                         {
@@ -18983,21 +18914,90 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は、はいっ♡！♡"
+                                "Mmm♡ Mmm♡ Well... as your pussy nurse, please feel\nfree to use me however you like♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　私のっ子宮にっ！♡先生の特濃ザーメンを"
+                                "Chubby doctor: I really appreciate it♡ Since we\ndon't have much time, let's ejaculate together♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　どぴゅどぴゅしてくださいっ！！」"
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Y-Yes♡! Please... ejaculate your thick semen\ninside my womb, Teacher♡!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19084,7 +19084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どぴゅっ！！どっぴゅぅぅ・・・♡"
+                                "Dopyu!! Dopyuuu...♡"
                             ]
                         },
                         {
@@ -19108,7 +19108,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んぉお・・・・♡お腹あっつぅ・・・♡♡」"
+                                "Nngh...♡ My stomach feels hot...♡♡"
                             ]
                         },
                         {
@@ -19181,7 +19181,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "こぽぉ・・・・・♡"
+                                "Kopo...♡"
                             ]
                         },
                         {
@@ -19198,28 +19198,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Phew... that was a thick\nejaculation♡ Your tightness is still amazing...♡\nI'll let you use me again♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ふぅ・・・・濃いのが射精たよ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あいかわらずいい締まりだねぇ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また使わせてもらうよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -19243,7 +19243,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・お待ちしております・・・・・♡」"
+                                "Haa... haa... I'll be waiting for you...♡"
                             ]
                         },
                         {
@@ -20091,14 +20091,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んおっ！♡おっ♡んあっ・・・♡"
+                                "N-Ohh! ♡ It's b-biggerr...♡ T-Teacher...♡ Your\nc-cock is bigger than usual♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　せ、せんせっ・・・♡いつもよりチンポおっきぃぃ♡」"
+                                ""
                             ]
                         },
                         {
@@ -20115,21 +20115,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Ohh, lately I've been so busy with\nsurgeries that I haven't had time to jerk off♪\nSorry for always coming to you suddenly♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「いやぁ、最近、手術ばっかりで抜くヒマがなくて♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　いつも急にすまないねぇ♡」"
+                                ""
                             ]
                         },
                         {
@@ -20169,14 +20169,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「おんっ♡おぉんっっっ♡いえっ・・・私は先生のっ♡"
+                                "Ohh...♡ Ahh... I-I'm your pussy nurse, so please\nuse me as you like...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　おマンコナースなので、んんっ♡好きに使ってください♡」"
+                                ""
                             ]
                         },
                         {
@@ -20193,21 +20193,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: I really appreciate it♡ Since we\ndon't have much time, let's ejaculate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ホント助かるよ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ時間もないから射精すね♡」"
+                                ""
                             ]
                         },
                         {
@@ -20259,21 +20259,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は、はいっ♡！♡"
+                                "Y-Yes♡! Please ejaculate your thick semen inside\nmy womb, sensei!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　私のっ子宮にっ！♡先生の特濃ザーメンを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どぴゅどぴゅしてくださいっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -20360,7 +20360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "どぴゅっ！！どっぴゅぅぅ・・・♡"
+                                "Dopyu!! Dopyuuu...♡"
                             ]
                         },
                         {
@@ -20384,7 +20384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んぉお・・・・♡お腹あっつぅ・・・♡♡」"
+                                "Mmm...♡ My stomach feels hot...♡♡"
                             ]
                         },
                         {
@@ -20462,7 +20462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぶぽっぉ・・・・・♡"
+                                "Bupoo...♡"
                             ]
                         },
                         {
@@ -20479,28 +20479,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "小太りの医者"
+                                "Chubby doctor: Phew... that was a thick\nejaculation♡ Your tightness is as good as ever...♡\nI'll let you use me again♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ふぅ・・・・濃いのが射精たよ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あいかわらずいい締まりだねぇ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また使わせてもらうよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -20540,7 +20540,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・お待ちしております・・・・・♡」"
+                                "Haa... haa... I'm waiting for you...♡"
                             ]
                         },
                         {
@@ -21345,14 +21345,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この恰好も久しぶりね。"
+                                "It's been a while since I wore this outfit... It's\na bit small in size though."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・少しサイズが小さいけど」"
+                                ""
                             ]
                         },
                         {
@@ -21392,7 +21392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よしっ、色んな部屋を回ってお手伝いしましょう」"
+                                "Alright, let's go around and help in various\nrooms."
                             ]
                         },
                         {
@@ -21588,14 +21588,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イケイケな患者"
+                                "Energetic patient: Hey, big sister♪ You have a\nnice butt, don't you?♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おねえちゃーん♪いいお尻してんねー♡」"
+                                ""
                             ]
                         },
                         {
@@ -21640,7 +21640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むにゅっ♡"
+                                "Squish♡"
                             ]
                         },
                         {
@@ -21696,14 +21696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゃっ！！"
+                                "Kyaa!! Stop it already!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もうっ！やめてください！」"
+                                ""
                             ]
                         },
                         {
@@ -22140,7 +22140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日はちゃんと食べてくれるかなぁ・・・・・」"
+                                "I wonder if they'll eat properly today..."
                             ]
                         },
                         {
@@ -22180,7 +22180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「栄養士さんにもムリ言って野菜は細かく・・・"
+                                "I asked the nutritionist to chop the vegetables\nfinely..."
                             ]
                         },
                         {
@@ -22288,7 +22288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら…？お手洗いかし"
+                                "Oh...? Are you going to the restroom?"
                             ]
                         },
                         {
@@ -22328,14 +22328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
+                                "Child: I like you! Kancho!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「スキありっ！カンチョーっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -22468,7 +22468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぶんっ！！"
+                                "*Squelch!!*"
                             ]
                         },
                         {
@@ -22540,7 +22540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁぅっ♡♡！？」"
+                                "Haaahh♡♡!?"
                             ]
                         },
                         {
@@ -22566,14 +22566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
+                                "Child: Huh? The reaction I expected is different,\noh well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あれ？思ってた反応とちがう、まいっか」"
+                                ""
                             ]
                         },
                         {
@@ -22599,14 +22599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供"
+                                "Child: Hehehe, come and catch me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへーん、つーかまえてみーろー」"
+                                ""
                             ]
                         },
                         {
@@ -22946,7 +22946,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐっ・・・・♡こ、このぉ・・・・・！」"
+                                "Guh....♡Th-this...!"
                             ]
                         },
                         {
@@ -23048,7 +23048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こらっ！！待ちなさいっ！！」"
+                                "Hey!! Wait up!!"
                             ]
                         },
                         {

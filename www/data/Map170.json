@@ -2668,21 +2668,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: So, you know what happened? Chi-kun ate\nbread all at once and then drank milk, and he went\nlike 'Buhh!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それでね！ちーくんがね、パンをいっきに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たべちゃって牛にゅうのんだら、ぶふぉっ！！てなって！」"
+                                ""
                             ]
                         },
                         {
@@ -2738,7 +2738,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ、チヒロ君はあわてんぼさんね」"
+                                "Hehe, Chihiro-kun is such a scatterbrain."
                             ]
                         },
                         {
@@ -2764,21 +2764,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: So, you know what happened? Chi-kun ate\nbread all at once and then drank milk, and he went\nlike 'Buhh!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「でね！でねっ！！ぶふぉっ！てしたから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まえのせきのトモヒロくんのランドセ・・"
+                                ""
                             ]
                         },
                         {
@@ -2816,7 +2816,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "プルルルル・・・・♪"
+                                "Pururururu....♪"
                             ]
                         },
                         {
@@ -2856,7 +2856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ご、ごめんねはる君・・・ちょっと待ってて」"
+                                "S-Sorry, Haru-kun... Just wait a moment."
                             ]
                         },
                         {
@@ -2965,14 +2965,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「もしもし・・・・シュン君どうし・・・\\.え？今から？\\."
+                                "Hello... Shun-kun, what's up... \\. Huh? Right now?\n\\. ...You said you were hungry and wanted me to\nteach you an easy way to cook, didn't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・お腹減った、って簡単なご飯の作り方教えたじゃない」"
+                                ""
                             ]
                         },
                         {
@@ -2998,21 +2998,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\}"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・私のご飯が食べたい・・・？\\.もう・・・"
+                                "...You want to eat my food...? \\.Ugh... Well, I\nguess there's no helping it. Just wait, I'll go\nright away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・はあ・・・・しょうがないわね、すぐ行くから待ってて」"
+                                ""
                             ]
                         },
                         {
@@ -3118,14 +3118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごめんね、はる君。"
+                                "Sorry, Haru-kun. I have something to take care of,\nso Mama will be going out for a bit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっと用事ができちゃったから、ママ出かけてくるわね」"
+                                ""
                             ]
                         },
                         {
@@ -3142,21 +3142,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: I understand! Mama, you've been busy\nlately! Do your best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わかった！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ママ、さいきんいそがしいね！がんばって！」"
+                                ""
                             ]
                         },
                         {
@@ -3196,14 +3196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、ええ・・・・・ありがとう・・・・・"
+                                "Eh, th-thank you... I'll be back before dinner, so\nplease wait for me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　夕飯までには戻るから待っててね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3220,14 +3220,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Yeah! Have a safe trip!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うん！いってらっしゃーい！」"
+                                ""
                             ]
                         },
                         {
@@ -3267,14 +3267,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ごめんね・・・はる君・・・"
+                                "(I'm sorry... Haru-kun... I'll make a delicious\ndinner...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 晩御飯は美味しいごはん作るから・・・)"
+                                ""
                             ]
                         },
                         {

@@ -1929,21 +1929,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Hello, Ayako-san! Are you ready for the\nsales visit we're going to do now?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こんにちは綾子さん！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今から営業に行きますけど準備はいいですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -1982,21 +1982,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Shall we head out once you've changed?\nSince the location is far, let's take the train\ntoday."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「では着替えたら向かいましょうか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　場所が遠いので今日は電車で行きましょう」"
+                                ""
                             ]
                         },
                         {
@@ -2052,52 +2052,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・？"
+                                "...? Can't we use the company car for the sales\nvisit?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　営業車って使えないんですか？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「営・・・\\.業・・\\.車・・？\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ああ・・・成績トップの人が使える車の事ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　僕はまだ徒歩と電車しか許可されていません」"
+                                ""
                             ]
                         },
                         {
@@ -2114,21 +2076,59 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: C...Company...car..? Ah, you mean the\ncar that only the top performers can use. I'm\nstill only allowed to use walking and trains."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「さ、時間も押してるので行きましょうか。"
+                                "Salaryman: Well, since we're running out of time,\nshall we go? I'll cover the train fare since\nyou're helping me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　手伝ってもらうので電車代は僕がおごりますよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2168,7 +2168,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(予想以上のブラック企業みたいね・・・・・）"
+                                "(Seems like a more intense black company than I\nexpected...)"
                             ]
                         },
                         {
@@ -2237,14 +2237,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "2 hours later..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　2時間後・・・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -2360,21 +2360,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: If you can prepare quickly, I can wait\nfor a bit... B-but if we're late for the\nappointment with the client... *trembles*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「少しなら待てますので準備してきてもらえますか・・・？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　も、もしも・・・\\.取引先の予定に遅れたら・・・」\\}ぶるぶる・・・"
+                                ""
                             ]
                         },
                         {
@@ -2430,14 +2430,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(あんまり冗談を言うのは"
+                                "(It's probably best to not make too many jokes...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " やめといた方がいいわね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -2543,21 +2543,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ah, Ayako-san... Thank you so much for\nthe other day...! Various things..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、綾子さん・・・この前はありがとうございました・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\}色々と・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2574,14 +2574,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Please take care of me again when I go\non a business trip!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「また営業に行くときはよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -2663,21 +2663,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Um, um...! I'm about to go on a sales\nvisit. Are you ready...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ど、どうも・・・・!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今から営業に行きますが準備はいいですか・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -2716,21 +2716,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Today's destination is far, so I'll be\nheading there by train. \\.\\. I'll be going by\ntrain...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「今日も遠いので電車で向かいます。\\.\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　電車で・・・行きますね！」"
+                                ""
                             ]
                         },
                         {
@@ -2786,14 +2786,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は、はい・・・」"
+                                "Y-Yes... (I wonder if they like trains...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " (電車が好きなのかな・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -2913,14 +2913,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: I understand... \\.\\.\\ What a shame...\n\\{ \\} *mumbles*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「分かりました・・・・\\.\\.\\}残念・・・・\\{」\\}ぼそっ・・・"
+                                ""
                             ]
                         },
                         {
@@ -2976,7 +2976,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・・・？」"
+                                "「.....？」"
                             ]
                         },
                         {
@@ -3091,14 +3091,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: I wonder when the next business trip\nwill be...\\}Sigh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「次の出張いつかなぁ・・・・・・」\\}ぽわー・・・・"
+                                ""
                             ]
                         },
                         {
@@ -3180,14 +3180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Alright, let's go for sales! Are you\nready?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さあ営業に行きましょう！準備はいいですか？」"
+                                ""
                             ]
                         },
                         {
@@ -3334,14 +3334,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: I see... Is that so..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そう・・・・・ですか・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3478,21 +3478,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ah, Ayako-san... Thank you so much for\nthe other day...! Various things..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、綾子さん・・・この前はありがとうございました・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\}色々と・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3509,14 +3509,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Please take care of me again when I go\non a business trip!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「また営業に行くときはよろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -3598,21 +3598,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ayako-san! Let's go to the sales\ndepartment quickly!! We must achieve 120% of the\nbudget this month, you know!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子さん！早く営業行きましょうっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今月も予算は120％必達ですからね！」"
+                                ""
                             ]
                         },
                         {
@@ -3735,28 +3735,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: I-I mean... I'll do something about\nthat...! For this day, I've been taking\nsupplements to condition my lower body... Ah,\nn-no! It's nothing!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そ、そこをなんとか・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　この日のためにサプリで下半身のコンディションを・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　あっ、い、いえ！なんでもないです！」"
+                                ""
                             ]
                         },
                         {
@@ -3902,61 +3902,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: I did it! My sales performance\nimproved, so now I can borrow a company car for\nsales!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やりましたよ！営業成績が良くなったので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　営業車を借りれるようになりました！！」"
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 0,
-                            "parameters": [
-                                0,
-                                3,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この成績は綾子さんのおかげです！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -3982,28 +3942,68 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: This performance is thanks to\nNagatsuki-san! Thank you very much!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                0,
+                                3,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まだ下のランクなのでガソリン代は自分持ちですけどね！"
+                                "Salaryman: Since I'm still in a lower rank, I have\nto pay for the gasoline myself! But with this, my\nwork will be more efficient! Oh, by the way,\nAyako-san, would you like to work at my place?\nHahaha!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でもこれで仕事がもっと捗るぞぉっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そうだ！綾子さんもうちで働きますか？はははっ！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4059,7 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ここだけは絶対にやめておこう)"
+                                "(Let's definitely not do this here)"
                             ]
                         },
                         {
@@ -4217,28 +4217,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "戸惑う男"
+                                "Confused person: I should be going up the\nstairs... but I'm not making any progress...?! At\nthis rate... I won't be able to make it to the\noffice!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「階段を・・・確かに上がっているはずなのに・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　進んでいない・・・？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これじゃ・・・オフィスに行けない・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -4294,14 +4294,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(よほど仕事場に行きたくないのか"
+                                "(Are you really that unwilling to go to work? Just\nstanding there, not making any progress...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " その場で足踏みしているわ・・・)"
+                                ""
                             ]
                         },
                         {

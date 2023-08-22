@@ -7015,7 +7015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "回想部屋から出ますか？"
+                                "Do you want to leave the flashback room?"
                             ]
                         },
                         {
@@ -7161,21 +7161,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "作業員"
+                                "Worker: Sorry, but this area is still under\nconstruction. We'll make sure to meet the\ndeadline, so don't worry."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すんません、ここまだ工事中なんすよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　納期には間に合わせるんで大丈夫っす」"
+                                ""
                             ]
                         },
                         {
@@ -7266,21 +7266,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント全開放スイッチです。"
+                                "This is the event unlock switch. Would you like to\npress the switch?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スイッチを押しますか？"
+                                ""
                             ]
                         },
                         {
@@ -7350,14 +7350,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "作業員"
+                                "Worker: I haven't adjusted it yet, so it won't\nmove."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「それまだ調整してないんで動かないっす」"
+                                ""
                             ]
                         },
                         {

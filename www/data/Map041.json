@@ -2579,14 +2579,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "校長先生"
+                                "Principal Ka... zzz"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「かー・・・zzz」"
+                                ""
                             ]
                         },
                         {
@@ -2679,21 +2679,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤ジャージ先生"
+                                "Red Jersey Teacher: Um...yes...that matter, I\nwill...yes...apologize for it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・はい・・・・その件は私が・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はい・・申し訳ありません・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2777,14 +2777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眼鏡先生\\}"
+                                "Glasses Teacher: Since I'll be getting a bonus,\nmaybe I should go to Silmania..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ボーナス出るし、シルマニアに行こうかなぁ・・・」"
+                                ""
                             ]
                         },
                         {

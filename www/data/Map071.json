@@ -964,14 +964,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Hmm.... Hmm...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・・うーん・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1048,14 +1048,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Spii... mumble mumble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すぴー・・・・・むにゃむにゃ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1132,21 +1132,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Mmm... Mama... I can't eat anymore...\n*mumble*..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん・・・・・ママ・・・・もうたべれない・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　むにゃ・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1435,7 +1435,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が 350 以上必要です。"
+                                "This event requires a lewdness level of 350 or\nhigher."
                             ]
                         },
                         {
@@ -1483,21 +1483,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Mama! What should we do today? Let's play\ncards again!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ママ！今日はなにしよっか！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　またカードでしょうぶしようよ！！」"
+                                ""
                             ]
                         },
                         {
@@ -1553,7 +1553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ふふっ・・・すっかり元気になったわね)"
+                                "(Hehe... Looks like you've completely recovered.)"
                             ]
                         },
                         {
@@ -1593,14 +1593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(この前の検査も異常は無かったし、"
+                                "(Since the previous examination showed no\nabnormalities, should I ask if I can be\ndischarged?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 退院できるか聞いてみようかな？)"
+                                ""
                             ]
                         },
                         {

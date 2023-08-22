@@ -2933,7 +2933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何をしますか？"
+                                "What would you like to do?"
                             ]
                         },
                         {
@@ -3118,7 +3118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(今日はどうやってしよっかな・・・？）"
+                                "(I wonder what we should do today...?)"
                             ]
                         },
                         {
@@ -3142,7 +3142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(今日はどうやってしよっかな・・・？）"
+                                "(I wonder how we should spend today...?)"
                             ]
                         },
                         {
@@ -3428,7 +3428,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "使うおもちゃは？"
+                                "What kind of toys do you want to use?"
                             ]
                         },
                         {

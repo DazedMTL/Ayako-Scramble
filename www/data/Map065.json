@@ -1620,28 +1620,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "綾子さんの奔走　体験版　を"
+                                "Thank you for downloading Ayako-san's Demo\nVersion. Allow me to explain about the demo\nversion."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ダウンロードいただきありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "体験版について説明させていただきます。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -1658,28 +1658,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・プレイできるのはH段階の2段階目までです。"
+                                "You can play up to the second stage of H-level.\nThe content and illustrations of various events\nmay be subject to change. There is a possibility\nthat bugs may still remain."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "・各種イベントの内容やイラストは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　変更される場合があります。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "・バグが残っている可能性があります。"
+                                ""
                             ]
                         },
                         {
@@ -1696,21 +1696,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "以上となります。"
+                                "That's all for now. Please enjoy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それではお楽しみください！"
+                                ""
                             ]
                         },
                         {
@@ -1809,7 +1809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オープニングを見ますか？"
+                                "Would you like to watch the opening?"
                             ]
                         },
                         {
@@ -2151,21 +2151,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "この物語の主人公である\"\\c[6]永辻 綾子\\c[0]\"(ながつじ あやこ)は、"
+                                "The protagonist of this story,\\c[6]Ayako\nNagatsuki\\c[0] (永辻 綾子), divorced due to their\nspouse's infidelity and moved to this town with\ntheir beloved child..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "夫の不倫が原因で離婚し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "愛する息子と二人で、この街に引っ越してきた・・・"
+                                ""
                             ]
                         },
                         {
@@ -2218,14 +2218,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そんなある日、突然息子が倒れてしまう・・・"
+                                "One day, suddenly my child collapsed... We went to\nvarious hospitals for examinations, but the cause\nwas unknown..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "方々の病院にて検査するも原因は分からなかった・・・"
+                                ""
                             ]
                         },
                         {
@@ -2278,14 +2278,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "途方に暮れていたところ、"
+                                "While I was at a loss, an old woman suggested that\nI visit the shrine..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "とある老婆に神社への参拝を勧められた・・・"
+                                ""
                             ]
                         },
                         {
@@ -2338,28 +2338,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そこで守護霊を自称する謎の幽霊と出会い、"
+                                "There, I encountered a mysterious ghost who\nclaimed to be a guardian spirit. It was revealed\nthat the cause of my son's collapse was due to the\ndecline in the guardian spirit's power and the\nsubsequent invasion of negative energy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "息子が倒れた原因は守護霊としての力の衰退と、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "それに伴う陰気の侵入によるものだと伝えられた・・・"
+                                ""
                             ]
                         },
                         {
@@ -2376,28 +2376,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "謎の幽霊は\\c[1]レイ\\c[0]と名乗った・・・"
+                                "The mysterious ghost introduced themselves\nas\\c[1]Rei\\c[0]... According to\\c[1]Rei\\c[0], if\nthey can regain the people's faith, their power\nwill be restored and they can heal Ayako's son.\nAyako decides to cooperate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "\\c[1]レイ\\c[0]曰く人々の信仰を取り戻せば力が回復し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "息子を治せると伝えられ、綾子は協力を決意する。"
+                                ""
                             ]
                         },
                         {
@@ -2450,14 +2450,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが\\c[1]レイ\\c[0]から提案された方法は、"
+                                "However, the method proposed by\\c[1]Rei\\c[0] was\nto use their own body to seduce men and gather\nfaith..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "自らの女体を使い男を誘惑し信仰を集めることだった・・・"
+                                ""
                             ]
                         },
                         {
@@ -2510,14 +2510,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戸惑う綾子だが、"
+                                "Ayako is confused, but she succeeds in regaining\nfaith in her own way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "自分なりのやり方で信仰を取り戻す事に成功する・・・"
+                                ""
                             ]
                         },
                         {
@@ -2552,14 +2552,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そしてこれからが・・・"
+                                "And from here on... it was the beginning of\nAyako's frantic journey..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "綾子の奔走の始まりだった・・・・"
+                                ""
                             ]
                         },
                         {

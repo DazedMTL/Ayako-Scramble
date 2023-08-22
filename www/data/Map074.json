@@ -1503,21 +1503,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Hmm... I'm in trouble... The\norganization isn't progressing at all... Maybe I\nshould ask a supplier for help..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・困った・・・・全然整理が進まない・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  業者に頼んだ方がいいかなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1534,7 +1534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か困っているようだ・・・"
+                                "Seems like something's troubling you..."
                             ]
                         },
                         {
@@ -1551,7 +1551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話しかけますか？"
+                                "Do you want me to talk to them?"
                             ]
                         },
                         {
@@ -1653,7 +1653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「こんにちは」"
+                                "Hello"
                             ]
                         },
                         {
@@ -1763,21 +1763,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Oh my... W-Welcome... I mean...\nH-Hello, do you need something?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「わわっ！い、いらっしゃいま・・・じゃなかった・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　こ、こんにちは、何か御用ですか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -1817,14 +1817,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「いえ、何のお店かなぁ？って、ふらっと入ったら"
+                                "Well, I was just wondering what kind of store this\nis... and when I casually walked in, it seemed\nlike you were troubled, so..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お兄さんが困ってそうだったので」"
+                                ""
                             ]
                         },
                         {
@@ -1864,7 +1864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「もし、よかったらお話聞かせてもらえませんか？」"
+                                "If it's okay with you, could you tell me what's\ntroubling you?"
                             ]
                         },
                         {
@@ -1881,45 +1881,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Huh! Is it okay?! As you can tell,\nI'm in trouble..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「えっ！いいんですか？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　お察しの通り困ってて・・・」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "雑貨屋"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「実はこのお店・・・雑貨屋なんですけど」"
+                                ""
                             ]
                         },
                         {
@@ -1936,21 +1912,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Actually, this shop... is a general\nstore."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「店主が一人で経営してたらしいんですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　少し前に腰を悪くして辞めちゃったそうで」"
+                                ""
                             ]
                         },
                         {
@@ -1967,28 +1936,59 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: It seems that the shop owner was\nrunning the store alone, but they had a back\ninjury a while ago and had to quit."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そこでその店主が、親戚のおじさんのいとこのおばさんの"
+                                "General Store: So, the shop owner, who happens to\nbe a relative of my cousin's aunt's acquaintance\nnext door, offered to sell me this store at a\ndiscounted price."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　知り合いの隣の人である僕に、この店を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　格安で譲ってくれる、ってなったんですよ」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2028,7 +2028,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(もうそれ他人じゃない・・・)"
+                                "(It's not just someone else anymore...)"
                             ]
                         },
                         {
@@ -2045,28 +2045,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: I'm a college student and I have\nfree time during this season, so I thought it\nwould be a good opportunity to gain some\nexperience, that's why I accepted the offer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「僕は大学生で今の時期ヒマだから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　こういう経験もワンチャン有りだと思って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　その話を受けたんですよ」"
+                                ""
                             ]
                         },
                         {
@@ -2143,21 +2143,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: But when I came here, it's in this\nstate... I have no idea which items will sell and\nwhich ones are garbage..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「けど来てみたらこの有様です・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一体どれが売れるモノでどれがゴミなのか・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2205,21 +2205,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: I guess I could try asking a\nsupplier for help... but I don't have much\nmoney..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「とりあえず業者に頼んでみよっかなと・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　けどお金はあんまり無いしなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2268,7 +2268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「でしたら私が手伝いますよ」"
+                                "If that's the case, I'll help you."
                             ]
                         },
                         {
@@ -2285,21 +2285,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Huh! Is that okay?! But... if I\naccidentally throw away something expensive..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「えっ！いいんですか？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　けど・・・高価な物とか間違えて捨てちゃったら・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2339,21 +2339,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「大丈夫ですよ。私、骨董品とか珍しい小物には"
+                                "Don't worry. I'm actually quite knowledgeable\nabout antiques and rare trinkets. And... despite\nappearances, I have plenty of physical strength\ntoo♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　けっこう詳しいんです。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それに・・・こう見えて体力もありますよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -2370,28 +2370,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Really?!... In that case, I would\nlike to ask for your help... Um... How much would\nit cost approximately...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「マジですか？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　・・・それじゃお願いしたいんですけど・・・その・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　大体いくらくらいで・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -2431,14 +2431,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「お金はけっこうですよ。"
+                                "Money is fine. In exchange, I can only come during\nmy free time though."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　その代わり、空いた時間しか来れないですけど」"
+                                ""
                             ]
                         },
                         {
@@ -2464,21 +2464,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: I-Is that okay?! Th-Then, please,\nI'm begging you!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「い、いいんですか！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ、じゃあ、ぜひともお願いします！！」"
+                                ""
                             ]
                         },
                         {
@@ -2502,7 +2502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ええ、わかりました」"
+                                "Yes, I understand."
                             ]
                         },
                         {
@@ -2542,14 +2542,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(よし・・・これで信仰が増えたらいいわね・・・"
+                                "(Alright... I hope this increases their faith... I\nhave to work hard to be appreciated...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " 感謝されるように頑張らなきゃ・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -2589,14 +2589,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(けど・・・この量はさすがに時間がかかるし"
+                                "(But... this amount will definitely take time and\nmy clothes might get dirty... I should prepare a\nchange of clothes.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " 服も汚れそう・・・着替えは用意しておかなきゃね)"
+                                ""
                             ]
                         },
                         {
@@ -2747,21 +2747,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: Oh, thank you Ayako-san. Are\nyou perhaps here to help?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、どうも綾子さん。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかして手伝ってくれるんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -2778,7 +2778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手伝いますか？"
+                                "Would you like some help?"
                             ]
                         },
                         {
@@ -2871,21 +2871,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: I see... Please come back\nwhen you have time again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そうですか・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　また時間あるときに来てください」"
+                                ""
                             ]
                         },
                         {
@@ -2970,21 +2970,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: U-Um... um... when can you\ncome next...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ど、どうも・・・・えっと・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　次っていつ頃に来ていただけますか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -3040,7 +3040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうですねぇ・・・ちょっとまだはっきりとは・・・」"
+                                "Well... I'm not quite sure yet..."
                             ]
                         },
                         {
@@ -3057,21 +3057,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: I see... I understand..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうなんですね・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　分かりました・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3111,7 +3111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・」"
+                                "「.....」"
                             ]
                         },
                         {
@@ -3151,14 +3151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あー・・・そういえば、予定が少し早くなるかも・・・"
+                                "Ah... come to think of it, my schedule might be a\nlittle earlier... If that's the case, I'll come\nright away."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そしたらすぐに来ますね」"
+                                ""
                             ]
                         },
                         {
@@ -3175,21 +3175,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: I-Is that true!!! Tha...\n\\.cough... Thank you very much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\{ホントですか！！！やっ\\}・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\.こほん・・・・ありがとうございます！」"
+                                ""
                             ]
                         },
                         {
@@ -3229,14 +3229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ふふっ・・・こんなに喜んでくれるなら"
+                                "(Hehe... If you're this happy, I can do my best\ntoo)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 私も頑張れるわ)"
+                                ""
                             ]
                         },
                         {
@@ -3332,14 +3332,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: Ah...! Heheh... Th-thank\nyou..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・！へへっ・・・・ど、どうも・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3395,14 +3395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あれ・・・？雰囲気が変わった・・・？何というか・・・・"
+                                "(Huh...? The atmosphere has changed...? How should\nI put it... It feels like... you're expecting\nsomething?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 何かを期待してる？ような・・・)"
+                                ""
                             ]
                         },
                         {
@@ -3442,7 +3442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(けど、約束は約束だし、手伝うべき・・・・・よね？)"
+                                "(But, a promise is a promise, so I should help...\nright?)"
                             ]
                         },
                         {
@@ -3459,7 +3459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手伝いますか？"
+                                "Can I help you?"
                             ]
                         },
                         {
@@ -3566,21 +3566,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: Huh...!? Ah... I see...\nUnderstood... Please ask again next time..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「えっ・・・・！？あっ・・・そうですか・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　分かりました・・・またおねがいします・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3732,21 +3732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: School uniforms...? Ah, now that\nyou mention it, they are in the back."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「学生服・・・ですか・・・？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・ああ、そういえば奥にありましたね」"
+                                ""
                             ]
                         },
                         {
@@ -3763,21 +3763,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Selling those kinds of things and\nbeing seen by school staff could lead to some\nstrange misunderstandings..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あんなの売ってて学校の関係者に見られたら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　変な誤解が生まれそうなんですよね・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3803,21 +3803,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Eh, Ayako-san will take care of\ndisposing them? In that case, I'm sorry but please\ngo ahead."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ、綾子さんが処分してくれるんですか？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それじゃ、すみませんけどお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -3866,7 +3866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "学生服を手に入れた！"
+                                "I got a school uniform!"
                             ]
                         },
                         {
@@ -3943,14 +3943,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: Ah...! Th-thank you very\nmuch...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・！ど、どうも・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4006,14 +4006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・？"
+                                "....? Your face is turning red, are you okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　かお赤くなってますけど大丈夫ですか？」"
+                                ""
                             ]
                         },
                         {
@@ -4030,21 +4030,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Owner: I-I'm, I'm fine! Please take\ncare of me again next time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だ、だ、大丈夫です！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また今度よろしくお願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -4084,7 +4084,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ホントに大丈夫かしら・・・？)"
+                                "(I wonder if they're really okay...?)"
                             ]
                         },
                         {
@@ -4180,14 +4180,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Ayako-san! Can I ask for your\nhelp?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子さん！お手伝い頼んでもいいでしょうか？！」"
+                                ""
                             ]
                         },
                         {
@@ -4294,14 +4294,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Ah... I-I see..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あう・・・・そ、そうですか・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4409,21 +4409,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Ah... Ayako-san's... ♡ Such a cute\nperson with such a raw, fragrant liquid..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ・・・・綾子さんの潮・・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんなに可愛い人があんな生々しい匂いの液体を・・・"
+                                ""
                             ]
                         },
                         {
@@ -4479,7 +4479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何か言いました・・・・・？」"
+                                "Did you say something...?"
                             ]
                         },
                         {
@@ -4572,21 +4572,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store: Shh...! W-When did you...!? I-It's\nnothing, really~!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しっ・・・！い、いつのまに！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　な、なんでもないですよ～！！」"
+                                ""
                             ]
                         },
                         {
@@ -4626,7 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(疲れてるみたいね・・・・・)"
+                                "(Looks like you're tired...)"
                             ]
                         },
                         {
@@ -4767,14 +4767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Can I...!! Ask for your help?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お手伝い・・・！！頼んでもいいでしょうか？！」"
+                                ""
                             ]
                         },
                         {
@@ -4881,14 +4881,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "雑貨屋"
+                                "General Store Oh... I-I see..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あう・・・・そ、そうですか・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4996,21 +4996,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "雑貨屋\\}"
+                                "General Store\\} Ayako-san's voyeur video made\nquite a profit... But in order to keep it from\ngetting boring, I need to capture footage in more\nand more different places... Mumbling, mumbling..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子さんの盗撮映像かなりの売り上げになったな・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でも、飽きられないためにもっともっと色んなところに・・・・・・・」ぶつぶつぶつ・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5066,7 +5066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(お店のことで頭がいっぱいみたいね)"
+                                "(Seems like you're preoccupied with the store)"
                             ]
                         },
                         {
@@ -6817,21 +6817,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「割りと綺麗ね・・・・"
+                                "It's quite beautiful... but if we decide to sell\nthis, it might lead to some strange troubles..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　けど、これを売るってなったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　変なトラブルに発展するかも・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6871,14 +6871,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私の手で処分しましょ。"
+                                "Let me dispose of it myself. Let's ask the\nshopkeeper."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　店主さんに聞いてみましょ」"
+                                ""
                             ]
                         },
                         {

@@ -1844,7 +1844,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの～、アルバイトに応募した永辻ですが・・・」"
+                                "Um, I'm Ayako Nagatsuki, the one who applied for\nthe part-time job..."
                             ]
                         },
                         {
@@ -1884,14 +1884,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager (Oh, your body looks even better than in\nthe photo ♡ Your face is also nice~ ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(おほっ、写真以上にイイ身体してるな♡顔もイイね～♡)"
+                                ""
                             ]
                         },
                         {
@@ -1908,21 +1908,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager (This is a rare find ♡ Well then, let's\nstart exploring little by little...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(これは久々に当たりだな♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " さてと、まずは少しずつ探っていくか・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -1953,21 +1953,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Thank you, thank you ♡ Well then, shall\nwe talk in the back room ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どうもどうも♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  それじゃあ奥の部屋で話そっか♡」"
+                                ""
                             ]
                         },
                         {
@@ -1984,14 +1984,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh, be careful in the back room, it's\nnarrow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、カウンター裏は狭いから気を付けてね」"
+                                ""
                             ]
                         },
                         {
@@ -2161,21 +2161,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh, that was excellent customer service♡\nPlease work another shift next time♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁ、いい接客だったよ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また今度シフト入ってね♪」"
+                                ""
                             ]
                         },
                         {
@@ -2257,21 +2257,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh, thank you, thank you ♡ By the way,\nare you available for a shift today?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁ、どうもどうも♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ところでさぁ、今日シフト入れる？」"
+                                ""
                             ]
                         },
                         {
@@ -2310,28 +2310,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, before that... I want to organize\nthe AV in the back yard like last time. Can you\nhelp me with that?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「じゃあこの前みたいに・・・の前に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　バックヤードのAVを整理したいから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　手伝ってくれるかな？」"
+                                ""
                             ]
                         },
                         {
@@ -2387,7 +2387,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「分かりました・・・」"
+                                "Understood..."
                             ]
                         },
                         {
@@ -2465,21 +2465,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: I see, I see... Well, maybe next time\nthen."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そっかそっかー・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ、また今度ね」"
+                                ""
                             ]
                         },
                         {
@@ -2573,14 +2573,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Looking forward to working with you\nagain♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「またよろしくね♪」"
+                                ""
                             ]
                         },
                         {
@@ -2662,14 +2662,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Please handle the reception today too ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日も受付おねがいね♡」"
+                                ""
                             ]
                         },
                         {
@@ -2755,21 +2755,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: I see, I see... Well then, until next\ntime."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そっかそっかー・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃ、また今度ね」"
+                                ""
                             ]
                         },
                         {
@@ -2863,21 +2863,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh my, I was just going to show my dick,\nbut to think I'd end up getting sucked♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁ、チンコ見せるだけだったのに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しゃぶられちゃうなんてなー♪」"
+                                ""
                             ]
                         },
                         {
@@ -2894,21 +2894,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Do you also lick your husband's cock like\nthat when you make love?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「旦那さんと愛し合う時も"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　チンコをああやって舐めちゃうの？」"
+                                ""
                             ]
                         },
                         {
@@ -2964,7 +2964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、教えません・・・っ・・・・！」"
+                                "Oh, I won't tell...!"
                             ]
                         },
                         {
@@ -3060,14 +3060,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: The play we had the other day was so\ngood...♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「この前のプレイよかったなぁ・・・・♪」"
+                                ""
                             ]
                         },
                         {
@@ -3084,14 +3084,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: So... I'm counting on you for today's\nreception as well...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だからさ・・・今日の受付でもよろしく頼むよ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3177,14 +3177,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長\\}"
+                                "Manager: Even though I've been abstaining from\nmasturbation for this special occasion..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「せっかくオナ禁してきたのに・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3278,21 +3278,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ayako's pussy is surprisingly\ncarnivorous, considering their appearance... ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子くんのおマンコって、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　顔に似合わず肉食だねぇ・・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -3374,21 +3374,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh, I have something to talk about. Can\nyou come over at a convenient time?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、ちょうどいいとこに。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　話があるんだけど来てくれない？」"
+                                ""
                             ]
                         },
                         {
@@ -3444,14 +3444,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(なんだろ急に・・・エッチしたいのかな？"
+                                "(I wonder what's sudden... Does he want to have\nsex? Well, I guess I'll go and see.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " とりあえず行ってみよっかな？)"
+                                ""
                             ]
                         },
                         {
@@ -3504,14 +3504,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: Well then, shall we go to the back,\nAyako-kun?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「じゃ、裏行こっか綾子くん」"
+                                ""
                             ]
                         },
                         {
@@ -3528,21 +3528,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: ...Hmm, should I call you \\. Aya♡?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・・・・いや、\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  \"アヤ\"って呼んだほうがいいかな♡？」"
+                                ""
                             ]
                         },
                         {
@@ -3598,7 +3598,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「っ・・・・・・！！」"
+                                "Huh...?!"
                             ]
                         },
                         {
@@ -3668,14 +3668,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: It's okay, take your time...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「いいよいいよ、ゆっくり待つから・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3783,21 +3783,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Rumors have spread that we can get a porn\nactress to help us out, and the inquiries just\nkeep coming..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「AV女優に抜いてもらえるって噂が広まって、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　問い合わせが鳴りやまないよぉ・・・・・・」"
+                                ""
                             ]
                         },
                         {

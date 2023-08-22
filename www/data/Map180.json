@@ -5088,14 +5088,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おかえりなさい、\\n[6]。"
+                                "Welcome back, \\n[6]. You must be tired today too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日もお疲れ様」"
+                                ""
                             ]
                         },
                         {
@@ -5135,7 +5135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先にお風呂にする？ご飯にする？」"
+                                "Would you like to take a bath first or have\ndinner?"
                             ]
                         },
                         {
@@ -5184,7 +5184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それとも・・・・・・・・♡」"
+                                "Or perhaps........♡"
                             ]
                         },
                         {
@@ -5314,7 +5314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私にする？♡」"
+                                "Shall I do it? ♡"
                             ]
                         },
                         {
@@ -5537,7 +5537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きゃっ♡♡」"
+                                "Kyaa♡♡"
                             ]
                         },
                         {
@@ -5654,21 +5654,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\{"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁああんんっっ♡♡♡"
+                                "Aaahhhnnn♡♡♡ \\n[6]~♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 　　　　\\n[6]～～～っっ♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -5706,14 +5706,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "性欲旺盛な\\n[6]と淫気に侵された綾子・・・"
+                                "Ayako, who is filled with sexual desire and\ninvaded by lust... The compatibility between the\ntwo is excellent, and their married life is smooth\nsailing."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "二人の相性は抜群で、結婚生活は順風満帆。"
+                                ""
                             ]
                         },
                         {
@@ -5730,21 +5730,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、二人は幾度となく子作り重ね、"
+                                "After that, the two of them continued to engage in\nbaby-making countless times, ultimately giving\nbirth to a total of eight children and building a\nhappy family together..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "最終的に8人もの子を成し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "幸せな家庭を築いたのであった・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5782,14 +5782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング　No.7　"
+                                "Ending No.7 - Your Exclusive Baby-Making Escort"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　あなた専用子作り風俗嬢"
+                                ""
                             ]
                         },
                         {
@@ -6270,7 +6270,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "綾子は500000円を手に入れた。"
+                                "Ayako obtained 500,000 yen."
                             ]
                         },
                         {

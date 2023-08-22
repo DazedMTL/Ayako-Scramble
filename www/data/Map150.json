@@ -1069,14 +1069,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・例のお酒・・・・"
+                                "Um... that alcohol from before... could you please\ngive it to me...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　譲ってくれませんか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -1102,28 +1102,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Hmm... We have reservations\nand the prices have skyrocketed. Besides, if I\nwere to squeeze you in..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　予約も入ってるし、値段も高騰してるんだぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それに割り込むってなったらなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1140,28 +1140,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Well... if you can give me\nsomething suitable in return, I might consider\nit... But I won't say anything bad, so it's better\nfor you to wait quietly, don't you think?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ・・・それ相応のモノをいただければ考えてやるが・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　悪いことは言わんから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大人しく待ってた方がいいと思うぞ？」"
+                                ""
                             ]
                         },
                         {
@@ -1201,7 +1201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」"
+                                "「........」"
                             ]
                         },
                         {
@@ -1234,21 +1234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\}"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その・・・・私の・・・・・・・・・・・"
+                                "Um... that... mine... is it not allowed...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・じゃ、だめですか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -1265,21 +1265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Huh? Sorry, could you say that\nagain?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すまん、もう一度言ってくれねぇか？」"
+                                ""
                             ]
                         },
                         {
@@ -1303,14 +1303,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私の・・・・\\.\\.おっぱいを・・・"
+                                "Is it not allowed for me to... show my...\n\\.\\.breasts...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見せるとかじゃ・・・ダメですか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -1336,14 +1336,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: ...Are you serious...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・あんた・・・本気で言ってんのか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -1383,7 +1383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・」\\}こくっ・・・"
+                                "... *gulp*..."
                             ]
                         },
                         {
@@ -1409,21 +1409,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Oh... if I can see your big\nbreasts in exchange for a bottle of liquor, then\nit's not a bad deal..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へぇ・・・酒1本であんたのデカ乳を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　拝めるんなら悪くねぇな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1440,21 +1440,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: In that case... could you\nplease ask me properly... mumble mumble... like,\n'Can I please...'\\?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それなら・・・ちゃんと俺に・・・・\\}ごにょごにょ・・・\\{"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\!・・・・・って感じでお願いしてくれねぇか？」"
+                                ""
                             ]
                         },
                         {
@@ -1494,7 +1494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・分かりました・・・」"
+                                "F-Fine... I understand..."
                             ]
                         },
                         {
@@ -1581,21 +1581,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Well then... please ask me\nlike you did earlier... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃあ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっき言った感じでよろしく頼むぜ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -1660,21 +1660,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私は・・・お酒を譲ってもらう代わりに"
+                                "In exchange for getting the liquor from the liquor\nstore, I will... um, expose my... \\.\\.uh,\nbreasts... for three minutes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　酒屋さんに・・・\\.\\.ぉ、おっぱいを・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　三分間・・・・曝け出します・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1698,14 +1698,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そして・・・・酒屋さんの・・・"
+                                "And... I swear to always answer the liquor store\nowner's questions..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　質問には・・・・必ず答えることを誓います・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1722,21 +1722,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Hmm... well, it's not bad, but\nI prefer a more erotic feeling."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・まぁ悪くないが・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もっとエロイ感じがよかったな」"
+                                ""
                             ]
                         },
                         {
@@ -1776,7 +1776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「す、すみません・・・・」"
+                                "I-I'm sorry..."
                             ]
                         },
                         {
@@ -1793,21 +1793,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Well, I guess it's fine. It's\nonly for three minutes starting now, so... don't\nhide it under any circumstances, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、いいだろう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今から三分間だからな。その間・・・絶対に隠すなよ？」"
+                                ""
                             ]
                         },
                         {
@@ -1847,7 +1847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい・・・わかりました・・・・」"
+                                "Yes... I understand..."
                             ]
                         },
                         {
@@ -1973,21 +1973,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Hehe... I had a feeling even\nfrom over your clothes, but your body is even more\namazing than I expected...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへっ・・・服の上からでも予想していたが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それ以上の身体だな・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -2011,7 +2011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・」"
+                                "Huh..."
                             ]
                         },
                         {
@@ -2028,21 +2028,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: By the way... even though you\nhave such a serious face, you do some bold things,\ndon't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それにしても・・・あんた、真面目そうな顔してんのに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大胆なことするんだな」"
+                                ""
                             ]
                         },
                         {
@@ -2059,21 +2059,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Showing such vulgar big\nbreasts to others just for a bottle of liquor,\nhuh?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「酒１本の為に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんな下品なデカ乳を人様に見せるなんてな」"
+                                ""
                             ]
                         },
                         {
@@ -2113,14 +2113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「げ、下品って・・・！"
+                                "W-What...? Is there something wrong with my\nbreasts...? Are they vulgar...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私の胸・・・何か変ですか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -2137,28 +2137,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: There's no way a woman with\nsuch big breasts like yours exists. And what's\nwith the color of your nipples? They've turned\nblack from being sucked by men, haven't they?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「変も何も、そんだけデカイ乳した女、そうは居ねえよ。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それにその乳輪の色は何だ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　男に吸わせまくって黒くなってるじゃねぇか」"
+                                ""
                             ]
                         },
                         {
@@ -2198,14 +2198,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ち、違いますっ！"
+                                "N-No! This is because the color hasn't returned\nsince giving birth to my son...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これは息子を産んでから色が戻らなくて・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -2231,21 +2231,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Once again, how many people\nhave sucked on them until now? Come on, tell me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「またまた、今まで何人に吸わせたんだよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら、教えてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -2285,14 +2285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・！\\!・・・・・・・ひ、\\.一人だけです・・・・」\\!"
+                                "T-...! O-Only... one person...! (The gloomy\nones... don't count, right...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(陰気は・・・ノーカウントよね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -2309,21 +2309,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Oh, so you're married? Do you\nstill make your husband suck on them every night?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へー、旦那とかか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃあ今でも毎晩しゃぶらせてんのか？」"
+                                ""
                             ]
                         },
                         {
@@ -2363,21 +2363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いえ・・・その人とはもう別れてて・・・"
+                                "N-No... I-I'm already separated from that\nperson... And, um... I don't really like having\nsuch big breasts, so it's only a little..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それに・・・あんまり大きい胸が好きじゃなくて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そういうのはちょっとしか・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2394,28 +2394,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Oh, what a shame. You're not\ninterested in these big breasts, huh? So, you're\nsingle now?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「か～、もったいねぇ男だな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こんなデカ乳に興味ねぇなんて。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　んで、今は独り身ってことか」"
+                                ""
                             ]
                         },
                         {
@@ -2455,7 +2455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・はい」"
+                                ".....Yes."
                             ]
                         },
                         {
@@ -2472,21 +2472,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Well then, I bet you've been\nquite lonely lately...♡ Since you haven't let a\nman touch you, aren't you feeling lonely?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ最近は、さぞかしご無沙汰なんだろうな・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　男に触らせてないから寂しいんじゃねぇのか？」"
+                                ""
                             ]
                         },
                         {
@@ -2526,7 +2526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「べ、べつにそんなこと・・・！」"
+                                "I-It's not like that...!"
                             ]
                         },
                         {
@@ -2543,14 +2543,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: So, do you dislike being\ntouched in general?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃあ、触られること自体は嫌いか？」"
+                                ""
                             ]
                         },
                         {
@@ -2590,7 +2590,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・そ、そんなに嫌いじゃないです」"
+                                ".........I-I don't dislike it that much."
                             ]
                         },
                         {
@@ -2607,14 +2607,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: ......."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2631,14 +2631,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: I changed my mind. Let me\ntouch them after all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「気が変わった、やっぱ揉ませてくれや」"
+                                ""
                             ]
                         },
                         {
@@ -2678,7 +2678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さ、最初の約束と違うんじゃ・・・」"
+                                "Hey, this isn't what we agreed on..."
                             ]
                         },
                         {
@@ -2704,14 +2704,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: ...I wonder if I should sell\nthe liquor to someone else..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・酒・・・・別のやつに売ろっかなー・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2751,7 +2751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・っ！」"
+                                "...!"
                             ]
                         },
                         {
@@ -2791,7 +2791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・」"
+                                "「.....」"
                             ]
                         },
                         {
@@ -2861,7 +2861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・どうぞ」"
+                                "...Here you go."
                             ]
                         },
                         {
@@ -2878,21 +2878,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: You understand, don't you? ♡\nWell then... excuse me for a moment... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「分かってるじゃねぇか♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それじゃ・・・ちょいと失礼・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -2937,7 +2937,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むにゅっ・・・♡"
+                                "Mmm...♡"
                             ]
                         },
                         {
@@ -2977,7 +2977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んっ・・・」"
+                                "Mmm..."
                             ]
                         },
                         {
@@ -2994,21 +2994,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Oh... It's huge, and the\nsoftness is outstanding... ♡ The level is\ndifferent from that of a sex worker."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おお・・・デケェし、柔らかさも抜群だな・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　風俗嬢とはレベルが違うな」"
+                                ""
                             ]
                         },
                         {
@@ -3048,7 +3048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ど、どうも・・・・・」"
+                                "Th-thank you..."
                             ]
                         },
                         {
@@ -3077,7 +3077,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むにゅっ、むにゅっ・・・"
+                                "*Squish, squish...*"
                             ]
                         },
                         {
@@ -3101,7 +3101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んんっ・・・」"
+                                "Mmm..."
                             ]
                         },
                         {
@@ -3118,14 +3118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: No matter what you say, you're\ndefinitely feeling it, aren't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだかんだ言って、しっかり感じてんじゃねぇか」"
+                                ""
                             ]
                         },
                         {
@@ -3170,7 +3170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むにゅっ・・・もみもみ・・・・むにゅぅっ・・・"
+                                "*Squish... squeezing... squishy...*"
                             ]
                         },
                         {
@@ -3194,14 +3194,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「し、仕方ないじゃないですか・・・！んんっ・・・！"
+                                "I-It can't be helped...! Mmm...! It's just a\nnatural bodily function... haaah....!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　生理現象なんです・・・・っ・・・・はぁっ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3218,21 +3218,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: No, no, even if a woman is\ntouched by an uninterested man, their nipples\nwouldn't get this erect...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやいや、女は興味ない男に触られたって、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここまで乳首をビンビンにしない・・・・ぜっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3295,7 +3295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こりぃっ・・・♡"
+                                "Oh my...♡"
                             ]
                         },
                         {
@@ -3319,7 +3319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁぅっ！！♡♡」"
+                                "Haaah!!♡♡"
                             ]
                         },
                         {
@@ -3336,28 +3336,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Hehe...♡ You're making such a\nnice voice...♡ Your voice even got me aroused\ntoo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへっ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　良い声だすじゃねぇか・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　俺もあんたの声で勃ってしまったぜ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3374,14 +3374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: While we're at it, let's do\nthis too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ついでにこっちも・・・"
+                                ""
                             ]
                         },
                         {
@@ -3410,7 +3410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピピピッ・・・！ピピピッ・・・！ピピピッ・・・！"
+                                "*Beep beep...! Beep beep...! Beep beep...!*"
                             ]
                         },
                         {
@@ -3460,21 +3460,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: ...Is it time already...?\nWell, can't be helped. Bring me the promised\ngoods."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・時間か・・・・しゃーない、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　約束の品を持ってきな」"
+                                ""
                             ]
                         },
                         {
@@ -3530,14 +3530,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・はぁ・・・・・・"
+                                "Haaah.... Haaah... Thank you very much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ありがとうございます・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3566,7 +3566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ステルクZERO を１本手に入れた！"
+                                "I got my hands on a copy of Stelk ZERO!"
                             ]
                         },
                         {
@@ -3606,14 +3606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(変な事になっちゃったけど・・・っ・・・"
+                                "(Things got a bit weird... b-but... with this,\nI've achieved my goal...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " これで目標達成ね・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -3630,21 +3630,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: ...Hey hey, if you keep\nexposing yourself like that, some creepy old man\nmight touch you... \\.\\.♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・おいおい、いつまでも丸出しだったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　悪いおっさんに触られちまう・・・\\.\\.ぞっ♡」"
+                                ""
                             ]
                         },
                         {
@@ -3714,7 +3714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\}きゅ\\{ぅっ！！♡♡」"
+                                "Kyuuu!!♡♡"
                             ]
                         },
                         {
@@ -3813,7 +3813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「なにするんですか！！」"
+                                "What are you doing?!"
                             ]
                         },
                         {
@@ -3839,21 +3839,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Haha! It's because you keep\nexposing yourself like that. Well, don't take it\nthe wrong way and go drink at home already."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ははっ！いつまでも丸出しだからだよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そら、気を悪くしねぇで早く家で酒飲んでくれや」"
+                                ""
                             ]
                         },
                         {
@@ -3893,7 +3893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・そうします」"
+                                "...I understand."
                             ]
                         },
                         {
@@ -3933,21 +3933,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(たったお酒一本で・・冗談抜きで高い買い物だったわ・・・"
+                                "(With just a bottle of liquor... it was an\nexpensive purchase, no joke... but if I can gain\npsychic powers with this and improve the\nefficiency of gathering followers...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " けどこれで超能力が手に入って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 信仰集めが効率良くなるのなら・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4003,7 +4003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・レイさんのところに戻りましょ)"
+                                "(.....Let's go back to Rei-san's place)"
                             ]
                         },
                         {
@@ -4368,14 +4368,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 3!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 3 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -4404,14 +4404,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 4..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 4 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {

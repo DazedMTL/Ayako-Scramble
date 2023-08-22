@@ -1464,7 +1464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「遅かったのぉ綾子」"
+                                "You're late, Ayako."
                             ]
                         },
                         {
@@ -1605,14 +1605,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・私は瞬間移動なんて使えないし、"
+                                "...I can't use teleportation and I need to go\nthrough the reception for procedures...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　受付で手続きが必要なんです・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -1697,7 +1697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ハーハッハッ！すまんすまん冗談じゃ」"
+                                "Hahaha! Sorry, sorry, just kidding."
                             ]
                         },
                         {
@@ -1737,14 +1737,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さて、さっそく治癒にあたるかの。"
+                                "Well then, let's get right to healing. But... I'll\nneed your power as well."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃが・・・それにはお主の力も必要じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -1829,14 +1829,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私の力が・・・分かりました！"
+                                "I understand my power now! So, what should I do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それで、私は何をやればいいんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -1905,14 +1905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、今からお主の意識・・・心を、"
+                                "Yes, I will now send your consciousness... your\nheart, into the heart of my child."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　息子の心の中に送り込む」"
+                                ""
                             ]
                         },
                         {
@@ -1936,21 +1936,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そしておそらく心の中には"
+                                "And most likely, there should be gloomy figures in\nthe depths of your heart. The purpose this time is\nto release those figures."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　人の形をした陰気がおるはずじゃ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そやつらを発散させるのが今回の目的じゃ」"
+                                ""
                             ]
                         },
                         {
@@ -2035,14 +2035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・心を送るとか、"
+                                "...You casually mentioned something amazing, like\nsending hearts..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごいことをサラッと言いましたね・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2127,14 +2127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうじゃ、スゴイことなのじゃ。"
+                                "Well then, it's quite an amazing thing. There's no\none else but me who can use such advanced magic."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こんな高度な術を使えるのは、ワシしかおらん」"
+                                ""
                             ]
                         },
                         {
@@ -2174,45 +2174,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃから、さすがのワシと云えど"
+                                "Well then, even though I'm quite skilled, I have\nto concentrate intensely while using this\ntechnique."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この術を使っている間は凄まじく集中せんといかん」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「その間ワシは中の様子を伺うことができん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  つまり、陰気の発散はお主一人でやらねばならん」"
+                                ""
                             ]
                         },
                         {
@@ -2236,21 +2205,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・心の中は不安定な場所じゃ。"
+                                "During that time, I won't be able to observe\nwhat's happening inside. In other words, you alone\nwill have to release the gloom."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　なにか身体に影響がでる怖れもある。\\!"
+                                "\\kw[2]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　それでも・・・・・・やるかの？」"
+                                "...The inside of your heart is an unstable place.\nThere is a fear that it may have some physical\neffects. Still... will you do it?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2335,7 +2335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もちろんです。決意は変わってません」"
+                                "Of course. My determination hasn't changed."
                             ]
                         },
                         {
@@ -2420,14 +2420,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふっ・・・さすがワシが見込んだ女じゃ・・・！"
+                                "Hehehe... As expected of the woman I had in\nmind... Well then, now that we're prepared, let's\nget started..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　では、準備ができたとこでさっそく・・・"
+                                ""
                             ]
                         },
                         {
@@ -2512,21 +2512,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あのっ・・・一つだけ・・・・"
+                                "Um... just one thing... how can I release the\ngloom inside my heart?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　心の中の陰気ってどうやったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　発散できるんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -2611,21 +2611,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふふ・・・それはお主が経験したことが役に立つじゃろ。"
+                                "Hehehe... That will be useful, the experiences you\nhave had. And gloom takes on a human form... Do\nyou understand?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そして陰気は人の形をしておる・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あとは・・・分かるな？」"
+                                ""
                             ]
                         },
                         {
@@ -2719,7 +2719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・！」"
+                                "Ah...!"
                             ]
                         },
                         {
@@ -2759,7 +2759,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よく・・・分かりました・・・・」"
+                                "I... understand well..."
                             ]
                         },
                         {
@@ -2844,14 +2844,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よし、では理解できたところで・・・・"
+                                "Alright, now that you understand... Let's go!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・ゆくぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -2921,14 +2921,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「シュ・・・ジャ・・・ギュウ・・・コ・・・ヨウ・・・"
+                                "Shu... ja... gyuu... ko... you...    Haa!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　　　　　    \\{　\\{\\{ハッ！！」"
+                                ""
                             ]
                         },
                         {
@@ -3242,45 +3242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やり方は前回と一緒じゃ。"
+                                "The method is the same as last time. I will send\nyou into my son's heart and release your lust."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主を息子の心の中に送り、淫気を発散させる」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[2]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「前回と違うのは、より心の深層に行くこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そしてより強い欲望の淫気であること、この二つじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -3304,7 +3273,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「危険度も上がっておる、それでも行くか？」"
+                                "The difference from last time is going deeper into\nthe depths of the heart and having a stronger\nlustful aura, these two things."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\kw[2]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "The level of danger has increased, are you still\ngoing?"
                             ]
                         },
                         {
@@ -3405,7 +3405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「かまいません、お願いします！」"
+                                "I don't mind, please!"
                             ]
                         },
                         {
@@ -3506,14 +3506,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「愚問じゃったな。\\!"
+                                "That was a foolish question. Well then...\n\\.\\{Ha!!}"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　では・・・・・\\.\\{ハッ！！\\}」"
+                                ""
                             ]
                         },
                         {
@@ -4046,7 +4046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「れ、レイさん・・・・・・・」"
+                                "R-Rei-san..."
                             ]
                         },
                         {
@@ -4131,7 +4131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「起きたか・・・どうじゃ具合は？」"
+                                "Are you awake... How are you feeling?"
                             ]
                         },
                         {
@@ -4232,7 +4232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい・・・まだちょっとボーッとします・・・」"
+                                "Yes... I'm still feeling a bit dazed..."
                             ]
                         },
                         {
@@ -4333,14 +4333,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「淫気に影響されたのじゃろう。"
+                                "It seems you were affected by the lewd aura. Even\nif you have some resistance, there are limits."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主もいくら耐性があるとはいえ限界はある」"
+                                ""
                             ]
                         },
                         {
@@ -4364,14 +4364,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そのうえ、術により魂魄に負荷がかかっておる。"
+                                "Furthermore, your soul has been burdened by the\nspell. Rest well tonight, and we will talk once\nmorning comes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今夜はゆっくり休み、夜が明けてから話を・・・"
+                                ""
                             ]
                         },
                         {
@@ -4418,7 +4418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「う・・・・うーん・・・・・」"
+                                "Uhh... Umm..."
                             ]
                         },
                         {
@@ -4541,14 +4541,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Wha...wha...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま・・・ま・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -4604,7 +4604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はる君っ！！」"
+                                "Haru-kun!!"
                             ]
                         },
                         {
@@ -5196,14 +5196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はる君・・・・・よかった・・・"
+                                "Haru-kun... I'm glad... I'm really glad..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ホントによかった・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5220,21 +5220,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Good morning... Mom... \\.\\. ...Huh...? Are\nyou crying...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おはよ・・・・ママ・・・\\.\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ・・・・・あれ・・・？ないてるの・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -5258,7 +5258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んーん・・・あくびして涙が出ちゃっただけよ・・・」"
+                                "Mmm... I just yawned and tears came out, that's\nall..."
                             ]
                         },
                         {
@@ -5275,28 +5275,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: I see... yawn... I'm still sleepy too, so\njust a little longer..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そっか・・・・ふぁぁ・・・・ぼくも・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まだねむたいから・・・・あと・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっと・・・だけ・・・・・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5381,14 +5381,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Snooze... snooze..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すぴー・・・・・すぴー・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5412,7 +5412,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」\\!\\}ごしごし・・・"
+                                "...scrubbing, scrubbing..."
                             ]
                         },
                         {
@@ -5546,14 +5546,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よしっ・・・！もう一踏ん張りね！"
+                                "Alright...! Just a little more! This time, I'll\nerase all of the lewd energy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今度は全部の淫気を消してやるんだから！」"
+                                ""
                             ]
                         },
                         {
@@ -5593,14 +5593,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、すぐには心の中に入れないんですよね？"
+                                "But, I can't immediately let you into my heart,\nRei-san. Today, for now, I'll go home..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　レイさん。今日は、一旦帰りま・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5856,14 +5856,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あれ・・・？先に帰っちゃったのかな・・・\\!"
+                                "Oh, oh...? Did you already go home...?\\!... I'm\ntired too, so let's go home and rest quickly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・私も疲れたし、早く帰って休みましょ」"
+                                ""
                             ]
                         },
                         {
@@ -6353,14 +6353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では、準備はよいな？\\!"
+                                "Alright, are you ready? Let's tighten our focus so\nwe can give it our all until the end."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これを最後にできるよう気を引き締めるのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -6461,7 +6461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい！任せてください！」"
+                                "Yes! Leave it to me!"
                             ]
                         },
                         {
@@ -6562,14 +6562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それと力を取り戻した影響で、"
+                                "And thanks to regaining my powers, I can now\nunderstand your condition better than before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　前よりお主の状態が分かるようになった」"
+                                ""
                             ]
                         },
                         {
@@ -6593,7 +6593,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何かあればワシからもアドバイスしてやろう」"
+                                "If there's anything, I'll also give you advice."
                             ]
                         },
                         {
@@ -6678,7 +6678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございます！」"
+                                "Thank you very much!"
                             ]
                         },
                         {
@@ -6763,7 +6763,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「では、ゆこう・・・・・・\\!\\{せいっ！」"
+                                "Well then, let's go... \\!{Ready!}"
                             ]
                         },
                         {
@@ -7168,14 +7168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "...Eh... come to my... pussy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\}「・・ぇ・・・・・ま・・・・・きて・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7192,14 +7192,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'Mom! Wake up!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ママっ！おきてっ！」"
+                                ""
                             ]
                         },
                         {
@@ -7364,7 +7364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はる・・・君・・・・・・・」"
+                                "Haru... you..."
                             ]
                         },
                         {
@@ -7443,7 +7443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はる君・・・！？」"
+                                "Haru-kun...!?"
                             ]
                         },
                         {
@@ -7520,21 +7520,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Good morning, Mom! Geez, you were sleeping\nagain!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おはよっ！ママ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もー、またいねむりしてたよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7574,7 +7574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ・・・ごめんね、ちょっと疲れてたの」"
+                                "Hehe... Sorry, I was a little tired."
                             ]
                         },
                         {
@@ -7600,21 +7600,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: ...Huh? It feels like it's been a while\nsince I've seen Mom...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・あれ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんか、ママとひさしぶりなかんじがする・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -7654,14 +7654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうよ、はる君はしばらくお昼寝してたの。"
+                                "That's right, Haru-kun, you've been taking\nafternoon naps for a while. Hmm... I wonder how\nmany days you've been sleeping..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　んー・・・何日眠ってたかな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7687,14 +7687,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: W-Wait, that much?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなに？！」"
+                                ""
                             ]
                         },
                         {
@@ -7720,21 +7720,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Well then... since it's been a while, I'll\ngive you a tight hug!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ・・・・ひさしぶりだから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぎゅーってしてあげる！」"
+                                ""
                             ]
                         },
                         {
@@ -7774,7 +7774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ホント？じゃあお願いしちゃおうかしら♪」"
+                                "Really? Then maybe I should ask for a favor♪"
                             ]
                         },
                         {
@@ -7798,7 +7798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅぅぅ・・・・"
+                                "*squeeze...*"
                             ]
                         },
                         {
@@ -7827,7 +7827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むにっ・・・・・♡"
+                                "*squeeze...*♡"
                             ]
                         },
                         {
@@ -7876,7 +7876,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んんっ・・・♡」"
+                                "Mmm...♡"
                             ]
                         },
                         {
@@ -7902,14 +7902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: A-Are you okay? Did it hurt?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だ、だいじょうぶ？いたかったの？」"
+                                ""
                             ]
                         },
                         {
@@ -7949,7 +7949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\\}んく・・・♡\\{大丈夫、平気よ」"
+                                "Mmm...♡ Don't worry, I'm fine."
                             ]
                         },
                         {
@@ -7966,21 +7966,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: I see... Hey, Mom? When can I go home?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そっかぁ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ねえ、ママ？ぼくっていつおうちかえれるの？」"
+                                ""
                             ]
                         },
                         {
@@ -8020,14 +8020,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きっとすぐに帰れるわ。"
+                                "I'm sure you'll be able to go home soon. When you\ndo, let's have a feast together, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　帰ったらごちそうにしましょうね」"
+                                ""
                             ]
                         },
                         {
@@ -8053,14 +8053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: A feast!? Yay!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ごちそう！？やったぁ！！」"
+                                ""
                             ]
                         },
                         {
@@ -8100,14 +8100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、学校からプリントいっぱい貰ってるから"
+                                "Oh, I have a lot of printouts from school, so I\nhave to do those too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それもやらなきゃね」"
+                                ""
                             ]
                         },
                         {
@@ -8133,14 +8133,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Ugh...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うへぇ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8189,14 +8189,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(はる君の笑顔・・・いつだって私に元気をくれる。"
+                                "(Haru-kun's smile... It always gives me strength.\nIt's the greatest happiness as a mother.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 母親としての一番の幸せね)"
+                                ""
                             ]
                         },
                         {
@@ -8236,14 +8236,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(けど・・・私は、この不思議な体験を通して"
+                                "(But... through this strange experience, I've come\nto realize...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 気付いてしまった・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -8283,14 +8283,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(私は・・・母親であることと同じくらい・・・"
+                                "(I... as much as being a mother... also identify\nas a \\c[27]woman\\c[0].)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 　　　　　　　　　　　　　　　\\!\"\\c[27]女\\c[0]\"だということを・・・)"
+                                ""
                             ]
                         },
                         {
@@ -8330,7 +8330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(はる君・・・・ママはこれから・・・・・"
+                                "(Haru-kun... From now on, Mommy will...)"
                             ]
                         },
                         {
@@ -8379,14 +8379,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(母親としての幸せと同じくらい・・・"
+                                "(As much as the happiness of being a mother... I\nwill also find happiness as a woman...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 女としても幸せになるわ・・・♡)"
+                                ""
                             ]
                         },
                         {

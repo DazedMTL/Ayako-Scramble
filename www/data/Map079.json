@@ -2460,7 +2460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あっ、ファッション誌の新刊がいっぱい出てる)"
+                                "(Ah, there are lots of new issues of fashion\nmagazines out.)"
                             ]
                         },
                         {
@@ -2500,14 +2500,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ど～れ～にしようかな？"
+                                "(Hmm, which one should I choose? Let's take a\nquick look inside and decide.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ちらっと中見て決めちゃいましょ)"
+                                ""
                             ]
                         },
                         {
@@ -2585,21 +2585,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Rei: (There aren't many cute guys. The package\nlooks good, but when I look at the photos,\nsomething feels off...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(あんま可愛い子いねーな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " パケはいんだけど写真見るとなんかちげぇ・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -2616,14 +2616,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Hmm... I would give this guy a score of 45 with\nsome expectations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(うん・・・・この子は期待をこめて45点ってとこだな)"
+                                ""
                             ]
                         },
                         {
@@ -2649,21 +2649,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male (The next feature is... Oh!! This one looks\npretty good...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(次の特集は・・・・おっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " この子けっこう良さそうだぞ・・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -2680,21 +2680,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male (What... debut in the industry at 37 years\nold... His face... looks good...! His body is also\ngood...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(なになに・・・37歳で業界初デビュー・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 顔は・・・いいじゃん・・・！身体もいい・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -2720,21 +2720,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male (And above all, this lewd and disheveled\nexpression...! This is definitely something I\nreally like...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そしてなによりこのスケベに乱れた表情・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " これは相当好きモノにちがいねぇ・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -2751,14 +2751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male (I should definitely check out this\nactress... I'll buy the book too)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(この女優は要チェックだな・・・・本も買っておこう)"
+                                ""
                             ]
                         },
                         {
@@ -2784,14 +2784,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male (What's the name of the actress...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(女優の名前は・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -2907,14 +2907,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Ah, Ayako!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、アヤ！？」"
+                                ""
                             ]
                         },
                         {
@@ -3023,7 +3023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～～～～？！な、なんでその名前を・・・・！？」"
+                                "Huh?! W-Why that name...?!"
                             ]
                         },
                         {
@@ -3072,14 +3072,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(って、コンビニはエッチな本置いてあるじゃない・・・！"
+                                "(Wait, they sell erotic books at convenience\nstores...! I completely forgot...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " すっかり忘れてた・・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -3105,21 +3105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Oh... The real thing is even better than the\nphoto...! The breasts and ass are huge....♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ・・・・・写真より実物の方がもっとイイ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　胸もケツもでけぇ・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3136,7 +3136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じー・・・・・・！"
+                                "Staring...!"
                             ]
                         },
                         {
@@ -3185,7 +3185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょ、ちょっと・・・・あんまり見ないでください・・・」"
+                                "W-Wait, please don't look at me so much..."
                             ]
                         },
                         {
@@ -3211,28 +3211,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Oh... I'm sorry. Once I realized what kind\nof lewd body you have under those clothes, I\ncouldn't take my eyes off you...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁすいません。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その服の下はこんなにスケベな身体してるって思ったら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　目が離せなくて・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3249,21 +3249,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Look, on this page of the magazine. Ayako's\nnipples and pussy are completely exposed♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、雑誌のここのページ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アヤさんの乳首からマンコまで丸見えですよ♡」"
+                                ""
                             ]
                         },
                         {
@@ -3312,14 +3312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っ・・・・・♡"
+                                "(Huh...♡ This is... from the group sex shoot we\ndid...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " これ・・・撮影で乱交した時のやつだ・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -3359,14 +3359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(口いっぱいにおチンポを頬張って・・・♡♡"
+                                "(Taking a big cock in my mouth...♡♡ And both\nhands... and even in my pussy....♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 両手と・・・おマンコにも・・・・っ・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -3415,14 +3415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あぁ・・たくさんのチンポに囲まれて・・最高だった・・♡"
+                                "(Ah... being surrounded by so many cocks... it was\namazing...♡ To think that my private moments like\nthis would be seen by people all over the\ncountry...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " こんなところを・・・全国の人に見られるって・・っ・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -3448,21 +3448,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: And... hehe...♡ This thing that's printed\nhere..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それと・・・・へへ・・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここに載ってるこれ・・・・"
+                                ""
                             ]
                         },
                         {
@@ -3488,21 +3488,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Is it true that on your days off, you go out\nand hunt for dicks to devour?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\"休日は逆ナンしてチンポを食い漁ってる\"って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ホントですか？」"
+                                ""
                             ]
                         },
                         {
@@ -3551,7 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な・・・・！そ、そんなこと・・・"
+                                "Wha...! S-Such a thing..."
                             ]
                         },
                         {
@@ -3568,7 +3568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギンギンッ・・・・！"
+                                "Throbbing...!"
                             ]
                         },
                         {
@@ -3617,7 +3617,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(おチンポでテントが・・・・っ・・・♡)"
+                                "(My pussy is throbbing...♡)"
                             ]
                         },
                         {
@@ -3657,14 +3657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(もしかしてこの人・・・・・・"
+                                "(Could it be that this person... is taking the\nmagazine's content at face value and expecting\nsomething...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 雑誌の内容を鵜呑みにして期待してる・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -3704,7 +3704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(もうっ・・・そんなこと一言も言ってないのに・・・！)"
+                                "(I didn't say a single word like that...!)"
                             ]
                         },
                         {
@@ -3744,14 +3744,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(でも・・・勃起チンポ見せられて"
+                                "(But... when I was shown an erect dick, I also got\naroused...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 私もムラっとしてきたな・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -3791,7 +3791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・このあと用事もないし)"
+                                "(.....I don't have any plans after this.)"
                             ]
                         },
                         {
@@ -3840,7 +3840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -4121,14 +4121,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むむっ・・・・！"
+                                "Mmm...! Ayako, don't stop there..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  綾子よ・・・・そこで止まるのじゃ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4214,7 +4214,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レイさん・・・？」"
+                                "Rei-san...?"
                             ]
                         },
                         {
@@ -4576,7 +4576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「急にどうされたんですか？」"
+                                "What's the matter all of a sudden?"
                             ]
                         },
                         {
@@ -4661,14 +4661,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なに、お主の近くに陰気を感じてな。\\!"
+                                "Hmm, I sense a gloomy atmosphere around you... Ah,\nI see. So it's this copy machine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・なるほど\\.\\.・・・このコピー機か」"
+                                ""
                             ]
                         },
                         {
@@ -4793,21 +4793,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えっ？陰気ってこんな物にも・・・\\!"
+                                "Huh? Even objects like this can have a gloomy\natmosphere... Oh, come to think of it, they say\nthat gloominess can accumulate in things and\nplaces, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　・・・・そういえば物や場所にも陰気が溜まるって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　言ってましたっけ？」"
+                                ""
                             ]
                         },
                         {
@@ -4923,21 +4923,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「うむ、その通り。"
+                                "Yes, that's right. When objects or places are\nfilled with negative emotions from people, the air\nbecomes stagnant and gloominess is generated."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　物や場所は人から負の感情を抱かれると"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　空気が澱んでいき、陰気が生成されていく」"
+                                ""
                             ]
                         },
                         {
@@ -4977,14 +4977,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「じゃがコピー機なんぞに負の感情が集まるとはの・・・"
+                                "To think that negative emotions would gather even\nin a copy machine... Well, I suppose there must be\none person who is the cause of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　まあ、原因となっておるのは一人じゃろうな」"
+                                ""
                             ]
                         },
                         {
@@ -5053,7 +5053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「どうして一人って分かるんですか？」"
+                                "How did you know I was alone?"
                             ]
                         },
                         {
@@ -5122,21 +5122,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「複数の人間がこれに対して負の感情を抱くとは思えん。\\!"
+                                "I find it hard to believe that multiple people\nwould have negative emotions towards this. While I\ndo feel disgust, I think there must be someone who\nis forced to use this on a daily basis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　嫌悪感は抱いておるが、これを日常的に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　使わざるを得ない者がおるのじゃと考えられる」"
+                                ""
                             ]
                         },
                         {
@@ -5221,21 +5221,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そうなんですね・・・"
+                                "I see... Then, what should we do in cases where we\ndon't know who the cause is?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　では・・・こういう誰が原因か分からない場合って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どうすればいいんでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -5275,14 +5275,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ずっとこの場所で見張ってるのも"
+                                "It's also impossible to keep watching this place\nforever..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　無理がありますし・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5322,14 +5322,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「かといって・・・その・・・・エッチなことしてあげても"
+                                "But even if I were to... do something naughty for\nthem, it doesn't seem like their awareness towards\nthis would change..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　これに対する意識は変わらなさそうだし・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5414,21 +5414,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「簡単じゃ。"
+                                "It's simple. Just make them think that there are\nbenefits to using this copy machine!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　\"このコピー機を使うと良いことがあるんだ！\""
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そう思わせればよいのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -5513,14 +5513,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・それが中々難しいと思うんですが、"
+                                "...I think that's quite difficult, but do you have\nany secret plans...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　何か秘策が・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -5615,14 +5615,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それじゃ・・・・また、ラッキーと思えるような事を"
+                                "In that case... should I do something that they\nwould consider lucky...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　やってあげればいいんですか・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -5717,7 +5717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ・・・例えばじゃがこんなことをじゃな・・・」"
+                                "Hmm... For example, what if we were to..."
                             ]
                         },
                         {
@@ -5896,14 +5896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なっ・・・？！"
+                                "Wha...?! If, if something like that were to be\nexposed, it would be embarra..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そ、そんなの、バレたらたいへ・・・"
+                                ""
                             ]
                         },
                         {
@@ -5988,21 +5988,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫じゃ♡"
+                                "Don't worry ♡ During that time, I will use my\nmagic to make your presence faint. There are also\nseveral ways to deal with the security cameras."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その間、ワシが術でお主の存在を希薄にさせる。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　防犯カメラへの対策もいくつか方法がある」"
+                                ""
                             ]
                         },
                         {
@@ -6054,7 +6054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシを信じろ、絶対にバレんから安心せい」"
+                                "Believe in me, I guarantee that it won't be\nexposed, so relax."
                             ]
                         },
                         {
@@ -6139,14 +6139,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐっ・・・・・」\\!"
+                                "Guh... (This is for Haru-kun... for Haru- kun...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(これは、はる君のため・・・・はる君のため・・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -6186,14 +6186,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぜったい・・・\\.絶対\\.バレないように、"
+                                "Please give it your all to make sure that it\nabsolutely... \\.doesn't\\. get exposed, okay...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　全力を出してくださいね・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -6278,7 +6278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ・・・任せておけ・・・♡」"
+                                "Leave it to me... ♡"
                             ]
                         },
                         {
@@ -6901,21 +6901,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Sigh... Once again, our printer is\nbroken... Every time this happens, I have to come\nand make copies..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・まーた、うちのプリンター壊れやがって・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その度に俺がコピーしに来なきゃならねえんだぞ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6932,21 +6932,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Not just the printer, but if the\ncompany could also buy expensive ones...\n*mumbling*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「プリンターもだけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　会社も高いのを買ってくれれば・・・」\\}ぶつぶつぶつ・・・"
+                                ""
                             ]
                         },
                         {
@@ -6979,21 +6979,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: ...This copier is also old and worn\nout... And I have to pay for it myself too...\nSigh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・このコピー機もオンボロなんだよなぁ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しかも自腹だし・・・・さいあ・・・"
+                                ""
                             ]
                         },
                         {
@@ -7019,21 +7019,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: ......? (There's paper in the output\ntray... Did someone forget it...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・？」\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(排紙口に紙が・・・・忘れ物か・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -7062,7 +7062,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぺらっ・・・"
+                                "*rip...*"
                             ]
                         },
                         {
@@ -7079,14 +7079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: !!!!?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「！！！！？」"
+                                ""
                             ]
                         },
                         {
@@ -7140,45 +7140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "捲ったプリント用紙の一面には、"
+                                "On one side of the flipped print paper, a breast\npressed against the scanning surface was\nprinted..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "スキャン面に押し当てられた乳房が印刷されていた・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(な、なんだこれ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " だれかのいたずら・・・？ネットで拾った画像か・・？)"
+                                ""
                             ]
                         },
                         {
@@ -7195,52 +7164,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: W-What is this...?! Is this someone's\nprank...? Did they pick up an image from the\ninternet..?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・いや、このコピー機は2ヵ月前から"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " USB端子が壊れててスキャン以外使えないはず・・・・)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(・・・てなったら・・これ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ここで自分のオッパイをスキャンしたやつ？！)"
+                                ""
                             ]
                         },
                         {
@@ -7257,21 +7195,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: (...No, this copier's USB port has been\nbroken for the past two months, so it should only\nbe usable for scanning...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こんな地方にもそんな露出狂みたいなのが・・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " いや・・・そんなところだから丁度いいのか・・・？)"
+                                "Someone scanned their own breasts here?!"
                             ]
                         },
                         {
@@ -7288,45 +7257,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (Even in a place like this, there are\nexhibitionists...! No... maybe that's just how it\nis here...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・\\!にしても・・・いいオッパイだな)"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(こんだけ画面いっぱいに広がるなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 一体何カップなんだよ・・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -7343,21 +7288,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (...But still... What nice breasts)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(くっ・・・顔はいいのか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " どんな変態女なんだよ・・！見てみてぇ・・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -7374,59 +7312,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (To spread out this much on the\nscreen... What cup size is this...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・待てよ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ここを一番使っているのは間違いなく俺だ・・・)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だったらこれから先も使っていれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " こんなのが手に入ったり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " あわよくば鉢合わせれるんじゃ・・・)"
+                                ""
                             ]
                         },
                         {
@@ -7443,14 +7343,114 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (Hmph... Is her face attractive...? What\nkind of perverted woman is she..! I want to\nsee...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ちょっと・・・・\\.\\.ヤル気でてくるな・・・！)"
+                                "Salaryman (...Wait a minute... There's no doubt\nthat I'm the one who uses this place the most...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Salaryman (If I continue to use this place in the\nfuture, I might be able to get something like this\nor even have a chance encounter...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Salaryman (Hmm... \\.\\.I'm starting to feel\nmotivated...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7497,14 +7497,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (For now, should I take these breasts\nhome♪)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(とりあえずこのオッパイは・・・持って帰るか♪)"
+                                ""
                             ]
                         },
                         {
@@ -7963,7 +7963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それで淫気の方はどうですか？」"
+                                "So, how about the lewd atmosphere?"
                             ]
                         },
                         {
@@ -8003,14 +8003,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれだけ頑張ったんだから・・・・・・・　"
+                                "I worked so hard... it's gone, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・・消えてますよね？」"
+                                ""
                             ]
                         },
                         {
@@ -8095,7 +8095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、\\.一割減ってとこじゃな」"
+                                "Hmm, it's not just a 10% reduction, \\.."
                             ]
                         },
                         {
@@ -8196,7 +8196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(全然じゃない・・・！)"
+                                "(Not at all...!)"
                             ]
                         },
                         {
@@ -8281,14 +8281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「このペースだと時間がかかるのぉ・・・・"
+                                "At this rate, it will take a while... But I\nsuppose you want to save your child quickly, don't\nyou?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃがお主は息子を早く救いたいのであろう？」"
+                                ""
                             ]
                         },
                         {
@@ -8328,14 +8328,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「で、あれば・・・・・・"
+                                "Then, if that's the case... I should do something\nmore extreme that would make men even happier... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もっと男が喜ぶ過激なことをせねばのぉ・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -8420,7 +8420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っぅ・・・・・・・！」"
+                                "Ugh...!"
                             ]
                         },
                         {
@@ -8460,7 +8460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                "「.........」"
                             ]
                         },
                         {
@@ -8500,7 +8500,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちゃんと誤魔化せるようにしてくださいね・・・・・」"
+                                "Please make sure to deceive them properly..."
                             ]
                         },
                         {
@@ -8569,7 +8569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふっふっふ、任せるがよい・・・・・♡」"
+                                "Hehehe, leave it to me.....♡"
                             ]
                         },
                         {
@@ -9185,14 +9185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Sigh, the printer broke again."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はーあ、まーた、プリンター壊れちまったなー」"
+                                ""
                             ]
                         },
                         {
@@ -9209,21 +9209,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: But, I unexpectedly got some material\nlast time♪\\! Maybe I'll have some today too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「けど、この前は思いがけずオカズをゲットできたしな♪\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日もあったりし・・・"
+                                ""
                             ]
                         },
                         {
@@ -9268,14 +9268,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Oh...! Th-this is....!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっ・・・・・・！こ、これは・・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -9341,38 +9341,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ohh!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おおっ！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の予想通り、またしても女体がコピーされた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "印刷物が取り残されていた・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -9389,14 +9365,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ただひとつ予想が外れていたのは、"
+                                "As expected from a man, once again there were\nprinted materials left behind with copies of\nfemale bodies..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コピーされたその部位が女性器だということであろう・・・"
+                                "The only thing that was unexpected was that the\ncopied parts were pussies..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9413,59 +9413,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (W-Wait, seriously...! Did they really\ntake off their pants in a place where there are\npeople...!? And to do it on the scanner table,\nthat's really conspicuous....!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ま、マジかよ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 普通に人いるとこでパンツまで脱いだのか・・・！？　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " しかもスキャン台に乗るとか相当目立つはず・・・・！)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(んなリスキーな露出やるとかこの女・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " マジで真正のド変態だな・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -9482,45 +9451,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (This woman is really daring with her\nexposure...! She's seriously a true pervert...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・\\!にしてもこのコピー機も割といい仕事すんな)"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ケツの穴はシワの本数がしっかり数えれるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " マンコの形から色までけっこう鮮明だな・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -9537,21 +9482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (.....But even so, this copier does\nquite a good job)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(クリはちょい大きめ、色はちょい濃ゆめ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " マン毛の手入れもされている・・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -9568,45 +9506,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (I can clearly count the number of\nwrinkles on the asshole, and from the shape to the\ncolor of the pussy, it's quite vivid...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(だがパンツが若者のセンスじゃねえ・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 察するに30代後半と見た・・・・・！)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(やっぱそのくらいの歳が一番性欲つえーもんな)"
+                                ""
                             ]
                         },
                         {
@@ -9623,52 +9537,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (The clit is slightly larger, the color\nis slightly darker.... The pubic hair is also\nwell-groomed...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・んなことが予想できるくらい"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 印刷性能が優れてるってことか・・・ちょっと見直したぜ)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(・・・・・・待てよ？ここ写ってる情報を分析すれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " この変態女を特定できるんじゃ・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -9685,52 +9568,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (But the underwear is not of a young\nperson's taste.... I assume they are in their late\n30s...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・この女を特定できたら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 脅してあんなことやこんなことを・・・・・)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ぐっふっふ・・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " そういうことか、そういうことだな・・・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -9747,28 +9599,176 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (I guess that's the age when sexual\ndesire is at its peak)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(よし・・・！"
+                                "Salaryman (...To think that the printing\nperformance is so excellent that it can produce\nsuch things... I have to reevaluate it a bit)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " なんとしても見つけてやる・・・・！"
+                                "Salaryman (Wait a minute? If I analyze the\ninformation captured here, can I identify this\nperverted woman...?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 待ってろ未来のドスケベセフレ！！)"
+                                "Salaryman (.....If I can identify this woman, I\ncould threaten her to do all sorts of things.....)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Salaryman (Hehehe....♡ So that's how it is, I\nsee.....♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Wait for me, future horny sex friend!!"
                             ]
                         },
                         {
@@ -9815,14 +9815,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (I should seize this pussy as evidence♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(んじゃこのマンコは証拠品として押収しておくか♡)"
+                                ""
                             ]
                         },
                         {
@@ -10334,14 +10334,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レイさん！淫気はどうですか！ありますか？！"
+                                "Rei-san! How is your lewdness? Do you have any\nleft?! It's still lingering, right?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まだ残ってますよね！？」"
+                                ""
                             ]
                         },
                         {
@@ -10426,14 +10426,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんじゃなんじゃ！うっとうしい！"
+                                "What is it, what is it! How annoying! Even if you\nrush me like that, I'll show you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんなに急かさんでも見てやるわい！！」"
+                                ""
                             ]
                         },
                         {
@@ -10534,7 +10534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「す、すみません・・・・」"
+                                "I-I'm sorry..."
                             ]
                         },
                         {
@@ -10619,14 +10619,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふん、分かればよい。\\!"
+                                "Hmph, as long as you understand. Now, about the\nremaining lewdness... *stares*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  さて、淫気の残量じゃが・・・・・・・」\\}じーっ・・・"
+                                ""
                             ]
                         },
                         {
@@ -10711,7 +10711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごくっ・・・・・・！」\\}ドキドキ・・・！"
+                                "Goku...! *Heart pounding*"
                             ]
                         },
                         {
@@ -10827,7 +10827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、綺麗さっぱり消えてお・・"
+                                "Hmm, it seems to have completely disappeared.."
                             ]
                         },
                         {
@@ -10912,7 +10912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -11028,7 +11028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -11077,14 +11077,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おおっ、端っこの方にまだ残っておったわい！"
+                                "Oh, there's still some left in the corner! You'll\nhave to work hard on this one, my dear."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これはまたお主に頑張ってもらわねばのぉ」"
+                                ""
                             ]
                         },
                         {
@@ -11140,14 +11140,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、え～～♡そうなんですかぁ♡仕方ないなぁ・・・♡"
+                                "Eh, ehh~♡ Is that so? Well, I guess there's no\nhelping it...♡ I have to do that kind of thing\nagain...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　またあんなことしないといけないなんてぇ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -11232,14 +11232,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうと決まったら始めましょ・・・♡"
+                                "If that's the case, let's start...♡ Please use\nyour usual technique to make sure we don't get\ncaught, okay?♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつもどおりバレない術、かけてくださいね♡」"
+                                ""
                             ]
                         },
                         {
@@ -11333,7 +11333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・」"
+                                "「.....」"
                             ]
                         },
                         {
@@ -11373,14 +11373,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「スマンが今から急用での。すぐに行かねばならんし"
+                                "Sorry, but I have something urgent to attend to\nright now. I have to leave immediately and won't\nbe able to come back until late at night."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　夜中まで帰ってこれないのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -11474,21 +11474,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ・・・！じゃ、じゃあ・・・・"
+                                "Eh...! S-So, that means... I have to do it without\nRei-san's technique...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　レイさんの術なしで・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しないといけないってこと・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -11573,14 +11573,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、その通りじゃ。"
+                                "Yes, that's right. Well then, I'll be going. Good\nluck, and may you succeed."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ではワシは行くぞ。それでは、健闘を祈る」"
+                                ""
                             ]
                         },
                         {
@@ -11878,7 +11878,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ホ、ホントに行っちゃった・・・・・・」"
+                                "H-He really left..."
                             ]
                         },
                         {
@@ -11958,7 +11958,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「まさか・・・・一人でシないといけないなんて・・・」"
+                                "I can't believe... I have to do it alone..."
                             ]
                         },
                         {
@@ -11998,14 +11998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「見つかる確率は跳ね上がるわね・・・・"
+                                "The chances of being found out are skyrocketing...\nIf someone were to see me in such a place, I\nwonder what they would do... ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もし、そんなとこ見られたら何をされるか・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -12054,14 +12054,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それより、これ以上何を写したら喜ばれるんだろ・・・？"
+                                "More importantly, what else can I show to make\nthem happy...? Showing my asshole and going any\nfurther... hmm?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  お尻の穴まで見せてこれ以上は・・・・・・・ん？」"
+                                ""
                             ]
                         },
                         {
@@ -12141,14 +12141,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、ポッケに油性ペンが・・・・"
+                                "Ah, there's an oil-based pen in my pocket... Did I\nleave it in there from this morning...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今朝使ったのそのまま入れてたっけ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -12230,14 +12230,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・ん？"
+                                "...Hm? If I use this... Ah...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これを使えば・・・・・\\!\\CE[31]あっ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -12831,28 +12831,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Hehehe~ Well, recently I've started\nlooking forward to coming here to meet this\nprinter, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふっふふーんっ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いやぁ最近はこのプリンターに会いにくるのが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　楽しみになってきたぜ」"
+                                ""
                             ]
                         },
                         {
@@ -12869,28 +12869,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: On days like today with a lot of\ncopies, I can slack off since it takes time. ♡ In\nthe meantime, I can gather information on that\npervert..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日みたいにコピーが多い日は、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　時間かかるからサボれるしな♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その間にあの変態の情報集めでもして・・・」"
+                                ""
                             ]
                         },
                         {
@@ -12935,21 +12935,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Oh...! There are leftover papers\nagain...! Is it that perverted woman's pussy\nphotos?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっ・・・！またしても紙が残ってるぞ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あの変態女のマンコ写真か？」"
+                                ""
                             ]
                         },
                         {
@@ -12975,14 +12975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: I wonder if there are any clues that\nconnect to that woman..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なにかあの女に繋がる手掛かりとかな・・・・"
+                                ""
                             ]
                         },
                         {
@@ -13008,14 +13008,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Huh...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「は・・・・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -13081,45 +13081,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこに写っていたのは以前と同じく"
+                                "The image there showed the same as before, a\nlarge, well-formed buttocks and a ripe pussy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "安産型の大きな尻肉と熟れた女性器・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし以前と異なり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "膣からは愛液が溢れ水溜りが形成されており、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな尻肉には住所が書き記されていた・・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -13136,14 +13105,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてその住所はうろ覚えだが、"
+                                "However, unlike before, love juices overflowed\nfrom the vagina and formed a puddle, and the large\nbuttocks had an address written on them..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ここからさほど遠くはない・・・・・"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13160,21 +13136,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じっくり情報を収集していき"
+                                "And although I vaguely remember that address, it's\nnot too far from here..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見つけようとした決意を認められたかの如く、"
+                                "As if recognizing my determination to carefully\ngather information and find the truth, I suddenly\nobtained crucial information that brought me\ncloser to the core..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いきなり核心に迫る情報を手に入れたのであった・・・"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13191,52 +13191,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (No way... I put in so much effort...\nWell, I guess the result is okay?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(嘘だろ・・・せっかく気合いいれたのに・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ま、まあ結果オーライか？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(つかなんだよこのマン汁の量・・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 漏らしたみてえに溢れてやがる)"
+                                ""
                             ]
                         },
                         {
@@ -13253,52 +13222,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (What the hell...! The amount of pussy\njuice...!? It's overflowing as if she's peeing\nherself)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(こんなマンコ、ぜってぇ具合いいに決まってる・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " やっべ・・・！マジでチンコ突っ込んでみてぇ・・！)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "サラリーマン"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(今すぐ変態女の住所かを確かめに行きたいが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " さすがにまだ勤務中だし・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -13315,21 +13253,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (This pussy looks so damn good...!\nShit...! I really want to stick my dick in it...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(よし、今日はちゃちゃっと仕事やって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 定時でダッシュだな！！)"
+                                ""
                             ]
                         },
                         {
@@ -13346,14 +13284,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (I want to go check that perverted\nwoman's address right away, but I'm still at\nwork...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(まずはこの大量のコピーを終わらせるか)"
+                                "Salaryman (Alright, let's quickly finish work\ntoday and dash out on time!!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Salaryman (First, let's finish making these\ncopies)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -13403,7 +13403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱかっ・・・・"
+                                "*SFX: *crack*..."
                             ]
                         },
                         {
@@ -13429,14 +13429,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Panties on the scanner...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「スキャン台にパンツが・・・っ！！！？」"
+                                ""
                             ]
                         },
                         {
@@ -13453,21 +13453,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (Th-this is a perverted woman's\npanties...! And they're just left here...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(こ、これはヘンタイ女のパンツ・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " それが置きっぱなしにっ・・・・！？)"
+                                ""
                             ]
                         },
                         {
@@ -13498,7 +13498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むっわぁ・・・・・♡♡"
+                                "Mmm... ♡♡"
                             ]
                         },
                         {
@@ -13524,28 +13524,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman (Damn, this erotic scent of a female...\n♡ Shit...! It's making my dick throb...! If I\nsmell something like this... I won't be able to\nhold back anymore...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(くっそエロいメス臭が・・・っ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " やっべ・・・！チンコにくるっ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " こんなの嗅いだら・・・・・もう・・・っ・・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -13590,21 +13590,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Oh, Manager? \\. I have a stomachache,\nso I'll leave early."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、部長っすか？\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  お腹痛いんで早退します」"
+                                ""
                             ]
                         },
                         {

@@ -2333,21 +2333,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の客"
+                                "Blonde Customer: Hey, hey, did you see that? Ayako\nhad this amazing course just for women."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なぁなぁ、あれ見たか？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アヤって女だけすっげぇコースあったんだけど」"
+                                ""
                             ]
                         },
                         {
@@ -2404,21 +2404,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茶髪の客"
+                                "Blonde Customer: That's amazing. 500,000 yen is no\njoke, but I'm too scared to spend that kind of\nmoney."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すげぇよなあれ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　50万とかとてもじゃねえけど怖くて出せねえよ」"
+                                ""
                             ]
                         },
                         {
@@ -2444,28 +2444,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の客"
+                                "Blonde Customer: Yeah, right? If she's an old hag\nor ugly... hehehe... I want to see the face of the\nperson who chose her."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だよなｗ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それでババアとかブスだったら・・・ぷぷぷっ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　選んだやつの顔見てみてーわ」"
+                                ""
                             ]
                         },
                         {
@@ -2491,21 +2491,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "黒服"
+                                "Black Suit: Customer waiting at number 69! We are\nready to escort you, please take your seat."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「69番でお待ちのお客様！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お迎えの準備ができましたので席をお立ちください」"
+                                ""
                             ]
                         },
                         {
@@ -2652,14 +2652,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茶髪の客"
+                                "Blonde Customer: Huh...? Escort...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん・・・・？お迎え・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -2685,21 +2685,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茶髪の客"
+                                "Blonde Customer: So, this place has a system where\nyou have to go to the elevator yourself, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ここって自分でエレベーター前まで行く"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  システムだったくね？」"
+                                ""
                             ]
                         },
                         {
@@ -2725,14 +2725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の客"
+                                "Blonde Customer: Could it be that there's a\nspecial course for 'example'?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もしかして\"例\"のコース限定とか？」"
+                                ""
                             ]
                         },
                         {
@@ -2789,14 +2789,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茶髪の客"
+                                "Blonde Customer: I wonder what kind of person will\ncome.."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「かもな、一体どんなのが来るの・・"
+                                ""
                             ]
                         },
                         {
@@ -3261,7 +3261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんにちは、ご指名いただきました\"アヤ\"です」"
+                                "Hello, I'm Ayako, the one you requested."
                             ]
                         },
                         {
@@ -3301,7 +3301,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「本日は・・・・"
+                                "Today..."
                             ]
                         },
                         {
@@ -3433,14 +3433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ガチ子作りコースを"
+                                "Thank you for choosing the Serious Baby-Making\nCourse...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お選びいただきありがとうございます・・・っ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -3464,14 +3464,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「誠心誠意、おチンポに尽くさせていただきますので・・・"
+                                "With utmost sincerity, I will serve your penis...\nso please, in this lowly female hole..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうかこの卑しいメスの穴に・・・・"
+                                ""
                             ]
                         },
                         {
@@ -3488,21 +3488,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\{"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お客様のぶっといオスチンポで"
+                                "Please impregnate me with your thick, throbbing\ncock♡♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　種付け射精してくださいっっ♡♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -3598,7 +3598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「詳しいお話は・・・・♡」"
+                                "For more details...♡"
                             ]
                         },
                         {
@@ -3638,7 +3638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「私たちが・・・・ラブラブ子作りする部屋でしましょっか・・・・・♡」"
+                                "Shall we... go to the lovey-dovey baby-making room\ntogether...♡"
                             ]
                         },
                         {
@@ -3994,14 +3994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茶髪の客"
+                                "Blonde Customer: ...Hey... can you lend me some\nmoney?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・なあ・・・ちょい金貸してくんね？」"
+                                ""
                             ]
                         },
                         {

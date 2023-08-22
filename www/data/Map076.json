@@ -1004,21 +1004,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store: Welcome! If you have any questions\nabout sake, feel free to ask."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「らっしゃーい。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　酒のことなら何でも聞いてくれ」"
+                                ""
                             ]
                         },
                         {
@@ -1117,14 +1117,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store: Huh? Recently, there's been a\ncitrus-flavored sparkling sake in commercials?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん？最近CMやってる柑橘系の発泡酒？」"
+                                ""
                             ]
                         },
                         {
@@ -1141,21 +1141,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store: ...Ah, you mean Stelk ZERO. Sorry,\nbut we're almost out of stock right now..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・ああ、\"ステルクZERO\"のことか。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　悪りぃけど、今在庫がほぼ無くてな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1211,7 +1211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、残っている分だけでいいので・・・"
+                                "Well then, if it's just the remaining stock..."
                             ]
                         },
                         {
@@ -1228,28 +1228,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store: Sorry, but there's a reservation to\nbuy the remaining stock at a high price... I don't\nknow when the next shipment will arrive, so we'll\njust have to wait for that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すまんが、残りも高値で買うって予約があってな・・・\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　次の入荷はいつになるか分かんねぇけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それ待つしかないな」"
+                                ""
                             ]
                         },
                         {
@@ -1289,7 +1289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「高値って・・・どのくらいですか・・・？」"
+                                "How high is the price...?"
                             ]
                         },
                         {
@@ -1306,14 +1306,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store: They said they would pay this\nmuch... *whispering*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こんくらいは出すって言ってて・・・・」\\}ひそひそ・・・"
+                                ""
                             ]
                         },
                         {
@@ -1401,7 +1401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなに・・・？！」"
+                                "Th-That much...?!"
                             ]
                         },
                         {
@@ -1418,21 +1418,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store: Well... if they're willing to pay\nmore than that, I might consider it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ・・・それ以上に出してくれるってんなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　考えてやってもいいがな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1472,21 +1472,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・すぐ欲しいんだけど・・・ついてないなぁ・・・"
+                                "(...I really want it right away... but luck isn't\non my side... Well... even if it's expensive, it's\nnot an amount I can't afford...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " まぁ・・・高いと言っても"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 出せないほどの金額じゃないけど・・・)"
+                                ""
                             ]
                         },
                         {
@@ -1526,7 +1526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(他に交渉できる材料とかって・・・・)"
+                                "(Are there any other materials I can negotiate\nwith...?)"
                             ]
                         },
                         {
@@ -1566,14 +1566,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・\\.\\.一つ・・・\\.\\.あったわね・・・・・・・"
+                                "(....\\.\\.There's...\\.\\.one thing....... Let's make\na firm decision before we negotiate....)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " \\!しっかり決めてから交渉してみましょう・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -1687,21 +1687,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Oh, you're here again. If\nyou're going to buy, do it soon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっ、また来たか。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　買うなら早いうちだぜ」"
+                                ""
                             ]
                         },
                         {
@@ -1718,7 +1718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "交渉しますか？"
+                                "Shall we negotiate?"
                             ]
                         },
                         {
@@ -1806,7 +1806,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "「・・・・・・これでどうでしょうか・・・？」"
+                                "...How about this...?"
                             ]
                         },
                         {
@@ -1832,7 +1832,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "綾子は10000円を渡した。"
+                                "Ayako handed over 10,000 yen."
                             ]
                         },
                         {
@@ -1849,21 +1849,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: ...If you're going to spend\nthat much, I guess I have no choice. In\nreturn...I'll do it for you secretly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「・・・そこまで出すんならしょうがねぇ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　そん代わり・・・内緒で頼むぜ」"
+                                ""
                             ]
                         },
                         {
@@ -1892,7 +1892,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "ステルクZERO を手に入れた！"
+                                "I got my hands on Stelk ZERO!"
                             ]
                         },
                         {
@@ -1932,14 +1932,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(たったお酒一本で・・・！冗談抜きで高い買い物ね・・・"
+                                "(Just for a single bottle of liquor...! It's no\njoke, it's an expensive purchase... But if I can\nobtain psychic powers with this, then it's a cheap\ndeal...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                " けどこれで超能力が手に入るなら安いモノよね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -1995,7 +1995,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(さ、レイさんのところに戻りましょ)"
+                                "(Well, let's go back to Rei-san's place)"
                             ]
                         },
                         {
@@ -2038,7 +2038,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "酒屋のHイベントが回想に追加されました。"
+                                "The liquor store's H event has been added to the\nflashback."
                             ]
                         },
                         {
@@ -2140,14 +2140,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(ちょっと・・・"
+                                "(Hmm... It's difficult to negotiate with my\ncurrent financial situation...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                " 今のお財布状況じゃ交渉しずらいわね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -2314,14 +2314,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(・・・って、何考えてるのよ私・・・！"
+                                "(...What am I thinking...! There's no way I can do\nsomething so indecent...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                " そんなはしたない事できるわけないじゃない・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -2464,14 +2464,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "酒屋"
+                                "Liquor Store Owner: Hehe... I'll count on you\nagain..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへっ・・・また頼むぜ・・・」"
+                                ""
                             ]
                         },
                         {

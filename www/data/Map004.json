@@ -3044,21 +3044,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・昨日のあれ、夢じゃないわよね？"
+                                "...That thing from yesterday, it wasn't a dream,\nright? I have to work hard from today to gather\nfaith...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日から信仰？を集めるのを頑張らなきゃ・・・！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -3098,14 +3098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・まずは朝ご飯ね。お腹空いてたら元気出ないわ。"
+                                "...First, let's have breakfast. I won't have\nenergy if I'm hungry. Let's go downstairs."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一階に降りましょ」"
+                                ""
                             ]
                         },
                         {
@@ -3325,7 +3325,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何をしますか？"
+                                "What would you like to do?"
                             ]
                         },
                         {
@@ -3601,7 +3601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(今日はどうやってしよっかな・・・？）"
+                                "(I wonder what we should do today...?)"
                             ]
                         },
                         {
@@ -3887,7 +3887,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "使うおもちゃは？"
+                                "Which toy would you like to use?"
                             ]
                         },
                         {
@@ -4440,21 +4440,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ・・・この人の動画、面白いわね♪"
+                                "Hehe... This person's videos are interesting♪ Oh,\n'Infiltrating a Castella Factory'! This video\nlooks interesting too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!　\\CE[30]えっ、\"カステラ工場の中に潜入してみた\"！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この動画も面白そう！」"
+                                ""
                             ]
                         },
                         {
@@ -4755,14 +4755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんじゃ、年甲斐もなく騒ぎおって"
+                                "What's all the fuss about? Did you find something\ninteresting despite your age?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　面白いモノでも見つけたのか？」"
+                                ""
                             ]
                         },
                         {
@@ -4847,14 +4847,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ。最近、動画投稿サイトで色んな動画を"
+                                "Yes, recently I started watching various videos on\na video sharing site, and surprisingly, they are\nquite interesting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見始めたんですが、これが意外と面白くって」"
+                                ""
                             ]
                         },
                         {
@@ -4923,7 +4923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふむ、この手のサービスは近年急拡大しておるな」"
+                                "Hmm, this kind of service has been rapidly\nexpanding in recent years."
                             ]
                         },
                         {
@@ -4963,14 +4963,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシが一時期、憑りついてた者も"
+                                "There was a time when I was obsessed with it,\nspending most of my days filming videos and\nposting them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一日の殆どを動画撮影に費やし投稿しておったのぉ」"
+                                ""
                             ]
                         },
                         {
@@ -5055,14 +5055,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・そこまでハマると生活が怖いですね。"
+                                "...It's scary how much it can consume your life.\nIf you spend less time working, there won't be\nmuch left for hobbies..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お仕事する時間が減ったら趣味どころじゃ・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5147,14 +5147,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「何を言う？"
+                                "What are you saying? Nowadays, big money is\nflowing into these kinds of websites."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今やこの手のサイトにはビッグマネーが流れておる」"
+                                ""
                             ]
                         },
                         {
@@ -5178,14 +5178,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先の者も動画の収益により"
+                                "Even the ones before me were able to live quite\ncomfortably thanks to the revenue from videos."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なかなか裕福な暮らしをしておったぞ」"
+                                ""
                             ]
                         },
                         {
@@ -5270,7 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうなんですか・・・・知らなかった・・・」"
+                                "I-I see... I didn't know..."
                             ]
                         },
                         {
@@ -5310,21 +5310,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、私もそういう人達みたいに"
+                                "Well, maybe I could make money by posting videos\nlike those people do♪ Hehe... just kidding, that's\nimpossible for me..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　動画投稿したらお金儲けちゃったりして♪\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ふふ・・・・なんてねそんなの無理に・・・"
+                                ""
                             ]
                         },
                         {
@@ -5393,14 +5393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「余裕じゃ。お主の風貌があれば"
+                                "No problem. With your appearance alone, you could\neasily make money just by having casual\nconversations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　世間話だけでも金が舞い込んでくるじゃろう」"
+                                ""
                             ]
                         },
                         {
@@ -5485,21 +5485,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほ、ホントですか？！"
+                                "R-Really?! Could it be that Rei-san is\nknowledgeable about those kinds of things...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もしかしてレイさんって・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そういうのに詳しかったり・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -5584,7 +5584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「無論じゃ。ワシを誰だと思っておる」"
+                                "Of course. Who do you think I am?"
                             ]
                         },
                         {
@@ -5636,21 +5636,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシがプロデュースすれば、"
+                                "If I were to produce, you could become a popular\nstreamer who earns hundreds of thousands of yen in\nrevenue with each stream."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お主は配信する度に数十万もの収益を得る"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大物配信者になれることじゃろう」"
+                                ""
                             ]
                         },
                         {
@@ -5719,7 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなに・・・・！」"
+                                "T-That much...!"
                             ]
                         },
                         {
@@ -5759,14 +5759,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(たしかに・・・最近テレビでも配信サイトが"
+                                "(Certainly... I remember hearing something about\nhow streaming sites have been growing rapidly even\non TV lately...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " スゴイ伸びてるとかどうとか言ってたような・・・)"
+                                ""
                             ]
                         },
                         {
@@ -5806,14 +5806,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(私だっていつまでも元気な保証はない・・・"
+                                "(I can't guarantee that I'll always be healthy...\nSo, I should work hard now and save up as much as\npossible...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " だったら今の内に働いていっぱい貯めとかなきゃ・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -5882,7 +5882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どうじゃ？ワシと一緒に小遣い稼ぎしてみらんか？」"
+                                "How about it? Wanna earn some pocket money with\nme?"
                             ]
                         },
                         {
@@ -5967,7 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レイさん・・・私・・・配信します！」"
+                                "Rei-san... I... will start streaming!"
                             ]
                         },
                         {
@@ -6052,14 +6052,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ・・・♡\\!では、さっそく・・・"
+                                "Hmm...♡ Well then, let's get started... on which\nstreaming site and the tips to use..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  配信するサイトとコツをじゃな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6782,14 +6782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ、今回も張り切って配信しようかの。\\!"
+                                "Alright, let's get excited and start the\nlivestream. But first, let's take the next step\nhere."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃが、ここで次のステップを踏もうではないか」"
+                                ""
                             ]
                         },
                         {
@@ -6890,7 +6890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「次のステップ・・・ですか？」"
+                                "The next step... you mean?"
                             ]
                         },
                         {
@@ -6959,14 +6959,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、前回の配信で有料のチャットについて"
+                                "Yes, I believe we were able to understand a bit\nabout paid chat from the previous livestream."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　少し理解できたのではないかと思う」"
+                                ""
                             ]
                         },
                         {
@@ -7006,14 +7006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今回からそこを深堀りしていく。\\!"
+                                "From this time on, we will delve deeper into that.\nSpecifically..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　具体的には・・・・・・・・・・・・・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -7545,21 +7545,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(前回は流されておっぱいまで見せてしまった・・・\\!"
+                                "(Last time, I ended up showing my breasts... If\npossible, I would like to do a casual and ordinary\nchat stream like other streamers...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ・・・・・できれば他の配信者さんみたいに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 普通で何気ない雑談配信がしたいな・・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -7599,14 +7599,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(うん、料理の話とか最近読んだ小説の話とか"
+                                "(Yeah, like talking about cooking or discussing\nthe novels I've recently read...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そういったのとかを・・・"
+                                ""
                             ]
                         },
                         {
@@ -7646,7 +7646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・)"
+                                "(......)"
                             ]
                         },
                         {
@@ -7686,21 +7686,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(でも、エッチな話になったら"
+                                "(But, when it comes to naughty talk, I get a lot\nof paid comments... Honestly, compared to others,\nmy streams have a lot of that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 有料コメントがいっぱいくるのよね・・・\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 正直、他の人と比べても私の配信はそれが多・・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -7740,21 +7740,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・いえ、たしかにお小遣い稼ぎが目的だったけど、"
+                                "(.....No, while it's true that I initially did\nthis to earn some extra money, recently I've\nstarted wanting to entertain the people who watch\nme... I've started feeling that way.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 最近は、見てくれてる人を楽しませたい・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そう思えるようになってきた)"
+                                ""
                             ]
                         },
                         {
@@ -7794,21 +7794,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・まぁ、私がエッチなことしたら"
+                                "(......Well, honestly, it's not that I mind\ngetting a reaction when I do something naughty,\nbut it feels like it's not based on my actual\nskills and that bothers me. So, I should focus on\nhaving proper conversations...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 反応してくれるのは正直悪い気はしないけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " なんか実力じゃないみたいで癪だから、ちゃんとトークを・・・"
+                                ""
                             ]
                         },
                         {
@@ -8123,7 +8123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うむ、準備はバッチリのようじゃな」"
+                                "Yes, everything is perfectly prepared."
                             ]
                         },
                         {
@@ -8163,21 +8163,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ではいつものアドバイスを・・・と言いたいところじゃが"
+                                "Well, I would usually give you my usual advice...\nbut unfortunately, I'm a busy person and won't be\nable to come back until tonight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あいにくワシは忙しい身でな、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日は夜まで帰ってこれん」"
+                                ""
                             ]
                         },
                         {
@@ -8217,14 +8217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「せっかくの機会じゃ。"
+                                "This is a great opportunity. Think of everything\nfrom scratch and try to liven up the broadcast."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一から十まで自分で考え、放送を盛り上げてみよ」"
+                                ""
                             ]
                         },
                         {
@@ -8325,21 +8325,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・はいっ！"
+                                "....Yes! Since it's a special occasion, I'll try\nto liven up the broadcast with just my talk,\nwithout anything explicit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　せっかくなので今日はエッチなのはナシで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私のトークだけで盛り上げてみます」"
+                                ""
                             ]
                         },
                         {
@@ -8424,14 +8424,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほう・・・たしかに毎回淫猥な話というのも飽きがくるの。"
+                                "Oh... It's true that talking about explicit things\nevery time can get boring. Let's have high\nexpectations for your storytelling skills, shall\nwe?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ではお主の話術に期待してみようではないか」"
+                                ""
                             ]
                         },
                         {
@@ -8516,7 +8516,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、まかせてください」"
+                                "Yes, please leave it to me."
                             ]
                         },
                         {
@@ -8585,14 +8585,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ふっふっふ・・・・♡"
+                                "(Hehehe....♡ I hope there won't be any\ntroubles...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " なにもトラブルがなければいいがの・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -8970,7 +8970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日こそは普通の配信にしよう・・・・」"
+                                "Let's make today's stream a normal one..."
                             ]
                         },
                         {
@@ -9019,14 +9019,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「前だって途中まではよかったのに・・・・・"
+                                "It was going well until earlier... but then I\nreceived something like that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんなモノが送られてきたから・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9075,7 +9075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あんなモノが・・・・・・・・・」"
+                                "Something like that..."
                             ]
                         },
                         {
@@ -9124,7 +9124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」\\}むらっ・・・♡"
+                                "...Ah...♡"
                             ]
                         },
                         {
@@ -9164,7 +9164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(配信開始まで少し時間あるわね・・・・・)"
+                                "(We still have some time until the stream\nstarts...)"
                             ]
                         },
                         {
@@ -9204,7 +9204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(レイさんもどこか行くって言ってたし・・・・)"
+                                "(Rei also said she's going somewhere...)"
                             ]
                         },
                         {
@@ -9253,7 +9253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・♡」"
+                                "「........♡」"
                             ]
                         },
                         {
@@ -9673,38 +9673,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント終了後に「Q」キーを押すと、"
+                                "After the event ends, if you press the Q key, you\ncan hear Ayako's soliloquy about that event."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのイベントに関する綾子の独り言が聞けます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的には聞かなくてもゲーム進行には影響ありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略のヒントに繋がることを呟くかもしれません。"
+                                ""
                             ]
                         },
                         {
@@ -9721,21 +9697,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、イベント関連の独り言は、"
+                                "Basically, it doesn't affect the game progress if\nyou don't listen to it, but she might whisper\nsomething that could lead to hints for capturing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家で寝てしまったり、一度聞くと\\c[2]二度と呟かなくなります。\\c[0]"
+                                "Also, be aware that if you fall asleep at home or\nlisten to the event-related soliloquy\nonce,\\c[2]she won't whisper it again.\\c[0] So\nplease be careful if you want to hear all the\nconversations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全ての会話を聞きたい方は気をつけてください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9879,14 +9879,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(おっぱいが張ってきたな・・・・"
+                                "(My breasts are getting swollen... Should I\nsqueeze them...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 搾っておこうかな・・・・・？)"
+                                ""
                             ]
                         },
                         {

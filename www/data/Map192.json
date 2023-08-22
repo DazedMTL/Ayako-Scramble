@@ -2100,14 +2100,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: W-What?! How did you get in?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わっ！どうやって入ったんですか？！」"
+                                ""
                             ]
                         },
                         {
@@ -2202,21 +2202,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Huh? What am I doing here? Can't you tell\njust by looking? I'm making a game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え？ここで何してるって？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　見たら分かるでしょ、ゲーム作ってるんですよ」"
+                                ""
                             ]
                         },
                         {
@@ -2311,21 +2311,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: What kind of game are you making? Umm, I\ncan't say that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どんなゲームを作ってるって？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そ、それは言えないなぁ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2420,21 +2420,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Huh? You really want me to tell you...?\nHmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え？どうしても教えてほしいって・・・？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うーん・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2529,21 +2529,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: ...Then, can you promise me that you won't\ntell anyone else?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・じゃあ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　絶対に他の人に言わないって約束できる？」"
+                                ""
                             ]
                         },
                         {
@@ -2591,14 +2591,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男"
+                                "Man: If you're going to say it like that, I guess\nthere's no helping it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そこまで言うならしょうがないなぁ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2615,21 +2615,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男"
+                                "Man: The game I'm making now is a school-themed\none. I want people to experience various aspects\nof youth through this game."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「今作ってるのは学園モノだよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　僕はこのゲームで青春とか色々味わってもらいたいんだ」"
+                                ""
                             ]
                         },
                         {
@@ -2738,59 +2738,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Anyway, it's surprising to hear about the\ngame I'm making even in a place like this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それにしても、こんなとこまで来て"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　僕が作ってるゲームの話を聞くなんて・・・・・」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きっと君はゲームが大好きで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　隅から隅まで遊びつくして、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　細かいとこによく気付くタイプのようだね」"
+                                ""
                             ]
                         },
                         {
@@ -2807,21 +2769,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: You must really love games, playing them\nthoroughly from corner to corner and noticing even\nthe smallest details."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もし縁があれば"
+                                "Man: If we have a chance, I would like you to play\nmy next work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　僕の次回作を遊んでほしいな」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2907,21 +2907,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Oops, it became a long conversation. I also\nhave to continue with the production, so goodbye."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっと長話になったね。　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　僕も製作の続きしないといけないから、さよならだね」"
+                                ""
                             ]
                         },
                         {
@@ -2938,28 +2938,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: I'll say it one last time, but this\nconversation is our secret. Please don't share it\non social media or anything."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「最後にもう一度言うけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この話は僕たちだけの秘密だよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　SNSとかで発信しないでね」"
+                                ""
                             ]
                         },
                         {
@@ -2985,14 +2985,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Well then, bye-bye."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃ、バイバーイ」"
+                                ""
                             ]
                         },
                         {

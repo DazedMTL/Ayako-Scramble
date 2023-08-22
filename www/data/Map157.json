@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "学校周辺",
+    "displayName": "Surroundings of the school",
     "encounterList": [],
     "encounterStep": 30,
     "height": 43,
@@ -12482,7 +12482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・夜の学校は怖いわね」"
+                                "...The night school is scary, isn't it?"
                             ]
                         },
                         {
@@ -12597,7 +12597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・夜の学校は怖いわね」"
+                                "...The night school is scary, isn't it?"
                             ]
                         },
                         {
@@ -12712,7 +12712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・夜の学校は怖いわね」"
+                                "...The night school is scary, isn't it?"
                             ]
                         },
                         {
@@ -13184,7 +13184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁんっ・・・・・♡あっ・・・・♡あっ・・・・♡」"
+                                "Ahh...♡ Ahh...♡ Ahh...♡"
                             ]
                         },
                         {
@@ -13249,7 +13249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・？！」"
+                                "Huh...?!"
                             ]
                         },
                         {
@@ -13298,7 +13298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お取込み中のようね・・・・・・」"
+                                "Seems like you're busy..."
                             ]
                         },
                         {
@@ -13447,7 +13447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・夜の学校は怖いわね」"
+                                "...The night school is scary, isn't it?"
                             ]
                         },
                         {

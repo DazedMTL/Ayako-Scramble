@@ -2256,14 +2256,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(大丈夫・・・きっと勘違いよ・・・・・"
+                                "(It's okay... It must be a misunderstanding...\nThere's no way...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そんなはずない・・・・・)"
+                                ""
                             ]
                         },
                         {

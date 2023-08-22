@@ -1836,14 +1836,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あの子は・・・・・まだ帰ってきてないわね・・・"
+                                "(That child... still hasn't come back, huh... I\nwonder if Koichiro-san is on the second floor...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 光一郎さんは2階かし・・・)"
+                                ""
                             ]
                         },
                         {
@@ -1968,7 +1968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(このヒール・・・・私のじゃないわ・・・・)"
+                                "(These heels... aren't mine...)"
                             ]
                         },
                         {
@@ -2018,7 +2018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}ぎし・・・・ぎしっ・・・・・ぎし・・・・"
+                                "*creak... creak... creak...*"
                             ]
                         },
                         {

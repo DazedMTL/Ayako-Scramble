@@ -2130,7 +2130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「店長さん！！あんなのを取引してるなんて最初に言っ\\.\\.\\^"
+                                "Manager!! To think you're involved in such a\ntransaction, you should have told me from the\nbeginning."
                             ]
                         },
                         {
@@ -2156,21 +2156,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ryoko!! The buyer from earlier was really\nhappy! It's amazing to be recognized by that\nperson for the first time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「リョウコ！！さっきの買い手サン！すっごく喜んでたネ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　初めてであの人に認められるってスゴイヨ！！」"
+                                ""
                             ]
                         },
                         {
@@ -2221,14 +2221,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ど、どうも・・・\\.\\.\\CE[31]じゃなくてっ！！！"
+                                "Th-thank you... but not that!! Selling saliva to a\nstranger, how embarrassing can you be?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知らない人にヨダレを売るなんてどれだけ恥ず\\.\\.\\^"
+                                ""
                             ]
                         },
                         {
@@ -2245,21 +2245,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: By the way, that person earlier gave\nRyoko-san... a bit more money."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そういえばさっきの人、リョウコさんに・・・って"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　多めにお金くれたヨ」"
+                                ""
                             ]
                         },
                         {
@@ -2299,7 +2299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・！」\\}ぴくっ・・・"
+                                "...! *trembles*"
                             ]
                         },
                         {
@@ -2397,21 +2397,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Here, including the first-time bonus,\nit's \\{30,000 yen\\}. Wow, this is promising!\nPlease continue to do your best!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はい、初回ボーナスも込みで\\{３万円\\}ネ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いやぁ、これは期待できるネ！！こんごともよろしく！！」"
+                                ""
                             ]
                         },
                         {
@@ -2440,7 +2440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾子は30000円を手に入れた！"
+                                "Ayako got 30,000 yen!"
                             ]
                         },
                         {
@@ -2480,7 +2480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・・・・」"
+                                "「............」"
                             ]
                         },
                         {
@@ -2520,7 +2520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -2560,7 +2560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よろしくおねがいします・・・・・」"
+                                "Nice to meet you..."
                             ]
                         },
                         {
@@ -2675,28 +2675,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "思わぬ大金に出かかった文句を飲み込んだ綾子・・・"
+                                "Ayako Nagatsuki swallowed her complaints about\nunexpectedly receiving a large sum of money...!\nHowever, she couldn't yet imagine what the otaku\nshe would meet in the future would desire from her\nnow."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しかし、今後出会うことになるマニア達が何を欲しているか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "今の綾子にはまだ想像できなかった・・・"
+                                ""
                             ]
                         },
                         {
@@ -2947,14 +2947,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 2!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 2 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -2983,14 +2983,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 1..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 1 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -3508,21 +3508,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Oh, Ryoko! It seems like the deal went\nwell!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おおリョウコっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　取引は上手くいったみたいネ！」"
+                                ""
                             ]
                         },
                         {
@@ -3587,14 +3587,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「上手くいったかなんて分かんないですよ・・・・"
+                                "I don't know if it went well or not... Ugh... My\ncrotch feels slimy and uncomfortable..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うぅ・・・・股がにゅるにゅるして気持ち悪い・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3620,21 +3620,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Everyone is saying that person's sperm is\nthick! But they paid a lot of money! The reviews\nare mixed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あの人の精子濃ゆいてミンナ言ってるヨ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　けどお金いっぱイ！評判はまちまちネ！」"
+                                ""
                             ]
                         },
                         {
@@ -3683,14 +3683,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうなんですか・・・・"
+                                "Is that so... I mean, even though I just started\ncoming here recently, my reputation is already\nspreading to the point where..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　というか最近来始めたのに評判にあがるくらい通っ・・・"
+                                ""
                             ]
                         },
                         {
@@ -3716,14 +3716,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Hmm? That person is a regular customer.\nThey've been coming here for about 4 or 5 years."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ン？あの人、常連さんヨ。ここ4、5年目くらいネ」"
+                                ""
                             ]
                         },
                         {
@@ -3772,14 +3772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ・・・・！！？で、でも！"
+                                "Huh...!!? B-but! They said I just started coming\nhere recently, so I still feel inexperienced..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　最近来たって言ってたし不慣れな感じが・・・"
+                                ""
                             ]
                         },
                         {
@@ -3796,21 +3796,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: That's also one of the strategies. I lied\nto make a deal with Ryoko."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ソレモ戦略の一つネ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　リョウコと取引成立させルためにウソついてるネ」"
+                                ""
                             ]
                         },
                         {
@@ -3859,7 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～～～～～～！！！」"
+                                "Ahhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -3876,21 +3876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, the money will be properly paid.\nYes, please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、お金はチャンとモラウからモーマンタイヨ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ハイ、ドーゾ」"
+                                ""
                             ]
                         },
                         {
@@ -3919,7 +3919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾子は50000円を手に入れた！"
+                                "Ayako got 50,000 yen!"
                             ]
                         },
                         {
@@ -3968,7 +3968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・・・・」"
+                                "「............」"
                             ]
                         },
                         {
@@ -4008,7 +4008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -4057,7 +4057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(とりあえず新しい下着買お・・・・)"
+                                "(For now, I should buy some new underwear...)"
                             ]
                         },
                         {
@@ -4179,38 +4179,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男の口車に乗せられ"
+                                "Ayako, who was deceived by the man's sweet words,\nhad her own underwear covered in semen..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分の下着を精液まみれにされた綾子・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヌルヌルの股の不快感もそうだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男に言いくるめられた自分に腹が立つ・・・・"
+                                ""
                             ]
                         },
                         {
@@ -4227,21 +4203,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう二度と来ない・・・・そう誓いかけるが、"
+                                "The discomfort of the slimy crotch is one thing,\nbut I'm also angry at myself for being deceived by\na man..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愛する息子の顔と、貰った報酬の重みが"
+                                "Ayako almost swore to never come back again... but\nthe face of her beloved son and the weight of the\nreward she received hindered that vow..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "その誓いを妨げるのであった・・・・・・"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4503,14 +4503,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith increased by 4!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 4 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -4539,14 +4539,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 3..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 3 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5134,21 +5134,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Are you okay, Ayako?! Is your body\nalright?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫ネリョウコ！！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　身体は大丈夫ネ！？」"
+                                ""
                             ]
                         },
                         {
@@ -5212,7 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ・・・あはぁ・・・・店、長さん・・・♡」"
+                                "Ah... Ahaha... Manager, ♡"
                             ]
                         },
                         {
@@ -5245,14 +5245,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっぱいと潮・・ぉ・・出しすぎて・・・っ・・・・"
+                                "My breasts and... ah... I came too much... and now\nI feel dizzy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ふらふらしちゃって・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5285,7 +5285,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにか・・・・・飲み物を・・・・」"
+                                "Could I have... something to drink..."
                             ]
                         },
                         {
@@ -5510,14 +5510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: I understand! Drink this!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「分かったネ！コレ飲むネ！！」"
+                                ""
                             ]
                         },
                         {
@@ -5621,7 +5621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごきゅっ・・・・ごくっ・・・ごくん・・・・♡」"
+                                "Gulp....gulp...gulp....♡"
                             ]
                         },
                         {
@@ -5677,14 +5677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぷぁっ・・・！はぁ・・・・ありがとうございます・・・"
+                                "P-Please...! Th-Thank you... I feel a little\nbetter now....!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　少し元気になりました・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -5724,14 +5724,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・それにしてもこの牛乳、美味しいですね。"
+                                "...By the way, this milk is delicious. I've never\nhad such a rich and creamy one before."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こんなに濃厚なの初めて飲みました」"
+                                ""
                             ]
                         },
                         {
@@ -5771,7 +5771,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私も牛乳大好きだけど、一体どこのメーカーさ・・"
+                                "I also love milk, but I wonder which brand it\nis..."
                             ]
                         },
                         {
@@ -5788,21 +5788,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: This is Ryoko's breast milk. The person\nearlier left it as a sample."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これリョウコの母乳ネ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっきの人がサンプルで置いてったヨ」"
+                                ""
                             ]
                         },
                         {
@@ -5851,14 +5851,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～～～～～！！？"
+                                "Wha- Wha- What?! My breasts!? They taste so rich\nand creamy?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わた、私のおっぱいっ！？こんなに味濃ゆかったの？！」"
+                                ""
                             ]
                         },
                         {
@@ -5898,7 +5898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ていうかサンプルってなんですか！？」"
+                                "By the way, what do you mean by 'sample'?"
                             ]
                         },
                         {
@@ -5924,21 +5924,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Breast milk is a valuable commodity for\nbreast milk enthusiasts. And that person sells it\nto various shops."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「母乳マニアには高値で売れるカラネ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それにあの人、色んなトコのお店に卸してるヨ」"
+                                ""
                             ]
                         },
                         {
@@ -5987,14 +5987,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私のおっぱいがっ・・・！お店にっ・・・・！！？"
+                                "My breasts...! In the shop...!!? They're being\ndrunk by various people...?! Eh?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　色んな人に飲まれ・・・・っ・・・？！ええっ！！？」"
+                                ""
                             ]
                         },
                         {
@@ -6020,21 +6020,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: But with this, Ryoko's reputation will\nspread, and we'll receive more breast milk\nrequests! It's a win-win situation, Ryoko."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「でもコレでリョウコの評判が広まれバ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また母乳の依頼がくるヨ！ヨかたねリョウコ」"
+                                ""
                             ]
                         },
                         {
@@ -6074,7 +6074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな評判広まらなくていいですっ！！」"
+                                "We don't need such a reputation to spread!!"
                             ]
                         },
                         {
@@ -6091,21 +6091,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, that's fine. So, here's your\nreward! Here you go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、いいネ。　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ソレジャ今回の報酬！ハイ、ドーゾ」"
+                                ""
                             ]
                         },
                         {
@@ -6134,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾子は60000円を手に入れた！"
+                                "Ayako obtained 60,000 yen!"
                             ]
                         },
                         {
@@ -6174,14 +6174,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(6万円ってことは、1200mlっ？！"
+                                "(60,000 yen means 1,200 ml?! That's so much... and\nit's going to some shop...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そんなにたくさんっ・・・それがどこかのお店に・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -6241,7 +6241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・・\\!\\CE[31]次はテイクアウト禁止にしましょ)"
+                                "(.......\\!\\CE[31]Next, let's prohibit takeout.)"
                             ]
                         },
                         {
@@ -6601,14 +6601,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 7!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 7 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -6637,14 +6637,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 6..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 6 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -7162,21 +7162,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ryoko, you were really hustling! The\nsales have become amazing!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「リョウコ、すごいハッスルしてたネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  売り上げスゴイことになってるヨ！」"
+                                ""
                             ]
                         },
                         {
@@ -7241,7 +7241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「店長さんが媚薬塗るからですよ・・・」"
+                                "It's because the manager applied an aphrodisiac..."
                             ]
                         },
                         {
@@ -7281,14 +7281,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「発情しすぎて大変だったんですからね・・・・"
+                                "It was really tough because I was too aroused... I\ndon't remember anything from the middle though..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　途中から覚えてないけど・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7314,28 +7314,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: But it felt good, right? Ryoko's body and\naphrodisiac are a perfect match! There's no one\nelse who enjoys sex as much as she does."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「でもキモチよかたでショ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　リョウコの身体、媚薬と相性バツ牛ンネ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんなに嬉しそうにエチする人いないヨ」"
+                                ""
                             ]
                         },
                         {
@@ -7384,14 +7384,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、それはぁ・・・・まぁ・・・・っ・・♡"
+                                "Th-That... well... I-I got really excited\nthough... ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　めちゃくちゃ興奮しましたけど・・・・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -7431,21 +7431,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: I'm glad you liked it! Well then, here's\nyour usual reward! Here you go!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「気に入ってくれてよかたネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それジャ、いつもの報酬渡すネ！はいドーゾ！」"
+                                ""
                             ]
                         },
                         {
@@ -7474,7 +7474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾子は1000円を手に入れた！"
+                                "Ayako got 1000 yen!"
                             ]
                         },
                         {
@@ -7539,14 +7539,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ？！た、たったこれだけ？！"
+                                "Huh?! O-Only this much?! The manager said he would\ngive me 500,000 yen...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　店長さん50万円くれるって・・・っ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7563,14 +7563,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ryoko's payment for buying the dick has\nalready been deducted."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「リョウコがチンポ買った分は差し引いてあるネ」"
+                                ""
                             ]
                         },
                         {
@@ -7619,7 +7619,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ・・・・・・・・」"
+                                "Ah........"
                             ]
                         },
                         {
@@ -7636,14 +7636,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Since it was well received, we'll do\nanother event. In two months."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「好評だたカラまたイベントやるネ。二か月後ネ」"
+                                ""
                             ]
                         },
                         {
@@ -7669,21 +7669,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: This time, we'll trade with a full-body\naphrodisiac applied! It's going to be exciting~!\nWill Ryoko participate too?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今度は全身ニ媚薬を塗って取引するネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これは盛り上がるあるヨ～！リョウコも参加するカ？」"
+                                ""
                             ]
                         },
                         {
@@ -7732,7 +7732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                "「.........」"
                             ]
                         },
                         {
@@ -7781,7 +7781,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「他にはどんな媚薬がありますか・・・？♡」"
+                                "What other aphrodisiacs do you have...?♡"
                             ]
                         },
                         {
@@ -8141,14 +8141,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 10!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 10 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -8177,14 +8177,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 10..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 10 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -8752,21 +8752,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: What's wrong, Ryoko? Why are you walking\nso nervously?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「どしたねリョウコ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんなモジモジ歩いテ？」"
+                                ""
                             ]
                         },
                         {
@@ -8862,7 +8862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いえ・・・その・・・・・・」"
+                                "N-No... Well..."
                             ]
                         },
                         {
@@ -8902,14 +8902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お尻の穴でしすぎて・・・・・・拡がって・・・・"
+                                "I-I've been doing it too much in the backdoor...\nand it's stretched... and on top of that, there\nwas a lot released, so... my bowel movements..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しかもたくさん出されたから・・・その・・・・\\}お通じが・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8935,21 +8935,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ah! The toilet is back there on the\nright! It's better to release a lot!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あア！ウ〇コネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　戻って右奥ネ！！たくさん出してイくとヨイヨ！！」"
+                                ""
                             ]
                         },
                         {
@@ -8998,7 +8998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぐっ・・・・・・・！\\}口に出さなくていいのに・・・っ・・・！」"
+                                "Ugh...! I-I wish I didn't have to say it out\nloud...!"
                             ]
                         },
                         {
@@ -9038,7 +9038,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・・・・・・・お借りしますね」"
+                                "Sigh... I'll borrow it, okay?"
                             ]
                         },
                         {
@@ -9151,14 +9151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ah, even if you sell it...\n<UNTRANSLATED_TEXT>"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、出したのは売ってもい・・\\.\\^"
+                                ""
                             ]
                         },
                         {
@@ -9269,14 +9269,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\{"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「絶対売りませんっっ！！」"
+                                "I absolutely won't sell it!!"
                             ]
                         },
                         {
@@ -9636,14 +9636,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 10!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 10 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -9672,14 +9672,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 10..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 10 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -9708,7 +9708,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "綾子は100000円を手に入れた！"
+                                "Ayako got 100,000 yen!"
                             ]
                         },
                         {

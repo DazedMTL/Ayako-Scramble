@@ -3263,14 +3263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒A"
+                                "Male Student A: Did you read this week's issue of\nShounen Jamp?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今週の少年Jamp読んだ？」"
+                                ""
                             ]
                         },
                         {
@@ -3296,21 +3296,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒B"
+                                "Male Student B: Ah, I never expected another body\nblow to be delivered."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、まさか更にもう一発ボディブローいれるなんて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　思わなかったぜ」"
+                                ""
                             ]
                         },
                         {
@@ -3403,14 +3403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒A"
+                                "Male Student A: Did you read this week's issue of\nShounen Jamp?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今週の少年Jamp読んだ？」"
+                                ""
                             ]
                         },
                         {
@@ -3436,21 +3436,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒B"
+                                "Male Student B: Ah, I never expected you to\ndeliver another body blow like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、まさか更にもう一発ボディブローいれるなんて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　思わなかったぜ」"
+                                ""
                             ]
                         },
                         {
@@ -3543,21 +3543,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
+                                "Female Student: This month's class newspaper is\ndecent... I hope there will be some strange\nincidents or something featured."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今月の学級新聞もそこそこね・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんか変な事件とか載らないかな」"
+                                ""
                             ]
                         },
                         {

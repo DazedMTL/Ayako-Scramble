@@ -1761,14 +1761,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エリナさん、ここにも居ない・・・"
+                                "Elina-san, she's not here either... Where could\nshe be?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  どこに居るんだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -1808,14 +1808,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員\\}"
+                                "Male Employee: T-There... that's good...! It's\namazing... so delicious!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・そ、そこ・・・・いいっす・・・・！やばっ・・・うまいですね・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -1902,14 +1902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一人だけ残業してるわね・・・・"
+                                "Looks like someone is working overtime alone...\nLet me ask them something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ちょっと聞いてみましょ」"
+                                ""
                             ]
                         },
                         {
@@ -2017,14 +2017,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんばんは。遅くまでお疲れ様です。"
+                                "Good evening. Thank you for working late. May I\nbother you for a moment?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっとよろしいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -2050,21 +2050,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: H-Huh!? W-What...! What is it?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「は、はひっ！？　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんっ・・・！なんでしょか？！」"
+                                ""
                             ]
                         },
                         {
@@ -2104,7 +2104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そんなにびっくりしなくても・・・)"
+                                "(You don't have to be so surprised...)"
                             ]
                         },
                         {
@@ -2144,14 +2144,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エリナさ・・・社長とお話したいんですけど"
+                                "Elina-san... I wanted to talk to the president,\nbut I can't seem to find her..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お姿が見えなくて・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2191,7 +2191,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どこに行ったかご存じですか？」"
+                                "Do you know where she went?"
                             ]
                         },
                         {
@@ -2208,21 +2208,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: P-President...?! W-What...! R-Right\nnow, she's just below... ah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しゃ、社長ですか・・・・？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　っ・・・！い、いまちょうど下に・・・はうっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -2271,14 +2271,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「下・・・・ですか？"
+                                "Below...? She wasn't on the first floor earlier,\nit seems..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっき一階には居なかったような・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2295,21 +2295,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: T-Tongue... not that... ah...! Uhm,\numm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「舌・・・っ・・・じゃなくて・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっ・・！え、えっと・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2338,7 +2338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}じゅる・・・・・・じゅぽ・・・・ぴちゃぴちゃ・・・・・"
+                                "*slurp*... *suck*... *drip drip*..."
                             ]
                         },
                         {
@@ -2378,7 +2378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら・・・？なにか聞こえませんか？」"
+                                "Oh...? Can you hear something?"
                             ]
                         },
                         {
@@ -2395,14 +2395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: I-Is that so...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そおっ？ですかぁ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -2442,7 +2442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、なにかこう・・・水の音みたいな」"
+                                "Yes, it's like... the sound of water."
                             ]
                         },
                         {
@@ -2459,14 +2459,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: I-It's just my imagination..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「き、気のせいじゃ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2483,7 +2483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}れろれろっ♡ぴちゃぴちゃぴちゃ・・・♡"
+                                "*Lick lick*♡ *Splash splash splash*...♡"
                             ]
                         },
                         {
@@ -2523,7 +2523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら！やっぱり変な音してますって！」"
+                                "Look! I told you there's a strange sound!"
                             ]
                         },
                         {
@@ -2572,21 +2572,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: D-Different...?! This sound,\nit's... that... *gulp*..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ち、ちがっっ・・？！っ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この音は、その・・・・くっ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2603,21 +2603,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: U-Um, let me check under the desk\nfor a moment!! There might be something leaking!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちょ、ちょっと机の下を見てみますね！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんか漏れてるかもっ！」"
+                                ""
                             ]
                         },
                         {
@@ -2664,21 +2664,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: M-Mr. President! It's going to be\nexposed! This is already impossible!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\}「しゃ、社長！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　バレます！これもう無理ですって！」"
+                                ""
                             ]
                         },
                         {
@@ -2695,14 +2695,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: ........"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2761,52 +2761,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}ぐぽっ！ぐぽっ！じゅるるっ♡♡"
+                                "*Gupo!* *Gupo!* *Jyururu*♡♡ *Jupo* *Jupo* *Jupo*♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　じゅぽっじゅぽっじゅぽっ♡♡"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「つっ・・・ぉ・・・ぉ・・・・くぅ・・・・！」\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " (余計に激しくっ・・・？！社長・・？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  なにをかんがえて・・・ハッ？！)"
+                                ""
                             ]
                         },
                         {
@@ -2823,21 +2785,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Tsu... O... O.... Ku...! (Even more\nintense...?! President..?! What are you\nthinking... Huh?!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(社長のこの目・・・！僕がこの状況をどう切り抜けるかを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 精査しているに違いない・・・！)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2854,28 +2823,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee (The President's gaze...! He must be\nscrutinizing how I will overcome this\nsituation...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(でも・・・くっ・・・知らない女と喋りながら・・・"
+                                "Male Employee (But... guh... talking to a woman I\ndon't know while making the president suck it...!\nAnd also...! She's too skilled at giving head, my\nmind can't think straight...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 社長にしゃぶらせるとか・・・!それにっ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " フェラ上手すぎて頭がまわらないっ・・・！)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2899,14 +2899,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だ、大丈夫ですか？！"
+                                "A-Are you okay?! You seem really in pain....?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごい辛そうですけど・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -2923,14 +2923,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: D-Don't wor.."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だ、だいじょ・・"
+                                ""
                             ]
                         },
                         {
@@ -2989,7 +2989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぞぞぞぞッ♡♡"
+                                "Zu...zo...zo...zo♡♡"
                             ]
                         },
                         {
@@ -3006,14 +3006,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Ah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あひんっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3053,52 +3053,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや絶対おかしいですって！"
+                                "No, this is definitely strange! Come on, show it\nto me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら私に見せてください！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ま、まずい・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " このままじゃバレるっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " そうなったら社長からの評価が下がるかもっ？！)"
+                                ""
                             ]
                         },
                         {
@@ -3115,28 +3077,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee (O-Oh no...! If this continues, I\nmight get caught...! If that happens, the\npresident's evaluation of me might decrease...?!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それだけは避けねば・・・！何かいい言い訳は・・・・！"
+                                "Male Employee (I must avoid that...! I need to\ncome up with a good excuse...! I need to think of\nsomething...! How about this...? How about\nthis...?! Ah!!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " \\!思いつけ・・・！思いつけっ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " どうだ・・・？どうだっ・・・？！あっ！！)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3165,83 +3165,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: N-Now, you see...! I-I'm using a\nmasturbator and jerking off!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「い、今ですねっー！！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　オナホを使ってシコシコしてるんですっ！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・え？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほ、ほらっ？今誰も会社に居ないでしょ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　普段みんなが働いてる場所でする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オナニーってめっちゃ気持ちいいんですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -3265,7 +3203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、ええ・・・・・・・・・」"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -3282,28 +3220,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: H-Hey? There's no one else in the\noffice right now, you know?! Masturbating in the\nplace where everyone usually works feels really\ngood!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しかもこのオナホ新作で、チンコへの吸い付きが凄くて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ローションも自動で出るんですよ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　射精した精液も自動お掃除機能までついてて！！」"
+                                ""
                             ]
                         },
                         {
@@ -3327,7 +3265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                "Eh, um......"
                             ]
                         },
                         {
@@ -3344,28 +3282,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: And on top of that, this new\nmasturbator has an amazing suction power on the\npenis and even automatically dispenses lubricant!!\nIt even comes with an automatic cleaning function\nfor the ejaculated semen!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おっ！登ってきたっ・・・！！"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　い、今からイキますねっ！"
+                                "「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おら！受け止めろ！この金髪オナホぉ！！」"
+                                "Male Employee: Oh, oh! You climbed up...!! I-I'm\ngoing to cum now! Take this! This blonde\nmasturbator!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -3436,7 +3436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どびゅっ！！どびゅっ！どびゅっぅ！！"
+                                "Dobyu!! Dobyu! Dobyuu!!"
                             ]
                         },
                         {
@@ -3453,14 +3453,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}エリナ"
+                                "Erina: Nbu! Nn...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んぶっ！んっ・・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3489,14 +3489,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}エリナ"
+                                "Erina: *gulp*... *gulp gulp*...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ごくっ・・・・ごくっごくっ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3513,21 +3513,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Ah~... Oh no... I came so much....♡ The\ncleaning function is amazing....♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ～・・・やっば・・・めっちゃ射精ましたぁ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　っぉ・・お掃除機能さいこぉ・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3597,7 +3597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -3637,21 +3637,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・ストレスの抱えすぎって"
+                                "Um... When you're not sure if you're carrying too\nmuch stress, it's a good idea to consult with a\ndoctor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　自分じゃ分からないので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お医者さんに相談すると良いですよ」"
+                                ""
                             ]
                         },
                         {
@@ -3691,14 +3691,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・ほどほどで頑張ってくださいね・・・"
+                                "Um... Please do your best in moderation... I\napologize for intruding."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お邪魔しました」"
+                                ""
                             ]
                         },
                         {
@@ -4541,66 +4541,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Puaa... It stinks...♡ So much came out,\nit's like several days' worth. The cum even flew\nout of my nose."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ぷぁっ・・・・くっさ・・・♡こっゆ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごい量出たわね、何日分よ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　鼻から精子が飛び出ちゃったじゃない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・はぁ・・・す、すみません・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもっ！社長っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少しでバレるとこだったですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -4617,52 +4579,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Male Employee: Haa... haa... I-I'm sorry... but!\nPresident...! We were almost caught just now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いいじゃないバレたって。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　別に私はなにも困らないわ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、でも・・・あの状況をうまく切り抜けれなかったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　評価下がるかと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4679,59 +4617,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: It's fine even if we get caught. It doesn't\nbother me at all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なに言ってんの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　面白かったからそうしただけだけど」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しゃ、しゃちょおー・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　で、でも机の下で咥えさせてるのがバレたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの人になんて思われるか分かんなくて・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4748,21 +4648,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Male Employee: B-But... If I can't handle that\nsituation well, will my evaluation drop...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「仕事サボってオナホ使ってるって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　言い訳の方が悪印象じゃない？」"
+                                ""
                             ]
                         },
                         {
@@ -4779,14 +4679,114 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Erina: What are you saying? I just did it because\nit was fun."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あの時はそれしか思い浮かばなかったんです・・！」"
+                                "Male Employee: S-Sir... B-But if it's discovered\nthat I'm making you give me a blowjob under the\ndesk, I don't know what he would think of me..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Erina: Isn't using the excuse of skipping work to\nuse a masturbator a bad impression?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Employee: I-I couldn't think of anything else\nat that time...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5028,52 +5028,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Well well, you got excited too, didn't\nyou?... Especially when Ayako talked to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁまぁ、なんだかんだであんたも興奮したでしょ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・特にアヤから話しかけられた瞬間とか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ・・・・・・\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はい・・・・正直、やばかったです・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5090,21 +5059,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Male Employee: Uh... Yes... Honestly, it was\ndangerous..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ま、私もけっこうドキドキしたけどね。\\!"
+                                "Erina: Well, I was quite nervous too. Oh! I wonder\nif we can incorporate this into the next work?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっ！これって次の作品に組込めないかしら！？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5130,28 +5130,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: The cheapness of whether it will be\ndiscovered or not, you would normally notice that,\nright? That's the erotic point!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「このバレるかバレないか？ってとこと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　普通気付くでしょ？みたいなチープさが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エロポイントね!!」"
+                                ""
                             ]
                         },
                         {
@@ -5177,21 +5177,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Alright! Let's start planning right away!\nStay overnight at the company tonight!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よしっ！さっそく企画を練るわよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今夜は会社に泊まりなさい！！」"
+                                ""
                             ]
                         },
                         {
@@ -5217,14 +5217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Eh... Umm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え・・・・ええ～・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -5241,28 +5241,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Don't complain! But if we come up with a\ngood plan... the next one will be even more\namazing... I'll do it for you... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「文句言わない！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その代わりイイ企画ができたら・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　次はもっとすごいの・・・やってあげるわよ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -5327,14 +5327,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: ~~~~?!?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「～～～～！！！？！」"
+                                ""
                             ]
                         },
                         {
@@ -5351,21 +5351,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Whooooooa!!!! President!! I'll do\nmy best!!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うぉぉぉおおおおおお！！！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　社長！！がんばります！！！！」"
+                                ""
                             ]
                         },
                         {
@@ -5391,14 +5391,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina (Hehe... You're so easy♪)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(フフンっ・・・ちょろいわね♪)"
+                                ""
                             ]
                         },
                         {
@@ -5956,14 +5956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エリナさん、ここにも居ない・・・"
+                                "Elina-san, she's not here either... Where could\nshe be?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  どこに居るんだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -6003,14 +6003,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員\\}"
+                                "Male Employee: T-There... that's good...! It's\namazing... so delicious!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・そ、そこ・・・・いいっす・・・・！やばっ・・・うまいですね・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -6097,14 +6097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一人だけ残業してるわね・・・・"
+                                "Looks like someone is working overtime alone...\nLet me ask them something."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ちょっと聞いてみましょ」"
+                                ""
                             ]
                         },
                         {
@@ -6212,14 +6212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんばんは。遅くまでお疲れ様です。"
+                                "Good evening. Thank you for working late. May I\nbother you for a moment?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっとよろしいでしょうか？」"
+                                ""
                             ]
                         },
                         {
@@ -6245,21 +6245,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: H-Huh!? W-What...! What is it?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「は、はひっ！？　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんっ・・・！なんでしょか？！」"
+                                ""
                             ]
                         },
                         {
@@ -6299,7 +6299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そんなにびっくりしなくても・・・)"
+                                "(You don't have to be so surprised...)"
                             ]
                         },
                         {
@@ -6339,14 +6339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「エリナさ・・・社長とお話したいんですけど"
+                                "Elina-san... I wanted to talk to the president,\nbut I can't seem to find her..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お姿が見えなくて・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6386,7 +6386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どこに行ったかご存じですか？」"
+                                "Do you know where she went?"
                             ]
                         },
                         {
@@ -6403,21 +6403,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: P-President...?! W-What...! R-Right\nnow, she's just below... ah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しゃ、社長ですか・・・・？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　っ・・・！い、いまちょうど下に・・・はうっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -6466,14 +6466,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「下・・・・ですか？"
+                                "Below...? She wasn't on the first floor earlier,\nit seems..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっき一階には居なかったような・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6490,21 +6490,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: T-Tongue... not that... ah...!\nU-um..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「舌・・・っ・・・じゃなくて・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっ・・！え、えっと・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6533,7 +6533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}じゅる・・・・・・じゅぽ・・・・ぴちゃぴちゃ・・・・・"
+                                "*slurp*... *suck*... *drip drip*..."
                             ]
                         },
                         {
@@ -6573,7 +6573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら・・・？なにか聞こえませんか？」"
+                                "Oh...? Can you hear something?"
                             ]
                         },
                         {
@@ -6590,14 +6590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: I-Is that so...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そおっ？ですかぁ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -6637,7 +6637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、なにかこう・・・水の音みたいな」"
+                                "Yes, it's like... the sound of water or something."
                             ]
                         },
                         {
@@ -6654,14 +6654,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: I-It's just my imagination..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「き、気のせいじゃ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6678,7 +6678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}れろれろっ♡ぴちゃぴちゃぴちゃ・・・♡"
+                                "*Lick lick*♡ *Splash splash splash*...♡"
                             ]
                         },
                         {
@@ -6718,7 +6718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら！やっぱり変な音してますって！」"
+                                "Look! I told you there's a strange sound!"
                             ]
                         },
                         {
@@ -6767,21 +6767,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: D-Different...?! This sound,\nit's... that... *gulp*..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ち、ちがっっ・・？！っ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この音は、その・・・・くっ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6798,21 +6798,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: U-Um, let me check under the desk\nfor a moment!! There might be something leaking!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちょ、ちょっと机の下を見てみますね！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんか漏れてるかもっ！」"
+                                ""
                             ]
                         },
                         {
@@ -6859,21 +6859,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: M-Mr. President! It's going to be\nexposed! This is impossible!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\}「しゃ、社長！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　バレます！これもう無理ですって！」"
+                                ""
                             ]
                         },
                         {
@@ -6890,14 +6890,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina ...  Note: Since there is no context\nprovided for Elina's gender, I will use gender-\nneutral pronouns."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6956,52 +6956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}ぐぽっ！ぐぽっ！じゅるるっ♡♡"
+                                "*Gupo!* *Gupo!* *Jyururu*♡♡ *Jupo* *Jupo* *Jupo*♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　じゅぽっじゅぽっじゅぽっ♡♡"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「つっ・・・ぉ・・・ぉ・・・・くぅ・・・・！」\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " (余計に激しくっ・・・？！社長・・？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "  なにをかんがえて・・・ハッ？！)"
+                                ""
                             ]
                         },
                         {
@@ -7018,21 +6980,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Tsu... O... O.... Ku...! (Even more\nintense...?! President..?! What are you\nthinking... Huh?!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(社長のこの目・・・！僕がこの状況をどう切り抜けるかを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 精査しているに違いない・・・！)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7049,28 +7018,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee (The President's gaze...! He must be\nscrutinizing how I will overcome this\nsituation...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(でも・・・くっ・・・知らない女と喋りながら・・・"
+                                "Male Employee (But... guh... talking to a woman I\ndon't know while making the President suck it...!\nAnd also...! She's too skilled at giving blowjobs,\nmy head can't think straight...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 社長にしゃぶらせるとか・・・!それにっ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " フェラ上手すぎて頭がまわらないっ・・・！)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7094,14 +7094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だ、大丈夫ですか？！"
+                                "A-Are you okay?! You seem really in pain....?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごい辛そうですけど・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -7118,14 +7118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: I-I'm o-okay..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だ、だいじょ・・"
+                                ""
                             ]
                         },
                         {
@@ -7184,7 +7184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずぞぞぞぞッ♡♡"
+                                "Zu...zo...zo...zo♡♡"
                             ]
                         },
                         {
@@ -7201,14 +7201,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Ah...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あひんっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7248,52 +7248,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いや絶対おかしいですって！"
+                                "No, this is definitely strange! Come on, show it\nto me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら私に見せてください！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ま、まずい・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " このままじゃバレるっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " そうなったら社長からの評価が下がるかもっ？！)"
+                                ""
                             ]
                         },
                         {
@@ -7310,28 +7272,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee (O-Oh no...! If this continues, I\nmight get caught...! If that happens, the\nPresident's evaluation of me might decrease...?!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それだけは避けねば・・・！何かいい言い訳は・・・・！"
+                                "Male Employee (I must avoid that at all costs...!\nI need to come up with a good excuse...! Think,\nthink...! How about...? How about it...?! Ah!!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " \\!思いつけ・・・！思いつけっ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " どうだ・・・？どうだっ・・・？！あっ！！)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7360,83 +7360,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: I-It's now...! I'm using a\nmasturbator and jerking off!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「い、今ですねっー！！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　オナホを使ってシコシコしてるんですっ！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・え？」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ほ、ほらっ？今誰も会社に居ないでしょ？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　普段みんなが働いてる場所でする"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　オナニーってめっちゃ気持ちいいんですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -7460,7 +7398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え、ええ・・・・・・・・・」"
+                                "...Huh?"
                             ]
                         },
                         {
@@ -7477,28 +7415,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: H-Hey? There's no one in the office\nright now, you know? Masturbating in the place\nwhere everyone usually works feels really good!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しかもこのオナホ新作で、チンコへの吸い付きが凄くて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ローションも自動で出るんですよ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　射精した精液も自動お掃除機能までついてて！！」"
+                                ""
                             ]
                         },
                         {
@@ -7522,7 +7460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                "Eh, um..."
                             ]
                         },
                         {
@@ -7539,28 +7477,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: And on top of that, this new\nmasturbator has an amazing suction power on the\npenis and even automatically dispenses lubricant!!\nIt even comes with an automatic cleaning function\nfor the ejaculated semen!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おっ！登ってきたっ・・・！！"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　い、今からイキますねっ！"
+                                "「.........」"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　おら！受け止めろ！この金髪オナホぉ！！」"
+                                "Male Employee: Oh, oh! You climbed up...!! I-I'm\ngoing to cum now! Take this! This blonde\nmasturbator!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7631,7 +7631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どびゅっ！！どびゅっ！どびゅっぅ！！"
+                                "Dobyu!! Dobyu! Dobyuu!!"
                             ]
                         },
                         {
@@ -7648,14 +7648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}エリナ"
+                                "Erina: Nbu! Nn...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んぶっ！んっ・・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7684,14 +7684,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}エリナ"
+                                "Erina: *gulp*... *gulp gulp*...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ごくっ・・・・ごくっごくっ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -7708,21 +7708,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Male: Ah~... Oh no... I came so much....♡ The\ncleaning function is amazing....♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ～・・・やっば・・・めっちゃ射精ましたぁ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　っぉ・・お掃除機能さいこぉ・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -7792,7 +7792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -7832,21 +7832,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・ストレスの抱えすぎって"
+                                "Um... When you're not sure if you're carrying too\nmuch stress, it's a good idea to consult with a\ndoctor."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　自分じゃ分からないので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お医者さんに相談すると良いですよ」"
+                                ""
                             ]
                         },
                         {
@@ -7886,14 +7886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・ほどほどで頑張ってくださいね・・・"
+                                "Um... Please do your best in moderation... I\napologize for intruding."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お邪魔しました」"
+                                ""
                             ]
                         },
                         {
@@ -8736,66 +8736,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Puaa... It stinks...♡ So much came out,\nit's like several days' worth. The cum even flew\nout of my nose."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ぷぁっ・・・・くっさ・・・♡こっゆ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごい量出たわね、何日分よ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　鼻から精子が飛び出ちゃったじゃない」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁ・・・はぁ・・・す、すみません・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でもっ！社長っ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　もう少しでバレるとこだったですよ！」"
+                                ""
                             ]
                         },
                         {
@@ -8812,52 +8774,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Male Employee: Haa... haa... I-I'm sorry... but!\nPresident...! We were almost caught just now!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いいじゃないバレたって。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　別に私はなにも困らないわ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で、でも・・・あの状況をうまく切り抜けれなかったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　評価下がるかと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8874,59 +8812,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: It's fine even if we get caught. It doesn't\nbother me at all."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なに言ってんの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　面白かったからそうしただけだけど」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「しゃ、しゃちょおー・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　で、でも机の下で咥えさせてるのがバレたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あの人になんて思われるか分かんなくて・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8943,21 +8843,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Male Employee: B-But... If I can't handle that\nsituation well, will my evaluation drop...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「仕事サボってオナホ使ってるって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　言い訳の方が悪印象じゃない？」"
+                                ""
                             ]
                         },
                         {
@@ -8974,14 +8874,114 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Erina: What are you saying? I just did it because\nit was fun."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あの時はそれしか思い浮かばなかったんです・・！」"
+                                "Male Employee: S-Sir... B-But if it's discovered\nthat I'm making you give me a blowjob under the\ndesk, I don't know what he would think of me..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Erina: Isn't using the excuse of skipping work to\nuse a masturbator a bad impression?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Employee: I-I couldn't think of anything else\nat that time...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9223,52 +9223,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Well well, you got excited too, didn't\nyou?... Especially when Ayako talked to you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁまぁ、なんだかんだであんたも興奮したでしょ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・特にアヤから話しかけられた瞬間とか」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                0
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男性社員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うっ・・・・・・\\!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　はい・・・・正直、やばかったです・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9285,21 +9254,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Male Employee: Uh... Yes... Honestly, it was\ndangerous..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                0
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ま、私もけっこうドキドキしたけどね。\\!"
+                                "Erina: Well, I was quite nervous too. Oh! I wonder\nif we can incorporate this into the next work?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっ！これって次の作品に組込めないかしら！？」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9325,28 +9325,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: The cheapness of whether it will be\ndiscovered or not, you would normally notice that,\nright? That's the erotic point!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「このバレるかバレないか？ってとこと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　普通気付くでしょ？みたいなチープさが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エロポイントね!!」"
+                                ""
                             ]
                         },
                         {
@@ -9372,21 +9372,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Alright! Let's start planning right away!\nStay overnight at the company tonight!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よしっ！さっそく企画を練るわよ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今夜は会社に泊まりなさい！！」"
+                                ""
                             ]
                         },
                         {
@@ -9412,14 +9412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Eh... Ehh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え・・・・ええ～・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9436,28 +9436,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina: Don't complain! But if we come up with a\ngood plan... the next one will be even more\namazing... I'll do it for you... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「文句言わない！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その代わりイイ企画ができたら・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　次はもっとすごいの・・・やってあげるわよ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9522,14 +9522,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: ~~~~?!?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「～～～～！！！？！」"
+                                ""
                             ]
                         },
                         {
@@ -9546,21 +9546,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性社員"
+                                "Male Employee: Whooooooa!!!! President!! I'll do\nmy best!!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うぉぉぉおおおおおお！！！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　社長！！がんばります！！！！」"
+                                ""
                             ]
                         },
                         {
@@ -9586,14 +9586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Erina (Hehe... You're so easy♪)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(フフンっ・・・ちょろいわね♪)"
+                                ""
                             ]
                         },
                         {

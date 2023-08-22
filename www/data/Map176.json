@@ -12606,21 +12606,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "若者"
+                                "Young person: Sigh... It's so blissful to be able\nto just laze around without doing anything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・なんにもせずボーっとできるって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　幸せだなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13104,14 +13104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ah, um!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あのっ！」"
+                                ""
                             ]
                         },
                         {
@@ -13207,21 +13207,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・？\\!"
+                                "...? What's wrong... Ah! You dropped these\ndocuments earlier..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうされま・・・・\\.あっ！\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  この前書類を落とされてた・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13238,28 +13238,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Yes, I appreciate your help the other\nday! Thanks to you, I feel a bit better!\n(However...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はい、先日はお世話になりました！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おかげで少し元気が出ました！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（\\}いろいろと・・・\\{）"
+                                ""
                             ]
                         },
                         {
@@ -13299,7 +13299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえいえ、あのくらいお安い御用ですよ」"
+                                "Oh no, it was just a small favor."
                             ]
                         },
                         {
@@ -13316,21 +13316,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Well... It's been a while since someone\nhas been kind to me, so I'm really happy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁ・・・僕にとっては"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　久々に人に優しくされたもんで嬉しくって・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13370,7 +13370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうなんですね・・・・」"
+                                "I-I see..."
                             ]
                         },
                         {
@@ -13410,14 +13410,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そういえば・・・レイさんが悩んでる人を察知してたら"
+                                "(By the way... When Rei-san sensed someone in\ndistress, this person came...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " この人が来たのよね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -13457,14 +13457,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(もしかして陰気を発生させてるのかな・・・"
+                                "(I wonder if I'm causing this gloominess... If\nthat's the case, maybe I should listen to their\nstory...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " だったら話を聞いてあげた方がいいわね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -13481,28 +13481,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ah! It's already this late... Well\nthen, I'll go back to work... *sigh* ...Alright\nthen..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！もうこんな時間・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃあ僕は仕事に・・・\\}はぁ・・・\\{戻ります・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　では・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13542,14 +13542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・！"
+                                "Um...! If it's okay, would you like to talk a\nlittle more?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もし良かったらもう少しだけ話しませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -13566,21 +13566,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Uh... B-but, it's been 4 minutes since\nmy break started, so I should probably go back..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ・・・で、でも、休憩して４分経ったので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さすがに戻らないと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13620,7 +13620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・・・)"
+                                "(........)"
                             ]
                         },
                         {
@@ -13672,7 +13672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「も、もうちょっと・・・あなたと、はなしたいなー・・・」"
+                                "I-I want to talk a little more with you..."
                             ]
                         },
                         {
@@ -13766,14 +13766,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン\\{"
+                                "Salaryman: I'm delighted!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よろこんでッ！！」"
+                                ""
                             ]
                         },
                         {
@@ -13813,7 +13813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -14006,21 +14006,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・・"
+                                "I see... So many people suddenly quit, and that's\nwhy you're burdened with the workload..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　急に人がいっぱい辞めちゃって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それであなたに負担がかかってるのね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14046,28 +14046,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Uh... I never thought I would have to\ndo sales, accounting, HR, and production all at\nthe same time..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まさか営業と経理と人事と製作を同時にやるなんて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　思ってませんでした・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14084,28 +14084,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: H-However, recently there are times\nwhen I can finish work by 10 PM, and there are\nmany occasions where I only have to work until 2\nAM. It has become better compared to before!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「け、けど、最近は夜10時には仕事が終われる事が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たまにありますし、2徹で済むのが多いですし"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　前に比べたらマシになってますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -14145,7 +14145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(この人・・・よくそれで生きてるわね・・・)"
+                                "(This person... how are they surviving with\nthat...)"
                             ]
                         },
                         {
@@ -14171,21 +14171,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Well... It would be easier if there was\nsomeone who could at least handle the sales as a\ntemporary measure..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ・・・繋ぎでいいんで営業だけでも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やってくれる人が居たら楽にはなるんですけどね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14225,7 +14225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -14265,7 +14265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私が、やりますよ」"
+                                "I'll do it."
                             ]
                         },
                         {
@@ -14330,28 +14330,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Eh!? W-Well... but, you see... it's not\neasy to suddenly handle sales without some\nexperience..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええっ！？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　で、ですけど・・・営業をある程度経験してないと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いきなりは中々・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14391,21 +14391,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫です。"
+                                "Don't worry. In the past, I worked at a company\ncalled Kayama Shoji and another company called\nIchiba Shoji, where I handled everything from\nsales to accounting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　昔は河山商事ってとこと、一葉商事って会社に勤めていて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　営業から経理、一通りこなしていました」"
+                                ""
                             ]
                         },
                         {
@@ -14431,28 +14431,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Wha...?! You, you worked at such big\ncompanies...!? \\.P-Please, I beg you!! I'll inform\nthe company about it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なっ・・・？！そ、そんな大企業で・・・！？\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぜ、ぜひお願いします！！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　会社の方には伝えておきますので！」"
+                                ""
                             ]
                         },
                         {
@@ -14469,21 +14469,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Well then, I will explain the detailed\njob description when you come to our company!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃ、詳しい仕事内容は、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うちの会社に出社した際に説明しますね！」"
+                                ""
                             ]
                         },
                         {
@@ -14523,14 +14523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(昔の経歴もたまには役に立つものね・・・・"
+                                "(Sometimes, my past experience comes in handy...\nWell, I should at least get my suit cleaned for\nnow.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ・・・とりあえずスーツをクリーニングしておかなきゃ)"
+                                ""
                             ]
                         },
                         {
@@ -15318,14 +15318,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Damn it... Is it already this\nlate...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くそっ・・・もうこんな時間かよっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -15351,21 +15351,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: If you find a deteriorated hose, make\nsure to replace it! It's such a pain in the ass to\nwipe off the oil!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「劣化したホース見っけたら変えとけっつぅの！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　油拭きとんのクソかかったじゃねえか」"
+                                ""
                             ]
                         },
                         {
@@ -15391,14 +15391,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Ugh... I'm so frustrated... Maybe I\nshould go for a drink."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あーむしゃくしゃする・・・とりま飲み行くか」"
+                                ""
                             ]
                         },
                         {
@@ -15580,21 +15580,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Good evening, big brother♡ You seem\ntired, don't you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こんばんは、お兄さん♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんだかお疲れみたいね」"
+                                ""
                             ]
                         },
                         {
@@ -15620,14 +15620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: ...Well, yeah. So, what do you need?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・まーそっすね。で、何の用すか？」"
+                                ""
                             ]
                         },
                         {
@@ -15676,14 +15676,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしよかったらその疲れ・・・"
+                                "If you'd like, I can help you forget that fatigue♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アタシが忘れさせてあげるわよ♡」"
+                                ""
                             ]
                         },
                         {
@@ -15709,14 +15709,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Hehe...♡ Is that so?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへっ・・・♡そういうことか」"
+                                ""
                             ]
                         },
                         {
@@ -15733,21 +15733,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Well then, I'll ask for one round♪\nHow about the payment?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そんじゃま一発頼んます♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　金の方は？」"
+                                ""
                             ]
                         },
                         {
@@ -15789,28 +15789,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Hehe...♡ Right now, I'm feeling\nreally... aroused...♡ Sooo....♡ Just for you....♡\nLet's have raw..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今アタシ、すっ・・ごくムラってるの・・・♡\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　だ・か・らぁ・・・・♡特別に１で生ハ・・"
+                                ""
                             ]
                         },
                         {
@@ -15852,21 +15852,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Mmm...? \\.\\. (Oh, my mouth stopped\nmoving. Could it be...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んむ\"っ・・・・・？」\\.\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(あら、口が動かなくなっちゃった。もしかして・・・)"
+                                ""
                             ]
                         },
                         {
@@ -15950,7 +15950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そんなことさせません！)"
+                                "(I won't let you do such a thing!)"
                             ]
                         },
                         {
@@ -15999,21 +15999,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Oh, you woke up quite early. I\nwonder if you've developed resistance?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(あら、ずいぶん早いお目覚めね、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 耐性がついちゃったのかしら？)"
+                                ""
                             ]
                         },
                         {
@@ -16069,7 +16069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あんなこと言われたら起きるに決まってますよ！)"
+                                "(If you say something like that, of course I'll\nwake up!)"
                             ]
                         },
                         {
@@ -16109,14 +16109,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(お金もらってそんなことするなんて・・・！"
+                                "(Taking money and doing something like that...!\nWhat will you do if I end up getting pregnant!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " もし赤ちゃんできちゃったらどうするんですか！)"
+                                ""
                             ]
                         },
                         {
@@ -16165,28 +16165,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Isn't that nice...♪ Just imagining\nthe possibility of getting impregnated by a\nstranger...♡ Ahh...♡ It wouldn't be as thrilling\nwith a condom, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そこがいいんじゃなぁい・・・♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 知らない男に孕まされるかもって想像したらぁ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あぁん・・・♡ゴムありじゃそんなスリル味わえないわ)"
+                                ""
                             ]
                         },
                         {
@@ -16242,14 +16242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(自分の身体でやってくださいッ！！"
+                                "(Please use your own body!! I absolutely won't let\nyou do it!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 絶対させませんからね！)"
+                                ""
                             ]
                         },
                         {
@@ -16298,21 +16298,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Oh, well then, I'll put on a condom.\nIs that okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(えー、じゃあゴム着けるわ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " それならいいでしょ？）"
+                                ""
                             ]
                         },
                         {
@@ -16368,7 +16368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それなら・・・・・って、やりませんからっ！)"
+                                "(If that's the case... I won't do it!)"
                             ]
                         },
                         {
@@ -16417,14 +16417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Oh, I'll do it ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(いーえ、ヤる♡)"
+                                ""
                             ]
                         },
                         {
@@ -16480,7 +16480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(やりませんっ！！)"
+                                "(I won't do it!!)"
                             ]
                         },
                         {
@@ -16529,14 +16529,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (I'll do it ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ヤ～る♡)"
+                                ""
                             ]
                         },
                         {
@@ -16592,7 +16592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(やりませんっ！！！)"
+                                "(I won't do it!!!)"
                             ]
                         },
                         {
@@ -16641,14 +16641,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (......I won't do it ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・ヤらない♡)"
+                                ""
                             ]
                         },
                         {
@@ -16704,7 +16704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(やりますっ！！！！)"
+                                "(I'll do it!!!)"
                             ]
                         },
                         {
@@ -16755,7 +16755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・・・・\\.\\.\\CE[31]あ)"
+                                "(.........\\.\\.\\CE[31]Ah)"
                             ]
                         },
                         {
@@ -16815,28 +16815,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Hehe... ♡ Even if it's not my true\nfeelings, I shouldn't say it out loud. It makes it\neasier for me to lose control over my body ♡!\n\\CE[31] Like this♪)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ふふっ・・・♡本心じゃなくても口に出しちゃダメよ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 肉体の主導権を奪われやすくなるから♡\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 　　　　　　　　　　　　　　　　　\\CE[31]こんな風に♪)"
+                                ""
                             ]
                         },
                         {
@@ -16919,21 +16919,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost ...I'm sorry, I was lost in thought♪\nWell then, let's start... hmm...! Ahh...!\n\\.\\CE[30] Tch... You still resist being alive..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・ごめんなさい、ちょっと考え事してて♪\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　とりま生ハ・・・ん\"むっ・・・！\\}\\.\\CE[30]ちっ・・・生はまだ抵抗あるか・・・」"
+                                ""
                             ]
                         },
                         {
@@ -16975,21 +16975,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: I guess there's no other choice...\nI'll endure with someone who has less\nresistance... Just once with a condom is fine..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\}しかたない・・・抵抗心が少ないほうで我慢しましょ・・・・\\{"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ゴムハメで１でいいわ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -17015,14 +17015,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Oh, seriously? It's so cheap♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お、マジかやっすいな♪」"
+                                ""
                             ]
                         },
                         {
@@ -17082,14 +17082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ち、ちがっ・・・・！今のは・・・\\.\\.ん\"む\"っ・・・？！」\\!"
+                                "D-Diffe...! That was... \\.\\.uh...?! (M-My, my\nmouth won't move...?!)  Note: The \\.\\. is a\nplaceholder for an unintelligible sound or word."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(く、口が動かない・・・・・！？)"
+                                ""
                             ]
                         },
                         {
@@ -17106,14 +17106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Let's do it quickly, right here\nbehind there, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「つかさっさとヤろうぜ、そこの裏でいいだろ？」"
+                                ""
                             ]
                         },
                         {
@@ -17162,7 +17162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(せ、せめてベッドで・・・！)"
+                                "(A-At least on the bed...!)"
                             ]
                         },
                         {
@@ -17204,28 +17204,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Yeah, let's go~ ♡ I love having sex\noutside~ Since I enjoy it rough, feel free to\npiston without holding back, okay~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うん、行くイく♡外でパコるの大好きなの♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アタシ激しいのが好きだから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　遠慮せずピストンしていいわよぉ♪」"
+                                ""
                             ]
                         },
                         {
@@ -17265,7 +17265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(い、いやぁー－－っ！！)"
+                                "(N-No...!!)"
                             ]
                         },
                         {
@@ -17451,7 +17451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱちゅ！ぱちゅっ！ぱちゅっ！ぱちゅっ！！"
+                                "Pachuu! Pachupu! Pachupu! Pachupu!!"
                             ]
                         },
                         {
@@ -17468,52 +17468,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Ohh♡ Ohh♡♡ Ohh♡ Ohhh♡♡ Right\nthere...! ♡♡ Deep inside my pussy.. ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お\"んっ♡お\"んっ♡♡お\"んっ♡お\"ぉん\"っっ♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そこそこぉっ・・・！♡♡マン奥キッっくぅッ・・♡♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男作業員"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「きったねぇ喘ぎ声だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　そんなに俺のチンポがいいのか？」"
+                                ""
                             ]
                         },
                         {
@@ -17530,21 +17499,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Male Worker: What a filthy moan. Do you really\nlike my cock that much?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「めっちゃイイわぁっ♡♡デッケェから子宮当たるしぃ、"
+                                "Female Ghost: It feels so good♡♡ It's so big that\nit hits my uterus, and the head rubs against my\nG-spot, it's amazing♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　カリがGスポにゴリってなるからさいこぉんっ♡♡♡」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17575,45 +17575,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Hehe...♡ You think so too,\nright...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(うふっ・・・♡あなたもそう思うでしょ・・・？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(っ・・・♡んっ・・・！♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " そ、そんなことないですっ・・・！♡)"
+                                ""
                             ]
                         },
                         {
@@ -17637,83 +17606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こんなっおちんちんなんてぇっ・・・♡"
+                                "(Huh...♡ Ngh...! ♡ Th-That's not true...! ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " っぅぅ・・・・・！♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(隠さなくていいわよ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 同じ身体だからぜぇんぶ分かっちゃうの・・・♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(子宮口をチンポで突かれたら幸せが脳に響くし・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " Gスポをカリが擦るたびにマン汁が溢れて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " もっとぬちょぬちょにぃ・・・♡おぉん・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -17737,76 +17637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(わ、私の弱点を分析しないでっ・・・♡"
+                                "(This...this kind of penis...♡ It's so big...! ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あぁっ・・・♡っぅ・・・♡はっ・・・・はっ・・・！)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(あーやっべぇ♡あなたの身体、感度イイわぁん・・・♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " こんな良いマンコなんだし、生ハメしましょうよぉ・・♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だ、だめっ・・・♡っぅ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 生でなんて・・♡好きな人としかぁ・・・♡んぅっ・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -17823,21 +17661,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (You don't have to hide it...♡\nBecause we have the same body, I can understand\neverything...♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(もうっ・・！堅物なんだから・・・！"
+                                "Female Ghost (When my cervix is penetrated by a\npenis, happiness resonates in my brain...♡ And\nevery time the glans rubs against my G-spot, my\npussy juices overflow, making it even more wet and\nslippery...♡ Ohh...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " いいわ、アタシがセックスのキモチよさを教えてあげるわ)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -17861,7 +17737,131 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(な、なにを・・・・・？)"
+                                "(D-Don't analyze my weaknesses...♡ Ahh...♡ Uhh...♡\nHaa.... haa...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Female Ghost: Ohh, your body feels so good♡♡ Your\nsensitivity is amazing...♡♡ Since you have such a\nnice pussy, let's have raw sex...♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(N-No...♡ Ahh...♡ I can't do it raw...♡ I only\nwant to do it with someone I love...♡ Nghh...♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Female Ghost (Ugh...! You're such a prude...!\nFine, I'll show you how amazing sex feels)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(W-What are you...?)"
                             ]
                         },
                         {
@@ -17892,21 +17892,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: Onii-san...♡ Will you move as I say?\nI'll give you a special service later, okay...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お兄さん・・・♡あとでサービスしてあげるから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アタシの言うとおりに動いてくれなぁい・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -17930,7 +17930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・！？)"
+                                "(......！？)"
                             ]
                         },
                         {
@@ -17977,45 +17977,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: What's the matter? Just when I was\ngetting into it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだよ、せっかくノッてきたのに」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ごめんなさぁい・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　でも・・・ちゃあんと気持ちよくしてあ・げ・る♡」"
+                                ""
                             ]
                         },
                         {
@@ -18032,52 +18001,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Female Ghost: I'm sorry...♡ But... I'll make sure\nto pleasure you properly♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・ま、いっか。んで、どうすりゃいい？」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「まずはぁん・・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　奥まで入れないようにゆーっ・・くり動いて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　カリでマン肉をこそぐみたいに抜き差ししてぇん・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -18094,14 +18032,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: ...Well, whatever. So, what should I\ndo?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふーん・・・・・こうか？」"
+                                "Female Ghost: First...♡ Move slowly so you don't\ngo all the way in... Thrust in and out with the\ntip, teasing my pussy like you're pulling out a\npiece of meat..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Male Worker: Hmm... Is this how it's done?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18146,45 +18146,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬぷぷぷぷ・・・・・・にゅるぅ・・・・・・・♡"
+                                "*Giggle*... *Lick*....♡ *Giggle*....♡ *Lick*....♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　ぬぷぷぷ・・・・・♡にゅるぅぅ・・・・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(くひっ・・・・・・！♡せ、背中がゾクゾクする・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " っぉ・・・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -18208,14 +18177,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こ、こんなゆっくり動かれると・・"
+                                "(Kuhi...! My back feels tingly...? Ohh...♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " おチンポの形がはっきり・・・っぅ・・・・・♡)"
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(I-If you move so slowly... the shape of your\npenis becomes so clear... uhh.....♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18232,28 +18232,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: (That's right...♡ It suddenly became\nslow after being so intense before, so my pussy is\ndesperately craving stimulation and clinging onto\nyou...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そうよぉ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 今まで激しかったのが急にゆっくりになったから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " マン肉が刺激を求めて必死に絡みついてるのよぉ・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -18293,7 +18293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そ、そんなことが・・"
+                                "(I-Is that really..."
                             ]
                         },
                         {
@@ -18326,7 +18326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぬっ・・・ぷぅぅ・・・・・♡にゅるるぅ・・・・・♡"
+                                "*Ngh... Puhh...♡ Slurp...♡"
                             ]
                         },
                         {
@@ -18350,21 +18350,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っ～～～～♡"
+                                "(Every time my pussy gets fucked...! I feel weak\nand powerless....! Ahhh.....♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " おチンポが抜かれるたびに・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 力が抜けちゃうぅ・・・・！はぁぁ・・・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -18381,21 +18381,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost: (Hehehe....♡ And next is...♡)\n*whispering*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ウフフ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そしてお次はぁ・・・・・♡)\\!ぼそぼそ・・・・"
+                                ""
                             ]
                         },
                         {
@@ -18419,7 +18419,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(つ、つぎは・・・・・・？)\\}ドキドキ・・・♡"
+                                "(N-Next is...? My heart is pounding...♡)"
                             ]
                         },
                         {
@@ -18478,7 +18478,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぶちゅっ・・・・・・・♡"
+                                "*Squelch...♡*"
                             ]
                         },
                         {
@@ -18502,14 +18502,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(んいっ・・・・！？♡"
+                                "(Ngh...!? ♡ Th-The tip of your penis is...♡ It's\nso hard...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " し、子宮口におチンポの先が・・・♡\\}固ったい・・・♡\\{)"
+                                ""
                             ]
                         },
                         {
@@ -18556,7 +18556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐりっ・・・・ぐりっ・・・・・♡ぐりっ・・・・♡"
+                                "*Squelch... Squelch...♡ Squelch....♡*"
                             ]
                         },
                         {
@@ -18580,14 +18580,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(はぁッ！♡ああッ・・・♡♡"
+                                "(Haah! Ahh...♡♡ Rubbing against my cervix...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 子宮口をぐりぐりってぇ・・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -18604,7 +18604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐりっ・・・・ぐりっ・・！♡ぐりっ・・！♡ぐりっ・・！"
+                                "*Squelch... Squelch...! ♡ Squelch...! ♡\nSquelch...!"
                             ]
                         },
                         {
@@ -18628,7 +18628,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っぅぅ～～～～♡♡こ、この刺激はぁ・・・)"
+                                "(Uuuhhh~♡ Th-this stimulation is...♡)"
                             ]
                         },
                         {
@@ -18652,7 +18652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐいっ・・・・・・・・ぐいっ・・・・・・・・・"
+                                "*Thrust... Thrust...*"
                             ]
                         },
                         {
@@ -18692,69 +18692,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(え・・・・・？なんで弱く・・・・・？"
+                                "(Huh...? Why is it weak...? Can you make it a\nlittle stronger...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " もうちょっと強くしてもいいの・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(な、なんで・・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " せっかくいいとこだったのに・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " おチンポだって我慢したら身体に悪いんじゃ・・・)"
+                                ""
                             ]
                         },
                         {
@@ -18771,7 +18716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・"
+                                "........."
                             ]
                         },
                         {
@@ -18795,21 +18740,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(う、動かない・・・・？ま、まだ・・・・？"
+                                "(W-Why...!? It was such a good moment... If I hold\nback on the penis, it's bad for my body too...)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 次はどうやって動くの・・・？また、ゆっくり・・？"
+                                "....."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " それともぐりぐりを・・・？)"
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(I-It's not moving...? I-is it still...? How do I\nmake it move next...? Should I go slowly again...?\nOr should I try a grinding motion...?)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18900,7 +18900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ばちぃんッッ！♡♡♡"
+                                "*Bachiin~!♡♡♡*"
                             ]
                         },
                         {
@@ -18917,14 +18917,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\{"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んぴぃっっ！？♡♡♡」"
+                                "N-Oh my...!♡♡♡"
                             ]
                         },
                         {
@@ -18999,7 +18999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばちゅっ！！ばちゅっ！ばちゅっ！！ばちゅっ！ばちゅっ！"
+                                "*Squelch!! Squelch! Squelch!! Squelch! Squelch!*"
                             ]
                         },
                         {
@@ -19039,14 +19039,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(お、お尻っ♡♡叩いちゃっ♡おぉっ！♡"
+                                "(O-Oh, my butt♡♡ You're spanking it♡ Ohh!♡ It's...\ndeep inside... deep inside my pussy♡ It feels\ncompletely different from earlier♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 奥が・・・おマンコの奥が♡さっきと全然ちがうぅ♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -19063,45 +19063,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Ohh...♡ The grinding from earlier is\na sensitive spot in my pussy♡ When it's stimulated\nthere, the pleasure intensifies♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そうよぉ・・・♡さっきのぐりぐりは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " マンコのツボなの♡そこを押されると快感が増大するわ♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だ、だからこんなにっ♡♡っんっ♡んっ♡んぉっ♡)"
+                                ""
                             ]
                         },
                         {
@@ -19125,7 +19101,31 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こ、こんなのっ♡♡すぐイッちゃうっ♡)"
+                                "(Th-That's why it feels so...♡♡ Ahh...♡ Ahh...♡\nAhh...♡)"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(I-I'm going to come so soon♡♡)"
                             ]
                         },
                         {
@@ -19165,7 +19165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(き、きたっ・・・♡♡もうイく、イッ・・・く・・・！"
+                                "(I-It's coming...♡♡ I'm going to come, I'm...\ncoming...!"
                             ]
                         },
                         {
@@ -19212,14 +19212,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・？！イ、いけないっ？！"
+                                "(......?! I-It's not good?! Why?! Even though it's\ngotten this far♡!♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " なんで？！そこまで来てるのに♡！♡)"
+                                ""
                             ]
                         },
                         {
@@ -19236,21 +19236,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (That's right, because you're not\nbeing honest, I've locked you from reaching\nclimax♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そうそう、あなた素直じゃないから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 絶頂できないようにロックしちゃったわ♡)"
+                                ""
                             ]
                         },
                         {
@@ -19290,21 +19290,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そ、そんなっ・・・！？いえ、うそよっ！"
+                                "(T-That's not...! No, it can't be true! I should\nbe able to reach climax properly...! Hmph...! ♡\nMmm...! Mmm~...! Phew...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そんなこと・・・ちゃんとイケるはず・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ふんッ・・・！♡んんッ・・・！ん～・・・！ぷはぁっ！)"
+                                ""
                             ]
                         },
                         {
@@ -19321,21 +19321,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (No way~♡ With your current mental\nstrength, you won't be able to break free from my\nsuggestion♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ム・リ・よぉ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 今のアナタの精神力じゃあ、アタシの暗示は解けないわ♡)"
+                                ""
                             ]
                         },
                         {
@@ -19359,21 +19359,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(いやっ・・・！イキたいっ・・♡イカせて・・・！"
+                                "(No...! I want to come...♡ Make me come...! I'm\ngoing to come...! Coming...! Mmm~..! Ahh...! I-I\nreally can't come... What should I do...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " イけっ・・・！イッて・・・！ん～・・！ぷぁっ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ほ、ほんとにイケない・・・どうしたら・・・)"
+                                ""
                             ]
                         },
                         {
@@ -19390,14 +19390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (.....Shall I teach you?♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・教えてあげましょうか？♡)"
+                                ""
                             ]
                         },
                         {
@@ -19437,7 +19437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っ・・・・・！お、教えてください・・・！)"
+                                "(Huh...?! P-Please, teach me...!)"
                             ]
                         },
                         {
@@ -19454,90 +19454,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (It's easy...♡ Just fully embrace\nyour inner vulgar self and use dirty words, and\nI'll release the suggestion for you♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(簡単よぉ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " アタシみたいな下品な女になりきって、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 汚ったねぇ言葉使ったら暗示を解除してあげるわよぉ♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(げ、下品な女・・・汚い言葉・・・・？)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そうよぉ・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " マンコのことしか頭にないバカ女になる解放感・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " それをアナタに教えてあげたいのよぉ・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -19561,7 +19499,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(で、でも下品な言葉なんてどういう風に・・・)"
+                                "(G- Gross... vulgar words...?)"
                             ]
                         },
                         {
@@ -19578,21 +19516,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (That's right...♡ The liberating\nfeeling of becoming a foolish woman who only\nthinks about pussy...♡ I want to teach you that\nfeeling...♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(簡単よぉ・・・♡下らないプライドは捨てて、"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 軽蔑されるようなセリフを頭空っぽで言うだけよ♪)"
+                                "(B-But how should I use vulgar words...)"
                             ]
                         },
                         {
@@ -19609,28 +19578,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (It's easy...♡ Just let go of your\nuseless pride and say lines that will make you\nlook down upon, with an empty mind♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(と・に・か・く♡ごちゃごちゃ考えないで"
+                                "Female Ghost (Just don't overthink it and scream\nin your mind things like cock♡ or pussy juice♡\npretending to be a fool)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " チンポ♡とか、マン汁♡とか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " バカになったつもりで心の中で叫びなさい)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19670,21 +19670,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(早くイキたいけど・・・そんなこと・・・"
+                                "(I want to cum quickly... but... ugh... holding\nback at this moment right before orgasm...♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " けど・・・・うぅ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " こんなイく直前で我慢なんてぇ・・・♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -19724,69 +19724,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っ～～～！いいわ！やってやるわ！"
+                                "(Ughhh! Fine! I'll do it! C-Cock!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ち、チンポぉっ！)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(そうよぉ・・・♡どうせアタシしか聞いてないんだから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " もっと連呼して！もっと自分を開放するのよ！)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(ち、チンポ、チンポっ！チンポぉッ！！)"
+                                ""
                             ]
                         },
                         {
@@ -19803,21 +19748,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (That's right...♡ Since only I can\nhear you, keep saying it more! Let yourself be\nmore liberated!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(もっとエロく！男が喜ぶように！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そのチンポをどうしたいの！)"
+                                ""
                             ]
                         },
                         {
@@ -19841,14 +19786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ぶっといチンポをぺろぺろして、カウパー液啜って♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " マンマンにぐちゅぅって入れてほしいれすぅっ♡♡)"
+                                "(C-Cock, C-Cock! C-Cockkk!!)"
                             ]
                         },
                         {
@@ -19865,28 +19803,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (More erotic! Like something that\nwould please a man! What do you want to do with\nthat cock!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ああん・・・♡いいわぁー・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " もっと・・もっと自分の欲望を出して！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ほらっ！ほらぁっ♡♡チンポヤバいでしょぉ？♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -19910,21 +19841,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(はぁっ♡はぁんっ♡チンポヤバいですっ♡♡"
+                                "(I want to lick and suck on a thick cock, slurp up\nthe precum♡♡ and have it thrust deep into my wet\npussy with a squelching sound♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " デカくて硬くて、前の旦那と全然ちがうぅっ♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " もっと私の熟々メス穴をぐっぽぐっぽしてほしいんっ♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -19941,28 +19865,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Aahh...♡ That feels so good...♡ Let\nyour desires out even more! Come on! Come onn♡♡\nIsn't this cock amazing?♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(そうよぉ♡もっとくっそ汚く喘いで！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " アンタは女じゃないわ！メスなのっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ほらっ♡もっともっとバカになりなさいっ♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -19986,14 +19910,90 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(マン汁ぐっちょぐっちょのメス穴におチンポ様が"
+                                "(Haa♡ Hahn♡ This cock is amazing♡♡ It's big and\nhard, completely different from my ex-husband's♡♡\nI want it to thrust into my mature pussy more and\nmore deeply♡♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " ズッコバッコ♡♡ズッコバッコぉぉんっ♡♡♡」"
+                                "Female Ghost (That's right...♡ Let out even\ndirtier moans! You're not a woman! You're a slut!\nCome on♡ Be even more of an idiot♡♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(With my pussy all wet and dripping, your cock is\nthrusting in and out♡♡ Thrusting in and out,\nohh♡♡♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20033,21 +20033,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁぁっ♡やっばっ♡♡マンコの奥がチンポコと"
+                                "Haaah♡ It's amazing♡♡ My pussy is deep kissing\nwith the cock and it's making me melt♡♡ This is\nincredible!♡♡ I feel like I'm ovulating for real♡♡\nGetting ready for impregnation, aahh~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ディープキスしてりゅぅっ♡♡やっべぇ！♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　マジで排卵しちゃうっ♡♡種付け準備しちゃうぅっ♡」"
+                                ""
                             ]
                         },
                         {
@@ -20064,21 +20064,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Hah♡ Hah♡ It's so good...♡ Seeing\nthe host break down like this is always the\nbest...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(はっ♡はっ♡いいわぁ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 宿主の壊れてく姿はいつ見ても最高だわぁ・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -20102,14 +20102,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おほォッっ♡♡チンポさいっこぉっ♡♡"
+                                "Ohh♡♡ This big cock is the best♡♡ It's filling up\nmy pussy like never before♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぶっといチンポでメスの穴を埋められりゅぅっ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -20149,21 +20149,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ああんっ♡♡チンポ好きっ♡♡チンポ好きっ♡♡"
+                                "Aahh♡♡ I love cocks♡♡ I love cocks♡♡ Give me your\ncock quickly and make me cum♡♡ I want to climax so\nhard that my pussy trembles with pleasure♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　チンポぉぉんっ♡♡♡早くイかせてぇっ♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　マンコがくがくしちゃうくらいアクメりたいのぉぉ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -20203,14 +20203,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おマンコからメス臭っさい本気汁いっぱい出してぇ♡♡"
+                                "I want to release a lot of genuine juice from my\npussy♡♡ I want to mark it with your big cock♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　でっけぇチンポにマーキングしちゃうのぉっ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -20227,21 +20227,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Doooh....♡ The first time having\ndirty talk sex... it feels so good to empty my\nmind and get fucked, right?♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(どーお・・・・♡初めての淫語セックスはぁ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 頭空っぽにしてハメるの最高でしょぉ・・・？♡)"
+                                ""
                             ]
                         },
                         {
@@ -20265,21 +20265,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はいぃっ♡♡こんなスケベな言葉はじめてぇっ♡♡"
+                                "Yesss♡♡ I've never heard such naughty words\nbefore♡♡ It's making my head go blank with\npleasure♡ My pussy is throbbing so much♡♡ Faster,\nfaster! Make my pussy cummm♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　頭バカにするの気持ちぃっ♡ぱっこぱっこさいっこぉ♡♡　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はやくっ♡はやくっ！マンコアクメぇぇっ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -20296,14 +20296,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: It's fine to have fun, but if you're\nthat noisy, I'll report you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「楽しむのはいいけど、そんなうるせえと通報されるぞ」"
+                                ""
                             ]
                         },
                         {
@@ -20343,7 +20343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「チンポっ♡♡チンポっ、ち\\.\\.・・・・・・\\え・・・？」"
+                                "Cock♡♡ Cock, it's so...?"
                             ]
                         },
                         {
@@ -20360,14 +20360,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Ah, I gave back the control of my\nbody, so...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(あ、肉体の主導権は返してあげてたからね♡)"
+                                ""
                             ]
                         },
                         {
@@ -20391,14 +20391,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え・・・え・・・・・？えっ・・・！？"
+                                "Eh...eh...? Huh...!? W-Wait, did I just say those\nwords out loud...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　わ、私のさっきの言葉って声に出・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -20415,14 +20415,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (And as a reward for entertaining\nme♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(それと楽しませてくれたご褒美よ♡)"
+                                ""
                             ]
                         },
                         {
@@ -20465,14 +20465,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Yes, orgasm restriction lifted,\nand...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(はい、アクメ禁止解除、っと♡)"
+                                ""
                             ]
                         },
                         {
@@ -20512,14 +20512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ・・・！ああぁ・・・！ま、待ってっ・・・！！"
+                                "Ah...! Ahh...! W-Wait...!! If it's lifted now...!?\nOohhh~♡!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  い、今、解除されたら・・・！？っぉぉ～～～・・♡！」"
+                                ""
                             ]
                         },
                         {
@@ -20562,7 +20562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅぅぅうぅうッッ・・・♡♡"
+                                "Squeezeeeee...♡♡"
                             ]
                         },
                         {
@@ -20579,21 +20579,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Whoa...! W-What is this\ntightness...!? Ughhh...! It's squeezing me...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うぉっ・・・・！な、なんだこの締まり・・・！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　くぅぅっ・・！搾り取られるっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -20633,21 +20633,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「き、きてる・・！♡ヤバイの登ってきてりゅっ♡♡？！\\."
+                                "H-He's coming...! ♡ It's dangerous, he's climbing\nup♡♡?! Oh, oh, ohh! ♡♡ This is incredible♡♡! Mmm,\nahh~♡♡?!! Ahh, ahh~! Ahh~ahh~ahhh! ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おっ、おっ、お\"っ！♡♡これヤバいぃっ♡♡！\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ん\"お\"ッ～～～～っ♡♡？！！\\.イぐイ\"ぐイッぐッ！♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -20771,14 +20771,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\{"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん\"ぉッほぉぉおぉんッッ♡♡？！♡♡」"
+                                "N-No...ohhh~! Ahhh~♡♡?! ♡♡"
                             ]
                         },
                         {
@@ -20877,7 +20877,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "じょおおおぉぉ・・・・・・♡♡"
+                                "Ohhhhhh......♡♡"
                             ]
                         },
                         {
@@ -20908,14 +20908,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はひーっ・・・・♡はひーっ・・・♡はひーっ・・・♡"
+                                "Hah...♡ Hah...♡ Hah...♡ I wet myself...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おしっこもらしちゃったぁ・・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -20932,21 +20932,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男作業員"
+                                "Male Worker: Phew... That was the best pussy I've\never had. Well then, I'll leave the money here.\nSee you again ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅっ・・・今までで一番イイマンコだったぜ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　んじゃ、金ここ置いとくから。またよろしくな♡」"
+                                ""
                             ]
                         },
                         {
@@ -20982,45 +20982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Haaan...♡ It was such a good\nclimax...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(はぁぁんっ・・・♡イイ絶頂だったわぁん・・・・♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女幽霊"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(この子・・・今までで一番イイかもしれない・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " もしかしたら、この子でなら成仏イキもぉ・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -21037,28 +21006,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (This child... might be the best one\nyet...♡ Maybe, with this child, I can finally find\npeace and climax...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(ああっ・・♡またイキ死ねるなんて想像したらぁ・・♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あぁんっ♡もうっ・・・♡期待しちゃう・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ・・・・それじゃ・・・・またね・・・♪)"
+                                ""
                             ]
                         },
                         {
@@ -21075,21 +21037,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Ahh...♡ To think that I can\nexperience climax again...♡♡ Ahh~♡ I can't help\nbut get excited...♡ ....Well then....see you\nlater...♪)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(早く、起きないと・・・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 悪い幽霊に憑りつかれちゃうわよ♪)"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21106,14 +21075,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女幽霊"
+                                "Female Ghost (Hurry, if you don't wake up...\nyou'll be possessed by a naughty ghost♪)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ウフフ・・・・ウフフフフッ・・・・♡)"
+                                "Female Ghost (Hehehe... Hehehehe...♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21156,14 +21156,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっ・・・・・・・♡お・・・・・♡」\\}びくんっ・・びくんっ・・・♡"
+                                "Ohh.......♡ Oh.....♡ *trembles*... *trembles*...♡\n(N-No... I won't forgive you next time...\nnghh...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\{ \\!(つ、次は絶対に許さないからぁ・・・んぉ・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -21589,14 +21589,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 6!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 6 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -21625,14 +21625,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 8..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 8 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -21670,7 +21670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "10000円 を手に入れた。"
+                                "I obtained 10,000 yen."
                             ]
                         },
                         {
@@ -23564,21 +23564,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
+                                "Male: Children are adorable, aren't they? When I\nsee their innocent smiles, it makes me smile too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「子供は可愛いですね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　無邪気な笑顔を見るとこっちまで、笑顔になります」"
+                                ""
                             ]
                         },
                         {
@@ -23595,14 +23595,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
+                                "Male: Sometimes they are too innocent and it makes\nme hesitate."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「無邪気過ぎてたじろぐ事もありますが」"
+                                ""
                             ]
                         },
                         {
@@ -23804,21 +23804,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一服する男"
+                                "A man taking a break says, Phew... I can't smoke\nin the office, so I'll take this opportunity to\nstock up on cigarettes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふー・・・・・事務所じゃ吸えないから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今のうちに吸い溜めしとこ」"
+                                ""
                             ]
                         },
                         {

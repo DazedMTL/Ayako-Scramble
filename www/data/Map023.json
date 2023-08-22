@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ランニングコース",
+    "displayName": "Running Course",
     "encounterList": [],
     "encounterStep": 30,
     "height": 28,
@@ -4958,14 +4958,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犬"
+                                "Dog: Woof...} Shaaah..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わふぅ・・・・」\\}しゃぁぁっ・・・"
+                                ""
                             ]
                         },
                         {
@@ -5042,14 +5042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犬"
+                                "Dog: Woof woof!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わんわんっわんっ！」"
+                                ""
                             ]
                         },
                         {
@@ -5105,7 +5105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っ・・・・・♡♡あの時の・・・・・)"
+                                "(.....♡♡That time's.....)"
                             ]
                         },
                         {
@@ -5145,7 +5145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」"
+                                "「........」"
                             ]
                         },
                         {
@@ -5185,7 +5185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「また今度ね・・・・・・♡」ぼそっ・・・・"
+                                "See you next time... ♡ *whispers*"
                             ]
                         },
                         {
@@ -5211,14 +5211,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犬"
+                                "Dog: Woof woof!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わぉんっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -5367,21 +5367,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眼鏡小僧"
+                                "Glasses Kid: Hey! Benji! How long are you going to\npee for!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おい！ベンジー！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつまでおしっこしてるんだよ！」"
+                                ""
                             ]
                         },
                         {
@@ -5660,14 +5660,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "たそがれる男"
+                                "The man at dusk sighed, Ah... It's been warm and\npleasant lately..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・最近あったかくて気持ちいいなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6234,21 +6234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ランニングする女"
+                                "Running Woman: Hah... hah... hah... Just 3... 4...\nno, let's make it 5 more weeks!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はっ・・・はっ・・・はっ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　あと3・・・4・・・いや・・・5\\.\\.0週いこう・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -6663,21 +6663,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "悩む学生"
+                                "Troubled student: Damn it... I can't extend my\ntime... What should I do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くそっ・・・タイムが伸びない・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうしたらいいんだ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -6694,21 +6694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何か悩んでいるようだ・・・・"
+                                "It seems like you're troubled about something...\nShould I try talking to you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "声をかけてみますか？"
+                                ""
                             ]
                         },
                         {
@@ -6966,21 +6966,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Ah, Ayako-san! Um... would you run with me\nagain?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、綾子さんっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あの・・・またアタシと走ってくれますか？！」"
+                                ""
                             ]
                         },
                         {
@@ -6997,21 +6997,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Actually, let's run! Please!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ていうか走りましょう！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お願いします！」"
+                                ""
                             ]
                         },
                         {
@@ -7067,14 +7067,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ど、どうしたのかしら・・・？圧がすごいわ・・・"
+                                "(W-What's wrong...? The pressure is intense...\nShould I run together with them...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 一緒に走ってあげた方がいいのかしら・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -7195,14 +7195,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ごめんなさい・・・"
+                                "I'm sorry... I have something to take care of..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ちょっと用事が・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7228,21 +7228,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アキラ"
+                                "Akira: I-I see... I understand..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そ、そうすか・・・・・・・・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　わかりました・・・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7282,7 +7282,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(すごい落ち込んでる・・・・)"
+                                "(I'm feeling really down...)"
                             ]
                         },
                         {
@@ -7486,21 +7486,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Ayako-san.............Hello..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子さん・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・・・・・どもっす・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7556,7 +7556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(すごく落ち込んでる・・・やっぱり前回ので・・・)"
+                                "(I'm feeling really down... I guess it's because\nof what happened last time...)"
                             ]
                         },
                         {
@@ -7596,14 +7596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(このままだったら大会にも影響がでるかも・・・"
+                                "(If things continue like this, it might affect the\ntournament... I have to find a way to cheer them\nup...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " なんとか元気づけてあげなきゃ・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -7848,21 +7848,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Ayako-san!! I've been waiting! Please tell\nme the results!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子さん！！待ってたっす！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　結果聞いてください！」"
+                                ""
                             ]
                         },
                         {
@@ -7918,7 +7918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(これは話を聞くしかないわね)"
+                                "(I guess I have no choice but to listen to what\nyou have to say.)"
                             ]
                         },
                         {
@@ -8109,7 +8109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が 200 以上必要です。"
+                                "This event requires a lewdness level of 200 or\nhigher."
                             ]
                         },
                         {
@@ -8148,21 +8148,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Hehehe...! Ayako-san!! Today, I'm a bit\ndifferent from usual...!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふっふっふ・・・・！綾子さん！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日のアタシは一味違うっすよ・・・・！！」"
+                                ""
                             ]
                         },
                         {
@@ -8179,21 +8179,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: The answer I couldn't ask you last time...!\nToday, I'll definitely make you tell me...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「この前聞けなかった返事・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日こそ聞かせてもらうっす・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -8249,7 +8249,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(じ、自信に満ち溢れてる・・・何かあったみたいね・・・)"
+                                "(I-I'm filled with confidence... It seems like\nsomething happened...)"
                             ]
                         },
                         {
@@ -8289,14 +8289,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(返事もはっきりしないといけないし・・・・・"
+                                "(I have to give a clear answer... What should I\ndo...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " どうしよっかな・・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -8411,7 +8411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(ちょ、ちょっと深呼吸してきましょ・・・・・！)"
+                                "(L-Let me take a deep breath for a moment...!)"
                             ]
                         },
                         {
@@ -8711,38 +8711,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント終了後に「Q」キーを押すと、"
+                                "After the event ends, if you press the Q key, you\ncan hear Ayako's soliloquy about that event."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのイベントに関する綾子の独り言が聞けます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的には聞かなくてもゲーム進行には影響ありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略のヒントに繋がることを呟くかもしれません。"
+                                ""
                             ]
                         },
                         {
@@ -8759,21 +8735,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、イベント関連の独り言は、"
+                                "Basically, it doesn't affect the game progress if\nyou don't listen to it, but she might whisper\nsomething that could lead to hints for capturing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家で寝てしまったり、一度聞くと\\c[2]二度と呟かなくなります。\\c[0]"
+                                "Also, be aware that if you fall asleep at home or\nlisten to the event-related soliloquy\nonce,\\c[2]she won't whisper it again.\\c[0] So\nplease be careful if you want to hear all the\nconversations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全ての会話を聞きたい方は気をつけてください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -9017,7 +9017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、なにか落ちてる」"
+                                "Ah, something has fallen."
                             ]
                         },
                         {
@@ -9078,7 +9078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しなびたお札 を手に入れた！"
+                                "I obtained a withered banknote!"
                             ]
                         },
                         {
@@ -9143,14 +9143,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・レイさんは\"一枚の札\"って言ってたけど、"
+                                "Hmm... Rei-san said it was a 'single bill', but\nthis one isn't sparkling, so maybe it's\ndifferent..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これはキラキラしてないし違うかな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9190,7 +9190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「他に何か落ちてるか探してみましょう」"
+                                "Let's try looking for anything else that might\nhave fallen."
                             ]
                         },
                         {
@@ -9456,7 +9456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、キラキラしてるのが落ちてる！」"
+                                "Ah, something sparkly has fallen!"
                             ]
                         },
                         {
@@ -9517,7 +9517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "キラキラノート を手に入れた！"
+                                "I obtained a sparkling notebook!"
                             ]
                         },
                         {
@@ -9593,21 +9593,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・キラキラしてて、"
+                                "...It's sparkling and there are lots of words\nwritten like spells! But... it's not a bill, just\na regular notebook that you can buy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　文字が呪文のようにいっぱい書いてある！\\!\\CE[30]"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　けど・・お札でもないし、普通に売ってあるノートね・・」"
+                                ""
                             ]
                         },
                         {
@@ -9647,14 +9647,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんかピンとこないなぁ・・・・"
+                                "Hmm, I can't quite put my finger on it... Is this\neven the right place where I dropped it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そもそも、落とした場所ここで合ってるのかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -9694,7 +9694,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レイさん・・・テキトーだからなぁ・・・」"
+                                "Rei-san... you're so carefree, aren't you..."
                             ]
                         },
                         {
@@ -9734,7 +9734,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう少しだけ探してみよ」"
+                                "Let's try searching a little longer."
                             ]
                         },
                         {
@@ -9969,14 +9969,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、とってもキラキラしてるのが落ちてる！"
+                                "Ah, a really sparkling thing fell! This time for\nsure...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今度こそ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -10037,7 +10037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウルトラレアカード を手に入れた！"
+                                "I obtained an Ultra Rare Card!"
                             ]
                         },
                         {
@@ -10102,21 +10102,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きっとこれね！"
+                                "This must be it! The picture is sparkling, and\nthere are lots of words. It even says 'One Card'!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　絵がキラキラしてて文字がいっぱいだし"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\"一枚の札\"ってのもあってる！」"
+                                ""
                             ]
                         },
                         {
@@ -10156,7 +10156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん！レイさんのとこに持っていきましょ！」"
+                                "Yes! Let's take it to Rei-san!"
                             ]
                         },
                         {

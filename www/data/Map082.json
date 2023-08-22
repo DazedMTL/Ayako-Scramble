@@ -1703,14 +1703,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性客"
+                                "Female customer: Excuse me, can I have 10 more\ncups?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すいませーん、追加で10杯で」"
+                                ""
                             ]
                         },
                         {
@@ -1727,14 +1727,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Certainly!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「かしこまりましたぁ！」"
+                                ""
                             ]
                         },
                         {
@@ -1770,14 +1770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女性客"
+                                "Female customer: Phew... Excuse me, can I have 5\nmore cups?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふぅっ・・・・すいませーん、追加で5杯で」"
+                                ""
                             ]
                         },
                         {
@@ -1794,21 +1794,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Understood!! Ayako-san, please add more\nmilk!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「かしこまりましたぁ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　綾子さーん、ミルク追加お願いしまーす！」"
+                                ""
                             ]
                         },
                         {
@@ -1904,14 +1904,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「す、すごい飲みっぷりね・・・・"
+                                "Y-You're drinking so much... Our stock is\ndecreasing rapidly."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　在庫がどんどん減っていくわ」"
+                                ""
                             ]
                         },
                         {
@@ -1982,14 +1982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもさすがにペースは落ちてきてるわね。"
+                                "But, the pace is definitely slowing down. This is\nthe last of our milk stock, so it's just right..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ミルクのストックもこれでラストだし、ちょうどよか・・"
+                                ""
                             ]
                         },
                         {
@@ -2032,7 +2032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "つるっ・・・・・"
+                                "*Slurp...*"
                             ]
                         },
                         {
@@ -2162,7 +2162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・・・あ」"
+                                "...Ah"
                             ]
                         },
                         {
@@ -2264,14 +2264,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ、えっ！！？ど、どうしよ！！"
+                                "Huh, huh!? W-What should I do!!? I-It was already\nthe last one!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　も、もうこれでラスト一本だったのに！？」"
+                                ""
                             ]
                         },
                         {
@@ -2342,7 +2342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうだ、今言えばまだ注文をキャンセルでき・・・"
+                                "O-Oh, that's right! If I say it now, I can still\ncancel the order..."
                             ]
                         },
                         {
@@ -2359,14 +2359,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Y-Yes!! Five cups of coffee coming up!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぃぃっ！！コーヒー5杯あがりぃっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -2383,14 +2383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ayako-san, is the milk still not here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子さ～ん、ミルクまだですかぁ？」"
+                                ""
                             ]
                         },
                         {
@@ -2430,14 +2430,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「も、もうできたのっ？！"
+                                "I-Is it ready already?! Ugh... But, we're out of\nmilk reserves..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うぅぅ・・・でも、ミルクの予備はもう無・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2477,7 +2477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -2517,7 +2517,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえ・・・・ここにあるじゃない・・・・・」"
+                                "No... It's right here..."
                             ]
                         },
                         {
@@ -2557,7 +2557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・・・・・・・・やるしかないか」"
+                                "............ I have no choice but to do it."
                             ]
                         },
                         {
@@ -2740,7 +2740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あのっ！裏でミルク注いできますねっ！」"
+                                "A-Ah! I-I'll go pour the milk in the back!"
                             ]
                         },
                         {
@@ -2757,14 +2757,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Huh? No, go bring the milk..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ？いやミルク持ってきてく・・"
+                                ""
                             ]
                         },
                         {
@@ -2788,7 +2788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ！裏で注いできますね！！」"
+                                "Yes! I'll go pour it in the back!"
                             ]
                         },
                         {
@@ -3079,14 +3079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よ、よし・・・・恥ずかしいけど・・・"
+                                "O-Okay... It's embarrassing but... I have to\nhurry...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　急がないと・・・・・っ・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -3231,7 +3231,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぼろんっ・・・・♡"
+                                "*Blushes...♡*"
                             ]
                         },
                         {
@@ -3276,7 +3276,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むにゅっ・・・むにゅっ・・・むにゅっ・・・・！！"
+                                "*Squish... Squish... Squish....!!*"
                             ]
                         },
                         {
@@ -3300,7 +3300,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁっ・・・はぅぅ・・・・あぁんっ・・・・♡」"
+                                "Haa... Hauu.... Aaahh...♡"
                             ]
                         },
                         {
@@ -3317,11 +3317,49 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分のミスで最後の在庫を失ってしまった綾子・・・"
+                                "Ayako, who lost the last stock due to her own\nmistake... There is no milk in stock... However,\nthere are orders placed... Ayako is troubled, but\nshe realizes that what she's looking for is within\nher own heart..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
@@ -3331,14 +3369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ミルクの在庫は無い・・・しかし注文はされている・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悩む綾子だが探し物は自分の胸の中にあることに気付く・・・"
+                                "If that's the case, wouldn't it be possible to\npour the milk directly...?"
                             ]
                         },
                         {
@@ -3355,45 +3386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幸運にもバックヤードには誰も入ってこない状態である・・・"
+                                "Ayako, who had that thought, immediately took\naction and directed the milk spray towards the\nfreshly brewed coffee..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ならば直接ミルクを注げるのではないか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そう考えた綾子は即座に行動に移し、母乳の噴出口を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淹れられたばかりのコーヒーに向けるのであった・・・"
                             ]
                         },
                         {
@@ -3433,14 +3433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あんまりゆっくりしてる暇はない・・・っ・・・・！"
+                                "(I don't have time to take it slow...! Right from\nthe start, I need to be strong...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 最初っから強めで・・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -3527,7 +3527,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むぎゅぅぅっ・・・・♡"
+                                "*Squishhhh....♡*"
                             ]
                         },
                         {
@@ -3551,7 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はうっっ・・・！！♡♡」"
+                                "Hauu...!!♡♡"
                             ]
                         },
                         {
@@ -3568,14 +3568,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ayako Nagatsuki-san, are you okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「永辻さ～ん、大丈夫ですか～？」"
+                                ""
                             ]
                         },
                         {
@@ -3615,7 +3615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいっ・・・・ちょっとぶつけただけです・・・♡」"
+                                "Y-Yes... I just bumped into something...♡"
                             ]
                         },
                         {
@@ -3660,7 +3660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅっ！！ぐりっ・・・！ぐりっ・・！ぐりぃっ・・・！♡"
+                                "*Squeeze!! Squish...! Squish...! Squee...!♡*"
                             ]
                         },
                         {
@@ -3696,7 +3696,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぅっ・・・・！はぁぁんっ・・・・♡♡」"
+                                "Hauu...! Haaan...♡♡"
                             ]
                         },
                         {
@@ -3713,21 +3713,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Your voice sounds like you're in pain.\nAre you really okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんだか声が苦しそうですけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ホントに大丈夫ですか～？」"
+                                ""
                             ]
                         },
                         {
@@ -3767,14 +3767,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だ、大丈夫ですっ・・・！♡"
+                                "I-It's... It's okay...!♡ I just put too much\nstrength into it... ahh...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　力入れすぎちゃって・・・・・っぅ・・・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -3835,7 +3835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐりっ、ぐりっ・・・・！！ぎゅっ♡ぐりゅっ！♡"
+                                "*Grii, grii....!!* *Squeeze♡ Squish!*"
                             ]
                         },
                         {
@@ -3859,7 +3859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「くぅぅっ・・・・はぁっ・・・・♡はぁっ・・・・♡♡」"
+                                "Kuuu... Haa...♡ Haa...♡♡"
                             ]
                         },
                         {
@@ -3876,21 +3876,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well then, please bring the milk slowly.\nThe customers are waiting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、ゆっくりでいいので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ミルク持ってきてくださいね。お客様が待ってますので」"
+                                ""
                             ]
                         },
                         {
@@ -3935,7 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐりっ、ぐりっ、ぎゅっ♡♡ぎゅっ、ぎゅぅぅうっ！！"
+                                "*Grii, grii....!!* *Squeeze♡ Squish!*"
                             ]
                         },
                         {
@@ -3975,14 +3975,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいぃんっ・・・・！♡\\!い、イくッ・・・イくっ♡"
+                                "Y-Yess...!♡ I-I'm... I'm cumming... Cumming♡ I'll\nbring the milkdd!!♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ミルクっ♡持ってイきますっっ！！♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -4097,7 +4097,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴゅっっ！！ぴゅっっ！！ぴゅぅ～～・・・・！♡♡"
+                                "Pyu~! Pyu~! Pyuu~....!♡♡"
                             ]
                         },
                         {
@@ -4137,7 +4137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んはぁぁぁぁぁ・・・・・・♡♡」"
+                                "Nhaaaaa......♡♡"
                             ]
                         },
                         {
@@ -4228,21 +4228,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・・っ・・・・・♡"
+                                "Haa... haa.... *gulp*... ♡ Alright... *moan*...!\n*sigh*.... At this pace, we won't keep the\ncustomers waiting for too long...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　よ、よしっ・・・んくっ・・・！♡ふぅ・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このペースならあまりお客様を待たせないわ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -4282,14 +4282,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・あ、あと4杯・・・"
+                                "...A-After 4 more cups... My nipples... I wonder\nif they'll be okay...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　乳首・・・・大丈夫かな・・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -4494,14 +4494,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Three glasses of milk, please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ミルク3杯お願いしまーす」"
+                                ""
                             ]
                         },
                         {
@@ -4597,7 +4597,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はーい」"
+                                "Yes."
                             ]
                         },
                         {
@@ -4637,14 +4637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なーんて心配してたけど、"
+                                "I was worried, but we have a microwave, don't we?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　電子レンジがあるじゃない」"
+                                ""
                             ]
                         },
                         {
@@ -4693,21 +4693,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「全員分出すってなると、"
+                                "If I have to serve everyone, just how much nipple\nplay do I have to do... Even I can't handle that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どれだけ乳首をいじめないといけないのか・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　流石に私でも無理ね」"
+                                ""
                             ]
                         },
                         {
@@ -4747,21 +4747,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「その点、レンジで人肌くらいに温めれば、"
+                                "In that case, if we warm it up in the microwave to\nabout body temperature, it should taste just as\ngood and there won't be any strain on the\nnipples..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　同じくらい美味しくなるだろうし"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　乳首に負荷がかから・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4810,7 +4810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -4850,14 +4850,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(せっかくミルク入れの担当になったのに、"
+                                "It's a bit disappointing to only use stocked\nbreast milk when I finally became in charge of the\nmilk dispenser."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ストックの母乳を使うだけってちょっとつまんないな・・)"
+                                ""
                             ]
                         },
                         {
@@ -4906,14 +4906,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(いや、私の母乳が飲まれるってだけでも"
+                                "(Well, just the fact that my breast milk is being\nconsumed is already erotic... It feels a bit\nwasteful somehow...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " エッチなんだけど・・・なんだかもったいない気が・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4962,7 +4962,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・」"
+                                "「........」"
                             ]
                         },
                         {
@@ -5011,7 +5011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(せっかくだし・・・・・♡)"
+                                "(Since we've come this far.....♡)"
                             ]
                         },
                         {
@@ -5323,7 +5323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅむっ・・・・・・♡♡"
+                                "Squeeze...♡♡"
                             ]
                         },
                         {
@@ -5347,7 +5347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほぉぉっ・・・・・♡」"
+                                "Ohhh...♡"
                             ]
                         },
                         {
@@ -5408,7 +5408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐりっ・・・！♡ぐりっ、ぐりぃっ・・・！♡♡"
+                                "Squeeze...! ♡ Squeeze, squeeze...! ♡♡"
                             ]
                         },
                         {
@@ -5432,7 +5432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁっ、はぁぁっ♡♡で、でりゅっ・・・！！♡」"
+                                "Haaah, haaaah♡♡ And, and it's coming out...!!♡"
                             ]
                         },
                         {
@@ -5531,7 +5531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴゅっっ、ぴゅっっ！！♡♡"
+                                "Squeeze... squeeze!!♡♡"
                             ]
                         },
                         {
@@ -5615,21 +5615,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁぁ・・・っ・・・♡♡あぁ・・・♡"
+                                "Haaah...♡♡ Ahh...♡ Since we've come this far, it\nwould be better to release the freshly squeezed\none, right...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　せっかくなんだから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　搾りたてを出してあげたほうがいいわよね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -5737,7 +5737,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「イッっ♡♡イくッ♡♡！！」"
+                                "I'm cumming♡♡ I'm cumming♡♡!!"
                             ]
                         },
                         {
@@ -5894,14 +5894,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・っ・・・♡"
+                                "Haaah... haaah...♡ Ahh, I feel refreshed...\nphew... This makes it three servings."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　スッキリぃ・・・ふぅ・・・これで3杯分になったわね」"
+                                ""
                             ]
                         },
                         {
@@ -5941,7 +5941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さ・・・お客様にお出ししなきゃね・・・・♡♡」"
+                                "I... I have to serve it to the customer... ♡♡"
                             ]
                         },
                         {
@@ -6134,7 +6134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「み、ミルクコーヒー3つできましたぁ・・・・・♡」"
+                                "I... I've made three servings of milk coffee... ♡"
                             ]
                         },
                         {
@@ -6151,21 +6151,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Thank you very much! Mmm...♪ The scent of\nmilk is delightful, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございます！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ん～・・・♪ミルクの香りがいいですねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -6182,21 +6182,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Well then, please make these 5 servings\nas replacements! I'll take these ones to the\ncustomers."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃ、入れ替わりでこの5杯もお願いします！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こっちのはお客様に持っていきますので」"
+                                ""
                             ]
                         },
                         {
@@ -6220,7 +6220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、分かりました・・・・♡」"
+                                "Yes, I understand...♡"
                             ]
                         },
                         {
@@ -6466,21 +6466,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっ・・・！はっ・・・！はぁっ・・・♡"
+                                "Hah...! Hah...! Haaah...♡ I did it...! This time,\ncompletely of my own will, I touched my breasts\ndirectly...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やっちゃった・・・っ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今度は完全に自分の意志でおっぱいを直接・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -6529,21 +6529,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私の・・・おっぱい入りのコーヒーが・・・・"
+                                "My... coffee with my breasts in it... is going to\nbe drunk by the customer... ♡♡ Haaah....\nhaaah....! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今から・・・お客様に飲まれる・・・っ・・・♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はぁっ・・・・はぁ・・・っ・・・！♡」"
+                                ""
                             ]
                         },
                         {
@@ -6560,14 +6560,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁっ・・・やっぱりおいしいわぁ・・・♡"
+                                "Haaah... It's delicious after all... ♡ No matter\nhow many times I drink this milk coffee here, I\nnever get tired of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここのミルクコーヒーは何回飲んでも飽きないわね」"
+                                ""
                             ]
                         },
                         {
@@ -6616,14 +6616,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～～～～～！♡♡"
+                                "Ahhhh~! ♡♡D-Did I just hear the customer's\nfeedback...?! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お、お客様の感想が聞こえっ・・・・？！♡」"
+                                ""
                             ]
                         },
                         {
@@ -6640,21 +6640,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うまいっ・・・！なんて素晴らしいミルクなんだ！！"
+                                "Delicious...! What an amazing milk!! I want to buy\nthe cow that produces this milk and install it at\nhome as a milk dispenser!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このミルクを出す牛を買って、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　自宅にミルクサーバーとして設置したいくらいだ！」"
+                                ""
                             ]
                         },
                         {
@@ -6703,7 +6703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁっ・・・♡♡はぁっ・・・・・！！♡♡」"
+                                "Hah...♡♡ Hah.....!!♡♡"
                             ]
                         },
                         {
@@ -6720,14 +6720,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみませーん、ミルクだけおかわりとかって"
+                                "Excuse me, is it possible to get a refill of just\nmilk?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　できますか～？」"
+                                ""
                             ]
                         },
                         {
@@ -6776,7 +6776,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁっ・・・はぁぁっ・・・♡♡はぁんっ・・・♡♡」"
+                                "Ahh... haaahh...♡♡ Haaan...♡♡"
                             ]
                         },
                         {
@@ -6923,7 +6923,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐちゅぅっ♡♡"
+                                "Squelch♡♡"
                             ]
                         },
                         {
@@ -6982,14 +6982,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こりっ、ぐりっっ♡♡こりっ、こりっ、ぐりぃっ！♡♡"
+                                "Kori, guriii♡♡ Kori, kori, guriii! ♡♡ Guchu guchu!\n♡ Guchu, guchuuu♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ぐちゅぐちゅっ！♡ぐちゅっ、ぐちゅっっ♡♡"
+                                ""
                             ]
                         },
                         {
@@ -7013,7 +7013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほぉぉっっ♡♡はぁぁんっ・・・！！♡♡」"
+                                "Ohhhhh...!!♡♡ Ahhhh...!!♡♡"
                             ]
                         },
                         {
@@ -7042,14 +7042,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なんて濃厚で甘いミルクなんだ・・・！"
+                                "What a rich and sweet milk...! Ah, it's spilling\nonto the plate, what a waste, slurp."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっ、皿にこぼれてる、もったいないなぁ、じゅるっ」"
+                                ""
                             ]
                         },
                         {
@@ -7082,7 +7082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぐちゅっぐちゅっ♡♡くちゅくちゅっくちゅっ！くちゅっ！"
+                                "Squelch♡♡ Slurp slurp slurp! Slurp!"
                             ]
                         },
                         {
@@ -7106,14 +7106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、あっ、あッ♡♡あ\"っ、はあぁんっっ！♡♡"
+                                "Ah, ah, ah♡♡ Ahh... haaahh...!!♡♡ Fuuunnnn!!♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ふんんんっっッッ♡♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -7130,14 +7130,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ayako Nagatsuki-san, can you handle the\nnext 5 orders?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「永辻さ～ん、次の5杯ってもういけますか？」"
+                                ""
                             ]
                         },
                         {
@@ -7177,14 +7177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっ、はっ♡♡はいっっ♡♡っぉぉ・・・！♡♡"
+                                "Hah, hah♡♡ Yes...!♡♡ I'm coming...♡♡ I'm about to\ncome soon...!!♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　イきますっ・・・♡♡もうすぐイけますっっ♡！！♡」"
+                                ""
                             ]
                         },
                         {
@@ -7224,14 +7224,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「イくッ、イきますぅッッ♡♡ミルク出してッ♡♡"
+                                "I'm cumming, I'm cumminggg♡♡ Milk is coming out♡♡\nSquirtingggg! ♡♡ Squirt! ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\{イくゅぅぅッッ！♡♡！ッッ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -7346,7 +7346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "びゅ～～ッッ！！びゅッ！びゅッ～～～！♡！♡♡"
+                                "Byu~~!! Byu! Byu~~~! ♡! ♡♡"
                             ]
                         },
                         {
@@ -7428,14 +7428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほぉぉぉ・・・・・・ぉぉ・・・・っ・？！♡♡"
+                                "Ohhh... Ohh...?! ♡♡ I, I made such a strong one...\n♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　す、すっごい濃いのでちゃったぁ・・・・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -7487,14 +7487,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わっ、どろっどろぉ・・・♡"
+                                "Ah, it's so thick...♡ My... cum milk...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私の・・っ・・♡♡イキミルクぅ・・・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -7583,21 +7583,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今までのより全然濃ゆいぃ・・・っ・・・♡♡"
+                                "This one is way thicker than before...♡♡ If I\nrelease something like this...♡ The manager will\ndefinitely suspect something...! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こんなに違うの出しちゃったらぁ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　店長にもぜったい怪しまれちゃう・・・っ・・！♡」"
+                                ""
                             ]
                         },
                         {
@@ -7637,21 +7637,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんなに・・・クリームみたいなドロドロの・・・♡"
+                                "To make customers drink such a thick, creamy, and\nsticky... ♡ concentrated pussy milk... ♡ That's\njust... that's just... ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　濃厚メスミルクをお客様に飲ませるなんて・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんなの・・・・そんなの・・っ・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -7691,7 +7691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・・・はぁ・・・・・・」"
+                                "Haa... haa..."
                             ]
                         },
                         {
@@ -7731,7 +7731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・♡」"
+                                "「.......♡」"
                             ]
                         },
                         {
@@ -7779,45 +7779,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分の母乳が入ったコーヒーを注文される度に、"
+                                "Every time someone orders coffee with my breast\nmilk in it, I massage and squeeze my breasts to\nextract the milk, mix it with the coffee, and\nserve it... And then I hear their impressions\nafter drinking it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "乳房を揉みしだき搾乳し、コーヒーと混ぜて提供する・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そしてそれを飲んだ感想が耳に入る・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "店長のオーダー、客の会話、状況全てが循環し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綾子の興奮を何度も何度も高めてくる・・・"
+                                ""
                             ]
                         },
                         {
@@ -7834,14 +7810,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もはやバックヤードは綾子にとって、"
+                                "The manager's orders, the customers'\nconversations, and the situation all come together\nto repeatedly heighten Ayako's excitement..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "満足なオナニースペースと化したのであった・・・"
+                                ""
                             ]
                         },
                         {
@@ -7858,21 +7834,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後この店では、ミルクが濃い当たりの日があり、"
+                                "The backstage had already become a satisfying\nmasturbation space for Ayako..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それを飲めると幸運になるという"
+                                "After that, there were days in this shop where the\nmilk was especially concentrated, and a rumor\nspread that drinking it would bring good luck..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "噂が広まったのであった・・・・・・"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8286,14 +8286,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith in\\c[17]increased by 9\\c[0]!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 9 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -8322,14 +8322,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The level of lewdness has increased by 8..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 8 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -8367,7 +8367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "綾子はバイト代で5000円手に入れた。"
+                                "Ayako earned 5000 yen as her part-time job\npayment."
                             ]
                         },
                         {

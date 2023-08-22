@@ -2321,7 +2321,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こっちは男子トイレね・・・)"
+                                "(This is the men's restroom, huh...)"
                             ]
                         },
                         {
@@ -3183,21 +3183,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝気な女子生徒"
+                                "Fiery female student: Hey, you! I heard you bought\nthe complete set of Dragon's Tail! I want to read\nit, so lend it to me!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇ、アンタ！ドラゴンテイル一気買いしたらしいね！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　読みたいから貸して！！」"
+                                ""
                             ]
                         },
                         {
@@ -3223,14 +3223,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漫画好きの男子生徒"
+                                "Manga-loving male student: Uh, um... I haven't\nfinished reading the whole set yet..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、えぇ・・・まだ、ボク全部読んでないんだけど・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3295,21 +3295,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝気な女子生徒"
+                                "Fiery student: It's not fair! Hey, lend it to me!\nLend it to me!! *blushes* ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いーじゃない！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ねぇ、貸してよ！貸してよ！！」\\}ふわっ・・・♡"
+                                ""
                             ]
                         },
                         {
@@ -3335,21 +3335,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漫画好きな男子生徒"
+                                "Manga-loving student: Uh, um... ♡ What should I\ndo... ♡ (It smells so good...! Let's enjoy a\nlittle more... ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、えー・・・♡どうしよっかなー・・・♡」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(めっちゃ良い匂い・・・！もう少し楽しも・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -3442,21 +3442,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝気な女子生徒"
+                                "Spirited female student: Hey, you! I heard you\nbought the complete set of Dragon's Tail! I want\nto read it, so lend it to me!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇ、アンタ！ドラゴンテイル一気買いしたらしいね！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　読みたいから貸して！！」"
+                                ""
                             ]
                         },
                         {
@@ -3482,14 +3482,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漫画好きの男子生徒"
+                                "Manga-loving student: Eh, um... I haven't finished\nreading the whole thing yet..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、えぇ・・・まだ、ボク全部読んでないんだけど・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3554,21 +3554,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "勝気な女子生徒"
+                                "Spirited student: It's not fair! Hey, lend it to\nme! Lend it to me!! *blushes* ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いーじゃない！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  ねぇ、貸してよ！貸してよ！！」\\}ふわっ・・・♡"
+                                ""
                             ]
                         },
                         {
@@ -3594,21 +3594,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "漫画好きな男子生徒"
+                                "Manga-loving student: Eh, um... ♡ What should I\ndo... ♡ (Oh, the sweet scent of a girl...!? Let's\nenjoy a little longer... ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え、えー・・・♡どうしよっかなー・・・♡」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(お、女の子の良い匂い・・・！？もう少し楽しも・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -3692,21 +3692,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
+                                "Female Student: Ah... I don't have a\nhandkerchief... I guess I can wipe it with my\nskirt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・・ハンカチがない・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・・・・スカートで拭けばいっか」"
+                                ""
                             ]
                         },
                         {
@@ -3832,21 +3832,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒"
+                                "Female Student: Ah... I don't have a\nhandkerchief... I guess I can wipe it with my\nskirt."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・・ハンカチがない・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・・・・スカートで拭けばいっか」"
+                                ""
                             ]
                         },
                         {
@@ -3939,21 +3939,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male student (W-What a plump body...! I wonder\nwhich class they're from... Should I try talking\nto them...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(な、なんてムチムチの身体・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 何組の子だろ・・・声かけてみよっかな・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4088,21 +4088,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male student (W-What a plump body...! I wonder\nwhich class they're from... Should I try talking\nto them...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(な、なんてムチムチの身体・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 何組の子だろ・・・声かけてみよっかな・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4299,7 +4299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あ・・・ちょっとお手洗いに行きたくなってきた・・・・)"
+                                "(Ah... I suddenly feel the need to use the\nrestroom...)"
                             ]
                         },
                         {
@@ -4339,7 +4339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そんなに出なさそうだけど、今のうちに済ませときましょ)"
+                                "(It doesn't seem like it will take long, but let's\ngo to the restroom now just in case)"
                             ]
                         },
                         {
@@ -4484,7 +4484,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・どうせ女子トイレは空いてないんだろうな)"
+                                "(.....I bet the women's restroom is probably not\navailable anyway)"
                             ]
                         },
                         {
@@ -4524,7 +4524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(だったら・・・・・・・"
+                                "(In that case...)"
                             ]
                         },
                         {
@@ -4646,7 +4646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(空いてそうなこっちに行った方が賢明よね・・・・？)"
+                                "(Wouldn't it be wise to go to the one that seems\navailable...?)"
                             ]
                         },
                         {

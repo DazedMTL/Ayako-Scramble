@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "住宅街",
+    "displayName": "Residential area",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2446,7 +2446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・そういえば今日は燃えるごみの日ね」"
+                                "...By the way, today is the day for burning\ngarbage, isn't it?"
                             ]
                         },
                         {
@@ -2470,7 +2470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今のうちに出しておこうかしら？」"
+                                "Should I take it out now?"
                             ]
                         },
                         {
@@ -2773,14 +2773,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日も燃えるゴミの日ね。"
+                                "Today is the day for burning trash, huh? Should I\ntake it out?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　出しておこうかな？」"
+                                ""
                             ]
                         },
                         {
@@ -3069,14 +3069,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「この時間帯はいつもお隣さんが"
+                                "The neighbor always takes out the trash at this\ntime..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ゴミを出してたわね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3116,7 +3116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・\\.ゴミ・・・\\.出しておこうかしら・・・」"
+                                ".......Should I take out the trash...?"
                             ]
                         },
                         {
@@ -3178,7 +3178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -3218,7 +3218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「今日は少し・・・暑いわね・・・・・・・」"
+                                "It's a bit... hot today, isn't it..."
                             ]
                         },
                         {
@@ -3485,7 +3485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そろそろ・・・かな・・・？」"
+                                "Is it about time... I wonder...?"
                             ]
                         },
                         {
@@ -3678,14 +3678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いつもどうりなら"
+                                "You should have come around this time as usual."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このくらいの時間に来るはずね」"
+                                ""
                             ]
                         },
                         {
@@ -3702,7 +3702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "隣のおじさんを誘いますか？"
+                                "Shall we invite the neighbor uncle?"
                             ]
                         },
                         {
@@ -4100,52 +4100,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あぅっ♡あっあっ♡あっ♡"
+                                "Ah~ Ahh~ Muto-san~ It's too intense~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　武藤さんっ♡激しすぎですっ♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "隣のおじさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「しょうがないじゃないですか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　永辻さんを抱いてしまったから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　女房の身体じゃ満足できないんですよ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4162,59 +4124,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\kw[1]"
+                                "Neighbor Uncle: It can't be helped, right? Because\nI ended up embracing Nagatsuki-san, I can't be\nsatisfied with my wife's body!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「だ、ダメですっ♡♡ちゃんとセックスしてあげないと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　女の人は不安に、\\{おほぉっ!♡♡\\}きもちい・・・♡」"
+                                ""
                             ]
                         },
                         {
-                            "code": 101,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "隣のおじさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「偉そうなこと言ったって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　俺のチンコに夢中じゃないか！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　気持ちよければ他人なんてどうでもいいんだろ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4238,14 +4169,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そ、そんなことなっ♡♡おっ♡お\"っ♡お\"っ♡"
+                                "N-No, stop♡♡ If you don't have proper sex with a\nwoman, she'll feel insecure and... \\{Ohh!♡♡\\} It\nfeels good...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　奥ッいい♡♡そこそこそこ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -4262,21 +4193,90 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣のおじさん"
+                                "Neighbor Uncle: Even if you say such arrogant\nthings, aren't you obsessed with my cock!!! If it\nfeels good, who cares about others!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ほらな！この淫乱ドスケベママが！！"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "　ご近所のみなさんに見てもらえ！！」"
+                                "Th-That's not tru♡♡ O-Ohh♡ Ohh♡ Ohh♡ It feels so\ngoooood ♡♡ Right there, right there, right there\n♡♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Neighbor Uncle: See! This lewd and perverted\nmama!! Let everyone in the neighborhood see it!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -4510,59 +4510,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まって！♡全裸はさすがにっあ♡♡ダメ♡♡"
+                                "Wait! Being completely naked is a bit too much♡♡\nIt's not good♡♡ We might be seen♡♡ My breasts and\npussy too♡♡ They might be exposed during our\naffair sex ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　見られちゃいます♡♡おっぱいもマンコも♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　不倫セックス見られちゃう♡♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "隣のおじさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「やっぱりマンコの締まりが強くなった！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ほら、声抑えてください！！スケベ女ってことが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　バレますよ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4579,7 +4541,45 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ぱんぱんぱんぱんぱん♡♡♡ばぢゅっばぢゅっ♡！♡"
+                                "Neighbor Uncle: As expected, your pussy has become\ntighter!! Come on, please keep your voice down!!\nPeople will find out that you're a horny woman!!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "Pounding, pounding, pounding♡♡♡ Squeezing,\nsqueezing♡! ♡"
                             ]
                         },
                         {
@@ -4619,14 +4619,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ん\"ー－♡♡んっ♡んっ♡\\.\\."
+                                "Nn...♡♡ Nn...♡♡ \\.\\. \\{\\{Ohh...♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "                         \\{\\{おほぉっ♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -4666,14 +4666,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ムリムリ無理ッ♡♡！おっ♡おっ♡"
+                                "No no, it's impossible♡♡! If I'm penetrated by a\nbig cock in my pussy, I'll let out moans♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　おっきいチンポでマンコ突かれたら声でりゅっ♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -4690,28 +4690,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣のおじさん"
+                                "Neighbor Uncle (Oh, oh no...! Making such loud\nnoises!? But, even if I were to say keep your\nvoice down, you wouldn't listen, would you? Let's\nmake you come quickly!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "(や、やべ・・！こんなに声出すなんて！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " けど、どうせ「声抑えろ」って言っても聞かないよな・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " さっさとイかせよう！)"
+                                ""
                             ]
                         },
                         {
@@ -4738,14 +4738,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\{ぱんっ♡ぱんっ♡ぱんっ"
+                                "Pounding, pounding, pounding♡♡♡ Squeezing,\nsqueezing♡! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "                 ♡ぱんっ！♡ぱんッ♡♡"
+                                ""
                             ]
                         },
                         {
@@ -4769,14 +4769,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ぁお\"っ♡♡お\"っ♡お\"っ♡ちんぽっ♡"
+                                "Ah...♡♡ Ah...♡ Ah...♡ Deeper...♡♡ {{Ohhh...♡♡}}"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　もっと奥っ♡♡\\{\\{おおお\"お\"～～♡♡\\}\\}」"
+                                ""
                             ]
                         },
                         {
@@ -4816,14 +4816,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「イグイグいぐイグ！！"
+                                "Ah... Ahh... Ahhh!! {{I-I'm}} coming!! {{I'm}}\ncuuuming♡♡!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "                 \\{\\{イ\"くぅぅぅうッ♡♡！"
+                                ""
                             ]
                         },
                         {
@@ -4975,45 +4975,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はー・・・・・♡はっー・・・♡"
+                                "Haah...♡ Haa...♡ Hehe.... Hehehe....♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ふふ・・・・ふふふ・・・・♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "隣のおじさん"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「こ、これ大丈夫か・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　ぐったりしてるけど・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -5030,21 +4999,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「動物みたいな変な声が聞こえない？」"
+                                "Neighbor Uncle: I-Is this okay...? You look\nexhausted....?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　「ん？悲鳴？」"
+                                ""
                             ]
                         },
                         {
@@ -5061,21 +5030,52 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "隣のおじさん"
+                                "Can't you hear strange animal-like sounds? | Huh?\nScreams?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「や、やばい！やりすぎた！！"
+                                "Neighbor Uncle: O-Oh no! I went too far!! I'll go\nback, Nagatsuki-san!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　戻りますよ永辻さん！」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 1,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -5116,14 +5116,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "その後、この住宅街では"
+                                "After that, rumors spread in this residential area\nthat deep moaning voices could be heard every few\ndays..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "数日おきに野太い喘ぎ声が聞こえるとの噂が広まった・・・"
+                                ""
                             ]
                         },
                         {
@@ -5147,14 +5147,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "当然、声の主である綾子の耳にも噂は届き、"
+                                "Of course, the rumors reached Ayako's ears, the\none behind those voices. Her face turned red with\nembarrassment and she felt a slight sense of\nregret..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "羞恥心で顔は赤くなり、すこしばかり後悔する・・・"
+                                ""
                             ]
                         },
                         {
@@ -5171,21 +5171,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "しかし、汚い喘ぎ声を多数の人間に聞かれていた事実は、"
+                                "However, the fact that her dirty moans were heard\nby many people was enough to make Ayako's womb\nburn and serve as a sufficient reason for her to\ncontinue the act..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "綾子の子宮を火照らせ、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "行為を繰り返す理由としては充分であった・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5386,14 +5386,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                ""
+                                "Faith and lewdness value increased by 1."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　　　  　　信仰と淫乱値が\\c[17] 1 \\c[0]増えた。"
+                                ""
                             ]
                         },
                         {
@@ -6050,38 +6050,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント終了後に「Q」キーを押すと、"
+                                "After the event ends, if you press the Q key, you\ncan hear Ayako's soliloquy about that event."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのイベントに関する綾子の独り言が聞けます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的には聞かなくてもゲーム進行には影響ありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略のヒントに繋がることを呟くかもしれません。"
+                                ""
                             ]
                         },
                         {
@@ -6098,21 +6074,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、イベント関連の独り言は、"
+                                "Basically, it doesn't affect the game progress if\nyou don't listen to it, but she might whisper\nsomething that could lead to hints for capturing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家で寝てしまったり、一度聞くと\\c[2]二度と呟かなくなります。\\c[0]"
+                                "Also, be aware that if you fall asleep at home or\nlisten to the event-related soliloquy\nonce,\\c[2]she will never whisper it again.\\c[0] So\nplease be careful if you want to hear all the\nconversations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全ての会話を聞きたい方は気をつけてください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

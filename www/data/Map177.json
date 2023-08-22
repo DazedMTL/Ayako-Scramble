@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "商店街",
+    "displayName": "Shopping Street",
     "encounterList": [],
     "encounterStep": 30,
     "height": 30,
@@ -6437,7 +6437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・夜の神社は怖いわね」"
+                                "...The shrine at night is scary, isn't it?"
                             ]
                         },
                         {
@@ -6721,14 +6721,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幽霊"
+                                "Ghost: Ah, you...! Can you see me?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あなた・・・！私が見えるの？！」"
+                                ""
                             ]
                         },
                         {
@@ -6784,7 +6784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・・色々ありまして」"
+                                "Um... There have been various things happening."
                             ]
                         },
                         {
@@ -6810,21 +6810,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幽霊"
+                                "Ghost: Hey, please! I want you to help me find\npeace!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ねえ、お願い！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私が成仏するのを手伝ってほしいの！」"
+                                ""
                             ]
                         },
                         {
@@ -6841,7 +6841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手伝ってあげますか？"
+                                "Shall I help you?"
                             ]
                         },
                         {
@@ -6927,21 +6927,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "幽霊"
+                                "Ghost: Thank you for listening. My name is Mina.\nNice to meet you."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「話を聞いてくれてありがとう。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　私の名前はミナ。よろしくね」"
+                                ""
                             ]
                         },
                         {
@@ -6997,7 +6997,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(あら、幽霊だけどまともそうな人ね)"
+                                "Oh, a ghost, but you seem like a decent person."
                             ]
                         },
                         {
@@ -7037,21 +7037,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「私は綾子と申します。"
+                                "My name is Ayako. So, what can I do to help you\nfind peace, Mina-san?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それで、ミナさんが成仏するためには"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　何をお手伝いしたらいいんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7077,28 +7077,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: ...Before we get into the main topic, can I\nask you something?... It's really embarrassing,\nbut the cause of my death was... excessive\nmasturbation..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・その本題に入る前に一ついいかしら。\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　・・・・・・・すっごく恥ずかしいんだけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　私の死因って・・・一人エッチのしすぎなの・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7177,21 +7177,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「え・・・・・？！"
+                                "Eh...?! I-If you masturbate too much, do you\nreally die?! That's... that's..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　オ、オナニーってしすぎたら死んじゃうんですか！！？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そんなのって・・・・そんなのって・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7231,14 +7231,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: ...Your concerns seem different, but oh\nwell."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・なんか心配してるとこが違うけど、まあいいわ」"
+                                ""
                             ]
                         },
                         {
@@ -7264,21 +7264,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: I don't really have any hobbies, so when it\ncomes to relieving stress, the only method I had\nwas masturbation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「私、これといって趣味がなくて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ストレス発散方法といえばオナニーだけだったわ」"
+                                ""
                             ]
                         },
                         {
@@ -7295,21 +7295,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: Especially on days when I was exhausted from\nwork, I had a habit of borrowing AV and\nmasturbating alone until I fell asleep."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「特に激務で疲れた日は帰りにＡＶを借りて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　寝落ちするまで一人エッチする習慣があったの」"
+                                ""
                             ]
                         },
                         {
@@ -7335,21 +7335,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: ...And on that day, I was able to find and\nborrow an extremely rare video that is said to be\na legend among enthusiasts!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・そして、あの日はマニアの間で幻と言われる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　激レアビデオを見つけ、借りることができたの！」"
+                                ""
                             ]
                         },
                         {
@@ -7366,28 +7366,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: I thought of making it the main course and\nhaving 10 videos as appetizers for my masturbation\nsession...!... But that became the trigger for a\ntragedy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「私はそれをメインディッシュに据えて、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　10本のビデオを前菜にオナニーしようと考えた・・・・・\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　・・・・・・けど、それが悲劇の引き金になったわ」"
+                                ""
                             ]
                         },
                         {
@@ -7452,7 +7452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「前菜が10本って・・・・・・過酷なオナニーですね」"
+                                "Having 10 appetizers... that's a harsh\nmasturbation session, isn't it?"
                             ]
                         },
                         {
@@ -7478,28 +7478,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: ...My body was worn out from consecutive\nall-nighters and an unhealthy diet... My heart was\npounding so hard with anticipation for the\nlegendary AV..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「・・・・・日夜連続の徹夜と"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ムリな食生活でボロボロになった体・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　幻のAVへの期待で張り裂けるくらい高鳴る心臓・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7516,28 +7516,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: After finishing watching the 10th video,\njust before \\.\\....., I experienced an intense\nclimax and my heart stopped..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「１０本目を見終わり、いよいよメイン・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　\\.\\.・・・・の直前で、激しい絶頂を迎えた私は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　心臓が止まってしまったの・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7577,7 +7577,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(今までで一番怖い話かも・・・私も気をつけよ・・・)"
+                                "(This might be the scariest story I've ever\nheard... I should be careful too...)"
                             ]
                         },
                         {
@@ -7603,28 +7603,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: And after I died, the police confiscated all\nthe videos and stored them in a warehouse!! So, no\none can sneak a peek at them by playing them...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「しかも私が死んだあと、警察に全てのビデオを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　押収されて倉庫にしまわれたの！！だから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　誰かが再生するのを覗き見る事もできないっ・・！」"
+                                ""
                             ]
                         },
                         {
@@ -7650,28 +7650,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: I... I...! Ugh... I regret more than\nanything that I died without being able to watch\nthe legendary AV... Ugh... Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「私はっ・・・・・私は・・・っ・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　うぅぅ・・・・伝説のＡＶを見れずに死んだことを・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　何よりも後悔しているのぉ・・・・うっ・・・うっ・・」"
+                                ""
                             ]
                         },
                         {
@@ -7711,7 +7711,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「話はわかりました・・・・\\}理解はできないけど\\{」"
+                                "I understand the story... even though I can't\ncomprehend it."
                             ]
                         },
                         {
@@ -7751,7 +7751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それで、私は何をすればいいんですか？」"
+                                "So, what should I do?"
                             ]
                         },
                         {
@@ -7777,21 +7777,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: I have all the details and synopsis of that\nAV in my head! But, I probably won't be able to\nget my hands on it anymore..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あのＡＶの内容とあらすじは全部頭に入っているわ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　けど、もう入手することはおそらくできない・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7847,14 +7847,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: That's why I want you to recreate the same\nproject!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「だから、同じ企画をあなたが再現してほしいの！！」"
+                                ""
                             ]
                         },
                         {
@@ -7903,14 +7903,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「さ、再現って！？"
+                                "R-Recreation?! Are you telling me to have sex?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　私にセックスしろってことですか？！」"
+                                ""
                             ]
                         },
                         {
@@ -7936,21 +7936,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: I get more excited by the buildup rather\nthan the actual act!! You don't have to go that\nfar, it's okay."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「私は本番より導入で興奮する派なのっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　そこまでしなくて大丈夫よ」"
+                                ""
                             ]
                         },
                         {
@@ -7999,7 +7999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(何が大丈夫なんだろう・・・・)"
+                                "(I wonder what will be okay...)"
                             ]
                         },
                         {
@@ -8039,28 +8039,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: Please...! I can't have any regrets in the\nnext life like this...!! Please... give me a\nchance....!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「お願いっ・・・！このままじゃ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　次の人生になんて悔いが残ってイケないわ・・・！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どうか・・・私に・・・チャンスを・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -8125,14 +8125,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そ、そこまで言うんなら・・・・"
+                                "I-If you're going to say it like that... B-But! I\nwon't have sex, okay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　で、でも！セックスはしませんからね！」"
+                                ""
                             ]
                         },
                         {
@@ -8149,28 +8149,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: Ah, Ayako-san...!!! Thank you so much...\nUgh... Really... Thank you... Ugh... Ugh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あ、綾子さんっ・・・！！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ほんとに・・・うぅ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ホントに・・・・ありがとう・・・うっ・・・うっ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8210,7 +8210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それで？その内容っていうのは・・・・」"
+                                "So? What is the content of that?"
                             ]
                         },
                         {
@@ -8227,14 +8227,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ミナ"
+                                "Mina: Well, you see..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ええ、それはね・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8497,21 +8497,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幽霊"
+                                "Ghost: Ah! It's not Ayako-san. Please!! Just one\nmore time, stay with me!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！綾子さんじゃない。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お願いっ！！もう一回だけ私に付き合って！」"
+                                ""
                             ]
                         },
                         {
@@ -8528,7 +8528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手伝ってあげますか？"
+                                "Shall I help you?"
                             ]
                         },
                         {
@@ -8761,21 +8761,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "幽霊"
+                                "Ghost: Ayako-san...! Just one more time...! Please\ngive me one more chance...! I beg you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「綾子さん・・・！あと一回・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あと一回だけ私にチャンスをちょうだい・・・！お願い！」"
+                                ""
                             ]
                         },
                         {
@@ -8792,7 +8792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "チャンスをあげますか？"
+                                "Will you give me a chance?"
                             ]
                         },
                         {

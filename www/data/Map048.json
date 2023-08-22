@@ -2678,14 +2678,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: The committee is so boring..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「委員会だるいなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2809,14 +2809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男子生徒"
+                                "Male Student: This month's 'Ayakashi-san'...\nhehe... is boring."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今月の\"アヤカシさん\"は・・・・ふふっ・・・おもれ」"
+                                ""
                             ]
                         },
                         {
@@ -2909,28 +2909,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒A"
+                                "Female Student A: Listen to this! The person from\nthe art club asked me to become a nude model! It's\nseriously creepy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと聞いてよ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　美術部のヤツがヌードモデルに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なってくれって言ってきたの！マジキモイんですけど！」"
+                                ""
                             ]
                         },
                         {
@@ -2956,21 +2956,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒B"
+                                "Female Student B: Ugh, how disgusting!! They're\ndefinitely looking at me with perverted eyes, even\nthough they said it's just for modeling!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うわ、最っ低！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　モデルとか言っときながら絶対エロい目で見てるって！」"
+                                ""
                             ]
                         },
                         {
@@ -3063,28 +3063,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒A"
+                                "Female Student A: Listen to this! The person from\nthe art club asked me to become a nude model! It's\nseriously creepy!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと聞いてよ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　美術部のヤツがヌードモデルに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なってくれって言ってきたの！マジキモイんですけど！」"
+                                ""
                             ]
                         },
                         {
@@ -3110,21 +3110,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女子生徒B"
+                                "Female Student B: Ugh, how disgusting!! They're\ndefinitely looking at me with perverted eyes, even\nthough they said it's just for modeling!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うわ、最っ低！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　モデルとか言っときながら絶対エロい目で見てるって！」"
+                                ""
                             ]
                         },
                         {
@@ -3217,14 +3217,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「数学のノート写させてくんね？"
+                                "Can you copy my math notes for me? I fell asleep\nearlier, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このまえ寝ちゃってさぁ」"
+                                ""
                             ]
                         },
                         {
@@ -3250,7 +3250,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あーわり、俺も寝てたから書いてない」"
+                                "Ah, sorry, I was also asleep so I didn't write\nthem."
                             ]
                         },
                         {
@@ -3334,7 +3334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミネ先輩いるじゃん？就活落ちまくってる」"
+                                "Miné-senpai is here, right? She's been failing at\njob hunting."
                             ]
                         },
                         {
@@ -3360,7 +3360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あーいたなそんな人」"
+                                "Ah, there you are, that kind of person."
                             ]
                         },
                         {
@@ -3386,14 +3386,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んでさ、とうとうおかしくなったのか"
+                                "So, you know, there's a rumor going around that a\nflasher appeared in the photo booth at the\nshopping district and went crazy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　商店街の証明写真機に露出女が出るって吹いてるんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -3419,14 +3419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なわけねーよな。"
+                                "There's no way, right? There wouldn't be someone\nwho exposes themselves in a place like that,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんなとこで露出するやつなんているわけねーじゃん」"
+                                ""
                             ]
                         },
                         {
@@ -3482,7 +3482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -3640,14 +3640,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「数学のノート写させてくんね？"
+                                "Can you copy my math notes for me? I fell asleep\nearlier, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このまえ寝ちゃってさぁ」"
+                                ""
                             ]
                         },
                         {
@@ -3673,7 +3673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あーわり、俺も寝てたから書いてない」"
+                                "Ah, sorry, I was also asleep so I didn't write\nthem."
                             ]
                         },
                         {
@@ -3757,7 +3757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ミネ先輩いるじゃん？就活落ちまくってる」"
+                                "Miné-senpai is here, right? She's been failing at\njob hunting."
                             ]
                         },
                         {
@@ -3783,7 +3783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あーいたなそんな人」"
+                                "Ah, there you are, that kind of person."
                             ]
                         },
                         {
@@ -3809,14 +3809,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んでさ、とうとうおかしくなったのか"
+                                "So, you know, there's a rumor going around that a\nflasher appeared in the photo booth at the\nshopping district and went crazy."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　商店街の証明写真機に露出女が出るって吹いてるんだよ」"
+                                ""
                             ]
                         },
                         {
@@ -3842,14 +3842,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なわけねーよな。"
+                                "There's no way, right? There wouldn't be someone\nwho exposes themselves in a place like that,\nright?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あんなとこで露出するやつなんているわけねーじゃん」"
+                                ""
                             ]
                         },
                         {
@@ -3905,7 +3905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {

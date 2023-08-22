@@ -6670,14 +6670,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えーと、今日はお肉屋さんが安かったはず・・・・\\|\\.\\."
+                                "Um, the butcher shop should have been cheap\ntoday... \\|\\.\\.Oh...?\\.\\.\\.\\.\\^"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あら・・・？」\\.\\.\\.\\.\\^"
+                                ""
                             ]
                         },
                         {
@@ -6798,21 +6798,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: Hmm... It's not here... Where could it\nhave gone...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーむ・・・無いのぅ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どこへ行ったのじゃろうか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -7011,14 +7011,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こんにちは、お婆ちゃん。"
+                                "Hello, Grandma. What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうされたんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -7075,28 +7075,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: Well, you see... I dropped my ring... You\nsee, because I'm an old lady, my fingers have\nbecome thin and it slipped off, but my eyesight is\nalso poor..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それがのぅ・・・指輪を落としてしもうて・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほれ、ばばあだから指が細くなって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　滑り落ちたんじゃが、目も悪いんでのぅ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7136,14 +7136,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あらあら・・・それは大変ですね。"
+                                "Oh my... That's troublesome. I'll help you look\nfor it too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私も一緒に探します」"
+                                ""
                             ]
                         },
                         {
@@ -7289,7 +7289,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よいしょっ・・・」"
+                                "There we go..."
                             ]
                         },
                         {
@@ -7385,7 +7385,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お婆ちゃんっ！自販機の下にありましたよ♪」"
+                                "Grandma! It was under the vending machine♪"
                             ]
                         },
                         {
@@ -7411,28 +7411,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: Oh...! I'm sorry... It's a precious ring\nthat I received from my husband... If I had lost\nit like that, I wouldn't know what to do..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おお・・・！すまんのぅ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　爺さんから貰った大事な指輪での・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あのまま無くしてたら、わしゃどうしようかと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7456,7 +7456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ、大事な物・・・見つかってよかったですね」"
+                                "Hehe, I'm glad we found the important thing."
                             ]
                         },
                         {
@@ -7473,28 +7473,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: I'm truly grateful... I never expected to\nencounter such a kind young person like\\c[2]Ayako\nNagatsuki\\c[0]... Perhaps it's thanks to the\nspirits..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「本当に助かったわい・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まさかこんなに親切な若者にめぐり合うとは・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\"\\c[2]永霊さま\\c[0]\"のおかげかのぅ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7559,7 +7559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「\"\\c[2]永霊さま\\c[0]\"・・・？」"
+                                "\\c[2]Eternal Spirit-sama\\c[0]...?"
                             ]
                         },
                         {
@@ -7576,28 +7576,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: Oh, are you the person who moved in?\nLook, up that road is a shrine where a god is\nenshrined."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんじゃ、お前さん引っ越してきた人かの？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほれ、そこの道から登ったとこに祀ってある神様じゃ」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -7732,21 +7732,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: In the past, I also served there. And\nthat's where I spent a lot of time with grandpa..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「昔はわしもそこでお仕えさせてもらってたのじゃ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そこで爺さんとしこたま・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7802,7 +7802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・？」"
+                                "「...？」"
                             ]
                         },
                         {
@@ -7819,21 +7819,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: ...Ahem, if you have any worries, it\nmight be a good idea to visit the shrine. You\nmight encounter something good..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・こほん\\.\\.、もしも悩み事があるなら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お参りすると良き出会いが訪れるかものぅ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7882,14 +7882,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・！"
+                                "...! Why that...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なぜそれを・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -7915,14 +7915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: Hoho, it's just grandma's intuition♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ほっほ、ばばあの勘じゃよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -7939,21 +7939,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お婆ちゃん"
+                                "Grandma: Oh my... I have to hurry home or the\ndrama will start! Thank you so much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっと・・・早く帰らねばドラマが始まってしまうわい！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほんとにありがとうねぇ」"
+                                ""
                             ]
                         },
                         {
@@ -8409,14 +8409,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あんな所に神社への道が・・・"
+                                "(There's a road to a shrine in such a place...\nCome to think of it, I haven't been to pray in a\nlong time...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そういえばお参りなんて随分行ってないような・・・)"
+                                ""
                             ]
                         },
                         {
@@ -8456,7 +8456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(うん、少し寄り道してみましょ)"
+                                "(Yes, let's take a little detour.)"
                             ]
                         },
                         {

@@ -6916,7 +6916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただいまー」"
+                                "I'm home!"
                             ]
                         },
                         {
@@ -7074,14 +7074,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Welcome back, Papa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おかえり！パパ！」"
+                                ""
                             ]
                         },
                         {
@@ -7098,38 +7098,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: I'm home, Haruto."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ただいま、はると」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学校を卒業したヒロヤ君はそのまま就職し、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくして私たちは結婚した。"
+                                ""
                             ]
                         },
                         {
@@ -7146,21 +7122,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はる君が新しい父親を受け入れられるか心配だったけど、"
+                                "Hiroya, who graduated from school, immediately\nfound a job, and after a while, we got married."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "二人ともカードゲームが好きだったりと"
+                                "Haru was worried if he could accept his new\nfather, but since both of them liked card games\nand had similar hobbies, he quickly grew fond of\nhim."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "趣味が似てたのもあって、すぐに懐いてくれた。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7354,7 +7354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おかえりなさい、あなた」"
+                                "Welcome back, my love."
                             ]
                         },
                         {
@@ -7371,14 +7371,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そしてもう一人・・・・・"
+                                "And one more person... the new family member that\nwas conceived in my womb that day..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "あの日にお腹に宿った新しい家族・・・"
+                                ""
                             ]
                         },
                         {
@@ -7395,14 +7395,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いろいろ大変なことが多いけど"
+                                "I have been through many difficult things, but I\nam living a very fulfilling life."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "とっても満ちた生活を送れている。"
+                                ""
                             ]
                         },
                         {
@@ -7428,14 +7428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: I'm so tired today... and I'm really\nhungry..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は疲れたぁ・・・お腹ぺこぺこだよ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7484,14 +7484,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お疲れ様、ご飯できてるわ。"
+                                "Welcome back, my love. Dinner is ready. Today we\nhave hot pot and fried chicken. Shall we eat\nbefore taking a bath?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日はお鍋と唐揚げよ、お風呂入る前に食べましょっか」"
+                                ""
                             ]
                         },
                         {
@@ -7562,21 +7562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Fried chicken!! Yay! You're eating it\nfirst, Papa!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「からあげっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やった！さきに食べてるね、パパ！」"
+                                ""
                             ]
                         },
                         {
@@ -7800,21 +7800,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Hey! Haruto, don't eat it all! Save some\nfor Papa too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！こらっ、はると！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　パパの分も残しとけよ」"
+                                ""
                             ]
                         },
                         {
@@ -7893,14 +7893,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Well then... I'll also..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ・・・俺も・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8021,7 +8021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねえ、あなた・・・・」"
+                                "Hey, darling..."
                             ]
                         },
                         {
@@ -8047,14 +8047,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Hm...? What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん・・・・？どうしたの？」"
+                                ""
                             ]
                         },
                         {
@@ -8094,14 +8094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今日のご飯・・・精力つくものいっぱい入れたの・・・\\!"
+                                "I put a lot of ingredients that will give you\nenergy in today's dinner... So, how about\ntonight...? ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　だから・・・今夜どうかしら・・・？♡」"
+                                ""
                             ]
                         },
                         {
@@ -8127,14 +8127,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Geez... Ayako really..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「全く・・・・綾子はホントに・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8151,14 +8151,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ\\}"
+                                "Hiroya: ...Make sure Haruto is asleep first, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・ちゃんと、はるとが寝てからね」"
+                                ""
                             ]
                         },
                         {
@@ -8198,7 +8198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・♡」"
+                                "「........♡」"
                             ]
                         },
                         {
@@ -8598,7 +8598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱちゅっ・・・・ぱちゅっ・・・！ぱちゅっ・・・♡"
+                                "*Squish... squish...! Squish... ♡*"
                             ]
                         },
                         {
@@ -8622,14 +8622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁぁん・・・・っ♡♡"
+                                "Haaan... ♡♡ Papa's cock feels so good after all...\n♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やっぱりパパのおチンポ気持ちイイ・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -8646,21 +8646,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Ayako, you're really naughty, aren't you?\nWe've been doing it almost every day since\nentering the stable period."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ホント綾子ってエッチだよね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　安定期に入ってからほぼ毎日してるじゃん」"
+                                ""
                             ]
                         },
                         {
@@ -8700,38 +8700,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んっ・・・♡んっ・・・♡しょうがないじゃない・・・♡"
+                                "Mmm... ♡ Mmm... ♡ It can't be helped, right? Women\nbecome more sexually driven as they age."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　女は年齢重ねたら性欲が強くなるのよ」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒロヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「それでも綾子は強すぎだよ」"
+                                ""
                             ]
                         },
                         {
@@ -8748,21 +8724,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Even so, Ayako is too strong."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先週なんて散歩中に公園のトイレでしようって言ったり、"
+                                "Hiroya: Last week, she even suggested doing it in\nthe park toilet during our walk, and the day\nbefore yesterday, she wanted to do it in the\nass..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一昨日なんてお尻の穴で・・・"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -8802,14 +8802,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あれは・・・！その・・・・・"
+                                "Ah, that...! I, um... watched a certain kind of\nvideo..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょっとそういうビデオ見ちゃって・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8849,14 +8849,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それに・・・妊娠が分かってしばらくは控えてたから、　"
+                                "And... since I refrained for a while after finding\nout I was pregnant, I wanted to make up for lost\ntime..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その分を取り戻したくて・・・」"
+                                ""
                             ]
                         },
                         {
@@ -8896,14 +8896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも・・・・あなただって"
+                                "But... your cock was already hard when you came\nback, wasn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　帰ってきた時から、おチンポ勃ってたじゃない」"
+                                ""
                             ]
                         },
                         {
@@ -8920,21 +8920,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: But, because I have such a beautiful\nspouse waiting for me at home, I can't help but\nhave high expectations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だってこんな綺麗な嫁が家で待ってるんだから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　期待しちゃうじゃん」"
+                                ""
                             ]
                         },
                         {
@@ -8974,14 +8974,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう・・・上手なんだから・・・♡"
+                                "You're so good at it... ♡ You always make my heart\nrace... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あなたっていっつもキュンキュンさせてくるわね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9021,14 +9021,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁもう・・・♡おっぱい疼いてきちゃった・・・♡"
+                                "Ah, I can't take it anymore... ♡ My breasts are\nthrobbing... ♡ Come on... let's do our usual\nthing... ♡ Give me a kiss... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら・・・いつものしましょ・・・♡あーんして・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9059,14 +9059,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Yes! Ahhh....."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やった！あーん・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9090,14 +9090,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ・・・食いしん坊なんだから・・・・♡\\!"
+                                "Hehe... Since you're such a glutton... ♡ Alright,\nthen let's do it... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  はい、じゃあいくわよ・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9160,7 +9160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぎゅぅぅっ・・・・・！"
+                                "Squeeze...!"
                             ]
                         },
                         {
@@ -9184,7 +9184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んんっ・・・・♡・・・・んっ！」"
+                                "Mmm... ♡ Ahh...!"
                             ]
                         },
                         {
@@ -9271,7 +9271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷしゃぁぁあっ・・・・・♡"
+                                "Splashhh.....♡"
                             ]
                         },
                         {
@@ -9300,14 +9300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Mmm... *gulp*... *gulp*..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あむっ・・・・・ごくっ・・・ごくっ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9354,21 +9354,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁん・・・・♡"
+                                "Ahh... ♡ You're drinking it so deliciously... ♡\nEven though you ate so much earlier, it's still\ngoing in...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もう・・・・そんな美味しそうにごくごく飲んで・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さっきあれだけご飯食べたのにまだ入るの・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -9385,21 +9385,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Hehe....♡ Ayako's milk is like a dessert,\nyou know♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　綾子のミルクはデザートみたいなもんだよ♪」"
+                                ""
                             ]
                         },
                         {
@@ -9439,14 +9439,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ばか・・・・♡"
+                                "You idiot....♡ Here... open wide...."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら・・・あーん・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -9533,7 +9533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぴゅっ・・・・！ぴゅっ・・・・♡"
+                                "Squeeze...! Squeeze...♡"
                             ]
                         },
                         {
@@ -9562,21 +9562,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: ...Gulp... Gulp... ♡ Ahh... Delicious... ♡\nGive me more, Ayako♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・ごく・・・・ごく・・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あー・・・うま・・・♡もっとちょうだい綾子♡」"
+                                ""
                             ]
                         },
                         {
@@ -9655,14 +9655,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふ、これ以上はだーめ♡"
+                                "Hehe, this is enough♡ If I keep going, there won't\nbe any left for the baby."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　赤ちゃんの分がなくなっちゃうわ」"
+                                ""
                             ]
                         },
                         {
@@ -9679,21 +9679,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Well, I guess... it can't be helped....\nThen, this time I'll pour my milk for you♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えー、まあでも・・・しょうがないか・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃ、今度は俺のミルク注いであげるよ♡」"
+                                ""
                             ]
                         },
                         {
@@ -9733,14 +9733,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・♡パパのおチンポミルク、"
+                                "Yes... ♡ Pour Papa's cock milk inside me...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私の中にいっぱい注いで・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9831,7 +9831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱちゅっ！ぱちゅっ！ぱっちゅ！ぱっちゅっ♡♡"
+                                "Squeeze! Squeeze! Squeezing! Squeezing♡♡"
                             ]
                         },
                         {
@@ -9855,21 +9855,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んあっ、あっ♡あっ・・・！♡"
+                                "Nngh, ah...♡ Ahh...! ♡ Your cock...♡ It's reaching\ndeep inside me...♡ Nnghh...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あなたのチンポ・・・♡奥までっ♡んおっ♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　届いてるぅ・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9886,14 +9886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Are you okay? Does it hurt?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だいじょうぶ？痛くない？」"
+                                ""
                             ]
                         },
                         {
@@ -9933,14 +9933,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「んっ、うんっ・・・♡むしろ・・・"
+                                "Mmm, yes...♡ Actually... please... please thrust\nmore inside me, it's okay...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もっと・・・もっといっぱい突いて大丈夫よっ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9957,14 +9957,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Got it! Here I go!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わかった！いくよっ！」"
+                                ""
                             ]
                         },
                         {
@@ -10011,7 +10011,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どっちゅっ！どちゅっぐちゅっ♡♡！ずちゅっ！"
+                                "Squeeze! Squeeze! Squeezing! Squeezing♡♡!"
                             ]
                         },
                         {
@@ -10035,14 +10035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あッ♡あッ♡♡これっ・・・これぇっ・・・♡"
+                                "Ah... ♡ Ahh...♡ Every time I'm thrust up like\nthis...♡ My head goes numb! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　突き上げられるたびにっっ♡頭がしびれちゃうっ！♡」"
+                                ""
                             ]
                         },
                         {
@@ -10059,7 +10059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ばちゅっ！ばちゅっ、ばちゅっ！♡ぐぢゅっ！！"
+                                "Squeeze! Squeeze! Squeezing! ♡ Squelch!!"
                             ]
                         },
                         {
@@ -10099,14 +10099,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん\"ぉっ！♡あひぃっ♡力強いピストンしゅきっ♡♡"
+                                "Nngh...! ♡ Ahh...♡ I love your powerful\nthrusts...♡ Nnghh...♡♡ Ahh?! ♡ Oh, ohhh...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　んひぃぃっ♡♡♡あおっ？！♡おっ、おッ、おぉッ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -10130,21 +10130,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなたにっ♡♡毎日こうやって、おほぉぅっ♡！♡"
+                                "With you...♡♡ Every day, like this... ohh! ♡\nRemembering the days when we were mating from\nmorning till night...♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　朝から晩まで交尾しまくってた"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　日々を思い出しちゃうぅっ♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -10161,21 +10161,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Oh... your pussy is twitching...! You're\nabout to cum soon, aren't you!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うぉっ・・・マンコがビクついてきた・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もう少しでイキそうなんだね！」"
+                                ""
                             ]
                         },
                         {
@@ -10215,14 +10215,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うんっ・・・♡♡イっちゃいそうっ・・・！"
+                                "Yes...♡♡ I'm about to cum...! Ohh...♡ Nnghh♡\nHaa... haa...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほぉっ・・・♡んんっ♡はぁ・・はぁ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -10262,38 +10262,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ねぇ・・・・あなたぁ・・・"
+                                "Hey... you know... the usual... the usual\nthing...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつもの・・・いつものあれぇ・・・♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ヒロヤ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はいはい」"
+                                ""
                             ]
                         },
                         {
@@ -10310,14 +10286,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Yeah, yeah."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「綾子・・・・・\\.\\.愛してるよ・・・♡」"
+                                "Hiroya: Ayako... \\.\\. I love you...♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -10383,14 +10383,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ッぅ～～～～♡♡♡！！♡わたしもぉっ！♡"
+                                "Ughhh~♡♡♡!! ♡I love it too! ♡I love it, you know!\n♡I love youuuu♡♡ Ahh!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しゅきっっ！♡しゅきっ、あなたぁっ♡♡んあぁッ！」"
+                                ""
                             ]
                         },
                         {
@@ -10414,14 +10414,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あなた・・っ・・♡♡あなたぁ・・・♡っ・・♡♡！"
+                                "You...♡♡ You...♡♡! With Papa's cock, I'm cumming!!\nI'm cumming so hard!! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　パパのチンポで\\.\\.\\{イくっ！！\\.\\.イぐぅッッ！！♡」"
+                                ""
                             ]
                         },
                         {
@@ -10552,7 +10552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どびゅっ！！どっぶぅっ・・・♡"
+                                "Dobyu!! Dobbuu...♡"
                             ]
                         },
                         {
@@ -10606,14 +10606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はーっ・・・・はーっ・・・♡"
+                                "Haa... haa...♡ My pussy is warm with semen...♡ It\nfeels so good...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おマンコがザーメンで温かいぃ・・・♡幸せぇ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -10653,14 +10653,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うふふ・・・"
+                                "Hehe... you... we were able to come together today\ntoo...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あなた・・・・今日も一緒にイけたね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -10677,14 +10677,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Ah, that just means our hearts are\nconnected♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ああ、それだけ心が通じてるってことだよ♡」"
+                                ""
                             ]
                         },
                         {
@@ -10708,7 +10708,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もう・・・・・・♡」"
+                                "Ah...♡"
                             ]
                         },
                         {
@@ -10725,14 +10725,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: But hey... you know... it's still not\nenough, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それより、ほら・・・まだまだ足りないでしょ？」"
+                                ""
                             ]
                         },
                         {
@@ -10772,14 +10772,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うん・・・・・♡"
+                                "Yeah...♡ I wonder if we can do it four more\ntimes...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あと、四回はしたいかな・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -10796,14 +10796,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: I-I'll do my best..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「が、がんばるよ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -10836,28 +10836,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "Hiroya: Well then... how about you ask me for\nsomething naughty like always? That way, my dick\nwill get excited♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ・・・・いつもみたいに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　エッチなおねだりしてもらおうかな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そしたらチンコが元気になるから♪」"
+                                ""
                             ]
                         },
                         {
@@ -10881,7 +10881,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はい・・・・・・♡」"
+                                "Yes...♡"
                             ]
                         },
                         {
@@ -11030,45 +11030,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ママの愛液たっぷりのぐちょ濡れおマンコと・・・♡"
+                                "With Mama's pussy dripping with love juice...♡ And\nPapa's strong and throbbing dick...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　パパの元気でぶっっといギンギンのおチンポで・・・♡♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ラブラブ生ハメ交尾して・・・・♡♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　たくさんたくさん赤ちゃん作ろ・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -11092,7 +11061,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「愛してるわ・・・・あなた・・・・♡♡」"
+                                "Let's have lovey-dovey raw sex...♡♡ and make lots\nand lots of babies...♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11109,14 +11085,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒロヤ"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ッ～～～～～～～！！」ギンッギンッ！！"
+                                "I love you... darling....♡♡"
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Hiroya: Ahhhhhhh!! *Hard as a rock!*"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11208,7 +11208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「んお\"ぉッッ♡？！♡♡♡」"
+                                "Nooo...♡?! ♡♡♡"
                             ]
                         },
                         {
@@ -11243,7 +11243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毎日元気いっぱいで家庭を賑やかしてくれる息子・・・・"
+                                "My son who brings energy and liveliness to our\nhome every day..."
                             ]
                         },
                         {
@@ -11260,31 +11260,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "淫気の影響で性欲が増したこの身体を、"
+                                "My spouse, who embraces and satisfies this body\nthat has been filled with increased sexual desire\ndue to the influence of lust..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "何度も何度も抱いて満たしてくれる夫・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、私たちの愛の結晶の新しい命・・・・"
+                                ""
                             ]
                         },
                         {
@@ -11301,21 +11284,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな素敵な家族に囲まれて・・・・\\.\\."
+                                "And the new life, the crystallization of our\nlove..."
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　わたし・・・・・\\.母親として・・・・・\\.\\."
+                                "Surrounded by such a wonderful family... I, as a\nmother... and as a woman... am incredibly happy..♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "       　　　         女として・・・\\.最高に幸せよ・・♡"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -11344,14 +11344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング　No.1　"
+                                "Ending No.1: A Happy Family"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　幸せな家庭"
+                                ""
                             ]
                         },
                         {
@@ -12091,7 +12091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お邪魔しまーっす」"
+                                "I'm here to intrude~"
                             ]
                         },
                         {
@@ -12249,14 +12249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Ah! Akira big sister! Hello!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ！アキラお姉ちゃん！こんにちは！」"
+                                ""
                             ]
                         },
                         {
@@ -12312,14 +12312,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Hey! Haruto!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よっ！はると！」"
+                                ""
                             ]
                         },
                         {
@@ -12490,7 +12490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あら、今日は学校遅かったのね」"
+                                "Oh, you were late for school today."
                             ]
                         },
                         {
@@ -12521,14 +12521,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラちゃんは最後の大会を優秀な成績で終え、"
+                                "Akira-chan finished her final tournament with\nexcellent results and retired from the track and\nfield club..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "陸上部を引退した・・・"
+                                ""
                             ]
                         },
                         {
@@ -12545,14 +12545,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それからは学校が終わったらうちに遊びに来て、"
+                                "After that, she would come over to my house after\nschool and play with Haru-kun, and study for\nexams..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "はる君と遊んだり、受験勉強をしている・・・・"
+                                ""
                             ]
                         },
                         {
@@ -12578,21 +12578,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Yeah... We talked about things like passing\non the club activities and discussing future\nplans..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうっす・・・・部活の引継ぎとか"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　進路についての話とか色々っす・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -12648,7 +12648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そう、それは大変だったわね」"
+                                "Yes, that must have been tough."
                             ]
                         },
                         {
@@ -12688,14 +12688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ところでお腹空いてない？"
+                                "By the way, are you hungry? It's time for a meal\nnow, so let's eat together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちょうど今からご飯だけど、一緒に食べましょ」"
+                                ""
                             ]
                         },
                         {
@@ -12735,21 +12735,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Thank you very much!! I'm going to eat a\nlot!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございますっ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いっぱい食うっす！！」"
+                                ""
                             ]
                         },
                         {
@@ -12775,21 +12775,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Hehehe! I'm going to eat more than you, big\nsister!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「へへーんっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お姉ちゃんよりボクがいっぱいたべるもんね！！」"
+                                ""
                             ]
                         },
                         {
@@ -13052,14 +13052,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！こら！！"
+                                "Ah! Hey, no food until everyone is here!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　みんな揃うまでご飯出しませんからね！」"
+                                ""
                             ]
                         },
                         {
@@ -13130,14 +13130,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ごめんね、あの子、"
+                                "Sorry, that child gets excited when Akira-chan\ncomes over."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アキラちゃんが来ると張り切っちゃうの」"
+                                ""
                             ]
                         },
                         {
@@ -13177,14 +13177,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Ah... no... I'm fine... *fidgets*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ・・・いや・・・・大丈夫・・っすよ・・・」\\}もじもじ・・・"
+                                ""
                             ]
                         },
                         {
@@ -13340,21 +13340,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Um... Ayako-san... would you like to move\nour bodies together tonight...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・・綾子さん・・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日の夜・・・一緒に身体動かしませんか・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -13419,14 +13419,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・・♡"
+                                "Huh...♡ Akira-chan, you're such a tease...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もう・・・アキラちゃんったら・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -13475,7 +13475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・またあの恰好でしちゃおっか・・・♡」"
+                                ".........Should we do it in that outfit again...♡"
                             ]
                         },
                         {
@@ -13515,14 +13515,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アキラ"
+                                "Akira: Y-Yes...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいっ・・・・♡♡」"
+                                ""
                             ]
                         },
                         {

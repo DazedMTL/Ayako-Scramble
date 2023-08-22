@@ -2606,21 +2606,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Sigh... There are so few customers... I\nneed to come up with a new menu or something..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・客が少ないなぁ・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何か新しいメニュー考えないと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2791,14 +2791,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Did you bring that milk we talked about?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「例のミルク持ってきていただけましたか？！」"
+                                ""
                             ]
                         },
                         {
@@ -2860,14 +2860,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: You don't have it today, huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「今日はお持ちじゃないんですね・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2941,21 +2941,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, since we have \\V[55] bottles of\nmilk... that will be \\V[56] yen!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「では、ミルクが\\V[55]本なので・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　\\V[56]円ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -3003,7 +3003,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "綾子は \\V[56]円 手に入れた。"
+                                "Ayako obtained \\V[56] yen."
                             ]
                         },
                         {
@@ -3042,14 +3042,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Please do it again, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「またお願いしますね」"
+                                ""
                             ]
                         },
                         {
@@ -3096,14 +3096,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: Please do it again, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「またお願いしますね」"
+                                ""
                             ]
                         },
                         {
@@ -3249,14 +3249,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Did you bring that milk we talked about?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「例のミルク持ってきていただけましたか？！」"
+                                ""
                             ]
                         },
                         {
@@ -3318,14 +3318,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: You don't have it today, huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「今日はお持ちじゃないんですね・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3399,21 +3399,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, since we have \\V[55] bottles of\nmilk... that will be \\V[56] yen!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「では、ミルクが\\V[55]本なので・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　\\V[56]円ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -3461,7 +3461,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "綾子は \\V[56]円 手に入れた。"
+                                "Ayako obtained \\V[56] yen."
                             ]
                         },
                         {
@@ -3500,14 +3500,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Please take care of it again, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「またお願いしますね」"
+                                ""
                             ]
                         },
                         {
@@ -3554,14 +3554,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: Please take care of it again, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「またお願いしますね」"
+                                ""
                             ]
                         },
                         {
@@ -3726,14 +3726,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Did you bring that milk we talked about?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「例のミルク持ってきていただけましたか？！」"
+                                ""
                             ]
                         },
                         {
@@ -3795,14 +3795,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: You don't have it today, huh..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「今日はお持ちじゃないんですね・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3869,21 +3869,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, since we have \\V[55] bottles of\nmilk... that will be \\V[56] yen!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「では、ミルクが\\V[55]本なので・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　\\V[56]円ですね！」"
+                                ""
                             ]
                         },
                         {
@@ -3931,7 +3931,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "綾子は \\V[56]円 手に入れた。"
+                                "Ayako obtained \\V[56] yen."
                             ]
                         },
                         {
@@ -3970,14 +3970,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Please do it again, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「またお願いしますね」"
+                                ""
                             ]
                         },
                         {
@@ -4017,14 +4017,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店長"
+                                "Manager: Please do it again, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「またお願いしますね」"
+                                ""
                             ]
                         },
                         {
@@ -4127,21 +4127,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーヒー通のおじさん"
+                                "Coffee enthusiast uncle: Hmm... it's just not\nquite right... is it the milk that's the problem?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・な～んかイマイチなんだよなぁ・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ミルクが悪いのか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -4225,28 +4225,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コーヒー通のおじさん"
+                                "Coffee enthusiast uncle: The rich coffee enhances\nthe smooth and sweet milk, elevating it to a\nhigher level of milk coffee!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「深みのあるコーヒーがまろやかで甘いミルクを"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　引き立てて、より高次元のミルクコーヒーへと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　昇華されているぅぅっっ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -4485,14 +4485,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Delicious!! Delicious!!... So delicious!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うまいっ！！うまいっ！！・・・うまいっっ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -4765,21 +4765,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女"
+                                "Female: Ah... delicious... ♡ It somehow makes me\nfeel nostalgic..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・美味しい・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なんだか懐かしい気持ちになるわ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4872,21 +4872,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女"
+                                "Female: I don't really understand the taste of\nother coffees, but this milk coffee is absolutely\ndelicious!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「他のコーヒーはなんかよく分かんない味だけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このミルクコーヒーは絶品ね！！」"
+                                ""
                             ]
                         },
                         {
@@ -4979,14 +4979,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじい"
+                                "Grandfather: Babuu..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ばぶぅ・・・・・・」"
+                                ""
                             ]
                         },
                         {

@@ -2035,14 +2035,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾子"
+                                "Ayako (There's a hat here... I wonder if it\nbelongs to the president?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(帽子が置いてある・・・社長のかしら？)"
+                                ""
                             ]
                         },
                         {
@@ -2126,7 +2126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(けっこう古そうな帽子ね・・・社長のかしら？)"
+                                "(That's quite an old-looking hat... I wonder if it\nbelongs to the president?)"
                             ]
                         },
                         {
@@ -2358,14 +2358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「表の求人には時給がいいお仕事が載っていたけど"
+                                "The job listings on the surface have well-paying\njobs, but what kind of company is this..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ここは一体どんな会社な・・・"
+                                ""
                             ]
                         },
                         {
@@ -2550,28 +2550,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'That's why I'm saying it doesn't match the\nimage!! This piece of junk!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\{だーかーらぁー！！\\}"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そいつはイメージと合わないって言ってるでしょ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　このポンコツ！！」"
+                                ""
                             ]
                         },
                         {
@@ -2597,21 +2597,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スタッフ"
+                                "Staff: However, this person is also considered a\nmid-level in the industry, and their sales..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「で、ですが、この人も業界では中堅で、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　売り上げも・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2760,59 +2760,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'I don't care if it's about sales, profits, or\nbeing a loyal dog, none of that matters!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「売上だか刈り上げだか忠犬だか知らないけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんなのどうでもいいのよッッ！！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "？？？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「実績があろうが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　あたしがビビッと来なかったらナシ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　さっさと別の女優を探してきなさい！このポンコツッ！」"
+                                ""
                             ]
                         },
                         {
@@ -2829,28 +2791,66 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'Even if they have a track record, if I don't\nfeel it, then it's a no! Hurry up and find another\nactress! This piece of junk!'"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もっとこうHな事なんて知りませんよ？みたいな顔のくせに"
+                                "??? You act like you don't know anything about H\nstuff, but with your plump and lewd body, I can\nfeel the gap of enjoying being erotic without even\nrealizing it. I want a woman who..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ムチムチどすけべボディで、本性はエロいのが好きだけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その自覚が無いっていうギャップを感じれるような女を・・・"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2876,14 +2876,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? Hmm... A hint of eroticism...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ムムッ・・・・エロの気配・・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -2960,14 +2960,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'Huh...!!?'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・！！？」"
+                                ""
                             ]
                         },
                         {
@@ -3154,14 +3154,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？？？"
+                                "??? 'I passed!!!'"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\{「合格よっ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -3363,21 +3363,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Sorry for suddenly raising my voice.\nI'm\\c[27]Erina Misaki\\c[0]. You can call me Elina."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「急に大声だして悪かったわね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　私は\\c[27]三崎 絵里奈\\c[0]。エリナでいいわ」"
+                                ""
                             ]
                         },
                         {
@@ -3433,14 +3433,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえ大丈夫です。あの、エリナさん・・・"
+                                "No, it's okay. Um, Elina-san... I was curious\nabout the job posting outside and went in..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　表の求人が気になって入ったんですけど・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3466,21 +3466,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Really!? That's great! You're so lucky! We\nwere actually looking for a cast member at our\nstudio too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ホント！？良かった！ラッキーよあなた！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ウチも丁度きんきんでキャストを募集してたの！」"
+                                ""
                             ]
                         },
                         {
@@ -3520,7 +3520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そうなんですか？じゃあ面接とかって・・・」"
+                                "Is that so? Then, about the interview and such..."
                             ]
                         },
                         {
@@ -3647,28 +3647,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Don't worry~♪ I'm the president of this\nplace. I can't be bothered with such troublesome\nthings, pass pass~♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だぁいじょうぶよぉ♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アタシ、ここの社長なの。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんな面倒なのやってられないわ、合格合格♪」"
+                                ""
                             ]
                         },
                         {
@@ -3708,14 +3708,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ！ええっ！お若いのにスゴイ・・・！"
+                                "Huh?! Wow, you're amazing even though you're so\nyoung...! This must be fate or something, should I\nask for your help?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これも何かの縁でしょうし、お願いしちゃおうかしら」"
+                                ""
                             ]
                         },
                         {
@@ -3741,21 +3741,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Yes, with you, you can become a super\npopular person. From now on, please take care of\nme."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、アナタなら超売れっ子になれるわ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これからよろしくね」"
+                                ""
                             ]
                         },
                         {
@@ -3795,14 +3795,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はいっ、よろしくお願いします。"
+                                "Yes, nice to meet you. By the way... what kind of\nwork does a cast member do?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ところで・・・キャストってどんなお仕事するんですか？」"
+                                ""
                             ]
                         },
                         {
@@ -3826,14 +3826,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: AV actress."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「AV女優よ」"
+                                ""
                             ]
                         },
                         {
@@ -3868,7 +3868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・\\.\\.・\\.\\.・\\.\\.\\CE[30]え？」"
+                                ".\\.\\..\\.\\..\\.\\.\\CE[30]Huh?"
                             ]
                         },
                         {
@@ -3906,21 +3906,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: You're perfect for my image! Oh, this is\ndefinitely going to be a great work♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「アナタ、私のイメージにピッタリなの！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いやぁ、これは良い作品になること間違いなしね♡」"
+                                ""
                             ]
                         },
                         {
@@ -3937,28 +3937,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Just to make sure, are there any\nrestrictions? Well, for future reference, let's\nhave more restrictions at first and gradually lift\nthem to build up expectations..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「一応聞いておくけどNGってある？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まあこのへんは後々の為に、NG多めにしといて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　徐々に解禁していって期待をあげていくっていう・・・"
+                                ""
                             ]
                         },
                         {
@@ -3998,14 +3998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あの・・・私、エッチなことするビデオに出るなんて"
+                                "Um, um... I never thought I would appear in a\nvideo doing lewd things like that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そういうのは・・・」"
+                                ""
                             ]
                         },
                         {
@@ -4031,21 +4031,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: ...What? You... \\.Did you just say please\\.\nearlier?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・なに？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アナタ・・・\\.さっき\"お願いする\"\\.って言ったわよね？」"
+                                ""
                             ]
                         },
                         {
@@ -4085,7 +4085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・\\.はい・・・」"
+                                "Umm... \\.yes..."
                             ]
                         },
                         {
@@ -4102,21 +4102,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: You showed the will to 'work for us',\nright? And I have approved of it."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「アナタ\"うちで働く\"って意志を示したわよね？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そして私はそれを了承したわ」"
+                                ""
                             ]
                         },
                         {
@@ -4164,21 +4164,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: In this industry, the contract is\nestablished at that point. Look, it's even\nrecorded by the security camera over there."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「この業界ではその時点で契約は成立よ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら、あそこの防犯カメラにも録音されてるわ」"
+                                ""
                             ]
                         },
                         {
@@ -4226,21 +4226,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: If you were to quit like this... at that\ntime, it would be a breach of contract... and\nyou'll have nowhere to go."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もしもこのまま辞めるってなったら・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その時は契約不履行で・・・出るとこ出るわよ」"
+                                ""
                             ]
                         },
                         {
@@ -4280,7 +4280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そんなっ・・・・！？」"
+                                "W-Wait...!"
                             ]
                         },
                         {
@@ -4407,28 +4407,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: It's okay! Don't be so scared. At our\ncompany, you can cancel the contract after\nappearing three times, no matter what. And the\nsalary is really good too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫よ！そんなに怯えないで。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うちは何でもいいから３回出演したら"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　契約解除できるの。それに給料もめちゃくちゃいいわ！」"
+                                ""
                             ]
                         },
                         {
@@ -4468,14 +4468,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それでも３回もエッチなビデオに"
+                                "(Do I really have to appear in lewd videos three\ntimes?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 出ないといけないのか・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4492,21 +4492,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: At first, we'll use you for roles like just\nwatching or having conversations. And there are\ncountless AVs out there, so your identity won't be\nexposed!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\}\\}はじめは\\{見てるだけとか会話するだけって役にするし、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  AVなんて星の数ほどあるから身バレもしないわ！」"
+                                ""
                             ]
                         },
                         {
@@ -4532,14 +4532,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Please! I really want you to appear in\nit!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お願い！！どうしてもアナタに出演してほしいの！！！」"
+                                ""
                             ]
                         },
                         {
@@ -4556,14 +4556,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Please help me complete my work!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「私の作品の完成を手伝って！！」"
+                                ""
                             ]
                         },
                         {
@@ -4612,14 +4612,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(怒ったら怖そうな人だけど、"
+                                "(They seem scary when angry, but their passion for\nthe work is incredible...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 作品への熱意はスゴイみたいね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4643,21 +4643,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(見てるだけ・・通行人役とかかな・・？それならまぁ・・・"
+                                "(Just watching... Maybe I can play the role of a\npasserby...? Well, if that's the case... I\ndefinitely don't want to have sex with someone I\ndon't know, so I'll refuse that...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " さすがに・・知らない人とエッチは嫌だから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " それは断ろう・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4697,14 +4697,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「分かりました・・・"
+                                "I understand... But in return... no sex or\nanything like that, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その代わり・・・\\}セックス\\{とかそういうのは無しですよ」"
+                                ""
                             ]
                         },
                         {
@@ -4730,14 +4730,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Ah, okay okay, understood understood."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あー、おっけおっけ、りょーかいりょーかい」"
+                                ""
                             ]
                         },
                         {
@@ -4754,21 +4754,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: By the way... I haven't heard your name\nyet. What should I call you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ところで・・・名前まだ聞いてなかったわね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何て言うの？」"
+                                ""
                             ]
                         },
                         {
@@ -4808,7 +4808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・永辻 綾子です」"
+                                "...I'm Ayako Nagatsuki."
                             ]
                         },
                         {
@@ -4825,21 +4825,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Yes! Then, your stage name will be 'Aya'!\nIt's decided!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そう！じゃあ、あなたの芸名は\"アヤ\"ね！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　決まりよ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4879,7 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・・できれば本名っぽくない方が・・・・・」"
+                                "Um... If possible, I'd prefer a stage name that\ndoesn't sound like my real name..."
                             ]
                         },
                         {
@@ -4905,21 +4905,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Hm? Did you say something? I didn't hear\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ん？なにか言った？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　聞こえなかったわ？」"
+                                ""
                             ]
                         },
                         {
@@ -4970,14 +4970,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「い、いえ、なんでもないです・・・」\\!\\CE[30]"
+                                "N-No, it's nothing... *\\CE[30]* (The pressure is\nintense...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " (圧がスゴイわ・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4994,14 +4994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Ah, right right. This is the advance\npayment for the contract."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ、そうそう。これ契約の前金ね」"
+                                ""
                             ]
                         },
                         {
@@ -5039,7 +5039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "50000円手に入れた！"
+                                "I got 50,000 yen!"
                             ]
                         },
                         {
@@ -5079,7 +5079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え・・・・？ご、ごまんいぇん・・・？」"
+                                "Eh...? Ad-Advance payment...?"
                             ]
                         },
                         {
@@ -5105,28 +5105,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Alright! My creative passion is bubbling\nup!! I have a feeling this will bring prosperity\nto our business!! Aya!! Let's go full throttle!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さあ！創作意欲がぐらぐら湧いてきたわよぉ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これは商売繁盛の予感！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アヤ！！張り切っていくわよ！！」"
+                                ""
                             ]
                         },
                         {
@@ -5166,7 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -5206,7 +5206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よろしくおねがいします・・・」"
+                                "Please take care of me..."
                             ]
                         },
                         {
@@ -5390,7 +5390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が 20 以上必要です。"
+                                "This event requires a lewdness level of 20 or\nhigher."
                             ]
                         },
                         {
@@ -5429,21 +5429,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Ayako! It's your turn! I'll have you make\nan appearance right away!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「アヤ！出番よ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　早速だけど出演してもらうわ！」"
+                                ""
                             ]
                         },
                         {
@@ -5460,14 +5460,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Of course, you can go right now, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん今から行けるわよね？」"
+                                ""
                             ]
                         },
                         {
@@ -5475,8 +5475,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "行けます・・・",
-                                    "喜んで！"
+                                    "I can go",
+                                    "Gladly!"
                                 ],
                                 -1,
                                 0,
@@ -5506,14 +5506,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリナ"
+                                "Elina: S-So, let's move to the studio."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そ、じゃあスタジオに移動しましょ」"
+                                ""
                             ]
                         },
                         {
@@ -5569,21 +5569,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Oh? You're full of motivation. Well then,\nlet's move to the studio."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「あら？ヤル気満々ね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それじゃスタジオに移動しましょ」"
+                                ""
                             ]
                         },
                         {
@@ -5741,21 +5741,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: The previous shoot was amazing! Please let\nme do the next one too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「この前の撮影めちゃくちゃ良かったわ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また次もおねがいね！」"
+                                ""
                             ]
                         },
                         {
@@ -5853,7 +5853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が 70 以上必要です。"
+                                "This event requires a lewdness level of 70 or\nhigher."
                             ]
                         },
                         {
@@ -5901,14 +5901,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Today is perfect weather for shooting! I'm\ngoing to shoot a lot!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今日は一段と撮影日和ね！！ガンガン撮るわよ！」"
+                                ""
                             ]
                         },
                         {
@@ -5925,14 +5925,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Let's move to the studio."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さ、スタジオに移動しましょ」"
+                                ""
                             ]
                         },
                         {
@@ -5940,8 +5940,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "スタジオに行く",
-                                    "スタジオに行く"
+                                    "Let's go to the studio",
+                                    "Let's go to the studio"
                                 ],
                                 -1,
                                 0,
@@ -6125,21 +6125,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: The previous shoot was amazing! Please let\nme do the next one too!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「この前の撮影めちゃくちゃ良かったわ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また次もおねがいね！」"
+                                ""
                             ]
                         },
                         {
@@ -6237,7 +6237,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が 200 以上必要です。"
+                                "This event requires a lewdness level of 200 or\nhigher."
                             ]
                         },
                         {
@@ -6276,14 +6276,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Oh! It's Ayako!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お！アヤじゃな～い！！」"
+                                ""
                             ]
                         },
                         {
@@ -6300,14 +6300,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Alright! Let's go for the shoot!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よし！撮影行くわよ！！」"
+                                ""
                             ]
                         },
                         {
@@ -6363,7 +6363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(とうとう確認すらされなくなった・・・・)"
+                                "(I haven't even been confirmed anymore...)"
                             ]
                         },
                         {
@@ -6479,21 +6479,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Hmm... Next, let's invite that person and\nthis person too... Oh, let's invite Gates too!\n*mumbling*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・・・次はアイツとコイツも呼んで・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっ、ゲイツも呼んじゃお・・・・！」\\}ぶつぶつぶつ・・・"
+                                ""
                             ]
                         },
                         {
@@ -6693,7 +6693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が 300 以上必要です。"
+                                "This event requires a lewdness level of 300 or\nhigher."
                             ]
                         },
                         {
@@ -6840,21 +6840,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Ayako! Thanks to you, we were able to\ncreate a great piece of work!! Thank you so much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「アヤ！あなたのおかげでイイ作品がデキたわ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほんっ・・・とうにありがとう！！」"
+                                ""
                             ]
                         },
                         {
@@ -6910,7 +6910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえ、お役に立てて何よりです」"
+                                "No, I'm glad I could be of help."
                             ]
                         },
                         {
@@ -6950,7 +6950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ約束通り３回出演したので契約の解除を・・・」"
+                                "Well, since I appeared three times as promised, I\nwould like to request the termination of the\ncontract..."
                             ]
                         },
                         {
@@ -6976,14 +6976,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: By the way..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それなんだけどさ」"
+                                ""
                             ]
                         },
                         {
@@ -7023,14 +7023,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、その手には乗りませんからねっ！！"
+                                "I-I won't fall for that!! No matter how much money\nyou offer me, I..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いくらお金を積まれたって私は・・・」"
+                                ""
                             ]
                         },
                         {
@@ -7047,21 +7047,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Too bad... I was planning on having you\nappear in a group sex scene with me next."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「残念・・・次はアタシと一緒に"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　乱交モノに出てもらうつもりだったのに」"
+                                ""
                             ]
                         },
                         {
@@ -7101,7 +7101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へっ・・・・・！？エリナさんと・・・・？」"
+                                "Huh...!? With Elina-san...?"
                             ]
                         },
                         {
@@ -7118,14 +7118,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: W-Well, I am both the director and an\nactress, you know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そ、アタシって監督兼女優だからね」"
+                                ""
                             ]
                         },
                         {
@@ -7142,21 +7142,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: That's why I always polish my techniques so\nthat I can please anyone, regardless of their\ngender."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だから男でも女でも相手にできるように"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　常にテクニックは磨いているわ」"
+                                ""
                             ]
                         },
                         {
@@ -7196,7 +7196,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうなんですね・・・・」"
+                                "I-I see..."
                             ]
                         },
                         {
@@ -7222,14 +7222,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Look, Ayako. My fingers are quite long,\naren't they?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「見て、アヤ。アタシの指、けっこう長いでしょ」"
+                                ""
                             ]
                         },
                         {
@@ -7278,45 +7278,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・？"
+                                "...? Y-Yes..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　は、はい・・・・・・・」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エリナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「この長い指での愛撫・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　男からも女からも、すっごい好評なのよ・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -7333,21 +7302,52 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Using these long fingers for caressing...\nIt's highly praised by both men and women... ♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「女だったら・・・・おマンコの中をつぅぅ～～・・・っと"
+                                "Elina: If you're a woman... gently stroking inside\nthe pussy, searching for weak spots..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　撫でて、弱点を探していくの・・・・」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -7396,7 +7396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・♡♡」"
+                                "Huh...♡♡"
                             ]
                         },
                         {
@@ -7413,28 +7413,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: And... aahh... right here... ♡ On the\nbackside of your stomach... ♡ This rough, ticklish\nspot... like this... like this.... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そして・・・・・あぁん・・・ここねぇ・・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お腹の裏側・・・・♡この、ぞりぞりしたところを・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こりっ・・・こりっ・・・・て・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -7467,14 +7467,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁっ・・・・♡はぁっ・・・・♡♡"
+                                "Haa...♡ Haa...♡♡ Th-that place... is my weak\nspot... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そ、そこはぁ・・・・私の弱点ん・・・っ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -7491,21 +7491,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: And when the pussy juice starts flowing and\nit becomes slippery... ♡ I'll lift up the uterus\nwith two fingers and give it some vibrations... ♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そしてマン汁が出てヌルヌルになってきたらぁ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　二本の指で子宮を持ち上げて振動を与えてぇ・・・♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -7554,14 +7554,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ぁぁっ・・・・♡"
+                                "Aahh....♡ Like that... and... like that! ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それで・・・・っ・・・それで・・・・！♡」"
+                                ""
                             ]
                         },
                         {
@@ -7578,21 +7578,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Oops, this is a trade secret. I can't tell\nthose who don't participate in the filming."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おっと、これ以上は企業秘密よ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　撮影に参加しない人には教えれないわ」"
+                                ""
                             ]
                         },
                         {
@@ -7641,7 +7641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～～～～～・・・・」"
+                                "Ahhhh...."
                             ]
                         },
                         {
@@ -7667,21 +7667,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elina: But... if Ayako is interested... I'll let\nyou continue from earlier... and actually let you\nexperience it for yourself... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「けど・・・・・もしアヤが興味あるってんなら・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今の続き・・・・実際に体験させてあげるわよぉ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -7730,14 +7730,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(今まで出たビデオは私単体だから、"
+                                "(The videos I've been in so far have only been\nsolo, so even if there are many, it's not that\nimpressive... or at least that's what I\nthought...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 多いといってもたかが知れてる・・・・・\\}はず・・・)"
+                                ""
                             ]
                         },
                         {
@@ -7777,14 +7777,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・けど、エリナさんは知名度がある人だし、"
+                                "(....But Elina-san is a well-known person, so if I\nwere to appear, the risk of being exposed would\nskyrocket...!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " もし、出演したらバレるリスクは跳ね上がる・・・！)"
+                                ""
                             ]
                         },
                         {
@@ -7833,21 +7833,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あぁ・・・でもエリナさんの手マン・・・♡♡"
+                                "(Aahh... But Elina-san's fingering...♡♡ The way\nshe moves as if she knows every spot that makes a\nwoman climax, and how I was brought to orgasm in\nan instant.... Ahh...♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 女のツボを知り尽くしているような動きで"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 一瞬でイかされたあれが・・・・っ・・・♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -7887,14 +7887,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(忘れようとしてたのに・・・っ・・♡"
+                                "(Even though I was trying to forget... Ahh..♡ She\nreminded me with those erotic movements...!♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あんなエッチな動きするから思いださせられた・・・！♡)"
+                                ""
                             ]
                         },
                         {
@@ -7943,21 +7943,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(それに乱交なんてっ・・・♡"
+                                "(And an orgy...♡ How many cocks...ahh...ahh..♡ Ahh\nbut...to be with various people...♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 一体何本のチンポが・・・っ・・・はぁっ・・はぁ・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あぁっでもっ・・・色んな人にッ・・・♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -7997,14 +7997,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ど、どうしよ・・・・？♡♡"
+                                "(W-What should I do....?♡♡ Which one should I\nchoose...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 私は・・・っ・・・♡私はどっちを選べば・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -8026,8 +8026,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "出演する",
-                                    "断る"
+                                    "To appear",
+                                    "I refuse"
                                 ],
                                 1,
                                 0,
@@ -8057,21 +8057,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリナ"
+                                "Elina: Hehe...♡ I thought you would say that,\nAyako....♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ふふっ・・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　アヤならそう言うと思ったわ・・・・♪」"
+                                ""
                             ]
                         },
                         {
@@ -8088,28 +8088,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アヤ"
+                                "Ayako: I'm ready for the shoot. I'll make you feel\nreally... really good, a lot of times...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「撮影準備はできてるわ。　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　たっくさん・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　たぁ～くさん気持ちよくしてあげるから・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -8135,14 +8135,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アヤ"
+                                "Ayako: You can moan and cum shamelessly...\nAyako...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「無様にイキ喘いでいいからね・・・・アヤ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -8207,7 +8207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「は、はいぃっ・・・♡♡」"
+                                "Y-Yes...♡♡"
                             ]
                         },
                         {
@@ -8270,21 +8270,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エリナ"
+                                "Elina: B-But Ayako, your heart has already\ndecided, right? I'm waiting for your answer."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そ、けどアヤの心は決まってるんでしょ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　返事待ってるわ」"
+                                ""
                             ]
                         },
                         {
@@ -8656,21 +8656,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
+                                "Employee: Even though the president is like that,\nthey are constantly releasing hit works."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「社長はあんなですけど、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ヒット作をめちゃくちゃ出してるんですよ」"
+                                ""
                             ]
                         },
                         {
@@ -8687,28 +8687,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "社員"
+                                "Employee: If we're talking about famous ones, it\nwould be something like '24-Hour Impregnation\nFestival with Schoolgirls - Graduation from\nCountry Girls'. Have you heard of it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「有名どころで言ったら、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\"女子校生24時間種付け祭　田舎娘からの卒業\""
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　とかですね。知ってます？」"
+                                ""
                             ]
                         },
                         {
@@ -8764,7 +8764,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(知ってるわけないじゃない・・・！)"
+                                "(There's no way you would know...!)"
                             ]
                         },
                         {
@@ -8922,28 +8922,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢"
+                                "Receptionist: Umm... W-what can I... help you\nwith? Please... tell me from behind the counter...\n♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・ご、ご用件はぁ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　カウ・・んっ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　カウンター越しに・・・お願いしまぁす・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -9173,14 +9173,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の社員"
+                                "Blonde Employee: Hey... which one should I receive\nfor this month's overtime pay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おい・・・今月の残業代・・・どっちでもらう？」"
+                                ""
                             ]
                         },
                         {
@@ -9206,28 +9206,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眼鏡の社員"
+                                "Glasses-wearing Employee: Of course it's paid by\nthe president. I haven't received payment for a\nwhile, so I'm expecting to receive quite a...\nsubstantial amount."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん社長払いだな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　俺はしばらく支払って貰わなかったから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たんっ・・まり貰える予定だ」"
+                                ""
                             ]
                         },
                         {
@@ -9253,21 +9253,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の社員"
+                                "Blonde Employee: That's nice! I can't resist, so I\nreceive it every month, so it's not that much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いいなぁ！俺なんか我慢できねぇで、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　毎月払ってもらってるからそんなには・・・"
+                                ""
                             ]
                         },
                         {
@@ -9323,14 +9323,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(残業代の未払いかしら・・・？でも・・・"
+                                "(I wonder if it's unpaid overtime pay...? But...\nthe way they talk makes it seem like they can pay\nme anytime...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " いつでも払ってもらえるような言いぶりね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -9370,14 +9370,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(レイさんは陰気の気配を一切感じないって言ってたけど"
+                                "(Ray-san said he doesn't feel any signs of\ngloominess, but it doesn't seem like such a white\ncompany to me...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そんなホワイト企業には見えないわね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -9586,14 +9586,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の社員"
+                                "Blonde Employee: Hey... which one should I receive\nfor this month's overtime pay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おい・・・今月の残業代・・・どっちでもらう？」"
+                                ""
                             ]
                         },
                         {
@@ -9619,28 +9619,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眼鏡の社員"
+                                "Glasses-wearing Employee: Of course it's paid by\nthe president. I haven't received payment for a\nwhile, so I'm expecting to receive quite a...\nsubstantial amount."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もちろん社長払いだな。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　俺はしばらく支払って貰わなかったから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たんっ・・まり貰える予定だ」"
+                                ""
                             ]
                         },
                         {
@@ -9666,21 +9666,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "金髪の社員"
+                                "Blonde Employee: That's nice! I can't resist, so I\nreceive it every month, so it's not that much..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いいなぁ！俺なんか我慢できねぇで、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　毎月払ってもらってるからそんなには・・・"
+                                ""
                             ]
                         },
                         {
@@ -9736,14 +9736,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(残業代の未払いかしら・・・？でも・・・"
+                                "(I wonder if it's unpaid overtime pay...? But...\nthe way they talk makes it seem like they can pay\nanytime...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " いつでも払ってもらえるような言いぶりね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -9783,14 +9783,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(レイさんは陰気の気配を一切感じないって言ってたけど"
+                                "(Ray-san said he doesn't feel any signs of\ngloominess, but it doesn't seem like such a white\ncompany to me...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そんなホワイト企業には見えないわね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -10193,7 +10193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ？エリナさんがいない・・・？」"
+                                "Huh? Elina-san isn't here...?"
                             ]
                         },
                         {
@@ -10217,7 +10217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・上の階でお仕事かしら？」"
+                                "I wonder if she's working on the upper floor?"
                             ]
                         },
                         {
@@ -10404,14 +10404,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ？エリナさんまた居ないわ。"
+                                "Huh? Elina-san is not here again. I wonder if\nshe's busy?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　忙しいのかしら？」"
+                                ""
                             ]
                         },
                         {
@@ -10570,28 +10570,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢"
+                                "Receptionist Haa... W-what can I... ♡ help you\nwith...? What is it that you need... ♡?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁぅっ・・・・・・ご、ご用件はぁ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　な、ナニでしょうかぁんっ・・・♡」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　"
+                                ""
                             ]
                         },
                         {
@@ -10668,14 +10668,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢"
+                                "Receptionist: Um, the president is... working\nupstairs...♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しゃ、社長はぁ・・・上でお仕事中ですぅ・・・っ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -10752,21 +10752,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢"
+                                "Receptionist: Ah, the female toilet... I-I'm\ncurrently serving our employees... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「しゃ、メス便器はぁ・・・っ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　社員様にご奉仕中ですぅ・・・・・・っ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -10822,7 +10822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(メス便器・・・・？)"
+                                "(Female toilet...?)"
                             ]
                         },
                         {
@@ -11388,7 +11388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うわっ・・・なんだかトイレ前がすごいことになってる」"
+                                "Oh my... the area in front of the restroom seems\nto be in quite a mess."
                             ]
                         },
                         {
@@ -11428,14 +11428,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・エリナさんいるとしたら上の階か"
+                                "Hmm... If Elina-san is around, she's probably\neither on the upper floor or in the restroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お手洗いに行ってるかどっちかと思ったけど・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -11475,7 +11475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これじゃあどっちも確かめにいけそうにないなぁ・・・」"
+                                "With this, it seems like I won't be able to check\neither of them..."
                             ]
                         },
                         {
@@ -11588,7 +11588,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシの出番じゃな」"
+                                "It's not my turn."
                             ]
                         },
                         {
@@ -11673,7 +11673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レイさん」"
+                                "Rei-san"
                             ]
                         },
                         {
@@ -11758,7 +11758,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっくら便所と上の階の様子を見てくるわい」"
+                                "I'll quickly go check the restroom and the upper\nfloor."
                             ]
                         },
                         {
@@ -11782,14 +11782,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おまけに男便所で腹を壊しとるやつは"
+                                "Moreover, let's go see what kind of person is\nhaving stomach problems in the men's restroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どんなやつかも見てきてやろうではないか」"
+                                ""
                             ]
                         },
                         {
@@ -11874,14 +11874,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「男性の方は別にいいんですけど・・・・・・"
+                                "It's fine if it's for the men, but... for now,\nplease."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　とりあえずお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -11952,7 +11952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むっ・・・・女子便所は誰も居らん・・・・上かの？」"
+                                "Hmm... No one is in the women's restroom... Maybe\nupstairs?"
                             ]
                         },
                         {
@@ -11983,14 +11983,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むむっ・・・・・・・上にも居らん・・・・・・"
+                                "Hmm... No one is upstairs either... Could it\nbe...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  これは・・・・・まさか・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -12021,7 +12021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「家に帰っておるの」"
+                                "Are you going home?"
                             ]
                         },
                         {
@@ -12045,14 +12045,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「仕方ない、男子便所で糞を踏ん張っとるやつの"
+                                "Well, I guess I'll just have to go and admire the\nface of someone struggling with their bowel\nmovement in the men's restroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　顔でも拝んで帰るとするか」"
+                                ""
                             ]
                         },
                         {
@@ -12083,14 +12083,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてさて、妖怪クソ踏ん張り爺は・・・・・・・\\!"
+                                "Now then, the persevering old man of the yokai...\nHmm...! Oh my...! Ahh...♡ I see, so that's how it\nis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　むむむっ・・・・・！\\.ほほぅ・・・♡\\.そういうことか」"
+                                ""
                             ]
                         },
                         {
@@ -12337,7 +12337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うわっ・・・なんだかトイレ前がすごいことになってる」"
+                                "Oh my... the area in front of the restroom seems\nto be in quite a mess."
                             ]
                         },
                         {
@@ -12377,14 +12377,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・エリナさんいるとしたら上の階か"
+                                "Hmm... If Elina-san is around, she's probably\neither on the upper floor or in the restroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お手洗いに行ってるかどっちかと思ったけど・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -12424,7 +12424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これじゃあどっちも確かめにいけそうにないなぁ・・・」"
+                                "With this, it seems like I won't be able to check\neither of them..."
                             ]
                         },
                         {
@@ -12537,7 +12537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシの出番じゃな」"
+                                "It's not my turn."
                             ]
                         },
                         {
@@ -12622,7 +12622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レイさん」"
+                                "Rei-san"
                             ]
                         },
                         {
@@ -12707,7 +12707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっくら便所と上の階の様子を見てくるわい」"
+                                "I'll quickly go check the restroom and the upper\nfloor."
                             ]
                         },
                         {
@@ -12731,14 +12731,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おまけに男便所で腹を壊しとるやつは"
+                                "Moreover, let's go see what kind of person is\ncausing trouble in the men's restroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どんなやつかも見てきてやろうではないか」"
+                                ""
                             ]
                         },
                         {
@@ -12823,14 +12823,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「男性の方は別にいいんですけど・・・・・・"
+                                "It's fine if it's the men's restroom... but for\nnow, please."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　とりあえずお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -12901,7 +12901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むっ・・・・女子便所は誰も居らん・・・・上かの？」"
+                                "Hmm... No one is in the women's restroom... Maybe\nupstairs?"
                             ]
                         },
                         {
@@ -12932,14 +12932,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むむっ・・・・・・・上にも居らん・・・・・・"
+                                "Hmm... No one is upstairs either... Could it\nbe...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  これは・・・・・まさか・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -12970,7 +12970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「家に帰っておるの」"
+                                "I'm going home."
                             ]
                         },
                         {
@@ -12994,14 +12994,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「仕方ない、男子便所で糞を踏ん張っとるやつの"
+                                "Well, I guess I'll have to go and see the face of\nthe person who's causing trouble in the men's\nrestroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　顔でも拝んで帰るとするか」"
+                                ""
                             ]
                         },
                         {
@@ -13032,14 +13032,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてさて、妖怪クソ踏ん張り爺は・・・・・・・\\!"
+                                "Now then, the stubborn old man who steps on\nmonster shit.... Hmmm...! Oh my...♡ I see how it\nis."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　むむむっ・・・・・！\\.ほほぅ・・・♡\\.そういうことか」"
+                                ""
                             ]
                         },
                         {
@@ -13210,7 +13210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うわっ・・・なんだかトイレ前がすごいことになってる」"
+                                "Oh wow... the area in front of the bathroom is a\ncomplete mess."
                             ]
                         },
                         {
@@ -13250,14 +13250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・エリナさんいるとしたら上の階か"
+                                "Hmm... If Elina-san is around, I thought she might\nbe on the upper floor or in the bathroom..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お手洗いに行ってるかどっちかと思ったけど・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13297,7 +13297,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これじゃあどっちも確かめにいけそうにないなぁ・・・」"
+                                "With this, it seems like I won't be able to check\neither of them..."
                             ]
                         },
                         {
@@ -13410,7 +13410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ワシの出番じゃな」"
+                                "It's not my turn."
                             ]
                         },
                         {
@@ -13495,7 +13495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「レイさん」"
+                                "Rei-san"
                             ]
                         },
                         {
@@ -13580,7 +13580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっくら便所と上の階の様子を見てくるわい」"
+                                "I'll go take a quick look at the bathroom and the\nupper floor."
                             ]
                         },
                         {
@@ -13604,14 +13604,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おまけに男便所で腹を壊しとるやつは"
+                                "Moreover, let's go see what kind of person is\nhaving stomach problems in the men's restroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どんなやつかも見てきてやろうではないか」"
+                                ""
                             ]
                         },
                         {
@@ -13696,14 +13696,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「男性の方は別にいいんですけど・・・・・・"
+                                "It's fine if it's for the men, but... for now,\nplease."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　とりあえずお願いします」"
+                                ""
                             ]
                         },
                         {
@@ -13774,7 +13774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むっ・・・・女子便所は誰も居らん・・・・上かの？」"
+                                "Hmm... There's no one in the women's restroom...\nMaybe upstairs?"
                             ]
                         },
                         {
@@ -13805,14 +13805,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「むむっ・・・・・・・上にも居らん・・・・・・"
+                                "Hmm... There's no one upstairs either... Could it\nbe...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  これは・・・・・まさか・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -13843,7 +13843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「家に帰っておるの」"
+                                "I'm going home."
                             ]
                         },
                         {
@@ -13867,14 +13867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「仕方ない、男子便所で糞を踏ん張っとるやつの"
+                                "I guess I'll have to go and see the face of the\nperson who's struggling with their shit in the\nmen's restroom."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　顔でも拝んで帰るとするか」"
+                                ""
                             ]
                         },
                         {
@@ -13905,14 +13905,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さてさて、妖怪クソ踏ん張り爺は・・・・・・・\\!"
+                                "Now then, the persevering old man of the yokai...\nHmm...! Oh my...♡ I see how it is."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　むむむっ・・・・・！\\.ほほぅ・・・♡\\.そういうことか」"
+                                ""
                             ]
                         },
                         {

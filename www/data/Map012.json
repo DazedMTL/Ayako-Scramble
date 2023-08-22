@@ -1590,14 +1590,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: In business, we talk across the desk.\nIt's common sense."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ビジネスは机越しで話ス。これ常識ネ」"
+                                ""
                             ]
                         },
                         {
@@ -1665,14 +1665,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Our members' ranks change based on their\ntransaction frequency."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ウチの会員さんハ取引回数でランクが変わるヨ」"
+                                ""
                             ]
                         },
                         {
@@ -1689,21 +1689,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Our regular customers are mostly in the\nhighest rank. The highest rank is called 'Family'."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「常連さん達ハ、大体一番上のランクネ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　一番上ノランクは\"ファミリー\"って呼んでるネ」"
+                                ""
                             ]
                         },
                         {
@@ -2214,14 +2214,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ふらっと入っちゃったけど、"
+                                "(I just walked in, but I wonder what kind of shop\nthis is...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ここは何のお店かしら・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -2247,21 +2247,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Customer...! Do you have something good?\nWill you sell it here?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お客さん・・・！良い物もってるネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うちで売ってかないネ！？」"
+                                ""
                             ]
                         },
                         {
@@ -2341,7 +2341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「売る・・・？ここって質屋なんですか？」"
+                                "Sell...? Is this place a pawn shop?"
                             ]
                         },
                         {
@@ -2358,14 +2358,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: ...Well, something like that."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・まぁ、そんなもんネ」"
+                                ""
                             ]
                         },
                         {
@@ -2382,28 +2382,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: We introduce people who want something to\nthose who have it. The same goes the other way\naround."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「モノを欲しがってる人に、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それを持ってる人を紹介するヨ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　逆も同じネ」"
+                                ""
                             ]
                         },
                         {
@@ -2452,14 +2452,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(個人間で売買したい人を紹介して"
+                                "(I wonder if this is a place that introduces and\nmediates people who want to buy and sell things\nprivately?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 仲介してくれる、って所かしら？)"
+                                ""
                             ]
                         },
                         {
@@ -2499,14 +2499,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(こういうところって"
+                                "(It seems like this kind of place would have\npeople bringing in hidden treasures, it looks\ninteresting)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 掘り出し物を持ってくる人がいそうで、面白そう)"
+                                ""
                             ]
                         },
                         {
@@ -2523,14 +2523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: If you'd like, would you like to become a\nmember?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ヨかったら会員登録するネ？」"
+                                ""
                             ]
                         },
                         {
@@ -2570,14 +2570,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ、じゃあ・・・登録しようかしら。"
+                                "Huh, then... should I register...? By the way, is\nthere an annual fee or something...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・ちなみにですけど年会費とかって・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -2594,21 +2594,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: If you register as a seller, there won't\nbe an annual fee. However, in return, you must\nsell something a few times without fail."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「売り手で登録したら年会費無いヨ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　その代わり何回かは必ず売ってもらうヨ」"
+                                ""
                             ]
                         },
                         {
@@ -2657,14 +2657,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・そういえば引っ越しの片付けで、"
+                                "(...Speaking of which, I came across quite a few\nthings that I don't need while cleaning up after\nmoving...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 要らない物がけっこう出てきたわね・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -2688,14 +2688,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(うん、処分ついでに売れたらラッキーよね。"
+                                "(Yeah, it would be lucky if I could sell them\nwhile getting rid of them. It seems interesting,\nso I'll go ahead and register♪)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 面白そうだし登録しておこ♪)"
+                                ""
                             ]
                         },
                         {
@@ -2846,21 +2846,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Alright, then let's go with the photos.\nSmile~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はーい、じゃ、写真いくヨー。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ニッコリネー」"
+                                ""
                             ]
                         },
                         {
@@ -2990,7 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「これでいいですか？」"
+                                "Is this okay?"
                             ]
                         },
                         {
@@ -3007,21 +3007,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: ...Okay then. From today onwards, you'll\nbe our seller."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・オッケーネ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これで今日からうちの売り手ヨ」"
+                                ""
                             ]
                         },
                         {
@@ -3038,21 +3038,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: And also, you need to decide on a handle\nname that you will use during transactions."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それと取引の時に使う名前・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ハンドルネームを決めるネ」"
+                                ""
                             ]
                         },
                         {
@@ -3092,7 +3092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ぱっと浮かばないなぁ・・・読み方変えるだけでいいや)"
+                                "(Hmm, I can't think of anything catchy... Maybe\nI'll just change the pronunciation.)"
                             ]
                         },
                         {
@@ -3132,7 +3132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・では、\"リョウコ\"でお願いします」"
+                                "...Then, please call me 'Ryoko'."
                             ]
                         },
                         {
@@ -3149,21 +3149,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Okay then, Ryoko. Let's go with the\nexplanation..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「オッケーネ、\"リョウコ\""
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それじゃ説明を・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3258,21 +3258,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: The buyer came earlier than expected!\nAlright, 'Ryoko', let's go to that room over\nthere!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「予想より早く買い手が来たネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それじゃ\"リョウコ\"、あっちの部屋にGOネ！」"
+                                ""
                             ]
                         },
                         {
@@ -3337,14 +3337,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・？\\!あの・・・・今、手ぶらで"
+                                "...? Um, right now, I don't have anything with\nme..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　何も持ってないんですけど・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -3392,21 +3392,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Don't worry. The buyer is a kind person\nand will teach you various things! Just listen to\nwhat they say and it'll be okay!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ダイジョーブネ。買い手の人優しいから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　色々教えてくれるネ！言う事聞いてればオッケーヨ！」"
+                                ""
                             ]
                         },
                         {
@@ -3454,21 +3454,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: You'll understand once you give it a try!\nHead over to that room and wait!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「とりあえずやってみたら分かるヨ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっちの部屋にGOしてウエイトネ！」"
+                                ""
                             ]
                         },
                         {
@@ -3492,7 +3492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はぁ・・・・分かりました・・・」"
+                                "H-Haa... I understand..."
                             ]
                         },
                         {
@@ -3751,14 +3751,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: See you next time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「また今度よろネー」"
+                                ""
                             ]
                         },
                         {
@@ -3826,21 +3826,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ryoko! How are you? The buyer is already\nhere, so please take care of it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「リョウコ！元気カ？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もう買い手サン来てるからお願いヨ！！」"
+                                ""
                             ]
                         },
                         {
@@ -3896,14 +3896,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(また変なの売らないといけないのよね・・・・・"
+                                "(I have to sell another weird one... What should I\ndo...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " どうしよ・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -4030,21 +4030,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: What the hell!? This is a lifelong\nrequest!! Don't keep the buyer waiting any\nlonger!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「そんナッ！！？一生のお願いヨ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　まだ買い手サン待たせておくヨ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4093,7 +4093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が20以上必要です。"
+                                "This event requires a lewdness level of 20 or\nhigher."
                             ]
                         },
                         {
@@ -4185,14 +4185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: See you next time!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「また今度よろネー」"
+                                ""
                             ]
                         },
                         {
@@ -4260,21 +4260,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ryoko! How is your body feeling? The\ncustomer specifically requested you, so please\ntake care of it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「リョウコ！身体ノ調子はどうネ？！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　買い手サンから指名来てるからお願いヨ！！」"
+                                ""
                             ]
                         },
                         {
@@ -4330,14 +4330,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(もう嫌な予感しかしないけど・・・・"
+                                "(I have a bad feeling about this... What should I\ndo...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " どうしよっかな・・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -4464,21 +4464,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Wha-?! For a lifetime!! No, even for the\nsake of my grandchildren's request!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「そんナッ！！？一生の！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　いや！孫の分のお願いも使うヨ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -4527,7 +4527,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が50以上必要です。"
+                                "This event requires a lewdness level of 50 or\nhigher."
                             ]
                         },
                         {
@@ -4619,14 +4619,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Store Manager: See you next time, okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「また今度よろネー」"
+                                ""
                             ]
                         },
                         {
@@ -4694,21 +4694,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ryoko! Today's customers are regular\nones, so feel at ease when conducting\ntransactions!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「リョウコ！今日は普通のお客さんダカラネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　安心して取引するヨ！」"
+                                ""
                             ]
                         },
                         {
@@ -4764,14 +4764,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・あんまり信用できないけど、"
+                                "(...I don't really trust her, but I'm curious\nabout what she means by regular... Maybe I should\ngo ahead and conduct the transaction.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 逆に普通って言うのが気になる・・・取引してみようかな)"
+                                ""
                             ]
                         },
                         {
@@ -4898,21 +4898,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: Well, can you do me a favor and say\nthat?... Will you do it for me?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「マタマター、そんな事言テやってくれるんでショ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　・・・・・・ヤってくれるよネ？」"
+                                ""
                             ]
                         },
                         {
@@ -4961,7 +4961,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が80以上必要です。"
+                                "This event requires a lewdness level of 80 or\nhigher."
                             ]
                         },
                         {
@@ -5076,7 +5076,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が 230 以上必要です。"
+                                "This event requires a lewdness level of 230 or\nhigher."
                             ]
                         },
                         {
@@ -5108,28 +5108,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: Ayako's reputation is skyrocketing! And\ntoday is a gratitude festival! It's a great\nopportunity to earn money with lots of people\ngathering!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「リョウコの評判はウナギのぼりネ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そして今日は感謝祭ネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たくさんの人が集まるカラ稼ぎ時ヨ！」"
+                                ""
                             ]
                         },
                         {
@@ -5185,14 +5185,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(たくさんの人が集まるなんて・・・っ・・・・？♡"
+                                "(So many people gathering...? Ah... I wonder what\nwill be done to me...♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " あぁ・・・・一体なにをされるんだろ・・・・♡)"
+                                ""
                             ]
                         },
                         {
@@ -5319,21 +5319,21 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "店長"
+                                "Manager: By any chance, will you do such a thing\nfor me...? Will you do it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "「マタマター、そんな事言テやってくれるんでショ？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 2,
                             "parameters": [
-                                "　・・・・・・ヤってくれるよネ？」"
+                                ""
                             ]
                         },
                         {
@@ -5382,7 +5382,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "このイベントは淫乱度が80以上必要です。"
+                                "This event requires a lewdness level of 80 or\nhigher."
                             ]
                         },
                         {
@@ -5474,21 +5474,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "店長"
+                                "Manager: We made quite a profit, so let's take a\nbreak for a while! I'm going on vacation!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「だいぶ儲かったカラしばらく休業ネ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　バカンスいてくるヨ！」"
+                                ""
                             ]
                         },
                         {

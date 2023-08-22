@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "西地区",
+    "displayName": "West District",
     "encounterList": [],
     "encounterStep": 30,
     "height": 45,
@@ -12236,28 +12236,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親方"
+                                "Boss: Alright, you guys. Make sure to do the KYT\nfinger-pointing confirmation and checklist on your\nown. Prioritize compliance, not just completing\nit."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーし、お前ら。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　KYTと指差し確認とチェックシートやっとけよ。各自で。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　コンプラ重視でなコンプラ」"
+                                ""
                             ]
                         },
                         {
@@ -12637,21 +12637,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "若者"
+                                "Young person: Sigh... It's so blissful to be able\nto just laze around without doing anything..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・なんにもせずボーっとできるって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　幸せだなぁ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -12744,21 +12744,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "赤髪の作業員"
+                                "Red-haired worker: Boss, you don't usually say\nthings like that... Are you coming for the\nheadquarters inspection?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「親方、普段そんなこと言わねえのに・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　本社の視察でも来んのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -13155,14 +13155,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ah, um!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あのっ！」"
+                                ""
                             ]
                         },
                         {
@@ -13258,14 +13258,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにかご用で・・・・あっ！"
+                                "Do you need something... Ah! You dropped these\ndocuments the other day...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  この前書類を落とされてた・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -13291,28 +13291,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Yes, I appreciate your help the other\nday! Thanks to you, I feel a bit better!\n(hesitant)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はい、先日はお世話になりました！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おかげで少し元気が出ました！」"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "（\\}いろいろと・・・\\{）"
+                                ""
                             ]
                         },
                         {
@@ -13352,7 +13352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いえいえ、あのくらいお安い御用ですよ」"
+                                "Oh no, it was just a small favor."
                             ]
                         },
                         {
@@ -13378,21 +13378,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Well... It's been a while since someone\nhas been kind to me, so I'm really happy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「いやぁ・・・僕にとっては"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　久々に人に優しくされたもんで嬉しくって・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13441,7 +13441,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうなんですね・・・・」"
+                                "I-I see..."
                             ]
                         },
                         {
@@ -13481,14 +13481,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そういえば・・・レイさんが悩んでる人を察知してたら"
+                                "(By the way... When Rei-san sensed someone in\ndistress, this person came...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " この人が来たのよね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -13528,14 +13528,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(もしかして陰気を発生させてるのかな・・・"
+                                "(I wonder if I'm causing this gloomy atmosphere...\nIf that's the case, maybe I should listen to their\nstory...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " だったら話を聞いてあげた方がいいわね・・・)"
+                                ""
                             ]
                         },
                         {
@@ -13561,28 +13561,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Ah! It's already this late... Well\nthen, I'll go back to work... *sigh* See you\nlater..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あっ！もうこんな時間・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃあ僕は仕事に・・・\\}はぁ・・・\\{戻ります・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　では・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13622,14 +13622,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・！"
+                                "Um...! If it's okay, would you like to talk a\nlittle more?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もし良かったらもう少しだけ話しませんか？」"
+                                ""
                             ]
                         },
                         {
@@ -13655,21 +13655,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Uh... B-but, it's been 4 minutes since\nmy break started, so I should probably go back..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっ・・・で、でも、休憩して４分経ったので"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　さすがに戻らないと・・・」"
+                                ""
                             ]
                         },
                         {
@@ -13709,7 +13709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・・・)"
+                                "(........)"
                             ]
                         },
                         {
@@ -13761,7 +13761,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「も、もうちょっと・・・あなたと、はなしたいなー・・・」"
+                                "I-I want to talk a little more with you..."
                             ]
                         },
                         {
@@ -13855,14 +13855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン\\{"
+                                "Salaryman: I'm delighted!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「よろこんでッ！！」"
+                                ""
                             ]
                         },
                         {
@@ -13911,7 +13911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -14104,21 +14104,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・・"
+                                "I see... So many people suddenly quit, and that's\nwhy you're burdened with the workload..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　急に人がいっぱい辞めちゃって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それであなたに負担がかかってるのね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14144,28 +14144,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Uh... I never thought I would have to\ndo sales, accounting, HR, and production all at\nthe same time..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まさか営業と経理と人事と製作を同時にやるなんて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　思ってませんでした・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14191,28 +14191,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: H-However, recently there are times\nwhen I can finish work by 10 PM, and there are\nmany occasions where I only have to work until 2\nAM. Compared to before, it has gotten better!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「け、けど、最近は夜10時には仕事が終われる事が"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たまにありますし、2徹で済むのが多いですし"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　前に比べたらマシになってますよ！」"
+                                ""
                             ]
                         },
                         {
@@ -14261,7 +14261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(この人・・・よくそれで生きてるわね・・・)"
+                                "(This person... how are they surviving with\nthat...)"
                             ]
                         },
                         {
@@ -14287,21 +14287,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Well... It would be easier if there was\nsomeone who could at least handle the sales as a\ntemporary measure..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ・・・繋ぎでいいんで営業だけでも"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やってくれる人が居たら楽にはなるんですけどね・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14341,7 +14341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                "「......」"
                             ]
                         },
                         {
@@ -14381,7 +14381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私がやりますよ」"
+                                "I'll do it."
                             ]
                         },
                         {
@@ -14446,28 +14446,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Eh!? W-Well... but, you see... it's not\neasy to suddenly handle sales without some\nexperience..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええっ！？\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　で、ですけど・・・営業をある程度経験してないと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いきなりは中々・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -14507,21 +14507,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「大丈夫です。"
+                                "Don't worry. In the past, I worked at a company\ncalled Kawayama Shoji and another company called\nIchiba Shoji, where I handled everything from\nsales to accounting."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　昔は河山商事ってとこと、一葉商事って会社に勤めていて"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　営業から経理、一通りこなしていました」"
+                                ""
                             ]
                         },
                         {
@@ -14547,28 +14547,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Wha...?! You, you worked at such big\ncompanies...!? \\.P-Please, I beg you!! I'll inform\nthe company about it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なっ・・・？！そ、そんな大企業で・・・！？\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぜ、ぜひお願いします！！\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　会社の方には伝えておきますので！」"
+                                ""
                             ]
                         },
                         {
@@ -14585,21 +14585,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サラリーマン"
+                                "Salaryman: Well then, I will explain the detailed\njob description when you come to our company!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「それじゃ、詳しい仕事内容は、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　うちの会社に出社した際に説明しますね！」"
+                                ""
                             ]
                         },
                         {
@@ -14648,14 +14648,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(昔の経歴もたまには役に立つわね。"
+                                "(Sometimes my past experience comes in handy.\nWell, I should get my suit cleaned.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " さ、スーツをクリーニングに出しておかなきゃ)"
+                                ""
                             ]
                         },
                         {
@@ -14949,21 +14949,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "モヒカン作業員"
+                                "Mohican Worker: Complah...? Are you talking about\ntempura made from daikon radish?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「コンプラ・・・・・？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　大根の天ぷらのこと？」"
+                                ""
                             ]
                         },
                         {
@@ -15098,21 +15098,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "休憩中の男"
+                                "Male on break: Sigh... Haa... I better take this\nopportunity to relieve some stress..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すぅー・・・・・・はぁー・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今のうちに吸い溜めしとかねぇとな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -15256,21 +15256,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムラムラする男"
+                                "Horny Man: Ah, damn... I'm so horny... I wish\nthere was a stupid woman who would sleep with me\nright away..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あーくっそ・・・ムラムラする・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すぐヤレる馬鹿な女居ねえかな・・・」"
+                                ""
                             ]
                         },
                         {
@@ -15398,14 +15398,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日のおすすめ"
+                                "Today's recommended\\c[6]～☆～☆～\\c[0] Manager's\nSpecialty Roasted Espresso\\c[6]～☆～☆～\\c[0]"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\c[6]～☆～☆～\\c[0] 店長のこだわり焙煎エスプレッソ \\c[6]～☆～☆～\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -15473,28 +15473,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日のおすすめ"
+                                "Today's recommendation is Ayako Nagatsuki's\nhomemade milk coffee. Limited to 10 servings per\nday."
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　  \\c[27]～♡～♡～ \\c[0]母のお手製ミルクコーヒー \\c[27]～♡～♡～\\c[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　※一日10パイ限定"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -15562,14 +15562,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日のおすすめ"
+                                "Today's recommendation is Ayako Nagatsuki's\nhomemade milk coffee."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　  \\c[27]～♡～♡～ \\c[0]母のお手製ミルクコーヒー \\c[27]～♡～♡～\\c[0]"
+                                ""
                             ]
                         },
                         {
@@ -17374,21 +17374,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
+                                "Male: Children are adorable, aren't they? When I\nsee their innocent smiles, it makes me smile too."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「子供は可愛いですね。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　無邪気な笑顔を見るとこっちまで、笑顔になります」"
+                                ""
                             ]
                         },
                         {
@@ -17405,14 +17405,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男性"
+                                "Male: Well, sometimes I get flustered by words\nthat are too honest."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「まぁ、たまに素直すぎる言葉にたじろぐ事もありますが」"
+                                ""
                             ]
                         },
                         {
@@ -17496,21 +17496,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女の子"
+                                "Girl: Wow, Auntie! Your breasts are bigger than\nMom's!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おばさん、すごーい！\\."
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ママよりおっぱい大きい！！」"
+                                ""
                             ]
                         },
                         {
@@ -17566,7 +17566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、ありがと・・・・」"
+                                "Ah, thank you..."
                             ]
                         },
                         {
@@ -17606,14 +17606,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(何だか最近、ブラがきつくなってるような・・・・"
+                                "(Lately, it feels like my bra has been getting\ntighter... Could it be... that I've gained\nweight?!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " \\!もしかして・・・太った・・・？！)"
+                                ""
                             ]
                         },
                         {
@@ -17727,21 +17727,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一服する男"
+                                "A man taking a break says, Phew... I can't smoke\nin the office, so I'll take this opportunity to\nstock up on cigarettes."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふー・・・・・事務所じゃ吸えないから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今のうちに吸い溜めしとこ」"
+                                ""
                             ]
                         },
                         {
@@ -17885,14 +17885,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "用を足す男"
+                                "A man relieving himself, Phew.... *trickling\nsound*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふー・・・・」　　\\}じょぼじょぼじょぼ・・・"
+                                ""
                             ]
                         },
                         {
@@ -17959,14 +17959,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(っ・・・！！"
+                                "(...!! Let's leave without being noticed...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " 気づかれないように立ち去りましょ・・・)"
+                                ""
                             ]
                         },
                         {
@@ -18054,7 +18054,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(・・・・・・・・・・・)\\!\\CE[31]\\}ちらっ・・・"
+                                "(...........)\\!\\CE[31]\\}Peeking..."
                             ]
                         },
                         {
@@ -18131,14 +18131,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(ふ、ふーん・・・・・ここなら"
+                                "(Huh, huh.... So it's okay to do this kind of\nthing here...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " こういうことしても大丈夫なのね・・・・・)"
+                                ""
                             ]
                         },
                         {
@@ -18215,7 +18215,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(あ・・・股の隙間からおちんちん見えてる・・・・・♡)"
+                                "(Ah... I can see a penis through the gap between\ntheir legs... ♡)"
                             ]
                         },
                         {
@@ -18364,21 +18364,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "電話にキレる男"
+                                "Angry man on the phone: Takeda!!! I told you to\nleave it in front of the warehouse, not right in\nfront of the entrance, you idiot!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「タケダァッ！！！倉庫の前に置いとけっつったけど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　入口の真ん前に置くんじゃねぇよアホッ！！」"
+                                ""
                             ]
                         },
                         {
@@ -18962,21 +18962,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Excuse me, madam. Are you injured... \\.\nHmm..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「失礼、ご婦人。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ケガはな・・・・\\.むっ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19064,14 +19064,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、平気ですよ。"
+                                "Yes, I'm fine. Despite appearances, I move my body\nquite a lot."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　こう見えてけっこう身体動かしてるので」"
+                                ""
                             ]
                         },
                         {
@@ -19097,14 +19097,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: I see... No wonder it's top-notch..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なるほど・・・どうりで極上の・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19153,7 +19153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・？」"
+                                "「......？」"
                             ]
                         },
                         {
@@ -19179,28 +19179,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Oh, by the way, we recently started offering\na special milk coffee at this shop."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうそう、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　最近この店で特別なミルクコーヒーの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　提供をはじめましてね」"
+                                ""
                             ]
                         },
                         {
@@ -19217,21 +19217,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: If you tell the master that you're an\nacquaintance of 'Sonomori', they might give you\nspecial service. Please give it a try."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「マスターに\"ソノモリ\"の知り合いだと伝えれば、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　サービスしてくれるかと。ぜひご賞味あれ」"
+                                ""
                             ]
                         },
                         {
@@ -19280,7 +19280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ！いいんですか！ありがとうございます♪」"
+                                "Really! Is that okay? Thank you very much♪"
                             ]
                         },
                         {
@@ -19320,14 +19320,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Hehehe... No, the pleasure is all mine..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ふっふっふ・・・いや、こちらこそ・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19344,14 +19344,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "男"
+                                "Man: Well then, I'll take my leave."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「では、私はこれで」"
+                                ""
                             ]
                         },
                         {
@@ -19542,14 +19542,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ラッキー♡"
+                                "Lucky ♡ With this, I can drink delicious coffee\nfor free."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これでおいしいコーヒーをタダで飲めるわ」"
+                                ""
                             ]
                         },
                         {
@@ -19589,14 +19589,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あの人オーナーさんかな？"
+                                "Is that person the owner? They have such a dandy\nvoice and seem so kind..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごいダンディな声でやさし・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19656,14 +19656,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・あれ、どこかで会ったような？"
+                                "...Hm, have we met somewhere before? Well,\nwhatever. Coffee, coffee ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "\\!　\\CE[30]・・・・・ま、いっか。コーヒー、コーヒー♡」"
+                                ""
                             ]
                         },
                         {
@@ -19947,21 +19947,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茶髪のサラリーマン"
+                                "The brown-haired salaryman muttered, Damn it...\nthat piece of junk broke again! It's about time to\nget rid of it and buy a replacement!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「くそっ・・・あのポンコツまた壊れやがって・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  いい加減処分して買い替えろっつうの！」"
+                                ""
                             ]
                         },
                         {
@@ -20038,14 +20038,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "茶髪のサラリーマン"
+                                "Brown-haired salaryman: Mmm...♪"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んっんー・・・♪」"
+                                ""
                             ]
                         },
                         {
@@ -20658,7 +20658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふー・・・・・今日はあっついわね・・・・・」"
+                                "Phew... It's so hot today..."
                             ]
                         },
                         {
@@ -20707,7 +20707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「日差しが強くて・・・・・くらっとす・・・・・・」"
+                                "The sunlight is so strong... I feel dizzy..."
                             ]
                         },
                         {
@@ -20804,7 +20804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・・・・・・」\\}ふらっ・・・・"
+                                "Ah... *stumbles*"
                             ]
                         },
                         {
@@ -20910,7 +20910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すとんっ・・・・・"
+                                "*thud...*"
                             ]
                         },
                         {
@@ -21116,14 +21116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親方"
+                                "Boss: Hey hey hey, are you okay?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おいおいおい、大丈夫かアンタ？」"
+                                ""
                             ]
                         },
                         {
@@ -21291,7 +21291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「すみません・・・ちょっとふらっとしちゃって」"
+                                "I'm sorry... I got a little dizzy."
                             ]
                         },
                         {
@@ -21357,21 +21357,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親方"
+                                "Boss: Whoa... Those are huge tits!! And your face\nis so damn cute...! *gulp*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(うぉっ・・・・すっげーデカパイ！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 顔もめっちゃマブいじゃん・・・っ・・・！)\\}ごくっ・・・！ "
+                                ""
                             ]
                         },
                         {
@@ -21388,7 +21388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "むくむくっ・・・・・"
+                                "*swelling...*"
                             ]
                         },
                         {
@@ -21458,7 +21458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あら・・・・・・♡)"
+                                "(Oh my...♡)"
                             ]
                         },
                         {
@@ -21498,7 +21498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・♡」"
+                                "「........♡」"
                             ]
                         },
                         {
@@ -21538,14 +21538,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・あの、厚かましいですが"
+                                "Um... I'm sorry for being presumptuous, but could\nI have some water...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お水をもらっても・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -21571,21 +21571,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "親方"
+                                "Boss: O-Oh, oh, alright! Sounds good...! Let's\ntake a break now and cool off for a bit!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お、お、おうっ！いいぜ・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　俺らも今から休憩だし少し涼んできな！」"
+                                ""
                             ]
                         },
                         {
@@ -21625,14 +21625,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございます、"
+                                "Thank you very much. If it's alright with you,\ncould you please show me around...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　よろしければ案内してください・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -21672,7 +21672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「私も一緒に\"休憩\"させてもらいますね・・・♡」"
+                                "I'll take a break with you too...♡"
                             ]
                         },
                         {
@@ -21919,38 +21919,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント終了後に「Q」キーを押すと、"
+                                "After the event ends, if you press the Q key, you\ncan hear Ayako's soliloquy about that event."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのイベントに関する綾子の独り言が聞けます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的には聞かなくてもゲーム進行には影響ありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略のヒントに繋がることを呟くかもしれません。"
+                                ""
                             ]
                         },
                         {
@@ -21967,21 +21943,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、イベント関連の独り言は、"
+                                "Basically, it doesn't affect the game progress if\nyou don't listen to it, but she might whisper\nsomething that could lead to hints for capturing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家で寝てしまったり、一度聞くと\\c[2]二度と呟かなくなります。\\c[0]"
+                                "Also, be aware that if you fall asleep at home or\nlisten to the event-related soliloquy\nonce,\\c[2]she won't whisper it again.\\c[0] So\nplease be careful if you want to hear all the\nconversations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全ての会話を聞きたい方は気をつけてください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

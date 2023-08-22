@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "神社",
+    "displayName": "Shrine",
     "encounterList": [],
     "encounterStep": 30,
     "height": 60,
@@ -21933,21 +21933,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Hmm... I'm in a bind... Can someone\nlend me a hand?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーむ・・・困ったのぅ・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　誰か手伝ってくれんかのぅ・・・」"
+                                ""
                             ]
                         },
                         {
@@ -22003,7 +22003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(何か困っているようね・・・)"
+                                "(Seems like you're in some kind of trouble...)"
                             ]
                         },
                         {
@@ -22020,7 +22020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "話を聞いてみますか？"
+                                "Would you like to hear the story?"
                             ]
                         },
                         {
@@ -22267,21 +22267,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Oh, Ayako-san. The preparations for\nthe sake offering are complete. Are you ready to\njoin us now?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おぉ、綾子さんや。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　奉酒の準備が整ったぞい。今から参加できるかの？」"
+                                ""
                             ]
                         },
                         {
@@ -22298,7 +22298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "参加しますか？"
+                                "Will you be joining us?"
                             ]
                         },
                         {
@@ -22443,21 +22443,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: I-Is that so... Well, that's\nunfortunate... I was hoping you would drink it\nwhile it's still hot..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そ、そうか・・・それは残念じゃ・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　\\}できれば熱々のを飲んでほしかったのじゃが・・・・\\{」"
+                                ""
                             ]
                         },
                         {
@@ -22638,21 +22638,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Oh, Ayako-san! The preparations are\ncomplete!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おぉっ綾子さん！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　準備は整っておりますぞ！」"
+                                ""
                             ]
                         },
                         {
@@ -22669,7 +22669,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "参加しますか？"
+                                "Will you participate?"
                             ]
                         },
                         {
@@ -22784,21 +22784,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: We are about to perform the\nceremony... but before that, may I have a little\nchat?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これから儀礼を行う・・・のじゃが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　その前に少し話をしてもよいかの？」"
+                                ""
                             ]
                         },
                         {
@@ -22854,7 +22854,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「・・・・・・ええ、大丈夫です」"
+                                "...Yes, I'm fine."
                             ]
                         },
                         {
@@ -22880,21 +22880,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: First, let me explain the origin of\nthis ceremony. It is based on a legend passed down\nin this shrine."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「まずこの儀礼の成り立ちじゃが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　この神社に伝わる逸話が元となっておりまする」"
+                                ""
                             ]
                         },
                         {
@@ -22911,21 +22911,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Once upon a time, this land was\nthriving with hunting of animals, and the majority\nof the villagers made a living from it, leading to\nmoderate prosperity."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「昔々、この地は獣の狩猟が盛んで村人の大半は"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　それを生業としており、そこそこ栄えておった」"
+                                ""
                             ]
                         },
                         {
@@ -22965,7 +22965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ふむふむ・・・・」"
+                                "Hmm, hmm..."
                             ]
                         },
                         {
@@ -22991,28 +22991,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: And those few who couldn't engage in\nhunting resorted to farming, but the hunters\nmocked and looked down upon them as cowards.\nNaturally, a rift began to form between the two\ngroups."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そして狩猟ができない少数の者は農業を営んでおったが、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　狩猟者はそれを臆病者と笑い、蔑んでおった。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　当然じゃが二つの集団の間に溝が生まれていった」"
+                                ""
                             ]
                         },
                         {
@@ -23029,28 +23029,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: However, suddenly terrifying monsters\nbegan to spread in the forest, causing the animals\nto flee and the hunters to suffer from extreme\npoverty, not knowing where their next meal would\ncome from..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「しかし、突如恐ろしい化け物が森に蔓延るようになり、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　獣は逃げ出し、狩猟者は明日喰う飯に困るほどに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　困窮していった・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -23090,7 +23090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それは大変ですね・・・・・」"
+                                "That must be tough..."
                             ]
                         },
                         {
@@ -23116,21 +23116,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: And so, a renowned shrine maiden\narrived there and taught the hunters the value of\nworking together with the farmers to cultivate\ncrops."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「じゃがそこに名のある巫女が訪れ農民と協力し、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　作物を育てる尊さを狩猟者に教えたのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -23147,28 +23147,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: They spread fertilizer in the fields,\nnurtured the soil, taught them how to use tools,\nsowed seeds, and harvested...! The hunters who\nunderstood the joy of agriculture started\ncooperating with the farmers, and the village\nflourished overnight."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「畑に肥料を撒き、土を育て、道具の使い方を教え、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　種を撒き、収穫する・・・\\!農業の喜びを理解した狩猟者は、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　農民と協力するようになり村は一躍発展していったのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -23217,14 +23217,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(これってレイさんの話・・・？"
+                                "(Is this Rei's story...? She's surprisingly doing\nsomething decent, huh)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                " 意外とまともなことしてるのね)"
+                                ""
                             ]
                         },
                         {
@@ -23255,21 +23255,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: And so, we honor that shrine maiden,\nturning her story into a ritual, which has been\npassed down to this day."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そしてその巫女を称え、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　一連の逸話を儀礼にし、そして今に伝わっておるのじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -23286,14 +23286,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: And now, the contents of this\nritual... *gulp*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「そして、今回の儀礼の内容じゃが・・・・・・」\\}すっ・・・"
+                                ""
                             ]
                         },
                         {
@@ -23319,7 +23319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ごにょごにょごにょ・・・・・"
+                                "Mumbling..."
                             ]
                         },
                         {
@@ -23414,7 +23414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「んなっ・・・！なんでそういうことになるんですか！」"
+                                "Wha...! Why did it turn out like that?"
                             ]
                         },
                         {
@@ -23431,28 +23431,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: This is a crucial scene where the\nshrine maiden meticulously teaches the hunters how\nto use farming tools."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「これは巫女が狩猟者に農具の使い方を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　手取り足取り教えるという"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　大事な場面をそれに見立てたものじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -23492,7 +23492,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「だ、だからって・・・・・」"
+                                "E-Even so..."
                             ]
                         },
                         {
@@ -23509,21 +23509,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Don't worry, I didn't say you have to\ndo the real thing. If you just touch it with your\nhand, it'll be over in no time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「大丈夫じゃ、何も本番をしろとは言っておりませぬ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どうせ手で触ったら、あっという間ですじゃ」"
+                                ""
                             ]
                         },
                         {
@@ -23563,7 +23563,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ま、まあ・・・手でなら・・・」"
+                                "W-Well... if it's with my hand..."
                             ]
                         },
                         {
@@ -23589,21 +23589,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: As expected, Ayako-san, you're quick\nto understand!! Come on, the men are waiting\ninside! Go in, go in."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「さすが綾子さん、話が早いですな！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ささ、男たちは中で待たせておるでの！入った入った」"
+                                ""
                             ]
                         },
                         {
@@ -23643,7 +23643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えっ？！あ、ちょっと・・・・！」"
+                                "Huh?! Ah, wait a moment...!"
                             ]
                         },
                         {
@@ -23766,14 +23766,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: That's... unfortunate... *sighs*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「それは・・・・・残念・・・・じゃ・・・・」\\}がっくり・・・"
+                                ""
                             ]
                         },
                         {
@@ -23923,21 +23923,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Now, it's finally time for the grand\nfinale of the ceremony. Are you ready?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ、いよいよ儀礼の大詰めですじゃぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　準備はよろしいかの？」"
+                                ""
                             ]
                         },
                         {
@@ -23954,7 +23954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "参加しますか？"
+                                "Will you participate?"
                             ]
                         },
                         {
@@ -24069,14 +24069,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: This ceremony will finally come to an\nend this time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「儀礼も今回でいよいよ最後ですな」"
+                                ""
                             ]
                         },
                         {
@@ -24102,28 +24102,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Oh my, it would have been impossible\nto come this far without your help, Ayako-san. I\nam truly grateful."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「いやはや、綾子さんの協力なしでは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ここまで来ることは不可能でしたぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　本当に感謝しておりますぞ」"
+                                ""
                             ]
                         },
                         {
@@ -24179,7 +24179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「それはよかったです・・・・・・」"
+                                "That's good to hear..."
                             ]
                         },
                         {
@@ -24219,14 +24219,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あの・・・・ところで、最後は一体何をすれば・・・？"
+                                "Um... By the way, what exactly do we have to do\nfor the final part? It's probably something lewd\nagain, isn't it?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　どうせまたエッチなことなんでしょうが・・・」"
+                                ""
                             ]
                         },
                         {
@@ -24252,14 +24252,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Hmm, well, that's the general idea."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「ふむ、まぁそんな感じですな」"
+                                ""
                             ]
                         },
                         {
@@ -24308,14 +24308,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「はぁ・・・もう、しょうがない・・・・♡"
+                                "Sigh... Well, I guess there's no helping it... ♡\nWe used our hands and mouths before, so this is\nfinally the main event, right?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　前は手とか口だったし、いよいよ本番ですよね？」"
+                                ""
                             ]
                         },
                         {
@@ -24364,21 +24364,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「まあこれも儀礼の一部ですし？ゴム着けてなら私も構いま"
+                                "Well, this is also part of the ceremony, right? If\nwe use protection, I don't mind. It's not because\nI couldn't do it last time or anything like that.\nAt this point, I genuinely want to engage in this\nceremony... not just have sex..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　せんし、別に前回できなかったから疼いてるとかそういうの"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　じゃなくて、ここまで来たら純粋にこの儀礼を性交・・じゃなく"
+                                ""
                             ]
                         },
                         {
@@ -24404,21 +24404,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: It seems like you're misunderstanding\nsomething, but the content this time is the same\nas last time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「なにか勘違いされているようじゃが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　今回も前回と内容は同じですぞ」"
+                                ""
                             ]
                         },
                         {
@@ -24467,14 +24467,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「えっ？！！また、おあずけっ・・・！じゃなくて・・・！"
+                                "Huh?!! We're not going to be denied again...! I\nmean...! Are we not going to do it...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　その・・・シないんですか・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -24516,21 +24516,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Hmm? Even if you say not going to do\nit, I'm not sure what you're referring to."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「はて？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "  \"シない\"と言われましても何がなにやら」"
+                                ""
                             ]
                         },
                         {
@@ -24547,21 +24547,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Anyway, I kindly ask that you\nabsolutely refrain from doing anything unnecessary\nother than what you did last time."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「とにかく前回でやったこと以外の余計なことは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　絶対せぬようにお頼みしますでの」"
+                                ""
                             ]
                         },
                         {
@@ -24601,7 +24601,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「そ、そんな・・・・・」"
+                                "T-That's...!"
                             ]
                         },
                         {
@@ -24627,21 +24627,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Oh, it's already this late. Come on,\ndon't keep the men waiting inside."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「おっと、こんな時間じゃ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ささっ、男たちを中で待たせておるのでの」"
+                                ""
                             ]
                         },
                         {
@@ -24690,21 +24690,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「ま、待ってっ！ほ、ほらっ！"
+                                "W-Wait! L-Look! Boys are interested in a girl's\nbody, right? I-I can let them touch me if you\nwant!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　男の子は女の身体に興味あるだろうし！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　触らせてあげてもいいですって！」"
+                                ""
                             ]
                         },
                         {
@@ -24721,21 +24721,21 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: There is no need for inappropriate\nemotions during the ceremony. Now then, I kindly\nask for your cooperation."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「儀礼に不埒な感情は不要ですぞ。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　ささ、あとはよろしくお願いするでの」"
+                                ""
                             ]
                         },
                         {
@@ -24784,7 +24784,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「っ～～～～～～！！」"
+                                "Ughhhhh!!"
                             ]
                         },
                         {
@@ -24862,14 +24862,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "町長"
+                                "Town Mayor: Hmmm... Mmm... I see..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "「む・・・むむぅ・・・・そうですか・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -25861,21 +25861,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そういえばレイさんって"
+                                "By the way, I wonder where Rei-san usually hangs\nout?... Or is it okay to leave the shrine\nunattended?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　普段どこうろついてるのかしら？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・というか神社ってほったらかしてていいの？」"
+                                ""
                             ]
                         },
                         {
@@ -25915,14 +25915,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「幽霊って普段なにしてるんだろ？"
+                                "I wonder what ghosts usually do? There are so many\nthings I don't know."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　知らないことがたくさんね」"
+                                ""
                             ]
                         },
                         {
@@ -25953,7 +25953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイの日常 その１ を見ますか？"
+                                "Do you want to watch Rei's Daily Life Part 1?"
                             ]
                         },
                         {
@@ -26368,14 +26368,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「最近よく居なくなるわね・・・・"
+                                "Lately, you've been disappearing a lot... I wonder\nwhere you're really wandering around..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ホントどこウロウロしてるんだか・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -26406,7 +26406,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイの日常 その２ を見ますか？"
+                                "Would you like to watch Rei's Daily Life Part 2?"
                             ]
                         },
                         {
@@ -26821,14 +26821,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「最近のレイさん、時々ニヤニヤしてるけど・・・・"
+                                "Lately, Rei-san has been smiling mischievously\nfrom time to time... I wonder if something fun\nhappened?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　なにか楽しいことでもあったのかな？」"
+                                ""
                             ]
                         },
                         {
@@ -26859,7 +26859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "レイの日常 その３ を見ますか？"
+                                "Would you like to watch Rei's Daily Life Part 3?"
                             ]
                         },
                         {
@@ -28594,38 +28594,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "イベント終了後に「Q」キーを押すと、"
+                                "After the event ends, if you press the Q key, you\ncan hear Ayako's soliloquy about that event."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そのイベントに関する綾子の独り言が聞けます。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                1
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的には聞かなくてもゲーム進行には影響ありませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "攻略のヒントに繋がることを呟くかもしれません。"
+                                ""
                             ]
                         },
                         {
@@ -28642,21 +28618,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また、イベント関連の独り言は、"
+                                "Basically, it doesn't affect the game progress if\nyou don't listen to it, but she might whisper\nsomething that could lead to hints for capturing."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                1
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "家で寝てしまったり、一度聞くと\\c[2]二度と呟かなくなります。\\c[0]"
+                                "Also, be aware that if you fall asleep at home or\nlisten to the event-related soliloquy\nonce,\\c[2]she won't whisper it again.\\c[0] So\nplease be careful if you want to hear all the\nconversations."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "全ての会話を聞きたい方は気をつけてください。"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {

@@ -4908,7 +4908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・・はぁ・・・・・足速いわね・・・・・」"
+                                "Haa... haa... You're fast on your feet..."
                             ]
                         },
                         {
@@ -4948,14 +4948,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でもようやく追いつめたわ・・・・・"
+                                "But I finally cornered you... I can see you\nentering this room..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　この部屋に入っていくのが見え・・・・"
+                                ""
                             ]
                         },
                         {
@@ -5004,7 +5004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・って、はる君の病室じゃない！？」"
+                                "...Wait, this isn't Haru-kun's hospital room!?"
                             ]
                         },
                         {
@@ -5044,14 +5044,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「よりによってこんなとこに・・・・！"
+                                "Of all places, here...! I have to bring you back\nbefore something strange happens!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　変なことされる前に連れ戻さなきゃ！」"
+                                ""
                             ]
                         },
                         {

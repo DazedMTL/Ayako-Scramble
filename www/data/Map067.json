@@ -21956,14 +21956,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・"
+                                "Haa... haa... It's quite... far, isn't it? And the\nground is uneven too..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　けっこう・・・遠いのね・・・地面もデコボコだし・・」"
+                                ""
                             ]
                         },
                         {
@@ -22012,14 +22012,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ・・・階段が見えた・・・"
+                                "Ah... I can see the stairs... Just a little more,\nI guess...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あとちょっとかな・・・？」"
+                                ""
                             ]
                         },
                         {

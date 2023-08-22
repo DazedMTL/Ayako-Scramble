@@ -16353,14 +16353,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "The next night..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　次の日の夜・・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -16458,14 +16458,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]＆タロウ\\{"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「「はる君！！退院おめでとう！！」」"
+                                "Haru-kun!! Congratulations on being discharged\nfrom the hospital!!"
                             ]
                         },
                         {
@@ -16535,14 +16535,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Here! A celebratory present for Haru-kun!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これ！はるくんに、おいわいのプレゼント！」"
+                                ""
                             ]
                         },
                         {
@@ -16568,21 +16568,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Thank you!! Taro-kun! Ah! A pack of cards!!\nYayy!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがと！！タロくんっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あっ！カードのパック！！やったぁ！！」"
+                                ""
                             ]
                         },
                         {
@@ -16638,14 +16638,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ホントによく頑張ったわ。"
+                                "You really did your best. I've prepared a lot of\ndelicious food just for you, Haru-kun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そんなはる君に、ごちそう沢山用意しておいたわよ」"
+                                ""
                             ]
                         },
                         {
@@ -16678,87 +16678,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Wow! It's true!! There's even shrimp fry!!\nTaro-kun! Let's have a competition to see who can\neat more!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「わっ！ホントだ！！エビフライもある！！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　タロくん！どっちがいっぱい食べれるか勝負しよ！」"
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 0,
-                            "parameters": [
-                                2,
-                                7,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「えぇ～・・・ボク、そんなにいっぱいたべれな・・"
-                            ]
-                        },
-                        {
-                            "code": 213,
-                            "indent": 0,
-                            "parameters": [
-                                1,
-                                1,
-                                false
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「レディ！ゴー！！」\\.\\}ぱくぱくむしゃむしゃ！"
+                                ""
                             ]
                         },
                         {
@@ -16784,14 +16718,80 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Ehh... I can't eat that much..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                1,
+                                1,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょ、ちょっとずるいよ・・・！」\\.\\}もぐっもぐっ！"
+                                "Haru: Ladies! Go!! \\.\\ *munch munch*"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 213,
+                            "indent": 0,
+                            "parameters": [
+                                2,
+                                7,
+                                false
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Taro: Hey, hey, that's not fair...! *munch munch*"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -16847,7 +16847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「こらこら、二人ともちゃんと噛んで食べなさいよ」"
+                                "Hey, hey, both of you, make sure to chew your food\nproperly."
                             ]
                         },
                         {
@@ -16887,14 +16887,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(この感じ・・・久しぶりね。"
+                                "(This feeling... It's been a while. Finally,\neveryday life has returned...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " やっと日常が戻ってきた・・・)"
+                                ""
                             ]
                         },
                         {
@@ -16934,14 +16934,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(はる君、とっても楽しそう。"
+                                "(Haru-kun, you look so happy. It's great that\nTaro-kun happened to come as well.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " タロウ君が偶然来てくれて良かったわ)"
+                                ""
                             ]
                         },
                         {
@@ -16981,14 +16981,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(これからはまた３人で、公園で遊んだり、"
+                                "(From now on, the three of us will play in the\npark, play games together, and then...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 一緒にゲームをしたり、それから・・・"
+                                ""
                             ]
                         },
                         {
@@ -17171,7 +17171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・・」"
+                                "「..........」"
                             ]
                         },
                         {
@@ -17228,14 +17228,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Mom...? What's wrong?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ママ・・・・？どうしたの？」"
+                                ""
                             ]
                         },
                         {
@@ -17284,14 +17284,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なんでもないわ！"
+                                "I-It's nothing! Come on, let's eat it while it's\nstill hot!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ほら、冷めないうちに食べましょ！」"
+                                ""
                             ]
                         },
                         {
@@ -17339,14 +17339,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Yes!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はーい！」"
+                                ""
                             ]
                         },
                         {
@@ -17394,14 +17394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: ......"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -17444,21 +17444,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "食事後は３人でゲームをしたり、"
+                                "After the meal, the three of us played games\ntogether, watched anime while eating sweets, and\nthe long-lost everyday life returned to the\nNagatsuki household..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "お菓子を食べながらアニメを見たりと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "永辻家に久方ぶりの日常が戻ってきたのであった・・・"
+                                ""
                             ]
                         },
                         {
@@ -17506,7 +17506,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その数時間後・・・・・"
+                                "Several hours later..."
                             ]
                         },
                         {
@@ -17608,14 +17608,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Snore... snore..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すぴー・・・・すぴー・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -17641,21 +17641,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Haru-kun, were you tired? I suddenly fell\nasleep..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はるくん、つかれてたのかな？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いきなりねちゃった・・・」"
+                                ""
                             ]
                         },
                         {
@@ -17711,14 +17711,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そういえば、『淫気に抵抗する為、眠りが深くなった』"
+                                "By the way, Rei-san said that 'to resist the lewd\natmosphere, she has become a deep sleeper'."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　・・・ってレイさんが言ってたわね)"
+                                ""
                             ]
                         },
                         {
@@ -17758,21 +17758,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ま、久々にはしゃいで"
+                                "(W-Well, it's been a while since we had so much\nfun, so I guess we're all tired. Let's carry them\nto the bed and...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 疲れたってのもあるでしょうけど。"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ベッドに運びま・・"
+                                ""
                             ]
                         },
                         {
@@ -17865,14 +17865,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: U-Um! Auntie!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あの！おばさんっ！」"
+                                ""
                             ]
                         },
                         {
@@ -17928,7 +17928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ん？なぁに？」"
+                                "Hmm? What is it?"
                             ]
                         },
                         {
@@ -17945,21 +17945,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: A-A-Actually, Auntie, I have a present for\nyou too...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「じ、じ、じつは、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おばさんにもプレゼントがあって・・！」"
+                                ""
                             ]
                         },
                         {
@@ -17999,7 +17999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わたしに・・・？」"
+                                "For me...?"
                             ]
                         },
                         {
@@ -18016,14 +18016,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Th-This...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「こ、これ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -18070,7 +18070,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なにかしら・・・・・・・・・・\\.指輪？」"
+                                "I wonder... a \\.ring?"
                             ]
                         },
                         {
@@ -18096,21 +18096,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: My dad taught me that you give a ring to\nsomeone you like..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「すきな人にはゆびわをあげるって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お父さんからおしえられて・・・」"
+                                ""
                             ]
                         },
                         {
@@ -18150,7 +18150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・！」\\}どきっ・・・♡"
+                                "...! *thump*...♡"
                             ]
                         },
                         {
@@ -18229,14 +18229,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Auntie! I love you! I love you so much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おばさん！すきです！だいすきです！」"
+                                ""
                             ]
                         },
                         {
@@ -18302,14 +18302,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Um... so... uh... I like you?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「えっと・・・だから・・・その・・・すき・・・です？」"
+                                ""
                             ]
                         },
                         {
@@ -18349,7 +18349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -18422,14 +18422,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Mmmph!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んむっ！？」"
+                                ""
                             ]
                         },
                         {
@@ -18458,7 +18458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "れりゅっ♡れりゅっ♡れりゅっ♡れりゅっ♡"
+                                "Lick♡lick♡lick♡lick♡"
                             ]
                         },
                         {
@@ -18475,7 +18475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぢゅぷっ・・・ぢゅぷっ・・・♡"
+                                "*Suck...suck...♡*"
                             ]
                         },
                         {
@@ -18523,7 +18523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぽんっ♡"
+                                "*Suck...♡*"
                             ]
                         },
                         {
@@ -18549,14 +18549,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Haa... haa... Auntie...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・・おばさん・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -18612,14 +18612,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「タロウくん・・・今夜は・・・・・"
+                                "Taro-kun... Tonight... I'll become your woman...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あなたの女になってあげる・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -19080,14 +19080,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はっ♡はっ♡はぁっ♡♡"
+                                "Haa♡haa♡haa♡ Taro-kun...♡ Taro-kun...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　たろうくんっ・・・♡タロウくんっ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -19104,14 +19104,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Auntie♡ Auntie♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「おばさんっ♡おばさん♡」"
+                                ""
                             ]
                         },
                         {
@@ -19128,21 +19128,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "互いに名前を呼びあい、"
+                                "The two individuals, a man and a woman, called out\neach other's names and intertwined as if seeking\neach other's presence..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "存在を求めあうかのように交わる"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "二人の男女がそこにあった・・・"
+                                ""
                             ]
                         },
                         {
@@ -19182,14 +19182,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あっ♡あっ♡おぉっ♡"
+                                "Ah♡ Ah♡ Ohh♡ Yes! That's it! You're so good, Taro-\nkun♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　そう！そうよ♡上手よタロウ君っ♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -19229,7 +19229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もっと♡もっと激しく突いてっっ♡♡♡」"
+                                "Harder♡ Thrust harder♡♡♡"
                             ]
                         },
                         {
@@ -19246,14 +19246,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Yes! I'll make you feel even better!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うんっ！もっときもちよくしてあげる！」"
+                                ""
                             ]
                         },
                         {
@@ -19270,7 +19270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ずちゅっ！ずちゅっ♡ずちゅっ！ずちゅっ♡♡ずちゅっ♡"
+                                "*Slosh!* *Slosh*♡ *Slosh!* *Slosh*♡♡ *Slosh*♡"
                             ]
                         },
                         {
@@ -19310,45 +19310,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁっ♡はぁっ♡はぁっ♡"
+                                "Aah♡ Haa♡ Haa♡ It feels so good♡ Taro-kun's cock\nfeels amazing♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　きもちいいっ♡たろう君のチンポ気持ちイイわ♡♡♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はぁっぁっ・・・！おばさんのおマンコも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ぐねぐねしてて・・・ヌルヌルでっ・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -19365,14 +19334,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Haa...! Auntie's pussy is squirming... It's\nso slippery...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あぁ・・・！おばさん・・・ぼく・・もう・・・！」"
+                                "Taro: Ah...! Auntie... I can't hold on anymore...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -19412,14 +19412,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「いいわ・・・！射精して・・・"
+                                "That's it...! Ejaculate... Give me your semen\ninside my womb, Taro-kun♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　子宮に・・・タロウ君のザーメンちょうだいっ♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -19538,7 +19538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どぴゅっ♡どぴゅっ♡"
+                                "*Squirt*♡ *Squirt*♡"
                             ]
                         },
                         {
@@ -19715,14 +19715,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・はぁ・・・・♡♡"
+                                "Haa... haa....♡♡ Well done...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　よくできたわね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -19739,21 +19739,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Yes...! Because I want to make you feel\nreally good, Auntie!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うん・・・！おばさんのこと"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いっぱいキモチよくしてあげたいから！」"
+                                ""
                             ]
                         },
                         {
@@ -19793,7 +19793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っぅ・・・♡ありがとね・・・♡」"
+                                "Uhh...♡ Thank you...♡"
                             ]
                         },
                         {
@@ -19868,21 +19868,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Um... Auntie... I have a favor to ask..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あの・・・おばさん・・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おねがいがあるんだけど・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19938,7 +19938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「なあに？」"
+                                "What is it?"
                             ]
                         },
                         {
@@ -19955,21 +19955,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Um... Would you wear the ring I gave you...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「その・・・・ボクがあげたゆびわ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はめてくれない・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -20009,7 +20009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、よろこんで」"
+                                "Yes, I would be delighted."
                             ]
                         },
                         {
@@ -20082,21 +20082,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「きれい・・・\\!"
+                                "Beautiful...! Hehe...♪ It feels like I've become\nTaro-kun's wife."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ふふっ・・・♪"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　タロウくんの奥さんになったみたい」"
+                                ""
                             ]
                         },
                         {
@@ -20153,7 +20153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きゅぅぅぅ・・・♡"
+                                "Kyuuuu...♡"
                             ]
                         },
                         {
@@ -20209,14 +20209,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(っ・・・・？！♡"
+                                "(Huh...?! My... uterus is getting hot...\nKyuuu...?!♡♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " し、子宮が熱く・・・きゅうって・・・！？♡♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -20242,14 +20242,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: O-Older woman...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お、おばさん・・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -20298,7 +20298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょ、ちょっと待って！いまおマンコされたら・・"
+                                "W-Wait a minute! If you do that to my pussy right\nnow..."
                             ]
                         },
                         {
@@ -20374,7 +20374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ぐちゅぅっ♡♡♡♡"
+                                "*Squelch♡♡♡♡*"
                             ]
                         },
                         {
@@ -20414,21 +20414,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「～～～～♡？！！♡♡！？♡」\\!"
+                                "~~~~♡?!♡♡?!♡ (O-Oh, is it reaching deep inside?! ♡\nMy uterus is throbbing, mmm ♡ Wh-Why?! ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " (お、奥まで届いてるっ？！♡子宮が下りっ、んんっ♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  な、なんでっ？！♡)"
+                                ""
                             ]
                         },
                         {
@@ -20489,7 +20489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぱちゅっぱちゅっぱぢゅっ♡♡ぱぢゅっ♡"
+                                "*Squelch squelch squish♡♡ squish♡*"
                             ]
                         },
                         {
@@ -20513,14 +20513,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁっ♡お\"っお\"っおぉぉっ♡♡"
+                                "Haa...♡ O-o-ohh...♡ My pussy is being knocked on\nby your cock at the entrance of my uterus... It's\namazing...♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　チンポが子宮口をコンコンしてっ♡す、すごっ♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -20544,14 +20544,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(も、もしかして・・・私のおマンコが"
+                                "(C-Could it be... my pussy is matching Taro-\nkun's?!♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " タロウ君に合わせて？！♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -20568,21 +20568,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "愛の告白を受け、あまつさえ指輪を着けたことにより、"
+                                "Ayako's body recognized the child in front of her\nas her partner, due to receiving a confession of\nlove and even wearing a ring..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "綾子の身体は目の前の幼子を"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "自分の伴侶だと認識してしまった・・・・"
+                                ""
                             ]
                         },
                         {
@@ -20599,52 +20599,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子宮は少しでも妊娠の可能性を高めようと、"
+                                "The uterus, in order to increase the possibility\nof pregnancy even a little, fully accepted Taro's\npenis, descending to the point where it could\nreach..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "タロウのペニスが届く位置まで降り"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "オスの象徴を十二分に受け入れていた・・・・"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(だめっ！♡♡こんな歳の離れた子と・・・んんっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " けど、このおチンポ・・・相性がいいっ♡♡)"
+                                ""
                             ]
                         },
                         {
@@ -20668,21 +20637,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ぁっ♡ぁぁっ♡タロウ君と子作りっ♡♡"
+                                "(No...♡♡ Being with someone so much younger...\nmmm... but, this cock... our compatibility is\namazing ♡♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " はうっ・・・！子宮コンコン・・・♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " これっ・・・すごいっ♡ほしい・・ほしくなっちゃう♡)"
+                                ""
                             ]
                         },
                         {
@@ -20706,21 +20668,59 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あああ・・・♡したい・・・はぁっ♡"
+                                "(Ah ♡ Ahh ♡ Making a baby with Taro-kun ♡♡ Hau...!\nMy uterus is throbbing...♡ This... is amazing ♡ I\nwant it... I can't help but want it ♡)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " タロウ君と子作り・・・♡♡"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 私にいっぱい種付けしてほしい・・・！)"
+                                "(Ahh...♡ I want to... haa ♡ Make a baby with Taro-\nkun...♡♡ I want him to impregnate me a lot...!)"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20760,14 +20760,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(ザーメン・・・♡♡種付け・・・♡子供ちんぽ・・♡"
+                                "(Cum...♡♡ Breeding...♡ Baby's penis..♡\nImpregnation sex...♡ Ahhh... I can't hold back!)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 孕ませセックスぅ・・・♡ぁぁぁ・・・我慢できない！)"
+                                ""
                             ]
                         },
                         {
@@ -20798,45 +20798,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Uu~♡ My tongue is being sucked by your\npussy!? What is this?♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っぅ～～～♡おマンコのおくが"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　チュッチュしてくる！？♡なに、これっ？♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                1,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子宮口を何度も何度も的確に刺激され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メスとしての本能をくすぐられた綾子・・・・"
+                                ""
                             ]
                         },
                         {
@@ -20853,14 +20829,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今や本能のままに、小さくも逞しいオスの精液で"
+                                "Ayako, whose cervix was stimulated repeatedly and\naccurately, was tickled by her instinct as a\nfemale..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                1,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受精するという思考だけが脳を占有している・・・・"
+                                "Now, my mind is completely occupied by the thought\nof being fertilized by the small yet strong semen\nof a male, driven purely by instinct..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -20884,76 +20884,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(欲しいっ・・・！赤ちゃん欲しいっ・・♡♡♡"
+                                "(I want it...! I want a baby...♡♡♡ Semen...♡ Cock\nmilk...♡♡ Penis juice...♡ I want to be fertilized\nby Taro-kun's thick semen... ♡! ♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ザーメン・・・♡ちんぽミルク・・・♡♡チンポ汁ぅ・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " タロウ君の濃ゆい精液で受精したいぃ・・・♡！♡)"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「タロウ君っ♡♡孕ませてっ♡赤ちゃんちょうだいっ♡"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　私をタロウ君のお嫁さんにしてっ！♡♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うん！ぜったいおばさんとけっこんするっ！」"
+                                ""
                             ]
                         },
                         {
@@ -20977,7 +20922,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ～～～～～～！♡♡」"
+                                "Taro-kun ♡♡ Please impregnate me ♡ Give me a baby\n♡ Make me your wife, Taro-kun! ♡♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Taro: Yes! I definitely want to marry you, Ayako!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21001,14 +20977,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「タロウくんっ・・・!"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　おばさんじゃなくて、綾子って呼んでっ！♡♡」"
+                                "(Ahhh~♡♡)"
                             ]
                         },
                         {
@@ -21025,14 +20994,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あ、あやこ・・・さん・・・！」"
+                                "Taro-kun...! Don't call me 'auntie,' call me\nAyako! ♡♡"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Taro: Ah, Ayako...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21082,7 +21082,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っぅぅぅ～～～～♡♡♡」"
+                                "Ahhh~♡♡"
                             ]
                         },
                         {
@@ -21106,14 +21106,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もっと♡もっと激しくっ♡んぉっ♡♡"
+                                "More ♡ More passionately ♡ Ahh~♡♡ Your penis ♡♡ It\nfeels so good ♡ Keep going, penis ♡♡ Keep going,\nplease ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちんぽっ♡♡んぃぃ♡ちんぽがんばれっ♡♡がんばれっ♡」"
+                                ""
                             ]
                         },
                         {
@@ -21130,21 +21130,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Taro: Ayako-san! Ayako-san! I love you!! ♡ I love\nyou! Let's make a baby together!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あやこさんっ！あやこさん！だいすきっ！！♡すきっ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぼくと赤ちゃん作ってっ！！」"
+                                ""
                             ]
                         },
                         {
@@ -21168,14 +21168,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「産むっ！♡♡孕むぅ！♡"
+                                "I want to bear your child! ♡♡ I want to conceive\nwith your rich, thick semen and fertilize my eggs!\n♡♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あなたの濃厚ザー汁で私の卵子に種付けしてぇっ♡♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -21202,7 +21202,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{ばぢゅばぢゅっ!ばぢゅばぢゅっ!♡♡♡"
+                                "Squishy squishy! Squishy squishy! ♡♡♡"
                             ]
                         },
                         {
@@ -21226,38 +21226,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おっ♡おっ♡おっ♡おっ♡イ\"イ\"・・・♡♡"
+                                "Ohh♡ Ohh♡ Ohh♡ Ohh♡ Y-Yo... ♡♡ I-I love you ♡ So\nmuch ♡♡ So much!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あなたっ♡だいすきっ♡♡だいしゅきっ！♡♡♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「あやこさんっ♡ぼくもすきっすきっ！だいすきっ♡！！♡」"
+                                ""
                             ]
                         },
                         {
@@ -21274,45 +21250,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]"
+                                "Taro: Ayako-san! I love you!! ♡ I love you! So\nmuch ♡!!♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「～～～～！♡♡？！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　ああああ♡イくっ！！幸せすぎてイっちゃう！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タロウ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「で・・・っ・・・でちゃう・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -21336,21 +21281,76 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「一緒にっ、一緒にっ♡♡～～～～♡♡"
+                                "~~~~! ♡♡?! Ahhh~♡ I'm cumming!! It feels so good,\nI'm overwhelmed with happiness!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　あ\"っおッ♡♡イく、イク、イくイグ・・♡"
+                                "Taro: I... I'm gonna... cum...!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　\\{イぐぅっっ♡♡♡」"
+                                "\\kw[1]"
+                            ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Together, together ♡♡~~~~♡♡ Ahh~♡♡ I'm cumming,\ncumming, cumming... ♡\\{Cummingggg~~~~♡♡♡}"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -21485,7 +21485,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どぷゅっっ！どぴゅるるっ♡どっぷぅ・・・♡"
+                                "Dopu~! Dopiyururu~♡ Doppu...♡"
                             ]
                         },
                         {
@@ -21509,21 +21509,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「おほぉっっ♡♡ほっ・・・・♡お、おぉ・・・♡"
+                                "Ohh♡♡ Ohh....♡ O-Oh...♡ Hahhh...♡ Hahhh....♡♡\nAhh...♡♡ Filled up in my womb..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はへぇー・・・♡はひぃー・・・・♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　あへ・・・♡♡子宮にいっぱぁい・・・」"
+                                ""
                             ]
                         },
                         {
@@ -21661,7 +21661,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷちゅっ・・・♡"
+                                "*Puchi...♡*"
                             ]
                         },
                         {
@@ -21692,7 +21692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ？！♡♡♡」"
+                                "Huh?! ♡♡♡"
                             ]
                         },
                         {
@@ -21716,7 +21716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あっ・・・・・・・\\.これ・・・\\.\\.・・・♡)"
+                                "(Ah... \\. This... \\.\\.... ♡)"
                             ]
                         },
                         {
@@ -21733,21 +21733,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Tarou: Haa... haa.... Auntie... it's okay..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はーっ・・・はーっ・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おばさん・・・だいじょ・・"
+                                ""
                             ]
                         },
                         {
@@ -21813,14 +21813,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Tarou: Hmm?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「んんっ？！」"
+                                ""
                             ]
                         },
                         {
@@ -21849,7 +21849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "れりゅっれりゅっれろれろれろ・・・♡♡"
+                                "Leryu leryu lero rero rero...♡♡"
                             ]
                         },
                         {
@@ -21897,7 +21897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちゅぽっ・・・・♡"
+                                "*Suck...♡*"
                             ]
                         },
                         {
@@ -21953,14 +21953,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「二人っきりの時は・・・・\\!"
+                                "When we're alone together... make sure to call me\nby my name...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ちゃんと名前で呼んで・・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -21986,14 +21986,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Tarou: Y-Yeah... Ayako...san...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「う、うん・・・・あやこ・・さん・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -22042,7 +22042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・♡」"
+                                "「.....♡」"
                             ]
                         },
                         {
@@ -22082,14 +22082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「さぁ・・・今夜は、"
+                                "Now... let's stay up a little longer tonight...♡\n*licks lips*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　もうしばらく夜更かししましょうね・・・♡」\\}じゅるっ・・♡"
+                                ""
                             ]
                         },
                         {
@@ -22196,14 +22196,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
+                                "Several months later..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　数か月後・・・・・"
+                                ""
                             ]
                         },
                         {
@@ -22313,45 +22313,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: I'm home!! Hey, Mom! It seems like there\nwas a traffic jam today..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「\\{ただいまー！！\\}"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ねー、ママ！今日トラックそうで・・」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -22368,14 +22344,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: ......."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれ・・・・？トイレかな？」"
+                                "Haruto: Huh....? Is it the bathroom?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -22401,7 +22401,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\}「・・・ん・・・っ♡・・・・ぱんっ・・・・・ぱんっ・・・・♡」"
+                                "Mmm...♡ Pant... pant...♡"
                             ]
                         },
                         {
@@ -22418,21 +22418,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: It's over there after all! While I'm\nwashing my hands, I'll report it!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「やっぱりあっちだ！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　手あらうついでにほうこくしよ！」"
+                                ""
                             ]
                         },
                         {
@@ -22995,14 +22995,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Mommy! I'm home!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ママー！ただいまー！」"
+                                ""
                             ]
                         },
                         {
@@ -23132,7 +23132,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「お、おかえりっ、んっ♡」"
+                                "W-Welcome back... ngh♡"
                             ]
                         },
                         {
@@ -23149,28 +23149,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: I'm home!! Hey, listen! Today, the coach\npraised me for getting faster in the start dash!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ただいま！！ねぇきいて！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今日ねー、コーチにスタートダッシュ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はやくなったってほめられたんだよ！」"
+                                ""
                             ]
                         },
                         {
@@ -23210,14 +23210,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「へ、へー・・・そ、\\{おっ\\}！♡"
+                                "H-He... H-Hey! ♡ Amazing... ♡ You're so... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すごっ・・・♡・・いわね・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -23234,21 +23234,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: .......? What's wrong, Mom? Why do you\nhave a strange expression? Are you feeling sick?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　どうしたのママ？へんなかお、おなかいたいの？」"
+                                ""
                             ]
                         },
                         {
@@ -23288,7 +23288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「だいじょっ、おっ♡・・うぶよ・・・♡」"
+                                "It's okay, I'm fine...♡ I'm just a little shy...♡"
                             ]
                         },
                         {
@@ -23305,21 +23305,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: I see! Oh, can I go play with Tarou-kun\nnow?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そっか！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あ、いまからタロくんとあそびにいっていい？」"
+                                ""
                             ]
                         },
                         {
@@ -23359,21 +23359,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「えっ？！そ、そうね・・・・"
+                                "Eh?! I-I see... T-Tarou-kun is, umm... ♡ busy\nright now, so it might be impossible...? Umm.. ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　た、タロウ・・・くんは、んっ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今、忙しいからムリじゃないかな・・・？っぅ・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -23390,14 +23390,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Huh? How do you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「え？なんでしってるの？」"
+                                ""
                             ]
                         },
                         {
@@ -23437,14 +23437,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っぅ・・・♡さ、さっきぃ♡"
+                                "Ah...♡ J-Just now...♡ somewhere...♡ ahh~♡♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　どこかにっ・・♡っ～～♡♡」"
+                                ""
                             ]
                         },
                         {
@@ -23524,7 +23524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\{「イクっ・・・♡！♡」"
+                                "I'm cumming...♡! ♡"
                             ]
                         },
                         {
@@ -23564,38 +23564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はーっ・・・♡ふーっ・・・♡"
+                                "Haa...♡ Hoo...♡ I-I was saying that...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・ってぇ・・・言ってたのよぉ・・・・・♡」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そうなんだ・・・ざんねん・・・」"
+                                ""
                             ]
                         },
                         {
@@ -23612,21 +23588,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: I see... That's too bad..."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「じゃあ、バロックスマンがはじまるまで"
+                                "Haruto: Well then, maybe I should do my homework\nuntil Baroque's Man starts..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　しゅくだいしてよっかな・・・」"
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -23666,14 +23666,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、そうねっ、♡あとで、んっ♡"
+                                "Y-Yes, ♡ later, umm... ♡ I'll bring some snacks\nand we'll do it properly... ♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　お菓子持ってくからちゃんとヤるのよ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -23690,14 +23690,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Really! Alright! I'll finish it right\naway!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ほんと！よーし！すぐおわらせちゃうね！」"
+                                ""
                             ]
                         },
                         {
@@ -23770,14 +23770,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もうっ、はる君の前で種付けするなんて・・・"
+                                "Geez, doing it in front of you, Haruto-kun... We\nalmost got caught...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　危うくバレちゃうとこだったじゃない・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -23794,28 +23794,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Tarou: I-I'm sorry... My pussy suddenly tightened\nup and I couldn't hold it in..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ご、ごめんなさい・・・　"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　きゅうにおマンコがぎゅうっ！てなったから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　がまんできなくて・・・」"
+                                ""
                             ]
                         },
                         {
@@ -23855,14 +23855,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・♡そ、それは・・・！"
+                                "Haa...♡ W-Wait...! Doing that kind of thing with\nyour friend in front of your son..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　息子の前でそのお友達とセックスしてるなんて・・・」"
+                                ""
                             ]
                         },
                         {
@@ -23886,14 +23886,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんなエッチな状況だったら"
+                                "If it's such a naughty situation, all women would\nget excited...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　女はみんな興奮しちゃうのよ・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -23910,21 +23910,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Tarou: Is that so...! It's another learning\nopportunity!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そうなんだ・・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　また、べんきょうになりました！」"
+                                ""
                             ]
                         },
                         {
@@ -23964,14 +23964,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はぁ・・・タロウはもう少し我慢を覚えなきゃ。\\!"
+                                "Sigh... Tarou, you need to learn a little more\npatience. Otherwise, you won't become a proper\ndaddy, you know?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　じゃないと立派なパパになれないわよ？」"
+                                ""
                             ]
                         },
                         {
@@ -23988,21 +23988,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タロウ"
+                                "Tarou: ...Huh? What do you mean by that..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・え？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　それってどうゆう・・・」"
+                                ""
                             ]
                         },
                         {
@@ -24042,7 +24042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ふふっ・・・さあ？どうでしょう」"
+                                "Hehe... Well? What do you think?"
                             ]
                         },
                         {
@@ -24082,14 +24082,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ほら、お風呂あがるわよ。"
+                                "Come on, it's time to get out of the bath. After\nyou're done, do your homework with Haru-kun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　あがったらはる君と一緒に宿題しなさい」"
+                                ""
                             ]
                         },
                         {
@@ -24113,14 +24113,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちゃんと終わらせれたら・・・・・"
+                                "If you finish it properly... I'll give you a\nreward, okay♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ごほうび・・・あげるからね♡」"
+                                ""
                             ]
                         },
                         {
@@ -24285,14 +24285,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング　No.2　"
+                                "Ending No.2 - My Son's Friend's Wife"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　息子の友達の妻"
+                                ""
                             ]
                         },
                         {

@@ -17885,7 +17885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ピンポーーーン・・・・・♪"
+                                "Ding-dong.....♪"
                             ]
                         },
                         {
@@ -17902,14 +17902,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Heeeeey!!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「はーーーーいっ！！！」"
+                                ""
                             ]
                         },
                         {
@@ -17938,14 +17938,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "配達業者"
+                                "Delivery person: Helloooo, I have a package for\nyou!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちわーっす、お届け物でーす」"
+                                ""
                             ]
                         },
                         {
@@ -17962,14 +17962,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Thank you very much! *pussy boop*"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ありがとうございまーす！はんこぽちっ」"
+                                ""
                             ]
                         },
                         {
@@ -17998,45 +17998,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "配達業者"
+                                "Delivery person: Thank youuuu~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「あざーっした～～」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「はこの中はなんだろなぁー・・・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　えぇっと・・・・でぃーぶいでぃー・・・！？」"
+                                ""
                             ]
                         },
                         {
@@ -18053,21 +18022,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: I wonder what's inside this box... Hmm...\nDelivery...!?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「もしかして、ママにたのんだ"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　げきじょーばんバロックスマンの・・・？！」"
+                                ""
                             ]
                         },
                         {
@@ -18084,14 +18053,45 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Could it be... the super rare Baroque Man\nfigure that I ordered for Mom?!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「やったぁ！ぼくのパソコンでみーよっと！」"
+                                "Haruto: Yay! Let's see it on my computer!"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -18229,7 +18229,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただいまぁー、ごめんねーちょっと遅くなっ・・・」"
+                                "I'm home~ Sorry for being a little late..."
                             ]
                         },
                         {
@@ -18278,7 +18278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・あら？二階かしら？」"
+                                "....Oh? I wonder if it's on the second floor?"
                             ]
                         },
                         {
@@ -18327,14 +18327,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もしかしてまたパソコンでゲームを・・・！"
+                                "Could it be that you're playing games on the\ncomputer again... Sigh... There's no helping it, I\nsuppose."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　はぁ・・・もうしょうがないわね」"
+                                ""
                             ]
                         },
                         {
@@ -18572,7 +18572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ただいまーはる君」"
+                                "I'm home, Haru-kun."
                             ]
                         },
                         {
@@ -18800,7 +18800,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「はる君。パソコンでゲームは一日一時か・・"
+                                "Haru-kun, playing games on the computer all day\nagain..."
                             ]
                         },
                         {
@@ -18817,28 +18817,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アヤ"
+                                "Ayako: Dick, dick♡ Big dick♡ Go deeper and thrust\nharder♡ Ohhh♡ I'm cumming, I'm cummingggg!!♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちんぽチンポ♡チンポぉッ♡♡でっかいチンポぉ♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "     　もっともっと奥までっズボズボハメてぇんっ♡♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　んおぉぉおおっっ♡♡♡イくイくイくイクぅぅッ！！♡」"
+                                ""
                             ]
                         },
                         {
@@ -18902,7 +18902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「え・・・・・」"
+                                "Eh..."
                             ]
                         },
                         {
@@ -18959,21 +18959,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: M-Mom...? U-Um, hey? What is... this...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、ママ・・・・・？"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ね、ねえ？これ・・・なに・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -18999,21 +18999,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Why are you being treated so badly by\nmen...?"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「なんでおとこのひとたちに"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ひどいことされてるの・・・・・？」"
+                                ""
                             ]
                         },
                         {
@@ -19053,7 +19053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「な、なんでその映像が・・・・・？！」"
+                                "W-Why is that video...?!"
                             ]
                         },
                         {
@@ -19079,14 +19079,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: U-Um, and also... there's something strange\nabout it..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「そ、それにボク・・・なんかへんなんだ・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19112,21 +19112,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Mom... seeing you being bullied by men... my\npenis gets bigger..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ママが・・・おとこのひとにいじめられるのみてたら・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　おちんちんがおっきくなって・・・」"
+                                ""
                             ]
                         },
                         {
@@ -19143,7 +19143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "びくっ・・・びくっ・・・・・！♡"
+                                "*Trembling... trembling...!♡*"
                             ]
                         },
                         {
@@ -19183,7 +19183,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「～～～～～っ♡♡」"
+                                "~~~~♡♡"
                             ]
                         },
                         {
@@ -19200,21 +19200,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haru: Hey, Mom, please tell me...! What... what\nshould I do with this...?!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ねえママおしえて・・・！"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　これ・・・これどうしたらいいの・・・・？！」"
+                                ""
                             ]
                         },
                         {
@@ -19254,7 +19254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・」"
+                                "「.......」"
                             ]
                         },
                         {
@@ -19392,7 +19392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かちゃっ・・・・・"
+                                "*Clatter...*"
                             ]
                         },
                         {
@@ -19472,7 +19472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そっか・・・・・はる君もそういう歳ね・・・・♡」"
+                                "I see... Haru-kun, you're at that age too, huh...♡"
                             ]
                         },
                         {
@@ -19512,14 +19512,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「それに・・・・"
+                                "And... I never thought I could hide it forever."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　いつまでも隠しとおせるとは思ってなかったし」"
+                                ""
                             ]
                         },
                         {
@@ -19559,7 +19559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと早くなっちゃったけど・・・」"
+                                "It's a little early, but..."
                             ]
                         },
                         {
@@ -19689,7 +19689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ママのお仕事・・・教えてあげるわね・・・・・♡」"
+                                "I'll tell you about Mommy's job...♡"
                             ]
                         },
                         {
@@ -19755,14 +19755,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング　No.8　"
+                                "Ending No.8 - Mom is a popular actress."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　ママは人気女優さん"
+                                ""
                             ]
                         },
                         {
@@ -20070,7 +20070,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "綾子は撮影料で1500000円手に入れた。"
+                                "Ayako earned 1,500,000 yen from the filming fee."
                             ]
                         },
                         {

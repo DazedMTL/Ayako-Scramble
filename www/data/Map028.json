@@ -1421,21 +1421,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "見定める男"
+                                "Evaluating man: Looks a bit older, 10 points...\nHas scars, 20 points... Body is good but the nose,\n45 points..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ちょっと老けてる、10点・・・傷跡がある、20点・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　身体は良いけど鼻が、45点・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1623,21 +1623,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "選ぶ女"
+                                "Choosing Woman: Hmm... I think this size is about\nan L... but it might be a little too big for\nhim..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うーん・・・Lサイズでこのくらいだから・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・・・・彼にはちょっと大きすぎかな・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1714,14 +1714,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "コンビニ店員"
+                                "Convenience Store Clerk: Rasherse"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ラッシャーセー」"
+                                ""
                             ]
                         },
                         {
@@ -2223,7 +2223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(この前、おっぱいを印刷したコピー機だ・・・・・)"
+                                "(The other day, I used the copy machine to print\nout some boobs...)"
                             ]
                         },
                         {
@@ -2263,14 +2263,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あれだけしたんだから、淫気は消えてるはず・・・・"
+                                "(After doing that, the lewdness should have\ndisappeared... Let's call Rei-san to confirm.)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " レイさん呼んで確認しましょ)"
+                                ""
                             ]
                         },
                         {
@@ -2476,21 +2476,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(レイさんが\"コピー機の淫気はそのうち消える\""
+                                "(Rei-san said something like The lust of the\ncopier will eventually disappear... I wonder if it\nreally disappeared...?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " みたいな感じで言ってたけど・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ほんとに消えちゃったのかな・・・？)"
+                                ""
                             ]
                         },
                         {
@@ -2523,14 +2523,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\kw[1]\\}"
+                                "\\kw[1]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・・残っててもいいけど)"
+                                "\\}(...Even if it remains, it's fine...)"
                             ]
                         },
                         {
@@ -2570,7 +2570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(・・・・・・・・レイさんに確認してもらいましょ)"
+                                "(........Let's ask Rei-san for confirmation)"
                             ]
                         },
                         {

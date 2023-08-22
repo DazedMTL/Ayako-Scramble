@@ -2095,14 +2095,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "綾子"
+                                "Ayako (There's a hat here... I wonder if it\nbelongs to the president?)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(帽子が置いてある・・・社長のかしら？)"
+                                ""
                             ]
                         },
                         {
@@ -2417,38 +2417,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「もうっエリナさん！！"
+                                "Elena-san, I never thought we would go so far as\nto make you faint!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　まさか気絶するまでヤるなんて思わなかったですよ！」"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エリナ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「いやぁ、めんごめんご」"
+                                ""
                             ]
                         },
                         {
@@ -2465,14 +2441,38 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: Oh my, I'm sorry, I'm sorry."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
+                            ]
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「でも、あいつらとのセックスよかったでしょ？」"
+                                "Elena: But, the sex with them was good, right?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
+                                ""
                             ]
                         },
                         {
@@ -2521,7 +2521,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そ、それは・・・・・まぁ・・・・・」"
+                                "W-Well... um..."
                             ]
                         },
                         {
@@ -2570,7 +2570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・すごく・・・よかったです・・・♡♡」"
+                                "...It was really... wonderful...♡♡"
                             ]
                         },
                         {
@@ -2596,14 +2596,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: As expected, Ayako!! To go through all that\nand just let it slide!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「さすがアヤ！！あれだけされて、それで済ますなんて！」"
+                                ""
                             ]
                         },
                         {
@@ -2620,14 +2620,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: Well, let's put that aside for now."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ま、それは置いといて」"
+                                ""
                             ]
                         },
                         {
@@ -2653,21 +2653,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: Now that we have gathered all the shooting\ndata, we can finally complete a single work."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「これで撮影データが集まったから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　やっと一本の作品に仕上げれるわ」"
+                                ""
                             ]
                         },
                         {
@@ -2716,7 +2716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・は、はい・・・・・」"
+                                "Umm... y-yes..."
                             ]
                         },
                         {
@@ -2733,28 +2733,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: Since my clumsy bunch is top-notch in terms\nof speed, I think they'll quickly spread to\nvarious stores."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うちのポンコツどもは"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　スピードだけはいっちょ前だから、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　すぐ色んな店に出回ると思うわ」"
+                                ""
                             ]
                         },
                         {
@@ -2771,28 +2771,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: Not only in videos, but Ayako's works might\nalso be featured in magazines, so if you go to\nrental video stores, convenience stores, or\nbookstores, you might find them."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「映像だけじゃなくて雑誌にも載るから"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　\\c[6]レンタルビデオ店\\c[0]、\\c[6]コンビニ\\c[0]、\\c[6]本屋\\c[0]とかに行けば"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　アヤの作品があるかもね」"
+                                ""
                             ]
                         },
                         {
@@ -2841,7 +2841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「わ、わかりました・・・・・♡」"
+                                "I-I understand...♡"
                             ]
                         },
                         {
@@ -2867,14 +2867,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: ........."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「・・・・・・・・・」"
+                                ""
                             ]
                         },
                         {
@@ -2900,21 +2900,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena: Next time, I'm planning even more hardcore\nshoots... If you're interested, feel free to talk\nto me...♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今度、もぉーっとハードな撮影を計画してるから・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　・・・・気になるならアタシに声かけて・・・♡」"
+                                ""
                             ]
                         },
                         {
@@ -2963,7 +2963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「は、はいっ・・・♡♡」"
+                                "Y-Yes...♡♡"
                             ]
                         },
                         {
@@ -3003,21 +3003,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エリナ"
+                                "Elena (Hehe... I'm still going to have fun with\nyou... ..........Ayako♡)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(フフッ・・・まだまだ楽しませてもらうわよ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ・・・・・・・・・・アヤ♡)"
+                                ""
                             ]
                         },
                         {
@@ -3347,14 +3347,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Faith has increased by 8!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　　信仰が\\c[17] 8 \\c[0]増えた！"
+                                ""
                             ]
                         },
                         {
@@ -3383,14 +3383,14 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "The lewdness level has increased by 10..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 1,
                             "parameters": [
-                                "　　　　　　　　淫乱度が\\c[17] 10 \\c[0]増えた・・・・"
+                                ""
                             ]
                         },
                         {
@@ -3428,7 +3428,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "綾子は撮影料で500000円手に入れた。"
+                                "Ayako earned 500,000 yen in shooting fees."
                             ]
                         },
                         {
@@ -3550,28 +3550,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "受付嬢"
+                                "Receptionist: Umm... W-what can I... help you\nwith? Please... tell me from behind the counter...\n♡"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「っ・・・・・・ご、ご用件はぁ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　カウ・・んっ・・・♡"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　カウンター越しに・・・お願いしまぁす・・・♡」"
+                                ""
                             ]
                         },
                         {

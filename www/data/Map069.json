@@ -957,14 +957,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はると"
+                                "Haruto: Ugh... um..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「うぅ・・・・・・・うーん・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1154,7 +1154,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「先生・・・息子の容態は・・・？」"
+                                "Teacher... how is my son's condition?"
                             ]
                         },
                         {
@@ -1180,21 +1180,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: The results of the detailed examination\nshow that... there are no abnormalities in your\nbody."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「精密検査の結果ですが・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　身体に異常は見られませんでした」"
+                                ""
                             ]
                         },
                         {
@@ -1243,14 +1243,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「そんな・・・他の病院でも同じ事を・・・"
+                                "No way... even at other hospitals... to suddenly\ncollapse and have no abnormalities...!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　突然倒れたのに異常が無いなんて・・・！」"
+                                ""
                             ]
                         },
                         {
@@ -1276,21 +1276,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: I apologize for not being able to provide\na clear explanation... Your symptoms are different\nfrom previous cases even when compared."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「力およばず申し訳ありません・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　過去の症例と比較しても似て非なる症状でして・・・」"
+                                ""
                             ]
                         },
                         {
@@ -1307,21 +1307,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: Your child is in a state as if they are\nexperiencing an endless nightmare."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「お子さんはまるで・・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "  覚めない悪夢を見ているような状態です」"
+                                ""
                             ]
                         },
                         {
@@ -1370,7 +1370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「悪夢・・・ですか？」"
+                                "A nightmare...?"
                             ]
                         },
                         {
@@ -1387,28 +1387,28 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: Yes, and... fortunately, despite the\nunfortunate circumstances, their current condition\nis the same as during normal sleep, so there is no\nimmediate danger to their life."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「ええ、それと・・・不幸中の幸いといいますか、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　通常の睡眠時と同じ状態ですので、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　今のところ命に別条はありません」"
+                                ""
                             ]
                         },
                         {
@@ -1434,21 +1434,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医者"
+                                "Doctor: For now... all we can do is wait for them\nto wake up..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "「今はただ・・・"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　目を覚ますのを待つしかないかと・・・」"
+                                ""
                             ]
                         },
                         {
