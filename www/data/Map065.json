@@ -1818,7 +1818,7 @@
                             "parameters": [
                                 [
                                     "Yes",
-                                    "パパッと見る",
+                                    "Make A Quick Glance",
                                     "No"
                                 ],
                                 -1,
@@ -1864,7 +1864,7 @@
                             "indent": 0,
                             "parameters": [
                                 1,
-                                "パパッと見る"
+                                "Make A Quick Glance"
                             ]
                         },
                         {
@@ -2151,7 +2151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The protagonist of this story,\\c[6]Ayako\nNagatsuki\\c[0] (永辻 綾子), divorced due to their\nspouse's infidelity and moved to this town with\ntheir beloved child..."
+                                "The protagonist of this story,\\c[6]Ayako\nNagatsuki\\c[0] (Ayako Nagatsuki), divorced due to their\nspouse's infidelity and moved to this town with\ntheir beloved child..."
                             ]
                         },
                         {
