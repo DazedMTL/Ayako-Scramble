@@ -7319,11 +7319,11 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "次の日の朝まで寝る",
+                                    "Sleep Until The Next Morning",
                                     "if(s[16])夜まで寝る",
                                     "\\c[27]オナニーして寝る",
-                                    "回想部屋に行く",
-                                    "キャンセル"
+                                    "Go To The Recollection Room",
+                                    "Cancel"
                                 ],
                                 4,
                                 2,
@@ -7336,7 +7336,7 @@
                             "indent": 0,
                             "parameters": [
                                 0,
-                                "次の日の朝まで寝る"
+                                "Sleep Until The Next Morning"
                             ]
                         },
                         {
@@ -7795,7 +7795,7 @@
                             "indent": 0,
                             "parameters": [
                                 3,
-                                "回想部屋に行く"
+                                "Go To The Recollection Room"
                             ]
                         },
                         {
@@ -7832,7 +7832,7 @@
                             "indent": 0,
                             "parameters": [
                                 4,
-                                "キャンセル"
+                                "Cancel"
                             ]
                         },
                         {
