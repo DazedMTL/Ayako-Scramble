@@ -3669,8 +3669,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ごほうびをあげる",
-                                    "なにもしない"
+                                    "I will give you a reward",
+                                    "Doing nothing"
                                 ],
                                 1,
                                 0,
@@ -4230,8 +4230,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見せてあげる",
-                                    "見せない"
+                                    "I'll show you",
+                                    "I won't show it"
                                 ],
                                 1,
                                 0,

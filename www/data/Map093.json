@@ -3590,10 +3590,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "夜間おん",
-                                    "夜間おふ",
-                                    "ファストおん",
-                                    "ファストおふ"
+                                    "Nighttime Sound",
+                                    "Nighttime Love",
+                                    "Fast On",
+                                    "Fast Off"
                                 ],
                                 1,
                                 0,
@@ -7320,8 +7320,8 @@
                             "parameters": [
                                 [
                                     "Sleep Until The Next Morning",
-                                    "if(s[16])夜まで寝る",
-                                    "\\c[27]オナニーして寝る",
+                                    "if(s[16])Sleep until night",
+                                    "\\c[27]I'm going to masturbate and go to sleep",
                                     "Go To The Recollection Room",
                                     "Cancel"
                                 ],
@@ -7394,9 +7394,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "自分の手で♡",
-                                    "ディルドで♡",
-                                    "アナルバイブ♡"
+                                    "With my own hands ♡",
+                                    "With a dildo ♡",
+                                    "Anal Vibrator ♡"
                                 ],
                                 -1,
                                 0,
@@ -8435,10 +8435,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "治癒に向かう【必要信仰値:50】",
-                                    "\\kw[2]とお喋りする",
-                                    "神通力の習得",
-                                    "とくにない"
+                                    "Heading towards Healing [Required Faith Points: 50]",
+                                    "Chatting with \\kw[2]",
+                                    "Acquisition of Divine Power",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -8614,12 +8614,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "息子の状態について",
-                                    "陰気について",
-                                    "\\kw[2]について",
-                                    "信仰の集め方について",
-                                    "供物について",
-                                    "とくにない"
+                                    "About the condition of my son",
+                                    "About gloominess",
+                                    "About \\kw[2]",
+                                    "How to gather faith",
+                                    "About the offering",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -24307,8 +24307,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "つうじょう",
-                                    "ぼて"
+                                    "Normal",
+                                    "Bote"
                                 ],
                                 1,
                                 0,

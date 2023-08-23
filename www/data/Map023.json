@@ -7082,8 +7082,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一緒に走る",
-                                    "やめておく"
+                                    "Run together",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -7611,8 +7611,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一緒に練習する",
-                                    "やめておく"
+                                    "Let's practice together",
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -7926,8 +7926,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話を聞く",
-                                    "話を聞く"
+                                    "Listen to the story",
+                                    "Listen to the story"
                                 ],
                                 -1,
                                 0,
@@ -8304,8 +8304,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "家で話をする",
-                                    "心の準備が・・・・"
+                                    "Having a conversation at home",
+                                    "Preparing my heart"
                                 ],
                                 -1,
                                 0,

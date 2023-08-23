@@ -8889,9 +8889,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "治癒に向かう【必要信仰値:10】",
-                                    "\\kw[2]とお喋りする",
-                                    "とくにない"
+                                    "Heading towards Healing [Required Faith Points: 10]",
+                                    "Chatting with \\kw[2]",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -9079,12 +9079,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "息子の状態について",
-                                    "陰気について",
-                                    "\\kw[2]について",
-                                    "信仰の集め方について",
-                                    "霊力について",
-                                    "とくにない"
+                                    "About the condition of my son",
+                                    "About gloominess",
+                                    "About \\kw[2]",
+                                    "About how to gather faith",
+                                    "About spiritual power",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -10881,13 +10881,6 @@
                             ]
                         },
                         {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "\\kw[1]"
-                            ]
-                        },
-                        {
                             "code": 0,
                             "indent": 2,
                             "parameters": [
@@ -10898,7 +10891,14 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "-san... Why go that far...?",
+                                "-san... Why go that far...?"
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 2,
+                            "parameters": [
+                                "",
                                 [
                                     0,
                                     0,
@@ -15677,10 +15677,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "治癒に向かう【必要信仰値:50】",
-                                    "\\kw[2]とお喋りする",
-                                    "神通力の習得",
-                                    "とくにない"
+                                    "Heading towards Healing [Required Faith Points: 50]",
+                                    "Chatting with \\kw[2]",
+                                    "Acquisition of Divine Power",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -16927,12 +16927,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "息子の状態について",
-                                    "陰気について",
-                                    "\\kw[2]について",
-                                    "信仰の集め方について",
-                                    "供物について",
-                                    "とくにない"
+                                    "About the condition of my son",
+                                    "About gloominess",
+                                    "About \\kw[2]",
+                                    "How to gather faith",
+                                    "About the offering",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -21284,10 +21284,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "治癒に向かう【必要信仰値:150】",
-                                    "\\kw[2]とお喋りする",
-                                    "神通力の習得",
-                                    "とくにない"
+                                    "Heading towards Healing [Required Faith Value: 150]",
+                                    "Chatting with \\kw[2]",
+                                    "Acquisition of Divine Power",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -23862,12 +23862,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "息子の状態について",
-                                    "人型の淫気について",
-                                    "心の中について",
-                                    "綾子の体質について",
-                                    "\\kw[2]について",
-                                    "とくにない"
+                                    "About the condition of my son",
+                                    "About the lust of humanoid beings",
+                                    "About the depths of my heart",
+                                    "About Ayako's constitution",
+                                    "About \\kw[2]",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -29997,9 +29997,9 @@
                             "parameters": [
                                 [
                                     "？？？？？if(s[607])",
-                                    "\\kw[2]とお喋りする",
-                                    "神通力の習得if(!s[607])",
-                                    "とくにない"
+                                    "Chatting with \\kw[2]",
+                                    "Acquisition of Divine Powerif(!s[607])",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 1,
@@ -31644,12 +31644,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これからについて",
-                                    "神通力について",
-                                    "霊的存在について",
-                                    "\\kw[2]の嫌いな物について",
-                                    "元旦那について",
-                                    "とくにない"
+                                    "About the future",
+                                    "About Psychic Powers",
+                                    "About the existence of spirits",
+                                    "About \\kw[2]'s dislikes",
+                                    "About my ex-husband",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -39106,9 +39106,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "\\kw[2]とお喋りする",
-                                    "神通力の習得if(!s[607])",
-                                    "とくにない"
+                                    "Talking with \\kw[2]",
+                                    "Acquisition of Divine Powerif(!s[607])",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -39136,12 +39136,12 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "これからについて",
-                                    "神通力について",
-                                    "霊的存在について",
-                                    "お互いの好きな物について",
-                                    "元旦那について",
-                                    "とくにない"
+                                    "About the future",
+                                    "About Psychic Powers",
+                                    "About Spiritual Existence",
+                                    "About each other's likes and dislikes",
+                                    "About my ex-husband",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -47050,9 +47050,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\kw[2]の願いを叶える",
-                                    "\\kw[2]とお喋りする",
-                                    "とくにない"
+                                    "Fulfilling \\kw[2]'s wish",
+                                    "Chatting with \\kw[2]",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -49210,12 +49210,12 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "これからについて",
-                                    "神通力について",
-                                    "霊的存在について",
-                                    "\\kw[2]の嫌いな物について",
-                                    "元旦那について",
-                                    "とくにない"
+                                    "About the future",
+                                    "About Psychic Powers",
+                                    "About spiritual existence",
+                                    "About \\kw[2]'s dislikes",
+                                    "About my ex-husband",
+                                    "Nothing in particular"
                                 ],
                                 -2,
                                 0,
@@ -57930,10 +57930,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "治療の方法",
-                                    "念話について",
-                                    "陰気について",
-                                    "・・・忘れた"
+                                    "Treatment method",
+                                    "About Telepathy",
+                                    "About gloominess",
+                                    "I forgot"
                                 ],
                                 3,
                                 0,
@@ -58686,8 +58686,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "正直に答える",
-                                    "答えない"
+                                    "I'll answer honestly",
+                                    "I won't answer"
                                 ],
                                 -1,
                                 0,
@@ -61522,10 +61522,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "治療の方法",
-                                    "念話について",
-                                    "陰気について",
-                                    "もう無い"
+                                    "Treatment methods",
+                                    "About Telepathy",
+                                    "About gloominess",
+                                    "No more"
                                 ],
                                 3,
                                 0,
@@ -62278,8 +62278,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "正直に答える",
-                                    "答えない"
+                                    "I'll answer honestly",
+                                    "I won't answer"
                                 ],
                                 -1,
                                 0,
@@ -65064,10 +65064,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ゲームの目的",
-                                    "回想部屋はどこ？",
-                                    "便利機能など",
-                                    "けっこうです"
+                                    "Game objective",
+                                    "Where is the flashback room?",
+                                    "Convenient features, etc",
+                                    "No, thank you"
                                 ],
                                 -1,
                                 0,
@@ -65121,7 +65121,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "As Rei's power accumulates, talking to them will\nprogress the story and advance to the H stage.\nLet's do more and more naughty things to help\nRei!"
+                                "As Rei's power accumulates, talking to them will\nprogress the story and advance to the H stage.\nLet's do more and more naughty things to help Rei!"
                             ]
                         },
                         {
@@ -68020,8 +68020,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "飲む",
-                                    "飲まない"
+                                    "Drink",
+                                    "Do not drink"
                                 ],
                                 1,
                                 1,
@@ -68327,8 +68327,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "食べる",
-                                    "食べない"
+                                    "Eat",
+                                    "I won't eat"
                                 ],
                                 1,
                                 0,
@@ -68621,7 +68621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After the event ends, if you press the Q key,\nyou can hear Ayako's soliloquy about that event."
+                                "After the event ends, if you press the Q key, you\ncan hear Ayako's soliloquy about that event."
                             ]
                         },
                         {

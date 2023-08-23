@@ -1163,10 +1163,10 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "ゲームの目的",
-                        "回想部屋はどこ？",
-                        "便利機能など",
-                        "けっこうです"
+                        "Game objective",
+                        "Where is the reminiscence room?",
+                        "Convenient features, etc",
+                        "No, thank you"
                     ],
                     -1,
                     0,
@@ -100369,12 +100369,12 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "謝らないといけない事について",
-                        "レイの目的について",
-                        "綾子の血筋についてif(s[632])",
-                        "守護者についてif(s[633])",
-                        "霊力の使い方についてif(s[635])",
-                        "もうないif(s[637])"
+                        "About something I have to apologize for",
+                        "Regarding Rei's objective",
+                        "About Ayako's lineageif(s[632])",
+                        "About the guardianif(s[633])",
+                        "About how to use spiritual powerif(s[635])",
+                        "No moreif(s[637])"
                     ],
                     -1,
                     0,
@@ -103383,7 +103383,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "If I were to peek into your heart, wouldn't I find\nthe character '永' in your name?"
+                    "If I were to delve into the depths of your heart,\nwouldn't I discover the character '永' within your\nname?"
                 ]
             },
             {
@@ -103430,7 +103430,7 @@
                 "code": 401,
                 "indent": 1,
                 "parameters": [
-                    "Those who have the character '永' in their name in\nthis region often possess a natural inclination to\nattract gloominess and spiritual power, regardless\nof their abilities. By the way, you have great\npotential."
+                    "In this area, individuals with the character '永'\nin their name tend to naturally draw in gloominess\nand spiritual energy, regardless of their talents.\nBy the way, you have tremendous potential."
                 ]
             },
             {
@@ -108219,9 +108219,9 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "通常",
-                        "2倍速",
-                        "4倍速"
+                        "Normal",
+                        "Double speed",
+                        "4x speed"
                     ],
                     0,
                     0,
@@ -108389,8 +108389,8 @@
                 "indent": 0,
                 "parameters": [
                     [
-                        "デバックモード起動",
-                        "デバックモード解除"
+                        "Activating debug mode",
+                        "Debug mode deactivated"
                     ],
                     1,
                     0,

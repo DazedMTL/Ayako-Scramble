@@ -5025,8 +5025,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "出す",
-                                    "出さない"
+                                    "Release",
+                                    "Won't come out"
                                 ],
                                 1,
                                 0,

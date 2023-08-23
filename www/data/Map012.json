@@ -3936,8 +3936,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Not for sale"
                                 ],
                                 1,
                                 0,
@@ -4370,8 +4370,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "売る",
-                                    "売らない"
+                                    "Sell",
+                                    "Not for sale"
                                 ],
                                 1,
                                 0,
@@ -4804,8 +4804,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "取引部屋に行く",
-                                    "取引部屋に行かない"
+                                    "Go to the transaction room",
+                                    "I won't go to the transaction room"
                                 ],
                                 1,
                                 0,
@@ -5225,8 +5225,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "取引部屋に行く",
-                                    "取引部屋に行かない"
+                                    "Going to the negotiation room",
+                                    "I won't go to the negotiation room"
                                 ],
                                 1,
                                 0,

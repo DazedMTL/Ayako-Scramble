@@ -2988,8 +2988,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "喜んで試食する",
-                                    "美味しく試食する"
+                                    "I would be delighted to taste it",
+                                    "Taste it deliciously"
                                 ],
                                 1,
                                 0,
@@ -3084,8 +3084,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常通り見る",
-                                    "スキップする"
+                                    "Watch as usual",
+                                    "Skip"
                                 ],
                                 -1,
                                 -1,
@@ -3275,8 +3275,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常通り見る",
-                                    "スキップする"
+                                    "Watch as usual",
+                                    "Skip"
                                 ],
                                 -1,
                                 -1,
@@ -3560,8 +3560,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "喜んで試食する",
-                                    "美味しく試食する"
+                                    "I happily taste test it",
+                                    "Enjoying a delicious taste test"
                                 ],
                                 1,
                                 0,
@@ -3655,8 +3655,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "通常通り見る",
-                                    "スキップする"
+                                    "Watch as usual",
+                                    "Skip"
                                 ],
                                 -1,
                                 -1,
@@ -3939,8 +3939,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "試食する",
-                                    "試食しない"
+                                    "Taste test",
+                                    "I won't taste test"
                                 ],
                                 1,
                                 0,
@@ -4011,8 +4011,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常通り見る",
-                                    "スキップする"
+                                    "Watch as usual",
+                                    "Skip"
                                 ],
                                 -1,
                                 -1,
@@ -4363,8 +4363,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "試食する",
-                                    "試食しない"
+                                    "Taste it",
+                                    "I won't taste it"
                                 ],
                                 1,
                                 0,
@@ -4435,8 +4435,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "通常通り見る",
-                                    "スキップする"
+                                    "Watch as usual",
+                                    "Skip"
                                 ],
                                 -1,
                                 -1,

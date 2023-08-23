@@ -20254,7 +20254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hiroya: ......It's... a nice weather, isn't\nit...!"
+                                "Hiroya: ......It's... a nice weather, isn't it...!"
                             ]
                         },
                         {
@@ -20897,8 +20897,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話をする",
-                                    "話をしない"
+                                    "To talk",
+                                    "They won't talk"
                                 ],
                                 1,
                                 0,
@@ -24981,7 +24981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "After the event ends, if you press the Q key,\nyou can hear Ayako's soliloquy about that event."
+                                "After the event ends, if you press the Q key, you\ncan hear Ayako's soliloquy about that event."
                             ]
                         },
                         {
@@ -26526,7 +26526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informed individual: Ah... It seems that there's\na couple who engage in sexual activities in the\ncars at this parking lot at night...!"
+                                "Informed individual: Ah... It seems that there's a\ncouple who engage in sexual activities in the cars\nat this parking lot at night...!"
                             ]
                         },
                         {
@@ -26805,7 +26805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Informed individual: Ah... It seems that there's\na couple who engage in sexual activities in the\ncars at this parking lot at night...!"
+                                "Informed individual: Ah... It seems that there's a\ncouple who engage in sexual activities in the cars\nat this parking lot at night...!"
                             ]
                         },
                         {

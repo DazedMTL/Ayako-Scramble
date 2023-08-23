@@ -4646,8 +4646,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "仕事する",
-                                    "仕事しない"
+                                    "Working",
+                                    "I don't want to work"
                                 ],
                                 1,
                                 0,
@@ -4799,8 +4799,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "店内で待って仕事する",
-                                    "一旦店を出て考える"
+                                    "Wait inside the store and do some work",
+                                    "Let's leave the store for a moment and think"
                                 ],
                                 1,
                                 0,
@@ -6196,8 +6196,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ショーに出る",
-                                    "心の準備が・・・"
+                                    "Appearing in a show",
+                                    "Mental preparation"
                                 ],
                                 1,
                                 0,
@@ -6560,8 +6560,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "ショーに出る",
-                                    "ちょっとまだ・・・・"
+                                    "Appearing in a show",
+                                    "Not yet"
                                 ],
                                 1,
                                 0,

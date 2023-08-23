@@ -2820,8 +2820,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "買ってく",
-                                    "買ってかない"
+                                    "I'll buy it",
+                                    "I won't buy it"
                                 ],
                                 1,
                                 0,
@@ -4248,8 +4248,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "買ってく",
-                                    "買ってかない"
+                                    "I'll buy it",
+                                    "I won't buy it"
                                 ],
                                 1,
                                 0,

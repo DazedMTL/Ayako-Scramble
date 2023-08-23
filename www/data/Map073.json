@@ -10796,7 +10796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Salaryman: Ah, um... no, thank you very much!\nWell then!"
+                                "Salaryman: Ah, um... no, thank you very much! Well\nthen!"
                             ]
                         },
                         {

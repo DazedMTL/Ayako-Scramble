@@ -3334,8 +3334,8 @@
                             "parameters": [
                                 [
                                     "Sleep Until The Next Morning",
-                                    "if(s[16])夜まで寝る",
-                                    "if(s[2])\\c[27]オナニーして寝る",
+                                    "if(s[16])Sleep until night",
+                                    "if(s[2])\\c[27]I'm going to masturbate and go to sleep",
                                     "Go To The Recollection Room",
                                     "Cancel"
                                 ],
@@ -3609,10 +3609,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "手♡",
-                                    "if(s[3])バイブ♡",
-                                    "if(s[704])お尻♡",
-                                    "やっぱりやめる"
+                                    "Hand♡",
+                                    "if(s[3])Vibrator♡",
+                                    "if(s[704])Butt ♡",
+                                    "I guess we'll stop after all"
                                 ],
                                 3,
                                 0,
@@ -3895,8 +3895,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "アナルディルド",
-                                    "if(s[706])極太アナルビーズ"
+                                    "Anal dildo",
+                                    "if(s[706])Extra thick anal beads"
                                 ],
                                 -1,
                                 0,
@@ -9894,9 +9894,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "やさしく搾る",
-                                    "強めに搾るif(s[4])",
-                                    "やっぱりやめる"
+                                    "Gently squeeze",
+                                    "Squeeze firmlyif(s[4])",
+                                    "I guess I'll stop after all"
                                 ],
                                 1,
                                 0,

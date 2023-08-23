@@ -8931,8 +8931,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "I don't want to watch"
                                 ],
                                 -1,
                                 -1,
@@ -9175,8 +9175,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "I don't want to watch"
                                 ],
                                 -1,
                                 -1,
@@ -14715,9 +14715,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "2段階目",
-                                    "if(s[3])3段階目",
-                                    "if(s[4])4段階目"
+                                    "Stage 2",
+                                    "if(s[3])Stage 3",
+                                    "if(s[4])Stage 4"
                                 ],
                                 -1,
                                 0,
@@ -14958,9 +14958,9 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "2段階目",
-                                    "3段階目",
-                                    "4段階目"
+                                    "Stage 2",
+                                    "Stage 3",
+                                    "Stage 4"
                                 ],
                                 -1,
                                 0,
@@ -18119,8 +18119,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "面隠し無し状態",
-                                    "通常の状態"
+                                    "No face covering state",
+                                    "Normal state"
                                 ],
                                 1,
                                 0,
@@ -18487,8 +18487,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "面隠し無し状態",
-                                    "通常の状態"
+                                    "No face covering state",
+                                    "Normal state"
                                 ],
                                 1,
                                 0,
@@ -47244,8 +47244,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "面隠し無し状態",
-                                    "通常の状態"
+                                    "No face covering state",
+                                    "Normal state"
                                 ],
                                 1,
                                 0,
@@ -47678,8 +47678,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "面隠し無し状態",
-                                    "通常の状態"
+                                    "No face covering state",
+                                    "Normal state"
                                 ],
                                 1,
                                 0,
@@ -48121,8 +48121,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "面隠し無し状態",
-                                    "通常の状態"
+                                    "No face covering state",
+                                    "Normal state"
                                 ],
                                 1,
                                 0,
@@ -48489,8 +48489,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "面隠し無し状態",
-                                    "通常の状態"
+                                    "No face covering state",
+                                    "Normal state"
                                 ],
                                 1,
                                 0,
@@ -52665,8 +52665,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "I don't want to watch"
                                 ],
                                 -1,
                                 -1,
@@ -52909,8 +52909,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "I don't want to watch"
                                 ],
                                 -1,
                                 -1,
@@ -53162,8 +53162,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "I don't want to watch"
                                 ],
                                 -1,
                                 -1,
@@ -53406,8 +53406,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "Not watching"
                                 ],
                                 -1,
                                 -1,
@@ -53659,8 +53659,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "I don't want to watch"
                                 ],
                                 -1,
                                 -1,
@@ -53903,8 +53903,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "見る",
-                                    "見ない"
+                                    "Watch",
+                                    "Not watching"
                                 ],
                                 -1,
                                 -1,
@@ -82998,8 +82998,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "襲われver",
-                                    "通常ver"
+                                    "Attacked ver",
+                                    "Normal version"
                                 ],
                                 1,
                                 0,
@@ -83221,8 +83221,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "襲われver",
-                                    "通常ver"
+                                    "Attacked Version",
+                                    "Normal version"
                                 ],
                                 1,
                                 0,
@@ -83453,8 +83453,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "3段階目",
-                                    "if(s[4])4段階目"
+                                    "Stage 3",
+                                    "if(s[4])Stage 4"
                                 ],
                                 -1,
                                 0,
@@ -83671,8 +83671,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "3段階目",
-                                    "4段階目"
+                                    "Stage 3",
+                                    "Stage 4"
                                 ],
                                 -1,
                                 0,
@@ -83898,8 +83898,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "アナルディルドver",
-                                    "if(s[706])極太アナルビーズver"
+                                    "Anal Dildo ver",
+                                    "if(s[706])Extra Thick Anal Beads ver"
                                 ],
                                 -1,
                                 0,
@@ -84116,8 +84116,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "アナルディルドver",
-                                    "極太アナルビーズver"
+                                    "Anal Dildo ver",
+                                    "Extra Thick Anal Beads ver"
                                 ],
                                 -1,
                                 0,
