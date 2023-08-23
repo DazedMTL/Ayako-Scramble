@@ -42,7 +42,7 @@
  * ヘルプウィンドウの説明欄を拡張します。3行目以降を表示できるようになります。
  * メモ欄に以下の通り設定してください。
  * <ExtendDesc:aaa> // [aaa]を追加表示します。
- * <拡張説明:aaa>   // 同上
+ * <Extended Description:aaa>   // 同上
  *
  * This plugin is released under the MIT License.
  */
@@ -78,7 +78,7 @@
  * ヘルプウィンドウの説明欄を拡張します。3行目以降を表示できるようになります。
  * メモ欄に以下の通り設定してください。
  * <ExtendDesc:aaa> // [aaa]を追加表示します。
- * <拡張説明:aaa>   // 同上
+ * <Extended Description:aaa>   // 同上
  *
  * このプラグインにはプラグインコマンドはありません。
  *
@@ -168,7 +168,7 @@
         if (!item || !this.isValidDescriptionExtend()) {
             return;
         }
-        var extendText = getMetaValues(item, ['拡張説明', 'ExtendDesc']);
+        var extendText = getMetaValues(item, ['Extended Description', 'ExtendDesc']);
         if (extendText) {
             this.setText((param.swapDescription ? '' : this._text + '\n') + extendText);
         }
