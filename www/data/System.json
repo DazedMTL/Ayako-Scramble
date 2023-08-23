@@ -1255,7 +1255,7 @@
             "expTotal": "現在の%1",
             "file": "File",
             "levelUp": "%1は%2 %3 に上がった！",
-            "loadMessage": "どのファイルをロードしますか？",
+            "loadMessage": "Which file do you want to load?",
             "magicEvasion": "%1は魔法を打ち消した！",
             "magicReflection": "%1は魔法を跳ね返した！",
             "meVolume": "ME volume",
